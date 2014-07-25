@@ -1,0 +1,53 @@
+Phish
+07/16/1999
+Holmdel, New Jersey PNC Bank Arts Center
+
+Source: (OTS) Schoeps CMC6/mk41> Apogee AD-1000> Tascam DA-P1 (@44.1kHz)
+Taped by: Taylor Caine
+
+Transfer: Tascam DA-40> M-Audio Audiophile 2496> Samplitude 7.0 (fades)> CDWave> flac
+Transferred & Seeded by: TaylorC (07/22/2007)
+
+
+Set I
+t01 [05:31] Sample in a Jar
+t02 [03:51] Beauty of My Dreams
+t03 [05:06] Dogs Stole Things
+t04 [10:26] Limb by Limb
+t05 [08:01] Billy Breathes
+t06 [07:34] Vultures
+t07 [07:19] Back on the Train
+t08 [14:06] Maze
+t09 [05:31] Cavern
+
+Set II
+t10 [13:21] Also Sprach Zarathustra>
+t11 [12:20] Mike's Song>
+t12 [05:55] I am Hydrogen>
+t13 [10:36] Weekapaug Groove>
+t14 [08:22] Simple>
+t15 [10:47] Guyute
+t16 [07:23] Loving Cup>
+t17 [08:59] Golgi Apparatus
+
+Encore
+t18 [06:12] Born to Run
+
+Show Notes: Weekapaug included an Also Sprach tease. The encore was preceded by a 
+story from Trey about how he and Page grew up "around here" in Jersey. Trey then referenced 
+"the greatest songwriter of all time" and said that he, too, grew up in the area. While 
+some in the crowd expected Bruce Springsteen (who was in the middle of a run of 15 sold-out 
+dates at New Jersey's Continental Airlines Arena), Trey produced Tom Marshall. Tom appeared 
+in the classic Born in the U.S.A. - era Springsteen outfit, complete with red bandana. He 
+subsequently sang the debut of Born to Run. As the song concluded Tom mocked a bunch of 
+Springsteen-esque arena-rock clichés, such as throwing his bandana into the crowd and jogging 
+offstage to a handler who threw a towel around his shoulders. During the song he even aped 
+some dance moves from the Dancing in the Dark video. 
+
+Notes:
+
+Born to Run, w/Tom Marshall, first time played
+Set I [1:06:49] Set II [1:17:43] Encore [06:12]
+Added Fades at start/end of Set I, start of Set II & end of Encore
+CD-R Tracking: D1 (t01-t09 w/t18), D2 (t10-t17)
+

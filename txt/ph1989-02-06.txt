@@ -1,0 +1,60 @@
+Phish
+The Front
+Burlington, VT
+2/6/89
+
+Set 1/2 Source: 
+SBD Cass/x (Maxell XLII-S 90 min)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +12dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)
+(transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 3/20/2004)
+
+Set 3 Source: 
+SBD > ? > CD > EAC (secure mode) > FLAC16 > Mastering 
+
+Set 1:
+Suzie Greenberg
+The Curtain >
+Wilson
+Peaches en Regalia >
+Fee >
+La Grange
+You Enjoy Myself
+
+Set 2:
+//All Blues >
+Sanity
+Take the A-Train
+Golgi Apparatus
+Divided Sky
+On Your Way Down
+I Didn't Know
+
+Set 3:
+//Good Times Bad Times
+Walk Away
+Harry Hood
+Big Black Furry Creature From Mars
+Curtis Lowe
+Colonel Forbin's Ascent >
+The Famous Mockingbird >
+//Whipping Post
+Corrina
+Encore:
+David Bowie
+
+Notes
+Thanks to Josh Porter for the Cassette!
+Thanks to Car for the 3rd Set FLAC's!
+
+*Mastering*
+SETS 1 & 2:
+24/48 wav's > tc works Paragraphic EQ > Waves RBass @ 35Hz +2db > BBE 0/2/0 > 192kHz Resampler (48 > 44.1) >  L1 Limiter > Apogee UV22HR (24 > 16, Normal/Autoblack) > Tracking > SHN
+
+SET 3:
+16/44.1 wav's > Editing > Waves RBass @ 35Hz +1db > BBE 0/2/0 > L1 Limiter > Apogee UV22 > Tracking > SHN
+
+NO tracking/editing/alterations performed before archiving to 24-bit FLAC
+(except to trim silence from the ends).
+
+Seeded to FurthurNet (www.furthurnet.org)

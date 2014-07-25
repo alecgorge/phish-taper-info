@@ -1,0 +1,85 @@
+
+PHISH
+8/21/93
+SALT AIR
+SALT LAKE CITY, UTAH
+
+
+=============================================================|
+
+SOURCE: AUDIENCE: SONY MC80'S> DAT 
+
+CONVERSION: DAT (FOSTEX D-5)> M-AUDIO DELTA DIO 2496 (TOSLINK 
+S/PDIF IN)> SAMPLITUDE MASTER 6.0 (CAPTURE, THEN RESAMPLED TO
+44.1 kHz ON "ULTRA HIGH" SETTING)> CDWAVE (TRACK SPLITS)> SHN
+(WITH SEEK FILES APPENDED) 
+
+=============================================================|
+
+
+
+DISC 1/SET 1:
+
+01. BURIED ALIVE >
+02. POOR HEART
+03. FOAM
+04. GUELAH PAPYRUS
+05. RIFT
+06. STASH
+07. SPARKLE
+08. THE LANDLADY
+09. I DIDN'T KNOW
+10. RUNAWAY JIM
+
+
+DISC 2/SET 2: (REQUIRES AN 80 MIN DISC)
+
+01. POSSUM
+02. HORN
+03. UNCLE PEN
+04. FEE* >
+05. LLAMA*
+06. LAWN BOY*
+07. DAVID BOWIE*
+08. HYHU JAM* 
+09. IF I ONLY HAD A BRAIN* 
+10. HYHU JAM* >
+11  JAM* >
+12. HARRY HOOD*
+13. DANIEL*
+ENCORE:
+14. AMAZING GRACE^
+15. NELLIE CANE%
+
+
+* WITH BELA FLECK AND THE FLECKTONES
+% WITH BELA FLECK ONLY
+^ ACAPELLA, NO AMPLIFICATION. AUDIBLE, BUT 
+  YOU WILL NEED TO CRANK UP YOUR VOLUME (IT 
+  SHOULD BE CRANKED ALREADY BY THIS POINT!) 
+
+Show Notes: I Didn't Know featured Fishman on washboard. Fee through Daniel featured The Flecktones 
+(Bela Fleck on electric banjo, Victor Lemonte Wooten on bass, and Roy "Future Man" Wooten on drumitar) 
+and Nellie Kane featured Bela Fleck. Bowie included a "Mind Left Body" jam. Amazing Grace was performed 
+without microphones.
+
+NOTES:
+BURIED ALIVE CUTS IN LATE
+
+REMOVED THE FOLLOWING DROPOUTS USING SAMPLITIDE MASTER 6.0:
+D1T01 @ 01:09
+D1T06 @ 06:42
+D2T12 @ 00:11
+
+
+=============================================================|
+
+SEEDED BY ROBERT BROWN ON 8/18/01
+
+
+
+
+
+
+
+

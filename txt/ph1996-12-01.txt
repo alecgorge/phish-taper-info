@@ -1,0 +1,55 @@
+Phish
+
+12/1/96
+Pauley Pavilion
+Los Angeles, CA
+
+Source: FOB Neumann KM-140 > DA-P1
+
+Seed: DAT > Seagate Archive Python 01931 > dat2wav 1.2 > 
+      Sound Forge 4.5 (to 44.1k @ highest accuracy; anti-alias filter; edits shown below) > 
+      CDWav > shnXP (updated shn2k)  by Paul Hofferkamp (gruven42@yahoo.com)
+
+--No DAE--
+
+Disc I:
+
+-Set I-
+01. Peaches en Regalia
+02. Poor Heart
+03. Cavern
+04. Cars, Trucks and Buses
+05. Character Zero
+06. The Curtain >
+07. Down With Disease
+08. Train Song
+09. The Horse >
+10. Silent in the Morning
+11. Sample in a Jar
+12. Run Like an Antelope
+
+Disc II:
+
+-Set II-
+01. Tweezer
+02. Sparkle
+03. Simple >
+04. A Day in the Life
+05. Reba
+
+Disc III:
+
+01. Swept Away >
+02. Steep
+03. Tweezer Reprise >
+04. Johnny B. Goode
+05. Slave to the Traffic Light
+-Encore-
+06. Highway to Hell
+
+Show Notes: This show marked the return of Peaches en Regalia, which had been shelved since 
+December 31, 1994 (144 shows).
+
+
+Enjoy!
+~PH

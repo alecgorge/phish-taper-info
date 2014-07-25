@@ -1,0 +1,121 @@
+Phish
+Hampton Coliseum
+Hampton, Virginia
+3/6/2009
+
+Source: Schoeps CCM4V'S(din)>Lunatec V2>Benchmark AD2K>
+Sound Devices 722 (24/48)
+Location: FOB/DFC/KFC/ZFC/AARP 42' From Stage, 6' High
+DSP: Sound Devices 722>Sound Forge 9.0>CD Wave>flac(16)
+Recorded By: Z-Man
+Seeded By: Z-Man
+ 
+Disc I 1st Set
+
+01 Crowd
+02 Fluffhead
+03 Divided Sky
+04 Chalkdust Torture
+05 Sample In A Jar
+06 Stash
+07 I Didn't Know
+08 Oh Ke Pa >
+09 Suzie Greenberg
+10 Farmhouse 
+
+Disc II 1st Set Con't
+
+01 NICU
+02 Horn
+03 Rift
+04 Train Song
+05 Water From The Sky
+06 Squirmin' Coil
+07 David Bowie
+2nd Set:
+08 Backwards Down The Number Line
+09 Tweezer
+10 Taste
+11 Possom
+
+Disc III 2nd Set Con't
+
+01 Theme From The Bottom
+02 1st Tube
+03 Harry Hood
+04 Waste 
+05 You Enjoy Myself
+Encore:
+06 Grind
+07 Bouncin' Round The Room 
+08 Lovin' Cup
+
+Flac fingerprint file 
+
+phish2009-03-06d01t01.flac:7e00761a2102bc194daa0c35a29d5afc
+phish2009-03-06d01t02.flac:94af4aa346ca2c0cc3893ec5669f79fb
+phish2009-03-06d01t03.flac:bf61506a2a12b103b8b9a931465945e5
+phish2009-03-06d01t04.flac:16c0b51ab734ca602980cf7b090fcf4a
+phish2009-03-06d01t05.flac:8c3187f3a7b1d551c45c7c6986c07540
+phish2009-03-06d01t06.flac:72adc254babc94321a96cc40f06ee26e
+phish2009-03-06d01t07.flac:fa02167a7acfdb0ccb8da2af2ecd857d
+phish2009-03-06d01t08.flac:cbd0df742ce0676fa5b68b8d2d5dca89
+phish2009-03-06d01t09.flac:bf6883c57370044ee78d7e826f08d3ac
+phish2009-03-06d01t10.flac:81963a3a032ae6bbf05e88009b053c8c
+phish2009-03-06d02t01.flac:6db24949026080e92ddf1a72febe5141
+phish2009-03-06d02t02.flac:32e83b32eada7a23ce30db17f169d1d3
+phish2009-03-06d02t03.flac:e3bb8d8afb99fed16abd8542ff1a8b4f
+phish2009-03-06d02t04.flac:70cb162908ea561f88bdb2a359b8c1c2
+phish2009-03-06d02t05.flac:4170f4609cdd768f7ad469fdc67ea8d1
+phish2009-03-06d02t06.flac:7ae0bca491a912e218030c181f19bc8f
+phish2009-03-06d02t07.flac:04d64ecdaebbb39b8bbd93089aab71dc
+phish2009-03-06d02t08.flac:d4dd6108d9d66c29dd3328df7f360f8c
+phish2009-03-06d02t09.flac:88ee4a47e0395d91305e2f2bf16270cc
+phish2009-03-06d02t10.flac:c1880525577e3c382232668e936fb9fa
+phish2009-03-06d02t11.flac:791eb14023ad94b52d6ac09638ae13fd
+phish2009-03-06d03t01.flac:7c10f36a31c303ee2bbdf28e99456c24
+phish2009-03-06d03t02.flac:547db78d4f371e52159aa5a48ae8bd12
+phish2009-03-06d03t03.flac:facc1105b59b66f43f9c84e70c57d445
+phish2009-03-06d03t04.flac:f543e290f6270a27b4ee33d1837aca67
+phish2009-03-06d03t05.flac:226975f3e9ae634947e00351d8b9a7ba
+phish2009-03-06d03t06.flac:2df576d8a87b4179033585e0e6466f60
+phish2009-03-06d03t07.flac:21d1ae3bff6ac9b612f695a621370493
+phish2009-03-06d03t08.flac:4cf6d608040649e5020e895331366744
+
+shntool 
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:40.33        7133660 B   ---   --   ---xx   flac  0.4490  phish2009-03-06d01t01.flac
+    15:39.24      165696092 B   ---   --   ---xx   flac  0.4895  phish2009-03-06d01t02.flac
+    14:13.74      150643292 B   ---   --   ---xx   flac  0.4679  phish2009-03-06d01t03.flac
+     7:29.34       79283612 B   ---   --   ---xx   flac  0.5150  phish2009-03-06d01t04.flac
+     6:05.05       64397804 B   ---   --   ---xx   flac  0.4685  phish2009-03-06d01t05.flac
+    12:21.40      130806524 B   ---   --   ---xx   flac  0.4443  phish2009-03-06d01t06.flac
+     4:02.51       42808796 B   ---   --   ---xx   flac  0.4043  phish2009-03-06d01t07.flac
+     1:52.27       19820348 B   ---   --   ---xx   flac  0.4174  phish2009-03-06d01t08.flac
+     5:42.44       60432332 B   ---   --   ---xx   flac  0.5055  phish2009-03-06d01t09.flac
+     5:13.40       55307324 B   ---   --   ---xx   flac  0.4824  phish2009-03-06d01t10.flac
+     5:15.52       55688348 B   ---   --   ---xx   flac  0.4633  phish2009-03-06d02t01.flac
+     3:46.26       39927596 B   ---   --   ---xx   flac  0.4595  phish2009-03-06d02t02.flac
+     6:22.57       67518908 B   ---   --   ---xx   flac  0.4732  phish2009-03-06d02t03.flac
+     3:21.57       35590508 B   ---   --   ---xx   flac  0.3860  phish2009-03-06d02t04.flac
+     3:43.52       39459548 B   ---   --   ---xx   flac  0.4108  phish2009-03-06d02t05.flac
+     7:44.70       82014284 B   ---   --   ---xx   flac  0.4470  phish2009-03-06d02t06.flac
+    10:43.63      113573420 B   ---   --   ---xx   flac  0.4884  phish2009-03-06d02t07.flac
+     6:41.67       70894028 B   ---   --   ---xx   flac  0.4657  phish2009-03-06d02t08.flac
+    12:50.39      135919772 B   ---   --   ---xx   flac  0.4953  phish2009-03-06d02t09.flac
+     9:21.44       99063932 B   ---   --   ---xx   flac  0.4856  phish2009-03-06d02t10.flac
+     8:07.56       86038556 B   ---   --   ---xx   flac  0.5085  phish2009-03-06d02t11.flac
+     8:45.51       92729996 B   ---   --   ---xx   flac  0.4460  phish2009-03-06d03t01.flac
+     8:18.06       87861356 B   ---   --   ---xx   flac  0.5030  phish2009-03-06d03t02.flac
+    12:58.69      137401532 B   ---   --   ---xx   flac  0.4702  phish2009-03-06d03t03.flac
+     5:35.28       59159900 B   ---   --   ---xx   flac  0.4409  phish2009-03-06d03t04.flac
+    19:56.58      211110860 B   ---   --   ---xx   flac  0.4586  phish2009-03-06d03t05.flac
+     2:21.64       25022972 B   ---   --   ---xx   flac  0.4358  phish2009-03-06d03t06.flac
+     4:01.74       42686492 B   ---   --   ---xx   flac  0.4611  phish2009-03-06d03t07.flac
+     7:26.56       78806156 B   ---   --   ---xx   flac  0.5145  phish2009-03-06d03t08.flac
+   220:47.11     2336797948 B                            0.4713  (29 files)
+
+ 
+
+

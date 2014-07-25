@@ -1,0 +1,59 @@
+Phish 
+4/11/91
+The Cave 
+Carleton College
+Northfield, MN 
+
+Source: SBD> Cass/2 (recorded 5/95)
+Transfer: Dennon DRW-840> Sony PCM-r500 at 44.1> Audiophile 2496> WAV> CD Wave Editor to track> FLAC on 9/25/04 by EEE
+Remastering, tracking, FLAC16 by Marmar- imthemarmar@gmail.com 4/6/2005
+
+Disc 1
+Sound Check: 
+t01 - Harpua*
+t02 - KRLX Promo
+Set 1: 
+t03 - Runaway Jim
+t04 - Cavern
+t05 - Paul and Silas
+t06 - Tweezer
+t07 - Magilla
+t08 - Dinner and a Movie->
+t09 - Bouncing Around the Room
+t10 - Foam\
+t11 - Carolina In The Morning
+t12 - You Enjoy Myself
+t13 - The Squirming Coil
+t14 - Chalk Dust Torture 
+
+Disc 2
+Set 2: 
+t01 - /My Sweet One
+t02 - Reba
+t03 - Llama
+t04 - TMWSIY->
+t05 - Avenu Malkenu-> 
+t06 - TMWSIY
+t07 - Lizards
+t08 - Split Open and Melt
+t09 - Lawn Boy
+t10 - The Landlady->
+t11 - Destiny Unbound
+t12 - Mike's Song->
+t13 - I Am Hydrogen-> 
+t14 - Weekapaug Groove 
+
+Disc 3
+Encore: 
+t01 - Stage Banter
+t02 - Fee
+t03 - HYHU> 
+t04 - The Prison Joke> HYHU
+t05 - Pos\sum\
+
+*Multiple takes practicing "a dog" vocals. Several cuts. The last take is the most complete run through
+HPB lists "Take The A Train" incorrectly instead of "Magilla".
+There is a substantial cut in the middle of Possum, then again at the end (which was faded out).
+
+**Mastering**
+The show was running slow/flat. This was verified against my SBD Cass/3 of the same show. Using the cass/3 as a tuning guide, the show was brought into exact tune. The material was then passed through the Waves L3 to raise the gain to acceptable levels without introducing distortion.

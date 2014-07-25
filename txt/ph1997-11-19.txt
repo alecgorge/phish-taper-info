@@ -1,0 +1,32 @@
+Phish  11-19-97 Assembly Hall, Chamapaign, IL
+Neumann U87(cardioid)->Sonosax SX-M2->DA-P1 @48kHz;
+DA-P1->Audio Magic Presto II->ZA2->Soundforge 4.5(48->44.1)->CDWav->.shn
+Recorded by Bill Gardner...dat seed provided by Chad Plemons
+Transfer and encoding by Eric McRoberts
+
+Disk 1
+	Set I:
+1.  Julius
+2.  Bathtub->
+3.  Llama
+4.  Dirt
+5.  Limb by Limb
+6.  Funky Bitch
+7.  Theme
+8.  Ginseng
+
+Disk 2
+	Set I(Cont'd):
+1.  Fee->
+2.  Meatstick(vocal)->
+3.  Antelope
+	set II:
+1.  2001->
+
+Disk 3
+	Set II(Cont'd):
+1.  Wolfman's->
+2.  Makisupa->
+3.  Taste
+	Encore:
+4.  Possum

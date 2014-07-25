@@ -1,0 +1,88 @@
+Phish
+06/24/94
+Murat Theater
+Indianapolis, IN
+
+Source:    DAUD/OTS>AKG 460b ck61>AKG B-18 Phantom Power>Sony D-10
+           Pro II(@ 48khz)
+
+Transfer: Master Dat from D-10>Sony DTC-690> Audioquest
+          Optilink 1> SEK'D Prodif Plus> Samplitude v5.5> Soundforge xp
+          4.5 (resample @ 4/4 with anti alias filter)> Cdwav 1.6>
+          Mkw act 0.97b1
+
+
+Edits: Five second fade in/out of sets. 
+       
+
+Notes: Disc One,Track 11 & Disc Two Tracks 10-13 were performed 
+       acoustic with no amplification and thus are very hard to hear.
+       You will have to turn up the volume. 
+      
+Taped by:      Jeff Jordan
+Transfered by: Chris "sparki" Ace  <sparki@iwon.com>.
+
+Big thanks to Jeff and Lauren Jordan for sending me the dats for transfer.
+
+48k archive shns available.
+
+
+____________________________________________________________________________
+
+*Dankseed Certification received 2002-04-16*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph1994-06-24
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________
+
+
+
+
+01: Crowd/Tuning/Intro [01:13]
+02: Divided Sky        [15:02]
+03: Wilson             [05:59]
+04: Its Ice	       [08:15]
+05: Fee		       [05:22]
+06: All Things         [03:01]
+07: The Sloth	       [03:37]
+08: Paul & Silas       [03:47]
+09: Horn               [03:38]
+10: Reba               [14:31]
+11: Adeline*	       [01:34]
+12: Sample in a Jar    [05:05]
+
+
+Disc Two:  Set IIa     [70:33]
+
+01: Intro/Crowd	       [00:38]
+02: Demand >           [01:54]
+03: Antelope           [19:57]
+04: Halleys Comet >    [05:07]
+05: The Curtain >      [06:15]
+06: McGrupp >	       [09:27]
+07: Simple >           [04:16]
+08: Sanity >           [04:40]
+09: Llama	       [06:29]
+10: Dog Faced Boy*     [02:30]
+11: Poor Heart*        [02:17]
+12: Cavern*            [05:21]
+13: Carolina*	       [01:42]
+
+Disc Three: Set IIb    [11:56]
+
+01: Down with Disease  [07:09]
+02: Encore Break/Crowd [01:34]
+03: Rocky Top	       [03:13]
+
+As an alternative to three discs you can put the first two tracks
+of disc two (Intro & Demand) on the end of disc one and then move all of
+disc three to the end of disc two.

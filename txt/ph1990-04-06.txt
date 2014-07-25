@@ -1,0 +1,60 @@
+Phish
+The El Dorado Cafe
+Crested Butte, CO
+April 6th, 1990
+
+-Source is on two Maxell XLII Analog Cassettes labeled SBD/4
+-A>D via Nakamichi Dragon>Korg MR1000>Korg Audio Gate>WAV @ 24/96
+-96khz > 44khz sample rate conversion via iZotope SRC 64 bit SRC 
+-24bit > 16bit bit depth conversion via iZotope MBIT+ Dither 
+-Tracking performed in Adobe Audition 3.0
+-FLAC conversion via Trader's Little Helper
+-Thanks to Tim Brennan for the source tape.
+
+All transfers by ifthir@hotmail.com (12.05.2010)
+
+Set I
+
+1. Cavern [3:38]
+2. You Enjoy Myself [15:33]
+3. Uncle Pen [5:10]
+4. Rhombus Narration > [3:28]
+5. The Divided Sky [11:36]
+6. Ya Mar [6:31]
+7. Dinner And A Movie [3:49]
+8. Bouncing Around The Room [3:47]
+9. The Oh Kee Pa Ceremony > [1:45]
+10. Suzy Greenberg [5:11]
+11. Run Like An Antelope [9:39]
+
+Total Time [1:10:07]
+
+Set II
+
+1. Carolina [1:25]
+2. La Grange [4:29]
+3. Esther [8:55]
+4. The Sloth [3:48]
+5. Harry Hood [12:34]
+6. Caravan [7:15]
+7. Reba [11:40]
+8. I Didn’t Know [3:34]
+9. Alumni Blues > [4:05]
+10. Letter To Jimmy Page > [0:58]
+11. Alumni Blues [0:41]
+12. Good Times Bad Times [4:59]
+
+Encore
+
+13. Jesus Just Left Chicago [9:25]
+14. Highway To Hell [3:29]
+
+Total Time [1:17:17]
+
+Known Flaws:
+
+Level problems at the beginning of Cavern.
+Tape flip after Divided Sky this was removed without crossfading in Adobe Audition 3.0
+Cut during Reba, I removed it in Adobe Audition 3.0
+Tape flip during Reba this was removed without crossfading in Adobe Audition 3.0
+

@@ -1,0 +1,85 @@
+Phish - 4/4/94
+Flynn Theater, Burlington, VT
+
+------------------------------------------------------------------
+SET I + E: Original DAT from ??
+Source:  B+K 4011 > DAT
+
+SET II Source: SBD from Bootleg CD, "Phishin' at the Flynn"
+Lineage: CD > CD-R > EAC > WAV > FLAC
+------------------------------------------------------------------
+
+ph94-04-04*.shn transfered from DAT by Brian Ingram (bingram@nwu.edu)
+Transfers:  D8 > Oade > Coaxial S/PDIF > ZA2 > CDWave > Harddrive >            
+Soundforge 4.0 (48>44.1; normalization; fades) > SHN
+------------------------------------------------------------------
+Disc 1
+------------------------------------------------------------------
+Set 1:
+1. The Divided Sky			13:31
+2. Sample in a Jar			04:59
+3. Scent of a Mule#			06:41
+4. Maze					09:31
+5. Fee >				05:15
+6. Reba					13:21
+7. Horn	>				03:32
+8. It's Ice >				10:24
+------------------------------------------------------------------
+Disc 2
+------------------------------------------------------------------
+Set 1 (cont'd):
+1. Possum				10:17			 
+
+Set II: 
+01. Down With Disease#->    (8:03)
+02. If I Could#             (6:52)
+03. Buried Alive*           (2:31)
+04. The Landlady*           (5:58)
+05. Julius#*                (6:40)
+06. Magilla*                (4:39)
+07. Split Open and Melt*    (8:52)
+08. Wolfman's Brother#*->   (7:08)
+09. I Wanna Be Like You#**  (5:48)
+10. Oh Kee Pa Ceremony**->  (1:43)
+11. Suzy Greenberg*         (7:18)
+
+                  (total: 1:05:32)
+
+3. Crowd Noise				02:00
+Encore:
+4. Stage Banter				01:28
+5. Harry Hood				12:03
+6. Cavern*				04:45
+------------------------------------------------------------------
+Notes (taken from the HPB)
+------------------------------------------------------------------
+*   With 6-piece Giant Country Horns
+#   First time played
+**  With Dave Grippo an congas
+
+==================================================================
+
+8f889c2d2561dfd5c52adec9d81ed3e7 *ph94-04-04d1t02.shn
+12b12e593460104e5d3e2b0f4eda0350 *ph94-04-04d1t03.shn
+aed2405b7f29c7fc1d2122238e45ea2f *ph94-04-04d1t04.shn
+507837a3d268674c3acd4bde07aabd11 *ph94-04-04d1t05.shn
+8d3e732f96192eca756c930b4d1be737 *ph94-04-04d1t06.shn
+946258090c059b65f6fba504444cfe60 *ph94-04-04d1t07.shn
+67ecc027cc48c704a7ab8cbd4ff7ed21 *ph94-04-04d1t08.shn
+a7cce3743e123d3b3ee9d3b6ff2cd7e5 *ph94-04-04d1t01.shn
+c632df653ae98901cfc893b494c957e4 *ph94-04-04d2t02.shn
+ec09ea8d2dfd337a6fb4cee93582a1a4 *ph94-04-04d2t01.shn
+2a2b12dd5b2cdee18f198726a282736b *ph94-04-04d2t04.shn
+31659fc823476b826f2d7b35be222ddc *ph94-04-04d2t05.shn
+12166f3727b40a3045df6b56befc8c5f *ph94-04-04d2t06.shn
+73490f43c43637d179dfb9da86100ba6 *ph94-04-04d2t07.shn
+e1258bd98daa6845e3d10ea829cebfc0 *ph94-04-04d2t08.shn
+17f84c340612be68cf6cf3803d3f6250 *ph94-04-04d2t09.shn
+d65dac5c52a1b2d6197f8ae9520bf46c *ph94-04-04d2t10.shn
+edd5b6238243cf3dca2272d03085a2e8 *ph94-04-04d2t03.shn
+868ff737d5dafd028116398605de4638 *ph94-04-04d3t01.shn
+a7e5ae39adf896327968402540437fd5 *ph94-04-04d3t02.shn
+5a7c696b4c6de01896faebec6d6379a3 *ph94-04-04d3t03.shn
+794321c63119cd8fa70a70a0411a2778 *ph94-04-04d3t04.shn
+d660d599320f57335c4ba9a75b593446 *ph94-04-04d3t05.shn
+7633d812047d1896c6d93563f3514c10 *ph94-04-04d3t06.shn

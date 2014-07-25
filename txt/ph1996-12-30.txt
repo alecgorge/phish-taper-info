@@ -1,0 +1,40 @@
+Phish
+December 30, 1996
+Fleet Center
+Boston, MA
+Source:    Schoeps CMC641 > Sonosax SX-M2 > Sony SBM-1 @ 48kHz
+	   Front row/center OTS, by Craig Hillwig
+
+Transfer:  DAT Master; Sony PCM-2600 > M-Audio Firewire Audiophile >
+           Abelton Live > downsampled to 44.1 with Cool Edit Pro 1.2 > 
+           Tracked with CDWave 1.94 > FLAC 1.1.0 by C.Hillwig (6/05)
+No DAE.  Fades added to beginning and end of each set (Cool Edit Pro 1.2) 
+Balloon pop cut at 7:27 of Slave to the Traffic Light. 
+Disk 1/Set 1:
+
+1.  Intro
+2.  Ya Mar
+3.  The Sloth
+4.  Llama
+5.  Gumbo
+6.  Reba
+7.  Talk
+8.  Funky Bitch
+9.  Theme From the Bottom
+10. Good Times Bad Times
+
+Set 2/Disk 2
+
+1.  Intro
+2.  Timber (Jerry)
+3.  Uncle Pen
+4.  AC/DC Bag
+5.  Guyute
+6.  Tweezer > 
+7.  Lifeboy
+8.  Scent of a Mule
+9.  Slave to the Traffic Light
+
+Disk 3/Encore (will fit on end of Disk 1)
+
+E: Possum

@@ -1,0 +1,51 @@
+Phish
+8/17/12
+Bill Graham Civic Auditorium
+San Francisco, California
+
+Field: AKG C414XLS (hypercardioid setting) > Edirol R4Pro ( Oade preamp mod ) @ 24/88.2
+config: pointed at PA array, front row Loge, centered, 8 foot stand
+
+Path: R4Pro > WaveBurner ( track on sector boundaries, fades, SRC, BDC ) > xACT ( to flac, and for tagging and checksums )
+
+Recorded, processed and let loose by Mike Kutik ( padelimike at mac d0t c0m )
+At bt.etree.org 2012-08-18
+
+
+Set the First:
+01 crowd in
+02 AC/DC Bag
+03 The Moma Dance
+04 Oh! Possum
+05 Corrina
+06 Sand
+07 Halley's Comet
+08 Funky Bitch
+09 Sample in a Jar
+10 Roses Are Free
+11 My Friend My Friend
+12 Slave to the Traffic Light
+
+Set the Second:
+01 crowd in
+02 Down with Disease
+03 Birds of a Feather
+04 Tweezer
+05 Twist
+06 Wading in the Velvet Sea
+07 Chalk Dust Torture
+08 Joy
+09 Run Like an Antelope
+10 Shine a Light
+11 encore break
+12 First Tube
+
+
+Here's the torrent-free version:
+text and verification files: http://www.sendspace.com/file/vdd40u
+Set 1: http://www.sendspace.com/file/avylpf 437MB FLAC16
+Set 2: http://www.sendspace.com/file/4n77ng 514MB
+
+@320 mp3:
+Set 1: http://www.sendspace.com/file/bnnk6s 183MB
+Set 2: http://www.sendspace.com/file/7d8g3p 213MB 

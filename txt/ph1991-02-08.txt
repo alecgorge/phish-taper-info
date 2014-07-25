@@ -1,0 +1,67 @@
+Phish
+Portsmouth Music Hall
+Portsmouth, NH
+2/8/91 
+
+TAPER: John Redmond
+SOURCE SBD > D5 
+
+SBD MCass (Sony Metal-SR 90 min)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +~10dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)>
+Mastering (see notes)> SHNv3
+
+Transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 11/19/2003)
+Mastering, editing, and WAV > SHN performed on REBA by Arty- imthemarmar@stny.rr.com
+
+**24/48 Masters do exist at the unedited/pre-processed level**
+
+*DISC 1*
+Set 1:
+01. //AC/DC Bag*
+02. Reba
+03. Buried Alive
+04. Colonel Forbin's Ascent >
+05. Mockingbird
+06. My Sweet One
+07. Stash
+08. The Squirming Coil
+09. Runaway Jim
+10. Guelah Papyrus
+11. David Bowie
+
+*DISC 2*
+Set 2:
+01. Llama
+02. The Mango Song
+03. Cavern
+04. Lawn Boy
+05. Mike's Song >
+06. I am Hydrogen >
+07. Weekapaug Groove
+08. Horn
+09. //Bouncing Around the Room
+10. Lizards
+11. Run Like an Antelope
+Encore: 
+12. Magilla**
+13. La Grange**
+
+-Notes-
+* severe level problems during first few minutes. This part, sadly had to be removed. From the point where the audio went clear again is where it is faded in from.
+** With Carl Gerhard
+// - indicates there was a tape flip with some music loss.
+There are parts durring the show where the mix gets a little off, and sometimes Mike is turned up a little too much causing a slight distortion on the bass. I don't think it takes away from the recording too much.
+
+**Mastering Notes**
+-Squirming Coil static at 2'40'' and 2'45'' (sounds like the cable was pulled or twisted) 
+
+-Mango static at 5'01'' (same noiseprint as the static in Coil) 
+
+Bouncin some tape thingy at 1'17'' (this sounds like a plug wiggle/twist that caused one part of the plug to dropout the signal real fast from R>L) 
+
+**I did try to correct these errors....the errors ended up being much more desireable than the processed corrections. 
+
+24bit/48kHz FLAC's > Wavelab 4.01b on REBA > Editing > BBE > L1 UltraMaximizer > L2 Ultramaximizer > 48kHz>44.1 and 24bit>16bit w/level 1 Gaussian Dither via tc electronic Finalizer 96k > Tracking in Wavelab > SHNv3 appended
+
+Seeded to FurthurNet (www.furthurnet.org)

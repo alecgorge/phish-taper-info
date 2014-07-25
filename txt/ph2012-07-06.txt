@@ -1,0 +1,48 @@
+PHiSH
+7/6/12
+Saratoga Performing Arts Center
+Saratoga Springs NY
+
+
+Field: Sennheiser MD441U > Edirol R4Pro ( Oade preamp mod ) @ 24/88.2
+config: pointed at PA array, OTS centered, 12.5 feet high.
+
+Path: R4Pro > WaveBurner ( track on sector boundaries, fades, SRC, BDC ) > xACT ( to flac, and for tagging and checksums )
+
+Recorded, processed and let loose by Mike Kutik ( padelimike at mac d0t c0m )
+At bt.etree.org 2012-07-07
+
+
+Set the First:
+01. crowd in
+02. Runaway Jim
+03. Ocelot
+04. Heavy Things
+05. Back on the Train
+06. Funky Bitch
+07. Tube >
+08. Psycho Killer >
+09. Tube
+10. HYHU >
+11. Cracklin' Rosie >
+12. HYHU
+13. Stash
+14. Bouncing Around the Room
+15. Paul & Silas
+16. Horn
+17. Corrinna
+18. Light Up Or Leave Me Alone
+
+Set the Second:
+01. crowd in
+02. Chalk Dust Torture >
+03. Carini >
+04. Sand
+05. Roses Are Free >
+06. Punch You In the Eye >
+07. Sneakin' Sally Through the Alley >
+08. Ghost >
+09. Suzy Greenberg >
+10. Run Like an Antelope
+11. encore break
+12. Loving Cup

@@ -1,0 +1,105 @@
+Phish
+04-01-92 
+Liberty Hall
+Lawrence, KS 
+
+Taper: ?
+Transfer: WackyZachy
+
+Source: Aud (Sennheiser ME80's?) > Cass.M > DAT > DAT
+
+Transfer details: Tascam DA20MKII > Audiophile 24/96 > Soundforge > CDWAV > Flac
+
+Flac Files ID3 tagged with MP3tag: www.mp3tag.de
+
+
+Disk 1:
+	Set 1: 
+01.	Golgi Apparatus
+02.	Foam
+03.	Bouncing Around the Room
+04.	Brother 
+05.	All Things Reconsidered
+06.	Sparkle
+07.	Its Ice
+08.	Runaway Jim
+09.	I Didn't Know
+10.	The Landlady >
+11.	David Bowie
+12.	Carolina
+
+
+Disk 2:
+	Set 2:
+01.	Llama
+02.	You Enjoy Myself
+03.	The Horse-> 
+04.	Silent in the Morning 
+05.	Uncle Pen
+06.	Tweezer
+07.	Horn
+08.	Chalk Dust Torture
+09.	Cold As Ice >
+10.	Cracklin' Rosie >
+11.	Cold As Ice 
+
+
+Disk 3:
+	Set 2 continued
+01.	The Squirming Coil
+02.	Tweezer Reprise
+03.	Contact
+04.	Rocky Top
+	Encore:
+05.	Lawnboy
+06.	Good Times Bad Times
+
+deleted blank space during Tape Flips...you shouldn't be able to notice it. 
+during the 1st couple seconds of Runaway Jim
+during the 1st couple of seconds of Horn
+
+verified with SHNtool.
+only d3 t5 doesn't cut on sector boundary.
+
+1-13-05: Many of the tracks on this source were improperly cut, so I 
+reassembled the show into one track, and decided to also deal with the 
+excessive brightness and the almost nonexistant bass. No modifications 
+were made other than to overall sound quality, dithering and retracking. 
+All tracks are now cut on sector boundaries. Existing skips and closed 
+dropouts/flips not modified (4:00 d1t1, 0:02 d1t8, 0:03 d2t7, 0:03 d2t8).
+
+FLAC > WAV > Wavelab 5 (Reassembled > Waves Q10 > Waves RBass > BBE > 
+dithered with Waves L3 MultiMaximizer) > WAV > tracked with CDWave > FLAC   
+Bill Mitchell whmitchell@gmail.com (thanks to Marmar for the mentoring!)
+
+A SHNfamily release.
+
+ph1992-04-01d1t01.flac:9c303891a23bfa7cac5031ab9147846d
+ph1992-04-01d1t02.flac:0f2f71c8854cac19b5ec0e46676b627e
+ph1992-04-01d1t03.flac:50a23215452ea671edd738f2c9485715
+ph1992-04-01d1t04.flac:97aa9e49b9c5947e1e7863c0dd0aaeda
+ph1992-04-01d1t05.flac:0d64f5aa62de2cccc14ee9f81dd56461
+ph1992-04-01d1t06.flac:9b60f1118cc08f472462ff3600c42aae
+ph1992-04-01d1t07.flac:f5c25332c2d2bde7d21b0a9b59d625a2
+ph1992-04-01d1t08.flac:dd94639039b41209528b569605e6fce4
+ph1992-04-01d1t09.flac:4ac9d299adf01615fbb8a23c663edd5b
+ph1992-04-01d1t10.flac:2b9bbfe2fe434eb77c168829e6cd3eca
+ph1992-04-01d1t11.flac:5065b39c7c64803b65093d241261265e
+ph1992-04-01d1t12.flac:111c002b820a8e25cf3a419c68e992f5
+ph1992-04-01d2t01.flac:4eba76d5feb4f53d371a2811ed93d588
+ph1992-04-01d2t02.flac:6323b317a98bd8af5b8d2bbe0399f55b
+ph1992-04-01d2t03.flac:26993cf69d55191325cc026d07ffcbb5
+ph1992-04-01d2t04.flac:fd68d530f3c14302695bd902e1d982fc
+ph1992-04-01d2t05.flac:37385d67c104a8af5d33a4e212027998
+ph1992-04-01d2t06.flac:907e57ec092ed0c979bd43241e0fe585
+ph1992-04-01d2t07.flac:ced165c17f979b57f6a40a12176f76af
+ph1992-04-01d2t08.flac:46218784e4b989fe8d15c28a1b5ce65c
+ph1992-04-01d2t09.flac:7fd664723bb2f909cc4be162842f95cf
+ph1992-04-01d2t10.flac:338ad7fb4111b01209c773f88b8bb95a
+ph1992-04-01d2t11.flac:e4c480527c80e5033bfbbf757b92a15d
+ph1992-04-01d3t01.flac:592daccda27a6d8ca6f35a0c08b4e1f9
+ph1992-04-01d3t02.flac:40919badb7b36a072768a9d685d73c7e
+ph1992-04-01d3t03.flac:e9c6a74f5fe3916b41e7cbc3856681b1
+ph1992-04-01d3t04.flac:237af29c548b1a8dcc83e391cca9b1f9
+ph1992-04-01d3t05.flac:0101396335bb14b8162f1b841c71c524
+ph1992-04-01d3t06.flac:2d84e0cd5845e47c4191517dea6f43aa

@@ -1,0 +1,84 @@
+Phish
+June 25th, 2010
+Susquehanna Bank Center
+Camden, NJ
+
+Taper: Timothy Brown (timothydavidbrown@gmail.com)
+Source: AKG C460Bs/CK 63-ULS (DINa, OTS, DFC, on stand ~6')->Kind Kables->Naiant LittleBox->Segue Dogstar Silver-Clad Interconnect->Edirol R-09HR (24 bit/96 kHz)
+Transfer: SDHC -> PC
+Processing: Fade in, fade out, dithered to 16 bit, resampled to 44.1 kHz & tracking using SoundForge 9.0.
+Conversion: FLAC frontend 1.7.1 used to align on sector boundaries and for Flac16 Conversion @ level 8
+Tagging: Band name, Venue and Song Title in Foobar2000
+
+*****************************************************************
+********* PLEASE SPREAD, BUT PLEASE INCLUDE SOURCE INFO *********
+****** DO NOT SELL OR DISTRIBUTE FOR A PROFIT BY ANY MEANS ******
+*****************************************************************
+
+Set I
+01. Alumni Blues -> 
+02. Letter to Jimmy Page -> 
+03. Alumni Blues
+04. Big Black Furry Creature from Mars
+05. Runaway Jim
+06. Army of One
+07. Free Man in Paris ~
+08. Summer of '89
+09. Split Open and Melt
+10. The Sloth
+11. Time Turns Elastic
+12. Golgi Apparatus
+
+Set II 
+13. Chalkdust Torture -> 
+14. Prince Caspian ->
+15. Heavy Things >
+16. Alaska >
+17. 2001 (Also Sprach Zarathustra) @ -> 
+18. Light -> 
+19. Possum -> 
+20. Character Zero
+21. Encore
+22. Shine A Light
+
+Notes:
+~ Live debut, Joni Mitchell cover
+@ Wanna Be Starting Something, Billie Jean & Thriller (Michael Jackson) interpolations
+Thanks to Greg for driving, for the hotel and for the tickets.
+Thanks to Chris & Taylor for the clamp space.
+Thanks to Weaver for muling my gear in.
+Thanks to Gregg for the great tailgate party.
+Shout outs to Jeff, Josh, Koko, Dino & Eric.
+
+A 24 bit/96 kHz version exists.
+
+*****************************************
+****Please support artists and venues****
+************that allow taping************
+*****************************************
+
+phish.com
+timothydavidbrown.blogspot.com
+
+phish2010-06-25t01.flac:cd24fa8a8ae7f7561bfd3d642a51f876
+phish2010-06-25t02.flac:0c672fce5db309f638ed129687670e56
+phish2010-06-25t03.flac:13de97fe229b27ac06ff5acb4dc24285
+phish2010-06-25t04.flac:d65d6795c8e8547425f49b07b6ee32da
+phish2010-06-25t05.flac:68962c5375aed4bd8828ec420d2797bc
+phish2010-06-25t06.flac:7c8827059d1f0ce10f79973c016fcbed
+phish2010-06-25t07.flac:77e75ab47201f8b6e576dd3e6efef6a0
+phish2010-06-25t08.flac:f69dcd9f7b3a90c41937d71d2f5ca230
+phish2010-06-25t09.flac:d4c22a8dffe7b98e133ca7bd33a32a45
+phish2010-06-25t10.flac:57bff57eedce3e6e254e5ea0c4f9e428
+phish2010-06-25t11.flac:2199a65f1a703d480fa31d4e3afd770d
+phish2010-06-25t12.flac:33cc022a14da14299a5f690d53933138
+phish2010-06-25t13.flac:a4b79d606a1ce45ab8796db0f76d51cf
+phish2010-06-25t14.flac:1a45227f42bdfa9c7ff952c297467940
+phish2010-06-25t15.flac:d29a32b9c2c8d5f1684916ea2585f1ed
+phish2010-06-25t16.flac:faf87b2e5aa141abca33354eacd58fc0
+phish2010-06-25t17.flac:5e4f366dacb05b61dad755a4cf54f459
+phish2010-06-25t18.flac:ffa0a81fa762a71c4eb3b76acd0fd8de
+phish2010-06-25t19.flac:d3fa32bb8b3828ecff2e26d3d2627368
+phish2010-06-25t20.flac:42a71431445940f43b9a386296740a03
+phish2010-06-25t21.flac:5537a99c832eda1506859fea11b2bcaa
+phish2010-06-25t22.flac:51e1f26a2dd7a69550a259b0d3d6510e

@@ -1,0 +1,56 @@
+DISC INFO
+
+Phish
+
+06/05/90 - Cat's Cradle; Chapel Hill, NC (2 CDs*)
+
+* This show requires an 80 minute disc for disc 2!
+
+--------------------------------------
+DISC ONE:                      [67:03]
+--------------------------------------
+    SET I:
+01. The Squirming Coil         [05:53]
+02. Uncle Pen                  [04:31]
+03. Mike's Song >              [06:34]
+04. I Am Hydrogen >            [02:22]
+05. Weekapaug Groove           [05:47]
+06. Ya Mar                     [06:30]
+07. Oh Kee Pa Ceremony >       [01:42]
+08. Suzie Greenberg            [05:07]
+09. Take The A-Train >         [05:17]
+10. David Bowie                [11:54]
+11. Lawn Boy                   [02:32]
+12. Possum                     [08:54]
+--------------------------------------
+DISC TWO:                      [78:02]
+--------------------------------------
+    SET II:
+01. Sweet Adeline              [01:57]
+02. Divided Sky                [12:06]
+03. Caravan                    [07:04]
+04. Dinner And A Movie >       [03:38]
+05. Bouncing Around The Room   [04:02]
+06. My Sweet One               [02:10]
+07. Lizards                    [10:17]
+08. You Enjoy Myself >         [13:37]
+09. The Ballade Of Curtis Lowe [05:14]
+10. Good Times Bad Times       [06:07]
+    ENCORE:
+11. HYHU >                     [01:08]
+12. Whipping Post >            [05:16]
+13. HYHU                       [00:45]
+14. Golgi Apparatus            [04:41]
+--------------------------------------
+
+SOURCE:
+Soundboard > CAS0 > DAT
+
+DAT > CD Conversion by Dave Pecoraro (davepeck79@home.com):
+
+Tascam DA-P1 > Philips CDR870 > EAC > Sound Forge 4.5 > CDWave > SHN via MKWACT.
+
+NOTE: The very beginning of the first song of each set is cut.
+This is on the original DAT. I faded it in to make it sound better. 
+
+Enjoy!

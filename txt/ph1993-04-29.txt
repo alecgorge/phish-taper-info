@@ -1,0 +1,87 @@
+Phish
+4-29-1993
+Le Spectrum  
+Montreal, Quebec, Canada
+
+Source:
+Set 1: Nakamichi 300/cp-1>Cass Deck in Patch Chain (not an analog generation)>Sony D3
+Set 2: Sennheiser 421>Marantz PMD430 (Analog deck)
+Soundcheck: SBD>Cass(x)
+
+Transfer: 
+Set 1: DAT>ProTools>CD>EAC (Secure mode)>SHN
+Set 2: CassMaster>Cass>Sony WA9ES>Tascam DA302; DAT>Yamaha Standalone>EAC (Secure Mode)>SHN
+Soundcheck: Cass(x)>Sony WA9ES>Tascam DA302>MAudio Dio 24/48>CDWav>SoundForge (edits)>SHN
+
+Set 1 transferred to CD by K. Shapiro and SHNed by Blane Harvey
+Set 2 taped by Pierre Perault and transfered/SHNed by B. Harvey and M. Crawford
+
+
+-Big thanks to Kevin and Mark for transfer help, and to Kevin and Phil Joubert for providing the
+source recordings!
+
+
+Notes:
+This show comes from multiple sources because the best copy (Kevin's source) did not have a
+second set available.  Phil provided a complete copy of the Sennheiser>Cass1 source, with the
+SBD soundcheck as filler, but I decided to only use the second set because this would give us
+the best possible copy of both sets.  There IS a complete SBD copy of the show known to circulate
+in analog, but I have yet to find a digital copy, and most analog copies we have heard are hissy.
+The My Friend encore is not on this show because there was only about 1 minute of the song on the masters 
+of the recording. I decided not to include this minute because it's not even the complete intro
+to the song.
+
+Flaws and Edits:
+-Short cut before Fee from a cassette flip in the patch chain. No music was affected.
+-Level adjust at 4:02 of Mike's
+-Master cassette flip at 5:42.5 of Mike's. Edited out as best as possible, but there is an
+obvious change in the high end of the recording after the flip.
+-Light hiss reduction performed on the soundcheck using Cool Edit Pro. 
+
+Disc 1
+-Set 1- 
+1. Split Open and Melt			[10:28]
+2. Paul and Silas			[04:00]
+3. The Sloth				[03:35]
+4. Runaway Jim				[08:35]
+5. Horn					[03:39]
+6. Llama				[04:48]
+7. Glide				[04:35]
+8. Rift					[05:55]
+9. Fee					[05:36]
+10. Run Like an Antelope		[12:43]
+
+Disc 2
+-Set 2-
+1. Chalk Dust Torture			[06:21]
+2. It's Ice				[07:42]
+3. Ya Mar				[08:04]
+4. Mound 				[05:43]
+5. Big Ball Jam 			[02:28]
+6. Reba					[12:35]
+7. Mike's//Song-> 			[09:18]
+8. I am Hydrogen*-> 			[04:17]
+9. Weekapaug Groove>			[04:14]
+10.Makisupa Policeman->			[02:47]
+11.Weekapaug Groove			[05:42]
+
+Disc 3
+-Set 2 cont.-
+1. HYHU>Terrapin > 			[11:18]
+2. The Squirming Coil 			[11:39]
+[E: My Friend My Friend. Not on tape.] 
+-Soundcheck-
+3. Beverly Hillbillies jam>blues jam	[16:14]
+
+*with a "Happy Trails" jam.
+
+Show Notes: Some of the fans cheered the mention of Quebec during Fee. 
+Antelope included a brief jam on Pink Floyd's Money. Ya Mar contained 
+some funny stage banter, as Trey tried to bring "Leo" in too early. 
+It also included a Can't Turn You Loose tease from Page. Hydrogen included 
+a tease of I've Got Spurs That Jingle Jangle Jingle, with a bassline somewhat 
+akin to Happy Trails. Weekapaug included a Can't You Hear Me Knockin' tease 
+from Page. Fishman dedicated Terrapin to his friends from Burlington who made 
+the trip to see the band. Makisupa was played for the first time since 
+November 26, 1990 (307 shows).
+

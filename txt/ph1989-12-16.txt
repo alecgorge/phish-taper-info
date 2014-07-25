@@ -1,0 +1,48 @@
+Phish
+Burlington Boathouse Benefit
+City Hall
+Contois Auditorium
+Burlington VT
+12/16/89
+
+
+Source: Unknown Aud > Cass/? 
+Transfer: Playback JVC TD-W354 > WAV > Audacity 1.2.4 > CDWAV > FLAC16
+
+Transfer By: Taperwayne (taperwayne@yahoo.com)
+
+Thanks to: Greg Peeler and Maria Rogers for uncovering yet another one!
+
+-One Set-
+
+01. The Curtain
+02. AC/DC Bag
+03. Lawn Boy
+04. Mike's Song >
+05. I Am Hydrogen >
+06. Weekapaug Groove
+07. Lizards
+08. // In A Hole
+09. Golgi Apparatus
+ -encore-
+10. Possum
+
+
+Notes: Rare. Unknown cassette gens on the source tape.
+       First minute or so of In A Hole was trashed due to age and
+       tape rot, thus the fade up. Tape flip between Lizards and
+       In A Hole.
+       Benefit for The Burlington Boathouse. Other bands likely played
+       as well.
+
+
+8d71ba2d3edfcdca5e39482d73c28fc1 *ph1989-12-16t01.flac
+022b663fff953b5d7e8fde61c388cdff *ph1989-12-16t02.flac
+aa72fd8a0dd6418eb331fe53bffcec6c *ph1989-12-16t03.flac
+aba8a61176f3fb69dd81cf7ce554e962 *ph1989-12-16t04.flac
+5d0c203985748de01302fb77f7d725c2 *ph1989-12-16t05.flac
+0f6f05f056bab2714cd2e8ad820d0243 *ph1989-12-16t06.flac
+6d58431ab328b29fbaa4e200565e6b15 *ph1989-12-16t07.flac
+b9af532132d25302bc04aa2c698ba492 *ph1989-12-16t08.flac
+aeba6b05a46d8db2045942a9550fbde5 *ph1989-12-16t09.flac
+8bbbe468bdcc8755efb2f2163a13f39f *ph1989-12-16t10.flac

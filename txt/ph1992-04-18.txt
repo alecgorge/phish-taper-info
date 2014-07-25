@@ -1,0 +1,74 @@
+Phish
+4-18-92
+Stanford University at Palo Alto
+Palo Alto, CA
+
+Source: DSBD > Cass/? > DAT
+
+Transfer: D8 > Active Oade (Monster Coax) > cmi8738 spdif in > Sforge 4.5@48khz(resampled with highest settings and Anit-Alias)>CDWAV>SHNv3
+
+Seeded and uploaded by: Caspian (stuart@mindspring.com)
+
+Note:  This seed is the circulated DSBD version of the show with needed patches for the Encore mainly. It has analog source in its lineage so I seeded this source as well as the Shapiro DAUDs for those who may have a preference.  Both seeds sound great.
+
+DISC 1 < Requires 80 min disc >
+-------
+Set I
+
+1.  Wilson >
+2.  Divided Sky
+3.  Guelah Papyrus
+4.  Poor Heart
+5.  Split Open and Melt
+6.  Esther
+7.  Possum (tape flip)
+8.  It's Ice >
+9.  Sparkle
+10. All Things Reconsidered
+11. Antelope
+
+DISC 2
+------
+Set II
+
+1.  Glide
+2.  Oh Kee Pah Ceremony >
+3.  Suzy G. 
+4.  Rift
+5.  Manteca
+6.  Bathtub Gin 
+7.  Manteca Reprise
+8.  Lizards
+9.  Mound
+10.  Llama
+11. TMWSIY >
+12. Avenu Malkenu >
+13. TMWSIY
+14. Dinner and a Movie
+
+DISC 3
+------
+Set II Cont.
+
+1. Harry Hood*
+2. Cold as Ice >
+3. Love You >
+4. Cold as Ice
+5. Rocky Top**
+
+Encore **
+--------
+6. Contact
+7. BBFCFM ^
+
+Sound Check (partial?)**-on end of Set 1s DAT from NeumannFOB tapes, seems to be DSBD and not Shapiro's rig though
+---------------------
+
+8. Shaggy Dog ^^
+9. Jam #
+
+* - With Linus and Lucy Jam
+** - patched from Shaprio AUDs due to bad diginoise in original copy, encore is pretty much missing from all good DAT sources for this show.  
+^ - youngin on Mandolin unmiced
+^^ - a cappella
+# - 1min 02 second dropout on master. removed it. sorry folks take it as it is, its the only copy.beginning of dropout is at 1:59:211, but the cut back in immediatley follows

@@ -1,0 +1,55 @@
+Phish
+December 8, 1999
+Cumberland County Civic Center
+Portland, ME
+
+source:
+(FOB) Schoeps mk4 > kc5 > cmc6 > Sonosax SX-M2 > Sony D-100 (@48kHz)
+
+transfer:
+Sony D8 > M-Audio MicroTrack > CF Card > WaveLab 5.01b (fades, resample to 44.1kHz) > CD Wave v1.94.5 > FLAC (level 8)
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded 10/18/05
+
+notes:
+48kHz FLAC files of the original DAT transfer have been archived, and are available upon request
+
+Disc 1 - [75:22]
+Set I
+01 - [08:57] - Limb by Limb
+02 - [05:18] - Back on the Train
+03 - [15:30] - Down with Disease >
+04 - [09:29] - Fast Enough For You
+05 - [14:49] - Ya Mar
+06 - [00:45] - The Horse >
+07 - [05:34] - Silent in the Morning
+08 - [15:01] - Run Like an Antelope
+
+Disc 2 - [44:54]
+Set II
+01 - [18:11] - Sand
+02 - [04:33] - Dirt
+03 - [19:35] - Piper ->
+04 - [02:35] - Dog Faced Boy
+
+Disc 3 - [45:52]
+Set II continued
+01 - [11:24] - Lizards
+02 - [21:25] - You Enjoy Myself *
+03 - [03:52] - encore break
+04 - [04:41] - Golgi Apparatus >
+05 - [04:31] - Tweezer Reprise
+
+Show Notes: The ending of the YEM vocal jam included a Tweezer Reprise vocal jam. 
+Dog Faced Boy was played for the first time since November 18, 1998 (66 shows).
+
+* with a cappella "Tweezer Reprise" vocal jam
+
+NOTE:
+short static sound during YEM at 12:10.  This was on the DAT, and is not from the transfer.
+I had patched this short static segment with the circulating (FOB) B&K 4011 source.  However,
+I decided that the change in sound due to the different recording interuppted the "flow" of
+the music more than the inital static sound that I was replacing.  Because of this, I decided
+to keep it as-is, and you will hear the minor static that I'm talking about.

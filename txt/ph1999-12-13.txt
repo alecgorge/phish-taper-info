@@ -1,0 +1,49 @@
+Phish
+December 13, 1999
+Providence Civic Center
+Providence, RI
+
+source:
+(FOB) Schoeps mk41 > kc5 > cmc6 > Sonosax SX-M2 > Sony D-100 (@48kHz)
+
+transfer:
+Sony D8 > Waveterminal 2496 > WaveLab 5.01b (fades, resample to 44.1kHz) > CD Wave v1.94.5 > FLAC (level 8)
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded 10/16/05
+
+note:
+48kHz FLAC files of the original DAT transfer have been archived, and are available upon request
+
+Disc 1 - [77:36]
+Set I
+01 - [06:40] - Tube
+02 - [05:56] - Cars Trucks Buses
+03 - [11:08] - Gumbo
+04 - [09:18] - Moma Dance >
+05 - [19:11] - Piper > *
+06 - [09:32] - Theme From the Bottom
+Set II
+07 - [09:28] - Gotta Jibboo >
+08 - [06:20] - NICU
+
+Disc 2 - [71:49]
+Set II continued
+01 - [23:21] - Sand **
+02 - [03:51] - The Inlaw Josie Wales
+03 - [04:37] - Mist
+04 - [09:38] - Limb By Limb
+05 - [04:34] - Golgi Apparatus >
+06 - [10:30] - Salve to the Traffic Light
+07 - [04:15] - encore break
+08 - [06:13] - Silent in the Morning ***
+09 - [04:52] - Heavy Things
+
+* with Trey on keys
+** "Gotta Jibboo" bass tease
+*** not accompanied by "The Horse"
+
+Show Notes: Part of the Piper jam featured Trey on his keyboard set. Sand included a 
+tease of the Jibboo bass line. As part of the encore, fans were treated to a rare 
+Horse-less Silent.

@@ -1,0 +1,70 @@
+Phish 7/26/2013
+Gorge Amphitheatre - George, WA
+
+Source: DPA 4027(split 16.5'@8.5' directly in front of SBD)->V2->Mytek 192->HD-P2(24/96)->UV22HR(16/44.1)->CDWave->FLAC
+
+Recorded and tranferred by Scott Schneider
+
+Disc 1 (58:46):
+1. Crowd
+2. AC/DC Bag >
+3. Timber
+4. Wolfman's Brother
+5. Funky Bitch
+6. Happy Birthday (for CK5)
+7. Wilson >(1)
+8. Possum
+9. Tube
+10. Secret Smile
+
+Disc 2 (59:47):
+1. McGrupp and the Watchful Hosemasters >
+2. The Ballad of Curtis Loew
+3. Split Open and Melt
+--Set Two--
+4. Crosseyed and Painless >
+5. Twist >
+6. Steam >
+
+Disc 3 (76:43):
+1. Waves >
+2. Twenty Years Later >
+3. The Mango Song
+4. Bug >
+5. David Bowie
+6. Rocky Top >
+7. Character Zero
+8. Encore break
+9. (E)Harry Hood >
+10. (E)Fire
+
+(1) Preceded by Satisfaction tease
+
+Thanks to Tim Dobert for guarding the stand on the other end of the split. 
+
+ph2013-07-26dpa4027-split-d1t01.flac:85b63f660b4354b33a4c759b7914bbfa
+ph2013-07-26dpa4027-split-d1t02.flac:d830929e7c96bf70aecde5a76b974239
+ph2013-07-26dpa4027-split-d1t03.flac:ab5381fd17ad3fafaa9eb9f6a77c1e4a
+ph2013-07-26dpa4027-split-d1t04.flac:73998edcd72c9adbcde0059f8c2f4831
+ph2013-07-26dpa4027-split-d1t05.flac:51d8bf7c82d6ab71327e748b9742a8e3
+ph2013-07-26dpa4027-split-d1t06.flac:de9c18f359e19237b22ac0cf4df3527b
+ph2013-07-26dpa4027-split-d1t07.flac:81a1bc37024b28709954e17469858812
+ph2013-07-26dpa4027-split-d1t08.flac:a805cc5a0c959f0aeb9d9e1ead03ba1e
+ph2013-07-26dpa4027-split-d1t09.flac:1194ae13b40ead4f836b54954c1b0c2f
+ph2013-07-26dpa4027-split-d1t10.flac:cdd051747b12268c6643fdf61d6ee34d
+ph2013-07-26dpa4027-split-d2t01.flac:9d48ab0d4b4e6c406fb9eb7299850577
+ph2013-07-26dpa4027-split-d2t02.flac:a5a2b86c1a54ded2459c0aaa55b37ca6
+ph2013-07-26dpa4027-split-d2t03.flac:a9a9a106177b5b14cff5a48cb481fcb3
+ph2013-07-26dpa4027-split-d2t04.flac:5734ae7be9ad9795f32871e0bdd231d0
+ph2013-07-26dpa4027-split-d2t05.flac:cf9ef0180bb310d4f2e811b9b9a565ed
+ph2013-07-26dpa4027-split-d2t06.flac:dbec862f7c047b2df2dfe3befe1b22ad
+ph2013-07-26dpa4027-split-d3t01.flac:68fbda8a1ffd1b6074f1e5d920f9d078
+ph2013-07-26dpa4027-split-d3t02.flac:78a90ae581e84484e17f479448b38913
+ph2013-07-26dpa4027-split-d3t03.flac:6a10bd0a40f8d19c3e53ba4df7c81244
+ph2013-07-26dpa4027-split-d3t04.flac:5dd527041c427a8ba084e1b414dfabf8
+ph2013-07-26dpa4027-split-d3t05.flac:0a846baa1dfbcd0fab268b02173f33a8
+ph2013-07-26dpa4027-split-d3t06.flac:07bef63a54bc9891ba02413207587fe3
+ph2013-07-26dpa4027-split-d3t07.flac:6dc8b347838156da43d6669a8802fc8b
+ph2013-07-26dpa4027-split-d3t08.flac:45a975865f2cb78e5e40462186f6f171
+ph2013-07-26dpa4027-split-d3t09.flac:965d8690fc6f1e4df3686f866d13ff16
+ph2013-07-26dpa4027-split-d3t10.flac:ec93c0f69a34964e7840a8b3c7af5235

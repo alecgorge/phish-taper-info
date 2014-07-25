@@ -1,0 +1,57 @@
+Phish
+3-31-91
+Berkeley Square Theater - Berkeley, CA
+
+Source: FOB Calrad 10-30 > Panasonic SV-255
+Transfer: Sony D7 > Zoltrix > SF 4.5c > CDWav > SF 4.5c > WAV > FLAC
+
+FLAC software download can be found here: http://sparkle.etree.org/flac
+
+Transferred by Ben Mohr (benjamin.mohr@ce.gatech.edu)
+
+-------------------------------------
+ Disc 1:                     (71:11)
+-------------------------------------
+-Set 1-
+1. intro                     (00:29)
+2. Buried Alive >            (02:19)
+3. Cavern                    (04:36)
+4. Runaway Jim               (07:22)
+5. Colonel Forbin's Ascent > (06:39)
+6. Famous Mockingbird        (06:30)
+7. Landlady                  (03:41)
+8. My Sweet One              (02:15)
+9. Esther                    (08:53)
+10. Possum                   (09:51)
+11. I Didn't Know            (03:30)
+12. Mike's Song >            (06:14)
+13. I am Hydrogen >          (02:36)
+14. Weekapaug Groove         (06:16)
+
+-------------------------------------
+ Disc 2:                     (71:38)
+-------------------------------------
+-Set 2-
+1. intro                     (00:26)
+2. Harry Hood                (11:42)
+3. The Sloth                 (03:51)
+4. The Squirming Coil        (06:31)
+5. Stash                     (08:42)
+6. Uncle Pen                 (04:30)
+7. Guelah Papyrus            (06:01)
+8. Bouncing Around the Room  (03:47)
+9. Run Like an Antelope      (10:00)
+-Encore-
+10. encore intro             (00:33)
+11. Reba                     (11:46)
+12. Highway to Hell          (03:43)
+
+Notes:
+-uncle Pen is not listed in the Phish Companion but is definitely part of this show as there is no break in music or crowd noise!
+
+Fixes in SF 4.5c:
+-Removed dropout in d1t04 4:27.356 (0.060s)
+-Removed dropout in d1t09 R channel 1:04.354-1.04:606 by applying L channel
+-Smoothed, but not removed, static d1t11 1:55
+-Removed diginoise d2t11 0:25.705 (0.150s, slight skip)
+-Removed pop d2t11 0:47.196 (0.001s), 0:56.410 (0.015s)

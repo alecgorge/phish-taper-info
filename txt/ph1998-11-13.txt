@@ -1,0 +1,38 @@
+Phish
+Friday, November 13, 1998
+CSU Convocation Center
+Cleveland, OH
+
+Source: Schoeps CMC641>Aerco>SBM-1 (@44.1)
+Transfer: DA-20->Delta Dio 2496->Soundforge 6.0->CDWAV->shntool->shn
+
+Transfer by: Brandon Johnston -- http://db.etree.org/bisq
+
+
+Disc 1: 
+-Set I-
+1.Chalk Dust Torture
+2.Wolfman's Brother
+3.Roggae
+4.Ginseng Sullivan
+5.It's Ice
+6.Cars Trucks Buses
+7.Farmhouse
+8.Water in the Sky
+9.The Sloth
+10.Run Like an Antelope
+
+Disc 2:
+-Set II- 
+1.Down with Disease
+2.Sample in a Jar
+3.Dirt
+4.Birds of a Feather
+5.Meat
+6.Harry Hood
+7.crowd noise
+8.E: Good Times Bad Times 
+
+Show Notes: Antelope included a variation of the usual lyrics. Meat contains an atypical jam segment.
+
+Tech Notes: Fades were added in soundforge 6.0 . 

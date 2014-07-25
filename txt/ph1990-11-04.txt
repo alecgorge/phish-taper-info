@@ -1,0 +1,60 @@
+Phish
+11-04-90
+Fort Ram Nightclub - Fort Collins, CO
+
+Source: SBD -> ?
+Transfer by Caleb Epstein
+
+Disc 1:
+Set I:
+1. Carolina
+2. AC/DC Bag >
+3. The Curtain >
+4. Bouncing Around the Room
+5. Tube
+6. Harry Hood
+7. Funky Bitch
+8. The Asse Festival
+9. My Sweet One
+10. David Bowie
+
+Set II:
+11. Golgi Apparatus
+12. Rocky Top
+13. Llama
+
+Disc 2:
+Set II (cont'd):
+1. Mike's Song ->
+2. I Am Hydrogen ->
+3. Weekapaug Groove
+4. Manteca ->
+5. Caravan
+6. Runaway Jim
+7. Oh Kee Pa Ceremony ->
+8. Suzy Greenberg *
+9. Jesus Just Left Chicago
+10. You Enjoy Myself
+
+Disc 3:
+Encore:
+1. Contact
+2. Highway to Hell
+*With Caravan teases.
+
+
+notes by John Beatty (johnbeatty@mail.com):
+
+Flaws:
+- The first few minutes of Mike's is at the end of d1t13 (Llama) and
+then
+   repeated in full on d2t1.  (You may wish to fix this before burning).
+- Carolina cuts in at beginning (probably on source - my old cassette
+is missing
+   it entirely
+- Dropout/missing samples in AC/DC Bag at 4:19
+- Dropout/missing samples in Runaway Jim at 1:12
+- Dropouts/missing samples in YEM at 4:44, 14:34:46 and 14:34:68
+
+Dropouts are all around one second (too long to just delete - I suggest
+a reseed if one can be found).

@@ -1,0 +1,109 @@
+Phish
+Flynn Theatre
+Burlington, VT
+Tuesday 3-18-97
+
+
+2-Source FM/AUD Matrix
+
+
+Disc 1			  Total 69:55
+
+01. Cinnamon Girl *		03:49
+02. NICU >			05:10
+03. Sample In A Jar >		04:58
+04. Punch You In the Eye >	08:19
+05. My Soul			05:23
+06. Beauty of My Dreams		02:43
+07. Harry Hood	>		15:39
+08. Cars, Trucks and Buses #	09:34
+09. Suzy Greenberg #		07:58
+10. Character Zero #		06:22
+
+
+Disc 2			  Total 55:26
+
+01. Taste			10:44
+02. Drowned >			07:27
+03. Prince Caspian		07:14
+04. David Bowie			16:30
+05. Love Me			04:47
+06. I Told You So %		04:52
+07. Love Me Like a Man %	03:52
+
+
+Disc 3			  Total 34:43
+
+01. Waste >			05:06
+02. Chalk Dust Torture		06:38
+03. Slave to the Traffic Light	10:49
+04. encore break		02:04
+05. Hello My Baby		01:47
+06. Funky Bitch #		08:20
+
+
+Show Notes: Once again, Phish debuted many new songs at the Flynn. First-timers included 
+I Told You So and Love Me Like a Man, which featured Tammy Fletcher of The Disciples on v
+ocals, and Cinnamon Girl. The last three songs of the second set, as well as Funky Bitch, 
+featured Dave Grippo on alto sax and James Harvey on trombone. Suzy Greenberg included the 
+horns jamming on James Brown's Soul Power. Utilizing the small venue, the band performed 
+Hello My Baby without microphones.
+
+Show Notes
+	
+A benefit for the cleanup of the Lake Champlain region of Vermont, sponsored in part by Ben & Jerry's and Phish Food.
+
+* first time played
+# with Dave Grippo (alto sax) and James Harvey (trombone)
+% with Tammy Fletcher of the Disciples on vocals
+		
+
+---------------------------------------------------------
+
+
+Source Info
+
+FM:    shnid=661
+	FM Broadcast(WIZN) > DAT > CD
+	SHN Encoding: Caleb Epstein
+	Thanks to Mike Gent for providing the discs.
+
+
+AUD:   shnid=79982
+	(FOB) Schoeps mk4+mk8 > Schoeps PS > SBM1 > D8
+	Xfer: ARCHIVE Python > vDAT > WaveLab4 > CDWave > Flac/CDR 
+	- rusty@ontheflyrecording.com
+
+
+---------------------------------------------------------
+
+
+Multitrack Mixdown Settings
+    
+Stereo Matrix  
+FM: -4.5db      
+AUD: -4.5db
+
+
+
+---------------------------------------------------------
+
+
+Tech Notes
+
+SHNs decoded to WAV using Trader's Little Helper. Cakewalk Home Studio 2004 was used to align & sync both sources. CHS 2004 was used for mixdown and track separation. TLH was used to convert each track to FLAC. TLH was used to fix all SBEs. Artwork designed by OctopusRider using MediaFACE 5.0.
+
+
+Original Sources SHNs > WAV > CHS 2004 > WAV > FLAC(8)
+
+
+---------------------------------------------------------
+
+
+Notes
+
+2-Source Stereo Matrix by OctopusRider December 2008. 
+
+There were lots of flaws (cuts, level drops, skips, etc.) on the FM source throughout. These were all fixed as best as possible. All DJ banter was removed.
+
+There were a few clicks and static noises on the FOB source in Funky Bitch. These were fixed as best as possible.

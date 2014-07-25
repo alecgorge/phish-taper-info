@@ -1,0 +1,43 @@
+Phish
+06-29-94
+Walnut Creek Amphitheater, Raleigh, NC
+--------------------------------------------------------------------------------------------
+This show is included in the 1994 Phish Project.
+http://94project.webhop.net
+----------------
+
+Source:         AKG460+ck61-> DAT-> CD-R
+
+Conversion:     CD-R-> EAC (paranoid mode)-> mkwACT v0.97
+
+Minor Edits:	None
+--------------------------------------------------------------------------------------------
+CD/Set 1:				1:08:45
+01. The Curtain				07:02
+02. Sample in a Jar			04:53
+03. Reba				15:29
+04. Mound				05:43
+05. Julius				07:40
+06. The Horse->				01:19
+07. Silent in the Morning		04:57
+08. Catapult->				01:35
+09. David Bowie				14:14
+10. I Didn't Know			01:09
+11. Golgi Apparatus			04:44
+
+CD/Set 2:				1:14:02
+01. The Landlady			03:42
+02. Poor Heart				02:10
+03. Tweezer				12:10
+04. It's Ice				08:23
+05. Lifeboy				08:15
+06. The Divided Sky			15:26
+07. Suzy Greenberg			05:39
+08. Cavern				06:00
+
+Encore:
+09. Ya Mar				08:59
+10. Tweezer Reprise			03:18
+
+Total Running Time:			2:22:47
+--------------------------------------------------------------------------------------------

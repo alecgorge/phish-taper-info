@@ -1,0 +1,59 @@
+Phish
+03/22/91
+The Inferno
+Steamboat Springs, CO
+
+Set I Source: SBD > ? > Cass/X
+Transfer: Sony TC-KA3ES > Lucid AD 9624 A/D > REBA @ 24/48kHz
+
+Mastering: REBA > Wavelab Stereo Montage > Crossfaded Tape flips > Editing > Rendered 24/48 No alterations. 
+24/48kHz waves > Waves Linear Braodband EQ > BBE 2/3/-2 > Waves L1+ > 24/48kHz processed wave.
+24/48Khz processed wave > 192kHz Resampler- 48/44.1 > L1 > reduced to 16bit w/TPDF via tc electronics Finalizer 96k > SHN V3
+**24/48 Masters do exist at the pre-processed stage**
+-------------------------------------
+Set II Source: SBD "from 24 track"> ?> Cass/x 
+Transfer: Dennon DRW-840> Sony PCM-r500 at 44.1> Audiophile 2496> WAV> CD Wave Editor to track> FLAC on 9/22/04 by EEE
+
+Set 1:
+-Disc 1-
+01. Llama
+02. "Broken PA"
+03. YEM
+04. The Landlady >
+05. Destiny Unbound
+06. BATR
+07. Split Open and Melt
+08. The Squirming Coil
+09. Buried Alive
+10. Cavern
+11. Reba
+12. Fire
+
+Disc 2 / Set 2
+01. Tuning
+02. Oh Kee Pa > 
+03. Suzy Greenberg
+04. Antelope
+05. Foam
+06. Paul & Silas
+07. Stash
+08. Runaway Jim
+09. Guelah//Papyrus*
+
+Disc 3 / Set 2 con't:
+01. HYHU > Terrapin > HYHU
+02. Mike's Song >
+03. I Am Hydrogen >
+04. Weekapaug Groove
+-Encore 1-
+05. Crowd
+06. Magilla
+-Encore 2-
+07. Golgi Apparatus
+
+-NOTES-
+* This show comes from an unknown analog generation cassette. There are times where the age of the tape is really prevalent. There is also some very noticable wow and flutter at times in set 1. Set 2 is much cleaner, and I do believe it to be a cassette closer to the master than set 1. There are PA problems at the start of the show, it sounds like the left channel blew out....still, this is all we got for now till the master DAT's surface.
+
+Thanks to LawnGirl for helping verify the setlist and for REALLY wanting this show....
+
+Transfered, mastered, and SHN'd by Marmar- imthemarmar@stny.rr.com

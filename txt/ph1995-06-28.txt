@@ -1,0 +1,81 @@
+***NOTE: This shnset is a slight fixup of http://db.etree.org/shninfo_detail.php?shnid=7100 . Patches from  http://db.etree.org/shninfo_detail.php?shnid=12236 were used in this version. See Additional Edit notes below***
+
+Phish
+6-28-95
+Jones Beach Amphitheater - Wantaugh, NY
+
+Source: B&K 4010 (Pointed at stacks) @48Khz
+Taper: Seth Breidbart
+
+Transfer: Tascam DA-20 mkII>Apogee SPDIF>Audiophile 2496>Sounforge 4.5 
+(resample 48khz>44.1khz w/anti-alias filter set at 4)>CDWav>SHN via mkwACT 0.97
+--No DAE at all--
+
+Disc 1:
+Set 1
+1. Axilla pt.II >	 4:05
+2. Foam			11:16
+3. Fast Enough For You*	 7:06
+4. Reba			13:31
+5. PYITE		 7:35
+6. Stash		12:55
+Total Time: 56:00
+
+Disc 2:
+Set 1 Con't
+1. Fluffhead		14:06
+2. Chalk Dust Torture	 8:07
+Set 2
+3. Sample In a Jar**	 4:51
+4. Poor Heart		 2:20
+5. Tweezer-> Dave's Energy Guide > Tweezer >		30:48
+6. Gumbo		 5:24
+Total Time: 66:00
+
+Disc 3:
+Set 2 Con't
+1. Sparkle		 3:40
+2. Suzie Greenberg	 6:27
+3. Harry Hood		14:16
+4. Tweezer Reprise	 3:28
+Encore:
+5. Sweet Adeline	 2:44
+6. While My Guitar 
+   Gently Weeps		 6:43
+Total Time: 37:22   	 
+
+
+Original Edits: Fade in/out at the beginning and end of each set.  The taper stopped 
+recording between the end of the second set and the encore and also after
+Sweet Adeline and While My Guitar Gently Weeps during the encore. I faded out 
+the end of the second set and faded in the encore and also faded in/out 
+between encores.  
+
+Problems: 
+*At 0:13 of Fast Enough For You there is skip of some sort.  
+This is also on the original DAT.
+**Sample in a Jar fades in as the first few licks are being played.
+
+Additional Edits by Brandon Johnston 3/13/04: I used the circulating AKG 460 source to patch 3 significant areas of dropouts/diginoise. I crossfaded in that source using soundforge 6.0. The timing of the patches is at 7:08 - 7:16 of Foam, 1:54-1:57 of Reba and 2:08-2:10 of reba. I then ran shntool to remove SBE's.
+
+Shntool Output:
+    length     expanded size   cdr  WAVE  probs   filename
+     4:05.37      43305068     ---   --    ---    ph95-06-28d1t01.wav
+    11:16.47     119356988     ---   --    ---    ph95-06-28d1t02.wav
+     7:06.07      75162908     ---   --    ---    ph95-06-28d1t03.wav
+    13:31.44     143163932     ---   --    ---    ph95-06-28d1t04.wav
+     7:35.50      80379644     ---   --    ---    ph95-06-28d1t05.wav
+    12:55.42     136808828     ---   --    ---    ph95-06-28d1t06.wav
+    14:06.21     149283836     ---   --    ---    ph95-06-28d2t01.wav
+     8:07.28      85972700     ---   --    ---    ph95-06-28d2t02.wav
+     4:51.57      51466508     ---   --    ---    ph95-06-28d2t03.wav
+     2:20.40      24790124     ---   --    ---    ph95-06-28d2t04.wav
+    30:48.12     326015468     ---   --    ---    ph95-06-28d2t05.wav
+     5:24.41      57250076     ---   --    ---    ph95-06-28d2t06.wav
+     3:40.58      38944460     ---   --    ---    ph95-06-28d3t01.wav
+     6:27.54      68393852     ---   --    ---    ph95-06-28d3t02.wav
+    14:16.17     151038428     ---   --    ---    ph95-06-28d3t03.wav
+     3:28.20      36738284     ---   --    ---    ph95-06-28d3t04.wav
+     2:44.26      28990796     ---   --    ---    ph95-06-28d3t05.wav
+     6:43.61      71232716     ---   --    ---    ph95-06-28d3t06.wav
+   159:30.62    1688294616 B                      (totals for 18 files)

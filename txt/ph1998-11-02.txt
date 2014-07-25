@@ -1,0 +1,82 @@
+Phish
+November 2, 1998
+The E-Center
+West Valley, Utah (Salt Lake City)
+
+Edited, etc. by Tenniru
+Uploaded November 1, 2008 (One day to ten years!)
+
+Source: FOB Neumann/Schoeps Matrix
+
+1) Schoeps (shnid 25019)
+2) Neumann (shnid 85992)
+
+Conversion:
+
+Schoeps: Schoeps Cmc6/Mk41's > V2 > Da-P1 > Clone
+
+Transfer:
+Fostex D5 > Zoltrix > Sound Forge 6.0 9w/fades) > 
+48 to 44.1 @ highest setting w/anti-alias filter > Cd Wave > Flac
+---
+Neumann:  FOB Neumann km-140s > Tascam DA-P1 @ 44.1kHz
+
+Transfer: 
+Tascam DA-20 mk II >SPDIF > Digi002 Rack > Pro Tools LE 6.4 > CD Wav > Flac
+tranferred from DAT clone received 11/1998
+by Dave Schall
+---
+Matrix:
+
+Original FLAC > AIFF > SHNTool (joined tracks into one file per set) > Audacity (Source Two time stretched by .003%, 7 dB volume reduction) > AIFF > FLAC
+
+Disc 1/Set 1 
+Tube, Tube Jam >
+Drowned >
+Jesus Just Left Chicago
+Driver
+Bittersweet Motel
+Limb by Limb
+Wading in the Velvet Sea
+Sample In A Jar
+
+Disc 2/Set 2 (pt. 1)
+Down With Disease
+Mango Song
+Moma Dance
+You Enjoy Myself
+
+Disc 3/Set 2 (pt. 2) + Encore
+Harpua >
+Speak To Me >
+Breathe >
+On The Run
+Time >
+The Great Gig In The Sky
+Money 
+Us And Them >
+Any Colour You Like >
+Brain Damage >
+Eclipse >
+Harpua
+
+-Encore-
+Smells Like Teen Spirit
+
+------
+
+This has always been one of my favorite Phish shows; in fact, it introduced me to the band. (I'd actually heard Fee, Sample In A Jar, Limb By Limb, and Heavy Things before and loved them; they came as filler songs in iTunes when I got my iBook - I never realized that this was the same Phish, though.) I was a huge Pink Floyd fan, massive collector of bootlegs, and this always kept popping up in other collectors' trade lists. A jam band from the 90s covering DSotM, without a saxophone, synth, or backup singers. 
+
+I'd heard the three incarnations of the album that existed; the studio version (faithfully reproduced on the post-Waters P*U*L*S*E album, Roger Waters' 2006-2008 tours, and kind of played with on the legendary 1974 Wembley BBC broadcast), the 1972 version (played live before the album's release, as just a four-piece; minus sax, synth, singers, et cetera), and the Easy Star All-Stars reggae version which doesn't actually count but it's worth mentioning.
+How would a 1998 Vermont jam band tackle it? It was worth the effort of getting the tape.
+
+Phish's take on it was, although I never realized it when I first heard it, perfectly Phishy. David Gilmour's classic rocky distortion-laced sound was perfectly translated into Trey Anastasio's thoughtful jazzy style, Rick Wright's Hammond was halfway replaced by Page McConnell's piano, Roger Waters' plunky bass was funked up by Mike Gordon, and Nick Mason's tape-delayed plodding was replaced by Jon Fishman's awesomeness. However, a few things were added that really took creativity; Dick Parry's sax was either removed or replaced with a swirly Hammond, and Claire Torry had her trademark wail replaced by Jon Fishman's OTHER trademark wail.
+It was awesome, and so was the rest of the show. 
+
+I first heard the more common taper-section source. It was nice, certainly better than the kind of thing Pink Floyd collectors have to put up with (my favorite examples are the two audience recordings from early 1970 from Croydon and Birmingham; the only performances EVER of "The Violence Sequence", which didn't even show up in the studio, but it sounds AWFUL; take, say, 1986.4.1 and multiply it by ten)... but with all the sparkly-clean soundboards and Live Phish, I got spoiled and this amazing show dropped off of my hard drive. I did come across a second FOB source, which was more upfront and clear, but the bass was distorted and it was just overpowering.
+
+Then I figured out my way around an audio editor and got into matrixes. One thing led to another, and I made this. 
+
+I know there are two other sources; one is the B&K 4011 recording, but it really didn't sound substantially different from Source One (and was a tiny bit worse). The other is an AKG480 that I have never heard and can't find anywhere. 
+
+This is my first attempt at a matrix and an eTree upload. I hope I didn't make any mistakes, and if anyone thinks they can improve on this, please do so.

@@ -1,0 +1,57 @@
+
+PHISH	4-16-94 
+MULLINS CENTER, AMHERST, MA 
+
+===========================================================|
+
+SOURCE: AKG460b/ck61 (FOB-17th Row Ctr) > DAT (Teac DA-P20) 
+
+CONVERSION: CTD8000H-S > DAT2WAV > SOUNDFORGE 5.0 
+(Resampling from 48kHz to 44.1kHz, level 4 w/anti
+alias filtering) > CD WAVE  (track splits)  > SHN
+
+===========================================================|
+
+
+
+DISC 1: 
+
+SET 1:
+01. RUNAWAY JIM
+02. FEE 
+03. AXILLA [PartII] *
+04. RIFT 
+05. STASH 
+06. FLUFFHEAD 
+07. NELLIE CANE
+08. RUN LIKE AN ANTELOPE
+
+
+DISC 2:
+
+SET 2:
+01. SAMPLE IN A JAR
+02. POOR HEART 
+03. TWEEZER >
+04. LIZARDS
+05. JULIUS
+06. BOUNCING AROUND THE ROOM
+07. YOU ENJOY MYSELF %
+
+DISC 3:
+
+01. THE SQUIRMING COIL
+02. TWEEZER REPRISE
+ENCORE:
+03. FIRE
+
+
+* first time played
+% w/ Brad Sands on trampoline
+
+===========================================================|
+seeded by Robert Brown 5/6/01
+
+
+
+

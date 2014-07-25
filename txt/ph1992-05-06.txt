@@ -1,0 +1,78 @@
+Phish 05/06/92 St. Andrew's Hall - Detroit, MI
+
+
+Set I Source: SBD>DAT>Cass/?
+Transfer: Sony TC-KA3ES>DSP24(24/48kHz)>Wavelab>FLAC16
+Transfer, mastering, FLAC16 by: Marmar
+Thanks to Todd Ahrens for the tape!
+
+Set II Source: DAUD/FOB (~30 ft. from stage, DFC) Neumann RSM191A-S >
+Neumann MTX191S > Panasonic SV-255@48k
+Master(on SV-255 listed above) > clone used in below transfer
+
+Conversion: Fostex D5 > Monster Optical > Sek'd Prodif Plus >
+Samplitude v5.5 > Soundforge 4.0 (48>44.1@highest setting[4of4],
+with anti-alias filter and Fades) > CD Wave > mkwACT v0.97
+(shn files have seek tables appended)
+**No DAE at all**
+
+Minor Edits: None other than fades (in/out at beg/end of sets, 5 sec in all cases)
+
+Mastered by Kevin Shapiro, who via Brian Feller supplied
+the DATs for this transfer.  Big thanks to Kevin and Brian!!
+**This is NOT a phish sanctioned release, these are clones from audience masters**
+Transferred and uploaded by Jim Raras via Dankseeds
+Please contact me or Brian with questions etc.  There are also 48k shn's of this seed for archival.
+
+
+Set 1:
+01. Llama
+02. Foam
+03. Reba
+04. MMGAMOIO
+05. Maze
+06. Tela
+07. /Brother
+08. Colonel Forbin > 
+09. Narration >
+10. Famous Mockingbird
+11. Sparkle
+12. Cavern
+
+
+Disc 2 / Set IIa      01:12:03
+01.  Crowd/Intro                   00:50
+02.  My Sweet One             02:54
+03.  Stash             09:39
+04.  The Squirming Coil             07:00
+05.  You Enjoy Myself -> Shaggy Dog                19:52
+06.  All Things Reconsidered                      03:16
+07.  Bouncing Around the Room                    03:41
+08.  Uncle Pen                        04:10
+09.  Chalk Dust Torture    06:05
+10.  HYHU >    01:13
+11.  Terrapin >    07:00
+12.  Cold as Ice   00:47
+13.  Take the 'A' Train    05:36
+
+
+Disc 3 / Set IIb & Encore      00:14:21
+01.  Golgi Apparatus               04:53
+02.  Encore Break/Crowd             01:59
+03.  Carolina             01:38
+04.  Good Times Bad Times             05:20
+05.  Crowd/Post Show Music                    00:31
+
+Show Notes: The vocal jam out of YEM included Shaggy Dog quotes. 
+
+Notes:
+Mike's bass solo in YEM starts with P-Funk riff, proceeds into very abstract
+interaction with Fishman.  At one point during the vocal jam,
+Trey sings, "Ay ay ay ay, I'm a frito bandito," indicating his
+state of mind.  The Shaggy Dog out of YEM was performed a capella.
+Page teases Cold As Ice immediately before Chalk Dust.
+Carolina was performed a capella with no mics.
+
+Setlist from "The Phish Companion" http://www.phish.net/mockingbird/
+With additional notes from Brian (who attended the show)
+For Brian Feller's original review in 92, go to http://www.phish.net/reviews/shows/05-06-92.html

@@ -1,0 +1,73 @@
+Phish
+Billings Lounge, UVM
+Burlington, VT
+April 15th, 1989
+
+-New Source is a Maxell XLII-S Cassette
+-A>D via Nakamichi Dragon>Korg MR1000>Korg Audio Gate>WAV @ 24/96
+-96khz > 44khz sample rate conversion via iZotope SRC 64 bit SRC 
+-24bit > 16bit bit depth conversion via iZotope MBIT+ Dither 
+-Tracking performed in Adobe Audition 3.0
+-FLAC conversion via Trader's Little Helper
+-Thanks to XXXXX for the source tape from set 1
+-Thanks to @TMWSIY for the source tape from set 2, a Maxell XLII-S Analog Cassette of unknown lineage, same transfer as above.
+
+Soundcheck:
+1. Time Loves A Hero [5:20]
+
+Set 1:
+
+2. Mike’s Song > [6:15]
+3. I Am Hydrogen > [2:13]
+4. Weekapaug Groove [7:19]
+5. Esther > [8:54]
+6. You Enjoy Myself > [14:14]
+7. Wilson [3:57]
+8. Peaches en Regalia [3:12]
+9. Banter [1:18]
+10. On Your Way Down > [5:00]
+11. Alumni Blues > [3:40]
+12. Letter to Jimmy Page > [1:06]
+13. Alumni Blues [0:39]
+10. I Didn’t Know [3:31]
+11. McGrupp And The Watchful Hosemasters > [8:31]
+12. Foam [8:17]
+13. David Bowie // [4:19]
+
+Total Time [1:27:45]
+
+Set 2:
+
+1. Funky Bitch [6:42]
+2. Golgi Apparatus > [4:47]
+3. Slave To The Traffic Light [7:12]
+4. The Mango Song [6:34]
+5. The Divided Sky [12:59]
+6. Split Open And Melt [10:11]
+7. Suzy Greenberg > [6:14]
+8. Fluffhead > [15:51]
+9. Good Times Bad Times [6:42]
+
+Encore:
+10. AC/DC Bag [6:09]
+11. Possum [1:44]
+
+
+
+Source Notes:
+Soundcheck + Set 1 are the new source. 
+Something odd going on @ 12:40 of YEM
+Cut ~2:07 in Wilson, likely a tape flip on the original source that created this.
+Pretty tough cut ~0:28 of David Bowie, likely the second tape flip from the first source. 
+Second cut nasty cut in Bowie at tape end
+Others have said this first set sounds off-speed. I did not speed adjust this source at all.
+Set 2 was originally part of shnid 112453
+AC/DC Bag > Possum is of a different, also unknown lineage
+
+
+SHOW NOTES
+This show was a Benefit for VPIRG (Vermont Public Interest Research Group). 
+It was not listed in the March or April 1989 Phish newsletters but is believed to have occurred at this time and place. 
+During McGrupp, Fish used a brand new electronic drum machine.  
+Attendance for this show reportedly suffered due to no alcohol being served.  
+This version of Split Open And Melt included a drum solo.

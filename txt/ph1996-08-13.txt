@@ -1,0 +1,91 @@
+Phish
+August 13, 1996
+Deer Creek Amphitheater
+Noblesville, IN
+
+source:
+Microtech Gefell m300 > Sonosax SX-M2 > HHb PDR-1000 > Tascam DA-P1 (@ 48 kHz)
+recorded from the center of the front row of the taper's section, mics in an ORTF configuration
+
+transfer:
+Tascam DA-20mkII > Marantz PMD-661 > SDHC card > usb 2.0 > pc > r8brain v1.9 (resample to 44.1 kHz) > CD Wave v1.98 (track splits) > Samplitude SE v9.1.1 (fades) > FLAC v1.2.1 (Level 8)
+
+recorded by Marc Nutter
+patch-taper: Jacob Pyne
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded August 2, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+Big thanks to Lenny Stubbe for letting me borrow his DATs!
+The original 48 kHz files from the DAT transfer have been archived and are available upon request.
+
+Disc 1 - [78:20]
+Set I
+01 - [16:51] - The Divided Sky
+02 - [04:00] - Tube
+03 - [06:36] - Tela >
+04 - [11:05] - Maze
+05 - [06:53] - Fast Enough for You
+06 - [03:02] - The Old Home Place
+07 - [08:01] - Punch You in the Eye
+08 - [05:06] - Llama
+09 - [04:20] - Glide
+10 - [12:25] - Slave to the Traffic Light
+
+Disc 2 - [78:10]
+Set II
+01 - [01:26] - set 2 intro
+02 - [10:33] - AC/DC Bag
+03 - [10:30] - The Lizards
+04 - [22:46] - Mike's Song ->
+05 - [07:56] - Lifeboy
+06 - [08:19] - Weekapaug Groove ->
+07 - [02:06] - Somewhere Over the Rainbow
+08 - [05:27] - Waste
+09 - [02:58] - Train Song
+10 - [04:04] - Strange Design
+11 - [02:04] - Sweet Adeline
+
+Disc 3 - [25:36]
+Set II continued
+01 - [15:44] - David Bowie
+02 - [02:12] - encore break
+03 - [04:56] - Sleeping Monkey
+04 - [02:45] - Rocky Top
+
+Show Notes: Somewhere Over the Rainbow was performed solo by Page on the theremin. Waste 
+through Strange Design were performed on the acoustic mini-stage. In the soundcheck jam, 
+Trey played the composed section to Divided Sky while the band jammed. Glide was played 
+for the first time since November 21, 1995 (51 shows).
+------------------------------------------------------------------------------------
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+    16:50.62         170.05 MB  ---   --   ---xx   flac  0.4932  ph1996-08-13d1t01.flac
+     4:00.15          40.41 MB  ---   --   ---xx   flac  0.4904  ph1996-08-13d1t02.flac
+     6:35.50          66.56 MB  ---   --   ---xx   flac  0.4401  ph1996-08-13d1t03.flac
+    11:05.22         111.92 MB  ---   --   ---xx   flac  0.5036  ph1996-08-13d1t04.flac
+     6:52.43          69.41 MB  ---   --   ---xx   flac  0.4936  ph1996-08-13d1t05.flac
+     3:02.26          30.68 MB  ---   --   ---xx   flac  0.5003  ph1996-08-13d1t06.flac
+     8:01.30          80.99 MB  ---   --   ---xx   flac  0.5042  ph1996-08-13d1t07.flac
+     5:06.16          51.51 MB  ---   --   ---xx   flac  0.5414  ph1996-08-13d1t08.flac
+     4:20.03          43.75 MB  ---   --   ---xx   flac  0.4569  ph1996-08-13d1t09.flac
+    12:25.33         125.40 MB  ---   --   ---xx   flac  0.4791  ph1996-08-13d1t10.flac
+     1:26.00          14.47 MB  ---   --   ---xx   flac  0.3650  ph1996-08-13d2t01.flac
+    10:33.36         106.57 MB  ---   --   ---xx   flac  0.5270  ph1996-08-13d2t02.flac
+    10:29.45         105.92 MB  ---   --   ---xx   flac  0.4724  ph1996-08-13d2t03.flac
+    22:46.25         229.86 MB  ---   --   ---xx   flac  0.5181  ph1996-08-13d2t04.flac
+     7:56.25          80.13 MB  ---   --   ---xx   flac  0.4429  ph1996-08-13d2t05.flac
+     8:18.41          83.87 MB  ---   --   ---xx   flac  0.5083  ph1996-08-13d2t06.flac
+     2:06.23          21.25 MB  ---   --   ---xx   flac  0.3881  ph1996-08-13d2t07.flac
+     5:26.54          54.96 MB  ---   --   ---xx   flac  0.4129  ph1996-08-13d2t08.flac
+     2:58.13          29.97 MB  ---   --   ---xx   flac  0.3790  ph1996-08-13d2t09.flac
+     4:04.24          41.10 MB  ---   --   ---xx   flac  0.4179  ph1996-08-13d2t10.flac
+     2:03.66          20.84 MB  ---   --   ---xx   flac  0.3912  ph1996-08-13d2t11.flac
+    15:43.41         158.73 MB  ---   --   ---xx   flac  0.5050  ph1996-08-13d3t01.flac
+     2:11.63          22.18 MB  ---   --   ---xx   flac  0.4475  ph1996-08-13d3t02.flac
+     4:55.48          49.74 MB  ---   --   ---xx   flac  0.4659  ph1996-08-13d3t03.flac
+     2:45.21          27.80 MB  ---   --   ---xx   flac  0.5299  ph1996-08-13d3t04.flac
+   182:06.00        1838.06 MB                           0.4853  (25 files)

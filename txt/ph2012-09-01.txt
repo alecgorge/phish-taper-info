@@ -1,0 +1,46 @@
+Phish
+9/1/12
+Dick's Sporting Goods Park 
+Commerce City, Colorado
+
+
+Field: AKG C414xls Hypercardioid > Edirol R4Pro ( Oade preamp mod ) @ 24/88.2
+config: pointed at PA array, FOB, dead center, 6.5 feet high
+
+Path: R4Pro > WaveBurner ( track on sector boundaries, fades, SRC, BDC ) > xACT ( to flac, and for tagging and checksums )
+
+Recorded, processed and let loose by Mike Kutik ( padelimike at mac d0t c0m )
+At bt.etree.org 2012-09-01
+
+
+Set the First:
+01 Run Like An Antelope 
+02 Backwards Down The Number Line 
+03 Tweezer
+04 Fluffhead 
+05 Roses Are Free 
+06 Funky Bitch 
+07 Moma Dance 
+08 When The Circus Comes To Town 
+09 Theme From The Bottom 
+10 Golgi Apparatus 
+11 Stealing Time From The Faulty Plan
+
+Set the Second:
+01 Golden Age
+02 Prince Caspian
+03 Light
+04 Boogie On Reggae Woman 
+05 The Wedge 
+06 The Horse
+07 Silent in the Morning 
+08 Mike's Song 
+09 No Quarter
+10 Weekapaug Groove 
+11 encore break
+12 Sleeping Monkey
+13Tweezer Reprise
+
+
+
+

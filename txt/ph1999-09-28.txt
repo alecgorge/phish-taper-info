@@ -1,0 +1,58 @@
+phish
+oak mtn amph.
+pelham, al
+1999-09-28
+
+set 1 (~77 min.)
+
+disc 1
+01-Wolfman's Brother, 
+02-Sneakin' Sally, 
+03-Tube, 
+04-Ginseng Sullivan >
+05-Roggae, 
+06-Maze, 
+07-Wading In the Velvet Sea, 
+08-Harry Hood
+
+set 2 (~97 min.)
+
+disc 2
+01-Farmhouse, 
+02-Heavy Things, 
+03-First Tube, 
+04-Tweezer > 
+05-Makisupa Policeman, 
+06-Chalkdust Torture, 
+
+disc 3
+01-Y.E.M., 
+E: 
+02-Halley's Comet > 
+03-Tweezer Reprise
+
+Show Notes: The YEM vocal jam included Sweet Home Alabama quotes.
+
+source: akg460b/ck61>V2>SBM1>D8, by JK
+transfer: DAT(1)>cd(1)>eac>cdwave>flac, by john m 2007-09-19
+
+notes: there are several good sources for this show, and imho this is one of the best!  thanks JK!
+
+
+phish1999-09-28d1t01.flac:f0ea8c9cb56ea46f035bea12bc5b4c7c
+phish1999-09-28d1t02.flac:d42e92a1e52a061540f706ad75cb1209
+phish1999-09-28d1t03.flac:603790b706ba0e9bf6d32ec992e269dd
+phish1999-09-28d1t04.flac:bd9d1b33c05947ede56f19087b5fb343
+phish1999-09-28d1t05.flac:3b2f1b8c3798a15052b366272b62d0b7
+phish1999-09-28d1t06.flac:cac3c681d45a1c2dd07ac7f8c4c05d7b
+phish1999-09-28d1t07.flac:fcdd60ae4408636f7f7372c2775a3b69
+phish1999-09-28d1t08.flac:4d3fe0f9be16a9b507b83b5e443eadc5
+phish1999-09-28d2t01.flac:571b6dcf5984eddc8e7a04417c974e4c
+phish1999-09-28d2t02.flac:4e24be834c0f1e86d02967fa93ef3427
+phish1999-09-28d2t03.flac:3b93bae5d4d881feb4a953c22eed4439
+phish1999-09-28d2t04.flac:e5c1a49fe7d52f628e70b00c21591e63
+phish1999-09-28d2t05.flac:db8c953099b5c2b9f27b16ac612fc0a9
+phish1999-09-28d2t06.flac:d53aba5a5b76f7a723da05731d6c16eb
+phish1999-09-28d3t01.flac:f21e727ec7fa3bfdba5a86e941307068
+phish1999-09-28d3t02.flac:3cd3f3ba60757a9945e27acaf62888af
+phish1999-09-28d3t03.flac:3ae27949d61431bf5e741e188afc6fa0

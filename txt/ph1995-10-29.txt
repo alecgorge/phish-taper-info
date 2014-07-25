@@ -1,0 +1,85 @@
+Phish
+October 29, 1995
+Louisville Gardens
+Louisville, KY
+
+source:
+Nak 300 shotguns > Sony SBM-1 > Sony TCD-D8 (@ 48 kHz)
+
+transfer:
+Tascam DA-20mkII > Marantz PMD-661 > SDHC card > usb 2.0 > pc > Samplitude SE v9.1.1 (volume adjustments, resample to 44.1 kHz, fades, track splits) > FLAC v1.2.1 (Level 8)
+
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded May 10, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+The original 48 kHz files from the DAT transfer have been archived and are available upon request.
+I smoothed out a level adjustment towards the beginning of "Buried Alive".
+I raised the volume of "Sweet Adeline" and "Amazing Grace" by 15dB and 18dB, respectively.
+
+Disc 1 - [66:49]
+Set I
+01 - [03:03] - Buried Alive >
+02 - [02:19] - Poor Heart
+03 - [08:11] - Julius
+04 - [07:48] - Punch You in the Eye
+05 - [03:36] - Cars Trucks Buses
+06 - [01:39] - The Horse >
+07 - [05:17] - Silent in the Morning
+08 - [12:07] - Split Open and Melt
+09 - [05:30] - NICU
+10 - [05:14] - Gumbo
+11 - [10:22] - Slave to the Traffic Light
+12 - [01:41] - Sweet Adeline *
+
+Disc 2 - [71:27]
+Set II
+01 - [06:58] - Makisupa Policeman ->
+02 - [16:12] - David Bowie
+03 - [06:46] - The Mango Song
+04 - [04:50] - It's Ice ->
+05 - [02:44] - Kung ->
+06 - [01:40] - It's Ice ->
+07 - [02:47] - Shaggy Dog ->
+08 - [11:03] - Possum ->
+09 - [09:34] - Lifeboy
+10 - [01:34] - Amazing Grace *
+11 - [01:58] - encore break
+12 - [05:23] - Funky Bitch
+
+* a cappella
+
+Show Notes: Check out the Beat It teases in Possum. The last known Shaggy Dog 
+was during the soundcheck on March 18, 1992 and the last known Shaggy Dog during a 
+show was on November 3, 1988 (686 shows).
+_______________________________________________________
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     3:02.49          30.73 MB  ---   --   ---xx   flac  0.4655  ph1995-10-29d1t01.flac
+     2:19.10          23.41 MB  ---   --   ---xx   flac  0.4944  ph1995-10-29d1t02.flac
+     8:11.30          82.67 MB  ---   --   ---xx   flac  0.5176  ph1995-10-29d1t03.flac
+     7:48.14          78.76 MB  ---   --   ---xx   flac  0.5011  ph1995-10-29d1t04.flac
+     3:36.10          36.36 MB  ---   --   ---xx   flac  0.4793  ph1995-10-29d1t05.flac
+     1:38.38          16.57 MB  ---   --   ---xx   flac  0.3786  ph1995-10-29d1t06.flac
+     5:17.20          53.37 MB  ---   --   ---xx   flac  0.4853  ph1995-10-29d1t07.flac
+    12:07.36         122.38 MB  ---   --   ---xx   flac  0.5345  ph1995-10-29d1t08.flac
+     5:29.67          55.50 MB  ---   --   ---xx   flac  0.4914  ph1995-10-29d1t09.flac
+     5:14.22          52.87 MB  ---   --   ---xx   flac  0.5028  ph1995-10-29d1t10.flac
+    10:22.27         104.70 MB  ---   --   ---xx   flac  0.4807  ph1995-10-29d1t11.flac
+     1:41.25          17.05 MB  ---   --   ---xx   flac  0.5235  ph1995-10-29d1t12.flac
+     6:57.48          70.26 MB  ---   --   ---xx   flac  0.4584  ph1995-10-29d2t01.flac
+    16:12.18         163.56 MB  ---   --   ---xx   flac  0.5049  ph1995-10-29d2t02.flac
+     6:45.59          68.26 MB  ---   --   ---xx   flac  0.4993  ph1995-10-29d2t03.flac
+     4:50.09          48.81 MB  ---   --   ---xx   flac  0.5155  ph1995-10-29d2t04.flac
+     2:43.55          27.54 MB  ---   --   ---xx   flac  0.4139  ph1995-10-29d2t05.flac
+     1:39.42          16.75 MB  ---   --   ---xx   flac  0.5211  ph1995-10-29d2t06.flac
+     2:46.55          28.05 MB  ---   --   ---xx   flac  0.4843  ph1995-10-29d2t07.flac
+    11:02.57         111.49 MB  ---   --   ---xx   flac  0.5134  ph1995-10-29d2t08.flac
+     9:33.40          96.48 MB  ---   --   ---xx   flac  0.4388  ph1995-10-29d2t09.flac
+     1:33.55          15.77 MB  ---   --   ---xx   flac  0.5516  ph1995-10-29d2t10.flac
+     1:57.60          19.82 MB  ---   --   ---xx   flac  0.4393  ph1995-10-29d2t11.flac
+     5:22.65          54.32 MB  ---   --   ---xx   flac  0.5502  ph1995-10-29d2t12.flac
+   138:15.11        1395.48 MB                           0.4951  (24 files)

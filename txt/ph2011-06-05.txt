@@ -1,0 +1,44 @@
+Phish
+06/05/2011
+Cincinnati, Ohio  Riverbend Music Center
+
+Source: Schoeps mk4v> KC5> M222> NT222> Lunatec V2> SD 744t (@24bit/96kHz)
+Location: Section 800, Row AA, Seat 818, DFC, DIN, 10' Stand
+
+Transfer: SD 744t> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (06/06/2011)
+
+
+Set I
+t01 [01:30] Intro
+t02 [06:37] AC/DC Bag>
+t03 [08:19] Punch You in the Eye>
+t04 [11:30] Bathtub Gin>
+t05 [09:21] Taste
+t06 [03:41] Lawn Boy
+t07 [06:51] Mound
+t08 [10:40] Gotta Jibboo>
+t09 [11:44] Reba
+t10 [07:25] Fee>
+t11 [09:14] Backwards Down the Number Line
+
+Set II
+t12 [00:36] Intro
+t13 [04:26] Carini>
+t14 [12:03] Tweezer>
+t15 [07:21] Free
+t16 [07:39] Crosseyed and Painless>
+t17 [10:49] Light>
+t18 [05:32] Boogie On Reggae Woman>
+t19 [08:36] Julius
+t20 [19:14] You Enjoy Myself
+t21 [02:14] crowd
+
+Encore
+t22 [05:59] Loving Cup>
+t23 [03:53] Tweezer Reprise
+
+
+Notes:
+Thanks to Jason Lonchar for the Schoeps tubes
+Set I [1:26:52] Set II [1:18:29] Encore [9:52]

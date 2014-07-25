@@ -1,0 +1,71 @@
+PHISH
+10-01-89 
+The Front - Burlington, VT 
+
+Source: SBD > Cass/x > DAT 
+Transfer: Tascam DA-30 mkII > HHb CDR850 > CDR (master) > EAC > SHN
+
+DAT>CD Transfer by Bob Silver (Thanks Bob!)
+SHN Conversion by Ben Mohr (bmohr@udel.edu)
+
+---------------------------------------------------
+ Disc 1:                                   (78:59)
+---------------------------------------------------
+-Set 1-
+1. Alumni Blues > LtJP > Alumni Blues      (05:25)
+2. McGrupp and the Watchful Hosemasters -> (05:05)
+3. Who Do We Do >                          (05:15)
+4. Golgi Apparatus                         (05:43)
+5. Harry Hood ->                           (10:32)
+6. The Chase                               (01:07)
+7. Wilson  >                               (04:23)
+8. Foam                                    (08:34)
+9. Ya Mar                                  (07:16)
+10. Oh Kee Pa Ceremony >                   (01:45)
+11. Suzy Greenberg >                       (05:32)
+12. Run Like an Antelope                   (09:39)
+-Set 2-
+13. AC/DC Bag                              (05:51)
+14. My Sweet One                           (02:52)
+
+---------------------------------------------------
+ Disc 2:                                   (76:32)
+---------------------------------------------------
+1. Reba*                                   (12:34)
+2. Dinner and a Movie >                    (03:45)
+3. Bundle of Joy ->                        (01:51)
+4. Possum                                  (08:52)
+5. You Enjoy Myself >                      (17:30)
+6. If I Only Had a Brain                   (03:04)
+7. Contact                                 (07:01)
+8. Split Open and Melt                     (06:38)
+9. Lizards                                 (10:26)
+-Encore-
+10. crowd noise                            (00:55)
+11. Highway to Hell                        (03:56)
+
+*With additional verse and instrumental section (they do the sections of Reba that 
+  immdediately follow the last "bag it tag it" chorus in the first part of the song, 
+  then go right into the beginning of the song); with vocal jam; first time played. 
+
+Notes:
+-This was an all ages show...see end of d1t04 for banter
+-I could only find one other copy of this show which also contained the following flaws
+-d1t05 2:37 dropout
+-d1t08 2:58 amplitude fluc, 3:42 slight static
+-d2t05 13:20 splice (missing some vocal jam)
+-Some minimal whine peaks exist from d1t08 7:29-d2t04 2:09 (too many to remove without 
+  harming sound quality)
+-Tape flips:
+  d1t08 7:29 (44:59)
+  d2t05 9:49 (45:34), 12:25? (48:10)
+
+Fixes:
+-d1t08 5:19.177 (0.254 sec) removed dropout
+-d2t04 8:39.385 spliced dropout during crowd noise
+-d2t06 0:58.770 removed R channel static with SF4.5 pencil tool
+-d2t07 1:58.655 (0.021 sec) removed dropout
+-Removed whine from d1t08 7:29-d1t12 end centered @ 16,150Hz -35dB from 15,350-16,950Hz
+-Removed whine from d1t13 begin-d2t04 2:09 centered @ 15,800Hz -20dB from 15,300-16,500Hz
+-Performed Cool Edit Pro hiss reduction based on 2000 point floor noise sample during 
+  tape flip with dB reduction of 8 dB while increasing high shelf by 4 dB

@@ -1,0 +1,75 @@
+Phish
+04-12-91
+Barrymore Theater - Madison, WI
+
+Source: SBD > Cass/0 > DAT 
+
+Transfer: 
+Fostex D5 > Tascam CDRW 700 > CDR (master) > 
+EAC (secure) > CDWav > SF4.5 > shntool > FLAC
+
+FLAC Conversion by Ben Mohr (benjamin.mohr@ce.gatech.edu)
+
+----------------------------------------------
+ Disc 1:                              (66:51)
+----------------------------------------------
+-Soundcheck-
+1. Sweet Adeline*                     (00:44)
+2. Carolina                           (01:53)
+3. Tela                               (07:11)
+4. Horn                               (04:32)
+5. Funky Bitch                        (03:38)
+
+-Set 1-
+6. intro                              (00:26)
+7. Llama                              (04:05)
+8. Uncle Pen                          (04:25)
+9. Divided Sky                        (12:05)
+10. Guelah Papyrus                    (05:49)
+11. The Oh Kee Pa Ceremony >          (01:47)
+12. Suzy Greenberg                    (05:06)
+13. Stash//                           (07:56)
+14. Rocky Top                         (02:42)
+15. Golgi Apparatus                   (04:32)
+
+----------------------------------------------
+ Disc 2:                              (70:09)
+----------------------------------------------
+-Set 2-
+1. The Landlady                       (03:31)
+2. Runaway Jim                        (06:31)
+3. You Enjoy Myself**                 (15:29)
+4. //Fluffhead                        (13:18)
+5. Cavern                             (04:35)
+6. Tela                               (06:17)
+7. Buried Alive                       (02:20)
+8. Reba                               (10:53)
+9. My Sweet One                       (02:04)
+10. Good Times Bad Times              (05:11)
+
+----------------------------------------------
+ Disc 3:                              (20:17)
+----------------------------------------------
+-Encore-
+1. intro                              (00:36)
+2. Contact ->                         (05:54)
+3. Big Black Furry Creature from Mars>(07:51)
+4. The Squirming Coil                 (05:56)
+
+* Aborted due to Fishman "not being able to hit the high notes"
+** With "Another Bites the Dust" tease and "Balls in the butter" vocal jam
+
+Notes:
+-The Phish Companion does not list Sweet Adeline in the soundcheck
+-Tape flips: d1t13 7:56 (41:39), d2t04 00:00 (32:45)
+-It may be possible to overburn the audio as two discs: 
+d1t01-d2t02 (76:53); d2t03-d3t04 (80:24)
+
+Fixes:
+-Removed diginoise L channel d1t02 00:07.710 (0.032s) by replacing with R channel
+-Removed diginoise R channel d1t09 01:13.148 (0.032s) by replacing with L channel
+-Removed diginoise L channel d2t03 03:12.036 (0.033s) by replacing with R channel
+-Removed diginoise L channel d2t04 04:33.080 (0.061s) by replacing with R channel
+-Removed diginoise R channel d2t04 04:33.141 (0.030s) by replacing with L channel
+-Removed diginoise L channel d2t04 04:33.167 (0.081s) by replacing with R channel
+-Removed diginoise R channel d2t09 00:16.487 (0.033s) by replacing with L channel

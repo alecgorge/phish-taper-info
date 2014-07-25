@@ -1,0 +1,46 @@
+Phish
+2-5-90
+Myskyn's - Charleston, SC
+
+Source: SBD > Cass/x > DAT > CDR > EAC (secure) > SF4.5c > shntool > FLAC
+SHN Conversion by Ben Mohr (benjamin.mohr@ce.gatech.edu)
+
+
+--------------------------------------
+Disc 1:                       (72:25)
+--------------------------------------
+1. Alumni Blues > Letter > Alumni               (05:36)
+2. Split Open and Melt        (08:06)
+3. Donna Lee                  (04:03)
+4. Slave to the Traffic Light (07:18)
+5. Squirming Coil             (05:27)
+6. You Enjoy Myself//         (12:48)
+7. banter*                    (01:01)
+8. Carolina                   (01:32)
+9. Funky Bitch                (04:40)
+10. Bathtub Gin               (05:35)
+11. Foam                      (08:18)
+12. Jesus Just Left Chicago   (08:01)
+
+* Fashion show (Fish's dress)
+
+Notes:
+-There is no setlist for this show listed in the Phish Companion
+-Tape flip: d1t06 12:48 (43:18)
+
+Fixes:
+-Removed pop d1t05 1:33.870 with SF4.5c pencil tool
+-Minimized skip by removing pop d1t06 1:52.050 (0.003s)
+
+ph1990-02-05d1t06.flac:e7df5bd25adfb9731d4686a9ab3d1f8a
+ph1990-02-05d1t12.flac:76694acfa33bb052bd3344458964b74e
+ph1990-02-05d1t11.flac:606319be100f12335f2e46940f369864
+ph1990-02-05d1t10.flac:4d23c7c8a55c458a675f06467fa6b4cb
+ph1990-02-05d1t09.flac:23f07f605e5c4d716cdf34753fe2a533
+ph1990-02-05d1t08.flac:45a0a74db3824f60de00df643abfb825
+ph1990-02-05d1t07.flac:ecb6bc3e505741443213610a7936e1ec
+ph1990-02-05d1t01.flac:45e78b8a567e77d01b464150b49f6e0a
+ph1990-02-05d1t02.flac:ca29a42c7aebf2fa8e310c48c63bc32b
+ph1990-02-05d1t03.flac:44be817311577886e9106cf52ac9a236
+ph1990-02-05d1t04.flac:5a695a9c7a6fadcd2a7203aa0153a9f2
+ph1990-02-05d1t05.flac:c3e7c1fdef384dd649e24caf954da89d

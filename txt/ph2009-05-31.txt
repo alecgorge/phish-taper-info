@@ -1,0 +1,71 @@
+Phish
+May 31, 2009
+Fenway Park
+Boston, MA
+
+source:
+Schoeps mk41 > kc5 > cmc6 > Sonosax SX-M2 > Sound Devices 722 (@ 24 bit / 48 kHz)
+
+transfer:
+CF card > usb 2.0 > pc > Samplitude SE v9.1.1 (fades, splice, track splits, resample to 44.1 kHz, dither to 16 bit) > FLAC v1.2.1 (Level 8)
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded June 1, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+These are 16 bit / 44.1 kHz files intended for CD listening, the original 24 bit / 48 kHz files are also available.
+A big thanks to Dave for giving me his spare CF card with this recording right after the show!
+A few minutes of crowd noise was removed between "The Star-Spangled Banner" and "Sample in a Jar".
+
+Disc 1 - [78:19]
+Set I
+01 - [03:53] - show intro
+02 - [03:27] - The Star-Spangled Banner
+03 - [05:42] - Sample in a Jar
+04 - [07:15] - Moma Dance
+05 - [08:07] - Chalk Dust Torture
+06 - [07:30] - Ocelot *
+07 - [11:30] - Stash
+08 - [03:52] - Bouncing Around the Room
+09 - [02:46] - Poor Heart
+10 - [07:47] - Limb by Limb
+11 - [04:42] - Wading in the Velvet Sea
+12 - [11:48] - Down with Disease
+
+Disc 2 - [73:52]
+Set I continued
+01 - [06:19] - Destiny Unbound
+02 - [08:03] - Character Zero
+Set II
+03 - [13:30] - Tweezer >
+04 - [05:10] - Light *
+05 - [11:17] - Bathtub Gin
+06 - [12:03] - David Bowie
+07 - [17:29] - Time Turns Elastic *
+
+Disc 3 - [52:20]
+Set II continued
+01 - [08:49] - Free
+02 - [05:24] - The Ballad of Curtis Lowe
+03 - [21:11] - You Enjoy Myself
+04 - [02:10] - encore break
+05 - [04:43] - Cavern
+06 - [06:01] - Good Times Bad Times
+07 - [03:10] - Tweezer Reprise
+08 - [00:53] - show outro
+
+* first time played
+
+splice notes:
+Due to rain at the start of the show, Dave did not record the first couple of songs.
+The missing portion was spliced in with the following source:
+Telefunken USA Ela M 262 (hypers) > Lunatec V3 > MT (@ 24 / 44.1)
+recorded by Jesse Hurlburt (and a big thanks to Jesse for giving me his spare CF card with his recording!)
+Jesse's Telefunken recording was used for the following portions:
+d1t01 - all - show intro
+d1t02 - all - Star-Spangled Banner
+d1t03 - all - Sample in a Jar
+d1t04 - all - Moma Dance
+d1t05 - [00:00] to [01:54] - Chalk Dust Torture

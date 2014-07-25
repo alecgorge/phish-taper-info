@@ -1,0 +1,48 @@
+PHiSH - 9/12/00
+Tweeter Center (GREAT WOODS!)
+Mansfield, MA
+
+FM-ALD SBD/AUD Hybrid
+FM/ALD Source: In house FM > DAT @ 48K
+AUD Source: B&K 4011's > Lunatec V2 > ADC20 > DA-P1
+
+
+DISC ONE (AUD only)
+Set One:
+01. Wolfman's Brother
+02. Scent of a Mule
+03. My Soul
+04. Ginseng Sullivan
+05. First Tube
+06. Divided Sky
+07. Wilson
+
+DISC TWO (Hybrid)
+Set Two:
+01. Down with Disease
+02. Heavy Things
+03. Split Open & Melt
+04. HYHU > Bike > HYHU
+
+DISC THREE (more Hybrid)
+Set Two(cont):
+01. 2001 >
+02. Mike's Song >
+03. I am Hydrogen >
+04. Weekapaug Groove
+Encore:
+05. Squirming Coil
+
+Show Notes: After conferring with Trey before Bike, Fishman joked with the crowd, 
+remarking that he only knows to songs. Before the vacuum solo, he introduced the band. 
+
+Edits and mix performed on DoomTooth in Cubase SX by shakedown@furthurnet.org
+
+I had so much fun and recieved such a great response from the doing the 7/11/00 FM-ALD/AUD Hybrid that I thought I'd do another.  I wish the FM/ALD from Set One circulated as it would've been nice to do the entire show.  Alas, I included set one from the AUD source to make the show complete.  Believe it or not, there were more problems with the AUD than with the FM/ALD when I was performing this mix - there were at least 3 major dropouts in the AUD, I patched them so smoothly you'll never even notice.  After rendering all of Set II in Cubase SX I used CD-WAV to create track ID's and then used SHNv3 to create seekable SHNs.Big thanks to marklar (Mr. Marmar) for some advice about the FM and some feedback on the final mix.  
+
+Why is this a "hybrid" and not a "matrix"? 
+I guess it's a post-production matrix, but the term hybrid came from a friend and it refers to my patented process for mixing and mastering the 2 filesets into 1.  
+
+the original filesets used were:
+http://db.etree.org/shninfo_detail.php?shnid=1579
+http://db.etree.org/shninfo_detail.php?shnid=5481

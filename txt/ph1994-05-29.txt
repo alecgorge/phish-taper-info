@@ -1,0 +1,107 @@
+Phish
+May 29, 1994
+Laguna Seca Raceway
+Monterey, CA
+
+Set I source:
+Schoeps mk4 > kc5 > cmc5 > Sonosax SX-M2 > Apogee AD-500e > Sony TCD-D10 pro II (@ 48 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > WaveLab 5.01b (fades, de-emphasis, resample to 44.1 kHz, splice) > CD Wave v1.96.1 > FLAC v1.2.1 (Level 8)
+
+FLAC tags added with metaflac v1.2.1
+
+recorded by Eliot Byron
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded January 28, 2008
+
+-----------------------------------------------
+
+Set II Source: In-house FM Broadcast > Boom box headphone out > Sony TCD-D3 DAT 32k (long play) 
+DAT master > HHb CDR830 > EAC > Adobe Audition (EQ, fades) > CD Wave > FLAC16 
+
+notes:
+The original DAT recording was made with pre-emphasis.
+The Waves Q10 Paragraphic EQ (v5.0) plug-in was used to de-emphasize the recording.
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+Big thanks to Eliot for letting me borrow the master DATs!
+
+Disc 1 - [60:19]
+Set I
+01 - [13:26] - The Divided Sky
+02 - [06:17] - Guelah Papyrus
+03 - [05:26] - Halley's Comet >
+04 - [07:07] - Down with Disease
+05 - [03:54] - Sparkle
+06 - [07:09] - Julius
+07 - [03:45] - I Didn't Know
+08 - [13:14] - David Bowie
+
+Set II
+
+01. Nellie Cane 
+02. Split Open and Melt 
+03. Esther 
+04. Chalk Dust Torture 
+05. Horn 
+06. McGrupp and the Watchful Hosemasters 
+07. Oh Kee Pa Ceremony-> 
+08. Suzy Greenberg 
+09. Run Like an Antelope 
+10. Free bird 
+
+Encore:  
+11. Wilson 
+12. Golgi Apparatus 
+13. Rocky Top 
+
+Enocre 2:
+14. Jam
+15. Harry Hood 
+16. Good Times Bad Times 
+
+splice notes:
+There were two minor drop-outs on the DAT during "David Bowie".
+These were patched with the following source:
+
+Schoeps MK4 > Rbox > Sony TCD-D10PROII (FOB DFC)
+Taped by Keith Litzenberger
+http://db.etree.org/shn/84441
+
+Keith's source was used at the following spots:
+[02:17] to [02:19]
+[07:28] to [07:30]
+
+-------------------------------------------------------------------------------------------
+
+SHNtool output:
+
+    length     expanded size   cdr  WAVE problems filename
+    13:26.24      142234892    ---   --   ---xx   ph1994-05-29d1t01.flac
+     6:17.22       66554588    ---   --   ---xx   ph1994-05-29d1t02.flac
+     5:26.10       57529964    ---   --   ---xx   ph1994-05-29d1t03.flac
+     7:06.67       75304028    ---   --   ---xx   ph1994-05-29d1t04.flac
+     3:54.25       41336444    ---   --   ---xx   ph1994-05-29d1t05.flac
+     7:08.57       75633308    ---   --   ---xx   ph1994-05-29d1t06.flac
+     3:45.28       39755900    ---   --   ---xx   ph1994-05-29d1t07.flac
+    13:13.67      140042828    ---   --   ---xx   ph1994-05-29d1t08.flac
+     2:53.22       30568988    ---   --   ---xx   ph1994-05-29d2t01.flac
+    15:08.04      160180652    ---   --   ---xx   ph1994-05-29d2t02.flac
+     9:02.63       95757020    ---   --   ---xx   ph1994-05-29d2t03.flac
+     6:32.03       69155900    ---   --   ---xx   ph1994-05-29d2t04.flac
+     3:54.73       41449340    ---   --   ---xx   ph1994-05-29d2t05.flac
+     9:10.68       97179980    ---   --   ---xx   ph1994-05-29d2t06.flac
+     1:42.10       18016364    ---   --   ---xx   ph1994-05-29d2t07.flac
+     5:42.52       60451148    ---   --   ---xx   ph1994-05-29d2t08.flac
+    13:06.29      138718652    ---   --   ---xx   ph1994-05-29d2t09.flac
+     4:07.09       43592012    ---   --   ---xx   ph1994-05-29d2t10.flac
+     1:35.03       16765100    ---   --   ---xx   ph1994-05-29d2t11.flac
+     4:31.34       47884412    ---   --   ---xx   ph1994-05-29d3t01.flac
+     4:29.24       47508092    ---   --   ---xx   ph1994-05-29d3t02.flac
+     2:28.31       26180156    ---   --   ---xx   ph1994-05-29d3t03.flac
+     1:33.09       16426412    ---   --   ---xx   ph1994-05-29d3t04.flac
+     1:33.31       16478156    ---   --   ---xx   ph1994-05-29d3t05.flac
+    13:21.39      141388172    ---   --   ---xx   ph1994-05-29d3t06.flac
+     5:13.68       55373180    ---   --   ---xx   ph1994-05-29d3t07.flac
+     1:05.28       11531900    ---   --   ---xx   ph1994-05-29d3t08.flac
+   167:31.00     1772997588 B                     (totals for 27 files, 0.4600 overall compression ratio)

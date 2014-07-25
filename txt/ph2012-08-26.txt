@@ -1,0 +1,50 @@
+Phish
+08/26/2012
+Charlotte, North Carolina  Verizon Wireless Amphitheatre
+
+Source: Schoeps mk4v> KC5> M222> Apogee AD-1000(@20bit)> SD 722 (@24bit/48kHz)
+Location: OTS
+
+Transfer: SD 722> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (08/27/2012)
+
+
+Set I
+t01 [01:20] Intro
+t02 [06:05] AC/DC Bag >
+t03 [07:12] The Moma Dance>
+t04 [05:52] Heavy Things
+t05 [09:02] Ocelot
+t06 [06:24] Funky Bitch>
+t07 [09:39] Bathtub Gin>
+t08 [13:53] Fluffhead>
+t09 [03:18] Alumni Blues>
+t10 [00:32] Letter To Jimmy Page>
+t11 [01:09] Alumni Blues
+t12 [02:49] banter
+t13 [05:02] Tube
+t14 [03:35] My Sweet One
+t15 [10:52] David Bowie
+
+Set II
+t16 [01:09] Intro
+t17 [11:24] Crosseyed and Painless>
+t18 [08:53] McGrupp and the Watchful Hosemasters>
+t19 [07:25] Mike's Song>
+t20 [03:51] Bouncing Around the Room
+t21 [03:14] Axilla>
+t22 [13:17] Tweezer>
+t23 [10:08] Harry Hood>
+t24 [01:11] The Horse>
+t25 [04:39] Silent in the Morning>
+t26 [06:10] Weekapaug Groove
+t27 [05:52] Suzy Greenberg
+t28 [02:14] crowd
+
+Encore
+t29 [05:28] Big Black Furry Creature from Mars>
+t30 [04:00] Tweezer Reprise
+
+
+Notes:
+Set I [1:26:54] Set II [1:19:27] Encore [9:28]

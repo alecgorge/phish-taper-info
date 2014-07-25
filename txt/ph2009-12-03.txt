@@ -1,0 +1,40 @@
+Phish
+12/03/2009
+New York, New York  Madison Square Garden
+
+Source: Schoeps mk41> KC5> M222> NT222> Lunatec V3> SD 722 (@24bit/48kHz)
+Location: OTS, Section 10, Row D, Seats 3 & 4, 9' Stand, DINA
+
+Transfer: SD 722> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44)
+Taped, Transferred & Seeded by: taylorc (12/04/2009)
+
+
+Set I
+t01 [08:43] Punch You in the Eye
+t02 [07:56] Backwards Down the Number Line
+t03 [03:20] Axilla >
+t04 [09:10] Taste
+t05 [05:47] Boogie On Reggae Woman
+t06 [11:43] Stash
+t07 [03:04] Lawn Boy
+t08 [15:21] Time Turns Elastic
+t09 [07:04] Back on the Train >
+t10 [08:25] Julius
+
+Set II
+t11 [19:09] Down with Disease >
+t12 [09:15] Piper >
+t13 [15:10] Fluffhead
+t14 [06:52] Cities >
+t15 [06:59] Free
+t16 [05:43] Halley's Comet >
+t17 [06:32] Also Sprach Zarathustra >
+t18 [10:10] David Bowie
+t19 [03:10] crowd
+
+Encore
+t20 [06:22] Character Zero
+
+
+Notes:
+Set I [1:20:33] Set II [1:23:00] Encore [6:33]

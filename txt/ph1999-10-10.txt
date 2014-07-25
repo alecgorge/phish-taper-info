@@ -1,0 +1,48 @@
+Phish
+October 10, 1999
+Pepsi Arena
+Albany, NY
+
+source:
+(FOB) Schoeps mk4 > kc5 > cmc6 > Sonosax SX-M2 > Sony D-100 (@48kHz)
+
+transfer:
+Sony D8 > M-Audio MicroTrack > CF Card > WaveLab 5.01b (fades, resample to 44.1kHz) > CD Wave v1.94.5 > FLAC (level 8)
+
+recorded by Dave Flaschner & Tony A.
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded 10/24/05
+
+notes:
+48kHz files of the original DAT transfer have been archived, and are available upon request
+
+Disc 1 - [68:09]
+Set I
+01 - [00:36] - intro
+02 - [06:29] - Farmhouse
+03 - [10:59] - Gotta Jibboo
+04 - [08:05] - Heavy Things
+05 - [08:29] - First Tube
+06 - [04:56] - Dirt
+07 - [11:08] - Vultures
+08 - [17:28] - Stash
+
+Disc 2 - [46:48]
+Set II
+01 - [07:54] - Jam >
+02 - [26:32] - You Enjoy Myself * ->
+03 - [09:20] - Prince Caspian * ->
+04 - [03:02] - Train Song
+
+Disc 3 - [37:35]
+Set II continued
+01 - [10:08] - Bathtub Gin
+02 - [09:26] - Character Zero
+03 - [03:34] - encore break
+04 - [06:40] - Contact
+05 - [07:47] - Misty Mountain Hop
+
+* unfinished
+
+Show Notes: At the end of the second set, Trey thanked the band's families, as well 
+as the crew and the fans. This version of YEM did not contain a vocal jam.

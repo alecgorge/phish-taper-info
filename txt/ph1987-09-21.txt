@@ -1,0 +1,126 @@
+Phish
+September 21, 1987
+Nectar's
+Burlington, VT
+
+source:
+audience recording > cass/x
+
+cassette to DAT:
+cass/x > Sony K615S > Sony ZA5ES w/SBM (@ 48 kHz)
+
+DAT to FLAC:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > Samplitude SE v9.1.1 (DSP) > FLAC v1.2.1 (Level 8)
+
+FLAC tags added with metaflac v1.2.1
+
+cassette to DAT transfer by Brett Stone and Paul Jones
+DAT to FLAC transfer by Jason Sobel (jasonsobel@gmail.com)
+seeded April 1, 2008
+
+Digital Signal Processing (DSP) notes:
+Waves X-Noise (v5.0) plug-in used to reduce background hiss
+fades
+resample to 44.1 kHz
+tracking
+
+other notes:
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+Big thanks to Brett for sending me his DATs to transfer to FLAC!
+
+show notes:
+tape flip cut in "AC/DC Bag" at [06:02]
+tape flip cut just after Dog Gone Dog (no music missing)
+the end of "Fluffhead" is cut
+
+Disc 1 - [50:51]
+Set I
+01 - [03:16] - The Man Who Stepped Into Yesterday >
+02 - [03:25] - Avenu Malkenu >
+03 - [01:35] - The Man Who Stepped Into Yesterday Reprise
+04 - [04:57] - Clod >
+05 - [06:06] - Slave to the Traffic Light
+06 - [04:55] - Funky Bitch
+07 - [05:30] - Wilson
+08 - [03:29] - Dear Mrs. Reagan
+09 - [05:09] - Golgi Apparatus >
+10 - [07:09] - AC/DC Bag ->
+11 - [05:20] - Possum
+
+Disc 2 - [63:42]
+Set II
+01 - [14:24] - You Enjoy Myself
+02 - [12:38] - The Curtain With
+03 - [02:57] - Big Black Furry Creature from Mars
+04 - [06:09] - Suzy Greenberg
+05 - [04:53] - Alumni Blues >
+06 - [01:06] - Letter to Jimmy Page >
+07 - [00:41] - Alumni Blues
+Set III
+08 - [01:02] - Happy Birthday to You *
+09 - [04:48] - Good Times Bad Times
+10 - [03:13] - Rocky Top **
+11 - [05:41] - Sneakin' Sally Through the Alley
+12 - [06:09] - Fee
+
+Dusc 3 - [56:43]
+Set III continued
+01 - [04:53] - The Divided Sky
+02 - [04:39] - Dog Gone Dog
+03 - [05:12] - The Ballad of Curtis Loew
+04 - [13:17] - Run Like an Antelope
+05 - [10:56] - Makisupa Policeman
+06 - [03:07] - Flat Fee
+07 - [04:36] - Fire
+08 - [03:16] - Terrapin
+09 - [02:50] - La Grange
+10 - [03:56] - Fluffhead
+
+* dedicated to "Spup"
+** first known performance
+
+According to the "Phish Companion", there is some uncertainty about the set breaks.
+Trey definitely announces a set break after "Alumni Blues", so that we know for sure.
+However, it seems as though the taper paused the original tape deck when there were long breaks between songs.
+Because of that, it remains unclear exactly where the break was between sets 1 and 2.
+I have "You Enjoy Myself" starting set 2, as that is consistent with the "Phish Companion".
+
+---------------------------------------------------------------------------------------------------------
+
+SHNtool len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     3:15.50       34515644 B   ---   --   ---xx   flac  0.4700  ph1987-09-21d1t01.flac
+     3:25.05       36173804 B   ---   --   ---xx   flac  0.5743  ph1987-09-21d1t02.flac
+     1:35.28       16823900 B   ---   --   ---xx   flac  0.5062  ph1987-09-21d1t03.flac
+     4:56.62       52360268 B   ---   --   ---xx   flac  0.5700  ph1987-09-21d1t04.flac
+     6:05.52       64508348 B   ---   --   ---xx   flac  0.5381  ph1987-09-21d1t05.flac
+     4:55.07       52054508 B   ---   --   ---xx   flac  0.5423  ph1987-09-21d1t06.flac
+     5:29.66       58190876 B   ---   --   ---xx   flac  0.5257  ph1987-09-21d1t07.flac
+     3:29.10       36891164 B   ---   --   ---xx   flac  0.4953  ph1987-09-21d1t08.flac
+     5:08.61       54474716 B   ---   --   ---xx   flac  0.5521  ph1987-09-21d1t09.flac
+     7:09.15       75710924 B   ---   --   ---xx   flac  0.5488  ph1987-09-21d1t10.flac
+     5:20.10       56471564 B   ---   --   ---xx   flac  0.4843  ph1987-09-21d1t11.flac
+    14:24.05      152421404 B   ---   --   ---xx   flac  0.4888  ph1987-09-21d2t01.flac
+    12:38.00      133711244 B   ---   --   ---xx   flac  0.5012  ph1987-09-21d2t02.flac
+     2:56.66       31201676 B   ---   --   ---xx   flac  0.5703  ph1987-09-21d2t03.flac
+     6:09.22       65143388 B   ---   --   ---xx   flac  0.5894  ph1987-09-21d2t04.flac
+     4:53.08       51704060 B   ---   --   ---xx   flac  0.6153  ph1987-09-21d2t05.flac
+     1:05.66       11621276 B   ---   --   ---xx   flac  0.6249  ph1987-09-21d2t06.flac
+     0:40.74        7230092 B   ---   --   ---xx   flac  0.6183  ph1987-09-21d2t07.flac
+     1:01.65       10913324 B   ---   --   ---xx   flac  0.5480  ph1987-09-21d2t08.flac
+     4:48.06       50817356 B   ---   --   ---xx   flac  0.6548  ph1987-09-21d2t09.flac
+     3:13.24       34101692 B   ---   --   ---xx   flac  0.6164  ph1987-09-21d2t10.flac
+     5:41.27       60215948 B   ---   --   ---xx   flac  0.6173  ph1987-09-21d2t11.flac
+     6:09.26       65152796 B   ---   --   ---xx   flac  0.5803  ph1987-09-21d2t12.flac
+     4:53.20       51732284 B   ---   --   ---xx   flac  0.6146  ph1987-09-21d3t01.flac
+     4:38.65       49192124 B   ---   --   ---xx   flac  0.6001  ph1987-09-21d3t02.flac
+     5:12.27       55100348 B   ---   --   ---xx   flac  0.4403  ph1987-09-21d3t03.flac
+    13:17.28      140656700 B   ---   --   ---xx   flac  0.5230  ph1987-09-21d3t04.flac
+    10:55.62      115687868 B   ---   --   ---xx   flac  0.5106  ph1987-09-21d3t05.flac
+     3:06.56       32942156 B   ---   --   ---xx   flac  0.5305  ph1987-09-21d3t06.flac
+     4:35.44       48613532 B   ---   --   ---xx   flac  0.6073  ph1987-09-21d3t07.flac
+     3:16.37       34661468 B   ---   --   ---xx   flac  0.4640  ph1987-09-21d3t08.flac
+     2:49.43       29912780 B   ---   --   ---xx   flac  0.5715  ph1987-09-21d3t09.flac
+     3:56.33       41708060 B   ---   --   ---xx   flac  0.5369  ph1987-09-21d3t10.flac
+   171:15.45     1812617292 B                            0.5425  (33 files)

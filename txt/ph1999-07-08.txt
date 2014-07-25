@@ -1,0 +1,53 @@
+Phish
+07/08/1999
+Virginia Beach, Virginia Virginia Beach Amphitheatre
+
+Source: [Set I] (OTS) Schoeps CMC6/mk41> Apogee AD-1000> Tascam DA-P1 (@44.1kHz)
+Source: [Set II+E] (OTS) Schoeps CMC6/mk41> Sonosax SX-M2> Tascam DA-P1 (@44.1kHz)
+Taped by: Taylor Caine
+
+Transfer: Tascam DA-40> M-Audio Audiophile 2496> Samplitude 7.0 (fades)> CDWave> flac
+Transferred & Seeded by: TaylorC (07/16/2007)
+
+
+Set I
+t01 [08:43] Julius
+t02 [23:38] Fee > Jam
+t03 [10:36] Guyute
+t04 [05:02] Dirt
+t05 [03:34] Nellie Kane
+t06 [14:06] Stash
+t07 [05:09] Cavern
+
+Set II
+t08 [18:57] Birds of a Feather>
+t09 [09:42] Prince Caspian>
+t10 [11:51] Jesus Just Left Chicago
+t11 [06:19] Saw it Again
+t12 [02:14] Sleep
+t13 [12:11] Meatstick
+t14 [06:34] Tube>
+t15 [13:03] Simple
+
+Encore
+t16 [04:40] Terrapin>
+t17 [02:40] HYHU
+t18 [08:11] Character Zero
+
+Show Notes: Birds included a Days Between (Grateful Dead) jam from Page and Mike. Brain 
+(first since November 16, 1995, or 246 shows) included strange lyrics from Mike and 
+Trey, including an Uno reference. During Meatstick, Trey and Mike put down their 
+instruments, came to the front of the stage and taught the crowd The Meatstick Dance. 
+Simple ended akin to Coil, with each member of the band leaving the stage until only 
+Page was left. At the beginning of the encore, Fishman came out holding the Electrolux 
+vacuum and the band launched into Terrapin (first since July 11, 1996, or 211 shows). 
+Saw It Again was played for the first time since December 12, 1997 (77 shows). 
+
+Notes:
+
+Birds of a Feather w/If I Only Had a Brain jam
+Saw it Again, last played 12/12/1997 (77 Shows)
+Terrapin, last played 07/11/1996 (171 Shows)
+Set I [1:10:48] Set II [1:20:51] Encore [15:31]
+Added Fades at start/end of Set I, start of Set II & end of Encore
+CD-R Tracking: D1 (t01-t07), D2 (t08-t12), D3 (t13-t18)

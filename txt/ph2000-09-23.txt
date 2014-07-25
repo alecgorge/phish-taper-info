@@ -1,0 +1,71 @@
+Phish
+September 23, 2000
+Allstate Arena - Rosemont, IL
+
+Source: 	DAUD/FOB Schoeps MK4V (ORTF) > KC-5 Actives > CMC6 > 
+		Lunatec V2 > Apogee AD-1000 > Sony TCD-D8  @ 48kHz
+		(1st generation clone of master used in below transfer)
+		
+Conversion: 	Sony PCM-R500 > AM Presto II Coax > Delta Di0 2496 > 
+		Samplitude v5.5 > CDwav > flac16 
+		(Flac v1.0.4c level 8 encoding - highest compression)  
+		**No DAE at all** 		
+
+Detailed info:	Recording was done fob/dfc 50' from stage in hat by Chris O. & Tom T..
+		
+Huge thanks to Chris for the clones.
+Transferred, Encoded, and Seeded by Matt Edlhuber <medlhuber@hotmail.com>.
+Please contact me with questions etc.  
+
+Set I:
+Disc 1
+01: Come on Baby Let's Go Downtown* >
+02: The Moma Dance
+03: Frankenstein
+04: Halley's Comet->
+05: Fee
+06: Stash
+Set II:
+07: Birds Of A Feather
+	Total: 63:15
+
+Set II:
+Disc 2
+01: Tweezer->
+02: NICU->
+03: Scent of a Mule
+04: Fast Enough For You
+05: Piper->
+06: Character Zero
+encore:
+07: Sleeping Monkey->
+08: Tweezer Reprise
+	Total: 76:49
+
+Show Notes: Downtown debuted at this show. Tweezer featured an ending typical for 
+older Tweezers with a die-down akin to the Picture of Nectar album version. Some 
+fans felt the jam out of Piper resembled My Left Toe. 
+
+Comments: 
+
+*debut.
+
+Gain adjusted on V2 on d1t1 @ 3:45
+
+    length     expanded size   cdr  WAVE  probs   filename
+     3:50.49      40687292     ---   --    -xx    ph2000-09-23d1t01.flac
+    11:17.60     119563964     ---   --    -xx    ph2000-09-23d1t02.flac
+     5:03.13      53479820     ---   --    -xx    ph2000-09-23d1t03.flac
+    14:08.31     149660156     ---   --    -xx    ph2000-09-23d1t04.flac
+     6:55.05      73217804     ---   --    -xx    ph2000-09-23d1t05.flac
+    12:56.53     137011100     ---   --    -xx    ph2000-09-23d1t06.flac
+     9:01.48      95545340     ---   --    -xx    ph2000-09-23d1t07.flac
+    15:45.18     166740380     ---   --    -xx    ph2000-09-23d2t01.flac
+     4:54.31      51934556     ---   --    -xx    ph2000-09-23d2t02.flac
+     8:59.43      95180780     ---   --    -xx    ph2000-09-23d2t03.flac
+     7:24.37      78408668     ---   --    -xx    ph2000-09-23d2t04.flac
+    19:13.54     203516252     ---   --    -xx    ph2000-09-23d2t05.flac
+    10:54.08     115384460     ---   --    -xx    ph2000-09-23d2t06.flac
+     5:41.55      60281804     ---   --    -xx    ph2000-09-23d2t07.flac
+     3:53.66      41256476     ---   --    -xx    ph2000-09-23d2t08.flac
+   140:00.46    1481868852 B                      (totals for 15 files, 0.4944 overall compression ratio)

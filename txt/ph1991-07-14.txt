@@ -1,0 +1,144 @@
+Phish
+July 14, 1991 
+Townshend Family Park
+Townshend, VT 
+With The Giant Country Horns
+
+Remastered version
+
+Main source
+Source:   SBD > (Master Cass >DAT or Master DAT >Cass?)*
+Transfer: DAT clone > standalone > CDR (untracked) > EAC
+	  (secure, offset corrected) > CD Wav > shntool > CDR >
+          EAC (secure, offset corrected)** > .wav > flac16
+ripping and flac encoding by Tilli (tilliATrealtilliDOTndoDOTcoDOTuk)
+thanks to Marcello for the DAT > CDR copy
+
+Patch source
+Source: FOB NAK300's>SHURE M267>SONY D5
+Conversion: MAC>SONY DSR45>AVID EXPRESS>WAV>SHORTEN FOR MAC
+
+Patching and remastering by John Beatty (john@nineninjas.com)
+
+CD 1
+Set I
+1  Reba
+2  Llama
+3  The Squirming Coil
+4  Golgi Apparatus
+5  Guelah Papyrus
+6  My Sweet One
+7  Colonel Forbin's Ascent ->
+8  Fly Famous Mockingbird
+9  The Sloth
+10 I Didn't Know
+11 Possum 
+
+CD 2
+Set II
+1  Suzy Greenberg
+2  Caravan
+3  The Divided Sky
+4  Gumbo
+5  Dinner and a Movie
+6  Bouncing Around the Room
+7  Split Open and Melt
+8  Magilla >
+9  Cavern
+10 Run Like an Antelope
+
+CD 3
+Set III
+1  AC/DC Bag >
+2  The Landlady
+3  Esther
+4  Chalk Dust Torture
+5  Bathtub Gin
+6  Mike's Song ->
+7  I Am Hydrogen ->
+8  Weekapaug Groove
+9  HYHU >
+10 Touch Me
+11 Harry Hood 
+Encore
+12 Contact 
+13 Big Black Furry Creature From Mars
+
+Show Notes: This show, which featured The Giant Country Horns for most of the second 
+and third sets, began with a humorous announcement from Trey that he felt "overdressed" 
+during National Nudist Week. My Sweet One included a tease of the "Bonanza" 
+theme and Magilla included a "Flintstones" tease. Possum included an Oom Pa Pa Signal 
+and a Dave's Energy Guide tease, while Weekapaug included Tweezer teases from Trey. There 
+was a long wait during HYHU for Fishman, who was apparently in the bathroom. Hood included 
+full-band "Jeopardy" theme teases. This show ran much longer than scheduled (at one point, 
+when Trey noted that they should wind up the show, a fan urged the band to "fuck the clock"), 
+prompting Trey to beg the crowd to leave in a timely and orderly fashion after the encore.
+
+NOTES
+
+flaws in original (SBD) noted in info file:
+d1t05 there´s a dropout in the SBD tape before Golgi and the beginning
+      of Golgi is cut. starts at "with a ticket stub..."
+d1t11 like Golgi, there´s a dropout in the SBD tape before Possum
+      (very last second of I Didn´t Know also missing) and the beginning
+      of Possum is cut. starts during instrumental intro section
+d2t02 diginoise in the vocal during Suzy Greenberg
+d2t10 and again a drop in the SBD tape before Antelope (very end of
+      Cavern cuts) and the first few notes of Antelope are missing
+d3t01 closed gap @ 0:05, probably a few seconds missing
+
+additional flaws in original:
+d1t01-d1t04 left/right channels unbalanced until 2:39 in Golgi
+d1t01 Reba louder than rest of the tracks in the first set
+d1t01 Clicks in Reba at 5:10 & 7:02
+d1t01 fuzz in Reba at 13:08
+d1t03 dropout in Squirming Coil at 2:50
+d1t07 same noise as Suzy in the vocal on Forbin
+d2t01 cut at the very beginning of Suzy
+d2t03 fuzz in Divided Sky at :27 
+d2t05 buzz in Dinner & a Movie at :35 
+d2t06 dropout in ambience/crowd at the end of SOAM 
+d2t09 click in "give the director" 
+d2t10 clicks in Antelope intro at 1:38
+d2t10 buzzes in speech at end of Antelope 
+d3t05-6 beginning of Mike's missing 
+d3t08 buzz in Weekapaug vocal at 6:06
+d3t09 cut at beginning of Touch Me (2:30) 
+
+The FOB source didn't have cuts in any of the same places as the SBD, 
+so I was able to pretty easily patch over the dropouts listed above.  
+The FOB source has some serious phase issues, but the patches are all 
+short enough that it isn't too noticeable.  It's a shame, because 
+otherwise the FOB has good sound.  The patches are easily detectable 
+as the sound is a bit different between the two, but overall they're 
+pretty smooth.  Or as smooth as possible in one or two cases.  I had 
+to use really quick fades because of the phase problems, so "Touch
+Me" is a little uglier than I'd like.
+
+The "diginoise" in Suzy and Forbin is actually some kind of distortion 
+in the vocal and is also present on the FOB.  The buzzing sound is a 
+collection of closely spaced clicks that I was able to clean up.  There 
+is still some distortion present in spots, but it's a lot less obvious 
+and annoying. 
+
+I balanced out the levels by increasing the left channel by 5dB from 
+the end of Reba to 2:39 in Golgi, then lowering the left channel by 2dB 
+and the right by 5dB in the first 2/3 of Reba. 
+
+Since it's a rather thin sounding board, I ran it through a multiband 
+compressor to beef up the low end and tighten up the high end.  This 
+also made it easier to match the levels for the patches.
+
+Compressor settings:
+0-120Hz: 4:1 Th:-12 +8dB At:5ms Rel:50ms
+120-800Hz: 1.2:1 Th:-12 At:1 Rel:50
+800Hz-4kHz: 1.4:1 Th:-35 +1dB At:1 Rel:25
+4-24kHz: 1.4:1 Th:-30 +2dB At:2 Rel:20
+
+I have also put together another version without the compression 
+(referred to as the "patched" version) for those out there who are into 
+the less is more processing philosophy.  Enjoy.
+
+
+Cheers!
+John

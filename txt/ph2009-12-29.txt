@@ -1,0 +1,44 @@
+Phish
+12/29/2009
+Miami, Florida  American Airlines Arena
+
+Source: Schoeps mk41> KC5> M222> NT222> Lunatec V3> SD 722 (@24bit/48kHz)
+Location: OTS, Section 7, Row 13, Seats 12 & 13, 9' Stand, DIN
+
+Transfer: SD 722> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44)
+Taped, Transferred & Seeded by: taylorc (12/30/2009)
+
+
+Set I
+t01 [05:04] Golgi Apparatus
+t02 [11:35] Maze
+t03 [04:04] Driver
+t04 [04:14] The Connection
+t05 [10:22] Wolfman's Brother
+t06 [09:19] Ocelot
+t07 [13:10] Reba
+t08 [03:26] Access Me
+t09 [13:52] The Divided Sky
+t10 [04:44] Cavern
+
+Set II
+t11 [08:24] Kill Devil Falls
+t12 [16:34] Tweezer >
+t13 [08:34] Prince Caspian
+t14 [11:36] Gotta Jibboo >
+t15 [03:48] Wilson >
+t16 [01:39] Gotta Jibboo >
+t17 [07:43] Heavy Things >
+t18 [08:05] Also Sprach Zarathustra
+t19 [09:02] Slave to the Traffic Light
+t20 [03:06] crowd
+
+Encore
+t21 [05:21] Sleeping Monkey
+t22 [03:56] Tweezer Reprise
+
+
+Notes:
+Thanks to Jason Lonchar for the tubes & V3
+Access Me, last played 06/26/2004 (55 shows)
+Set I [1:19:50] Set II [1:18:31] Encore [9:17]

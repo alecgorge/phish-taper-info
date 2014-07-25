@@ -1,0 +1,54 @@
+phish
+thomas & mack center
+las vegas, nv
+1997-11-13
+
+set 1
+
+disc 1
+Chalkdust Torture, 
+Black-Eyed Katy, 
+Theme From the Bottom, 
+Train Song, 
+Split Open & Melt, 
+Beauty of My Dreams, 
+My Soul,
+
+disc2
+You Enjoy Myself, 
+Character Zero
+
+set 2
+
+Stash, 
+Punch You In the Eye, 
+Prince Caspian, 
+Bouncing, 
+
+disc 3
+Mike's Song > 
+Hydrogen > 
+Weekapaug Groove, 
+E: Loving Cup
+
+source: akg460b/ck61>b18>SBM1>D7, by JK
+transfer: DAT(1)>cd(1)>eac>cdwave>flac, by john m 2007-07-20
+
+phish1997-11-13d1t01.flac:ebd4c36abb1b3c7bc663b300cfb47f97
+phish1997-11-13d1t02.flac:418332d412f3c0f2790d7b29ff7248df
+phish1997-11-13d1t03.flac:b3ae30281ebd51832a066e38b44dce63
+phish1997-11-13d1t04.flac:b18fd387b8cc368c9aacabf68ff1063b
+phish1997-11-13d1t05.flac:46b314cf1801d270938df289873fede3
+phish1997-11-13d1t06.flac:2ae50338c6a45b8a8f965d0aa6a64cef
+phish1997-11-13d1t07.flac:778914f0509b854d644d79bf383271fe
+phish1997-11-13d2t01.flac:41b421a3b84e700ee118d637ac1520a7
+phish1997-11-13d2t02.flac:5d9e542b9f6b493a70e198a74c92cf4f
+phish1997-11-13d2t03.flac:0a8548221e0f597bed491cbdd4550a2a
+phish1997-11-13d2t04.flac:3e6741fc8aa162daae958acd8d9ac21c
+phish1997-11-13d2t05.flac:7d79e01401b23028e5c8d58fc198b500
+phish1997-11-13d2t06.flac:4d508c99adefa411240b4dbbddbeb585
+phish1997-11-13d3t01.flac:b76bf706c73cab1cad5aee49e970c9de
+phish1997-11-13d3t02.flac:e4901f4793ba210f2bf90ee090a1c814
+phish1997-11-13d3t03.flac:ff5b9706158accb3f029053bbf678e77
+phish1997-11-13d3t04.flac:5bbb1bbabc77ab129c93d7d7ea56fb14
+phish1997-11-13d3t05.flac:5244fd7cd697f0b0eb54069a4a5661f8

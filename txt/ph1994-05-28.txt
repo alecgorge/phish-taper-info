@@ -1,0 +1,53 @@
+Phish
+
+5/28/94
+Laguna Seca Raceway - Monterey, CA
+
+Source: SBD > DAT
+Source: (YEM -> end) CMC54 > Sono > DAP1
+Conversion: DAP1 @48khz > COAX > S/PDIF > SoundForge > CDWAV for Tracksplitting > Shorten32.exe
+
+Taper unknown.  Seeded by Jonathon Schuster <jpschust@indiana.edu>
+
+Seeding notes: There were a few pops on the dat.  Since I am not that experienced with smoothing
+I figured I would leave them in for integrity.  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Update:
+This show is the source listed in db.etree.org below, but downsampled to 44.1 kHz and encoded to .flac.
+No changes/edits/alterations other than the downsampling were made.
+http://db.etree.org/shninfo_detail.php?shnid=8751
+.shn > mkwACT 0.97 BETA 1 > wav > Adobe Audition 1.5@44.1 kHz (highest quality setting) > shntool > flac
+by Friedemann Rothfuchs, kushelphish@gmx.de, 07-28-2005
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Disc 1
+Set I
+01.  Rift >		         (6:10)
+02.  Sample in a Jar 		 (4:51)
+03.  Foam			 (9:55)
+04.  Bouncing Round the Room     (3:42)
+05.  Stash			 (12:01)
+06.  The Horse >                 (1:28)
+07.  Silent in the Morning >	 (4:57)
+08.  The Sloth			 (3:36)
+09.  Maze			 (11:11)
+10.  Cavern			 (4:42)
+
+Disc 2
+Set II
+01.  Crowd Noise/Tuning		 (0:28)
+02.  Axilla (Part II) >          (3:10)
+03.  It's Ice >			 (10:20)
+04.  Tweezer			 (15:13)
+05.  Lifeboy >			 (8:25)
+06.  Reba			 (12:21)
+07.  Fee >			 (5:23)
+
+Disc 3
+Set II, Encore
+01.  Llama			 (3:55)
+02.  You Enjoy Myself*		 (23:25)
+03.  (e) Bass Jam* > Poor Heart	 (4:03)
+
+* With Les Claypool on Bass

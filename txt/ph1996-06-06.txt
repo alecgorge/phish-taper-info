@@ -1,0 +1,69 @@
+Phish - 6/6/1996
+Joyous Lake, NY - The Third Ball
+
+	Set I
+		01	Crowd %
+		02	Split Open and Melt
+		03	Poor Heart
+		04	Runaway Jim
+		05	Funky Bitch
+		06	Theme From the Bottom
+		07	Big Black Furry Creature From Mars
+		08	Scent of a Mule
+		09	Highway to Hell
+
+	Set II
+
+		01	Crowd
+		02	AC/DC Bag
+		03	You Enjoy Myself
+		04	Chalk Dust Torture
+		05	Sparkle
+		06	Stash
+
+		01	Waste
+		02	Character 0
+		03	David Bowie
+		04	Fee >
+		05	Sample in a Jar
+
+	Encore:
+		06	Ya Mar
+		07	Fire
+
+	Notes:
+		% a few bursts of d/n.  There were a couple splotches in Split and Scent that were patched from the bootleg source on gdlive.com using Samplitude.  This section of crowd is not on the bootleg and could not be patched.
+
+		There were several level changes throughout the first set.  I used WaveLab4 to even out the overall level of the set as best I could.  There's still some variation, but it's a lot more smooth and consistent.  The worst level changes (5 or so) occur in Runaway Jim... probably why it was omitted from the bootleg source.
+
+Source:	DSBD (SBD>RCA to 1/8">Sony TCD-D8)
+Xfer:	DAT>ARCHIVE Python>vDAT>Samplitude>WaveLab4>CDWave>Flac
+
+Resampled from 48khz to 44.1khz with WaveLab4.  Tags added with Foobar2K.
+
+48khz untouched WAVs have been archived.  Get in touch if you'd like them.
+-rusty@ontheflyrecording.com
+
+
+ph1996-06-06d1t01.flac:185c3efadde121bcf1e9810d4420167b
+ph1996-06-06d1t02.flac:367bb1bbe5ca1ede36c1b7372005bc6a
+ph1996-06-06d1t03.flac:59ca836a99fdd13c63b945fe25adcbb0
+ph1996-06-06d1t04.flac:3cd69d21867e0d06a90b7aac337335bb
+ph1996-06-06d1t05.flac:6895748220cfff85a674a8e6ba2b269d
+ph1996-06-06d1t06.flac:afbc7fd2dd3bb94b3388b31e5e54e756
+ph1996-06-06d1t07.flac:4505e64242c5afc6b24ed5616c31087f
+ph1996-06-06d1t08.flac:958af474b33106c9b645887fce7c2990
+ph1996-06-06d1t09.flac:095b003a72b7d6fe52833ec59328cb6e
+ph1996-06-06d2t01.flac:8d5f4c0b098f2c81661ec1042c97af83
+ph1996-06-06d2t02.flac:ef5d324b4d64bc08a4072e6b43320a08
+ph1996-06-06d2t03.flac:665af72043d3f67c1cfe6ead5a91c4d1
+ph1996-06-06d2t04.flac:a5b4808ea564228dbe24f94423b36fcc
+ph1996-06-06d2t05.flac:39dc6ecd9e904951a51d0ca095cb4f7b
+ph1996-06-06d2t06.flac:b009f38694bedeb0535dafdbe9105e15
+ph1996-06-06d3t01.flac:493c7bd59b2d16c617645cbcd3b341db
+ph1996-06-06d3t02.flac:efde00729b7a45a2eaeb747ea09bba9b
+ph1996-06-06d3t03.flac:240d5529059dd82111de5064da64e683
+ph1996-06-06d3t04.flac:068d54c307c27dc8c64cac303eeb31f8
+ph1996-06-06d3t05.flac:b6d6ff7d39c9b273854d9548c2b9a3b5
+ph1996-06-06d3t06.flac:a97741c74f250f7d1100aece207c7de2
+ph1996-06-06d3t07.flac:e0ce745c45834c7abadd4547032d7e5b

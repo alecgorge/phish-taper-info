@@ -1,0 +1,56 @@
+Phish
+October 7, 1999
+Nassau Coliseum
+Uniondale, Long Island, NY
+
+source:
+(FOB) Schoeps mk4 > kc5 > cmc6 > Sonosax SX-M2 > DA-P1 (@48kHz)
+
+transfer:
+Sony D8 > M-Audio MicroTrack > CF Card > WaveLab 5.01b (fades, resample to 44.1kHz) > CD Wave v1.94.7 > FLAC (level 8)
+
+recorded by Dave Flaschner, Milt, Memphis Mike, and Tony A.
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded 11/12/05
+
+notes:
+48kHz files of the original DAT transfer have been archived, and are available upon request
+
+Disc 1 - [70:58]
+Set I
+01 - [05:35] - NICU >
+02 - [07:13] - My Soul
+03 - [06:05] - Dirt
+04 - [18:14] - David Bowie
+05 - [05:45] - Frankie Says >
+06 - [10:20] - Possum
+07 - [05:40] - When the Circus Comes
+08 - [12:06] - Gotta Jibboo
+
+Disc 2 - [67:37]
+Set I continued
+01 - [17:07] - Fluffhead
+Set II
+02 - [07:08] - Boogie On Reggae Woman
+03 - [07:13] - Heavy Things
+04 - [06:55] - Tube
+05 - [06:00] - Back on the Train >
+06 - [12:08] - Mike's Song * >
+07 - [11:09] - McGrupp and the Watchful Hosemasters
+
+Disc 3 - [46:45]
+Set II continued
+01 - [11:10] - Prince Caspian >
+02 - [04:37] - Golgi Apparatus >
+03 - [11:38] - Weekapaug Groove
+04 - [03:53] - encore break
+05 - [02:39] - Rocky Top >
+06 - [03:36] - I Am Hydrogen
+07 - [09:12] - Julius
+
+
+*With Trey on keys. 
+
+Show Notes: Part of the Mike's jam featured Trey on keys. Hydrogen was played 
+outside of Mike's for the first time since October 31, 1987. McGrupp was played 
+for the first time since October 29, 1998 (70 shows).

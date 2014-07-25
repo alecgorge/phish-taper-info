@@ -1,0 +1,53 @@
+Phish
+Toad's Place
+New Haven, CT
+5/6/90 
+
+Taper: John Redmond
+SOURCE SBD > D5 
+
+SBD MCass (Maxell XLII-S 90 min)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +12dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0) >
+mastering (see notes) > SHNv3
+
+transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 10/5/2003
+Mastering, editing and WAV > SHN were performed on REBA by Arty- imthemarmar@stny.rr.com (10/12-21/2003)
+
+**24/48 Masters do exist at the unedited/pre-processed level**
+
+**CD Tracking**
+-Disc 1-Set 1:
+01) Possum >
+02) Bouncing Around the Room
+03) Uncle Pen
+04) Reba
+05) Tweezer
+06) Mike's Song >
+07) I am Hydrogen >
+08) Weekapaug Groove
+
+-Disc 2-Set 2:
+01) Fee
+02) Harry Hood
+03) Esther >
+04) David Bowie
+05) Terrapin
+06) Jaegermeister Song
+07) You Enjoy Myself
+
+**Mastering**
+24bit/48kHz FLAC's > Wavelab 4.01b on REBA - Waves were opened as a Montage in Wavelab. Some volume adjustments were made to even out the show's volume. The sets were also reconstructed at this stage and all tape flips were crossfaded. The 24/48 files were then rendered to: 24/48 Wave > 10 Band EQ (high-pass set at 25Hz @ 24db/octave slope) > BBE Sonic Maximizer (6 contour/7 Process @ -20db) > Waves L2 (set to limit @ -0.3db) > Rendered @ 24/48 > Editing > Apogee UV22 HR 24>16bit (Normal, Autoblack) > Steinberg 192kHz Resampler > Tracking in Wavelab > SHNv3 appended
+
+**Notes**
+At the start of the show you hear Fish say "what the hell is that comming from my monitor!?!?"....then it starts....the static. There is noise from the board all night whenever it has little/no signal going through it. It almost sounds like FM/TV interference with the monitors/PA. Where possible, I applied some slight phase cancellation over the noise to try and lessen it as much as possible without destroying the *wanted* material. While it is present throughout the show, hopefully I did enough to make it as transparent to the ear as possible. There was no "noise reduction" applied to the show. I figured this master was bright enough that a lil original hiss wouldn't hurt. Using the BBE unit on this with such settings may seem a little "much", but when used in this method it acts as a Phase Correcting Limiter you could say....it really enhances the lower levels yet keeping the overall volume in check by keeping the output real low. The gain reduction was made up with the L2 UltraMaximizer bringing the RMS volume back up to the original levels.
+
+Notes
+NO tracking/editing/alterations performed before archiving to 24-bit FLAC
+(except to trim silence from the ends).
+
+Widespread Panic opened.
+
+There is a static noise in the Master Cassette. I verified the noise is in the cassette and is not caused by the transfer.
+
+Seeded to FurthurNet (www.furthurnet.org)

@@ -1,0 +1,40 @@
+Phish
+Saratoga Preforming Arts Center
+Saratoga Springs, New York
+6-19-2010
+
+Set 1
+01 Tweezer Reprise *
+02 Chalkdust Torture
+03 Funky Bitch
+04 Runaway Jim
+05 Yamar
+06 Sample In a Jar
+07 Axilla >
+08 Fluffhead
+00 Bathtub Gin
+10 Suzie Greenberg
+
+Set 2
+01 Rock and Roll>
+02 Free
+03 Backwards Down the Number Line
+04 Halfway to the Moon> #
+05 Prince Caspian>
+06 Joy
+07 David Bowie
+08 Show of Life
+Encore
+09 Squirming Coil
+10 Character Zero>
+11 Tweezer Reprise
+
+* First Tweezer Reprise Opener since 11-9-1995 (482 shows).
+# Debut.
+
+Source: (OTS/Center) Neumann U89i (Hyper, XY 90, -80hz)> Grace Design Lunatec V3 + Neumann KM184 (DIN)> Grace Design Lunatec V2> Oade Concert Modified Edirol R-44 (24/48 on a 8gb SDHC Card).
+
+Transfer: SDHC Card> Card Reader> PC> Samplitude SE No. 9 (Normalize, merge two sources, fade in/out, resample to 44.k, dither to 16 bit)> CD Wav (Tracked and converted to Flac @ Level 8).
+
+Recorded by: Ed Guidry (tufflitestudios@yahoo.com)
+Feel free to email me with Reseed requests.

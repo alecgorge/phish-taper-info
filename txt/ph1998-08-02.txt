@@ -1,0 +1,87 @@
+Phish
+August 2, 1998
+Deer Creek Music Center
+Noblesville, IN
+
+source:
+Schoeps cmc6/mk41 > Sonosax SX-M2 > Apogee AD-1000 > Tascam DA-P1 (@ 48 kHz)
+
+transfer:
+Tascam DA-20mkII > Marantz PMD-661 > SDHC card > usb 2.0 > pc > r8brain v1.9 (resample to 44.1 kHz) > CD Wave v1.98 (track splits) > Samplitude SE v9.1.1 (fades, patches) > FLAC v1.2.1 (Level 8)
+
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded May 17, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+The original 48 kHz files from the DAT transfer have been archived and are available upon request.
+
+Disc 1 - [68:46]
+Set I
+01 - [07:44] - Roggae
+02 - [15:05] - The Divided Sky
+03 - [01:19] - The Horse >
+04 - [05:18] - Silent in the Morning
+05 - [05:25] - Too Much of Everything
+06 - [07:26] - Boogie On Reggae Woman
+07 - [14:54] - Reba
+08 - [05:16] - Weigh
+09 - [06:19] - Birds of a Feather
+
+Disc 2 - [66:34]
+Set II
+01 - [11:32] - Possum
+02 - [19:02] - Ghost >
+03 - [08:49] - Lifeboy
+04 - [14:13] - David Bowie
+05 - [03:15] - I Get a Kick Out of You *
+06 - [07:07] - Loving Cup
+07 - [02:37] - encore break
+
+Disc 3 - [17:32]
+Set II continued
+01 - [13:57] - Harry Hood
+02 - [03:35] - Bittersweet Motel
+
+* debut
+
+Show Notes: This show marked the debut of I Get a Kick Out of You. Weigh was 
+played for the first time since August 17, 1997 (52 shows) and Lifeboy was 
+played for the first time since August 3, 1997 (61 shows).
+
+patch notes:
+There were a few drop-outs on the set 2 DAT.
+Each of the drop-outs was patched with the following source:
+Schoeps CMC641 > Lunatec V2 > Apogee AD-1000 > D7 @ 48kHz
+Patch & transfer by K. C. Cadwallader
+http://db.etree.org/shn/29155
+The patch source was used at the following spots:
+[11:24] to [11:25] in d2t01 - "Possum"
+[10:18] to [10:20] in d2t02 - "Ghost"
+[00:14] to [00:16] in d2t04 - "David Bowie"
+[00:13] to [00:15] in d3t01 - "Harry Hood"
+[00:52] to [00:54] in d3t02 - "Bittersweet Motel"
+__________________________________________________________________________________________________________
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     7:44.34          78.13 MB  ---   --   ---xx   flac  0.4939  ph1998-08-02d1t01.flac
+    15:04.63         152.22 MB  ---   --   ---xx   flac  0.5119  ph1998-08-02d1t02.flac
+     1:18.40          13.21 MB  ---   --   ---xx   flac  0.3877  ph1998-08-02d1t03.flac
+     5:17.54          53.45 MB  ---   --   ---xx   flac  0.4812  ph1998-08-02d1t04.flac
+     5:25.08          54.69 MB  ---   --   ---xx   flac  0.5092  ph1998-08-02d1t05.flac
+     7:26.30          75.10 MB  ---   --   ---xx   flac  0.4697  ph1998-08-02d1t06.flac
+    14:54.13         150.43 MB  ---   --   ---xx   flac  0.4842  ph1998-08-02d1t07.flac
+     5:16.19          53.20 MB  ---   --   ---xx   flac  0.4815  ph1998-08-02d1t08.flac
+     6:18.39          63.68 MB  ---   --   ---xx   flac  0.5139  ph1998-08-02d1t09.flac
+    11:31.42         116.34 MB  ---   --   ---xx   flac  0.4932  ph1998-08-02d2t01.flac
+    19:01.54         192.07 MB  ---   --   ---xx   flac  0.4765  ph1998-08-02d2t02.flac
+     8:49.28          89.06 MB  ---   --   ---xx   flac  0.4167  ph1998-08-02d2t03.flac
+    14:13.22         143.55 MB  ---   --   ---xx   flac  0.4728  ph1998-08-02d2t04.flac
+     3:14.41          32.73 MB  ---   --   ---xx   flac  0.4209  ph1998-08-02d2t05.flac
+     7:06.47          71.77 MB  ---   --   ---xx   flac  0.5099  ph1998-08-02d2t06.flac
+     2:36.41          26.34 MB  ---   --   ---xx   flac  0.4365  ph1998-08-02d2t07.flac
+    13:56.74         140.80 MB  ---   --   ---xx   flac  0.4605  ph1998-08-02d3t01.flac
+     3:35.26          36.23 MB  ---   --   ---xx   flac  0.4149  ph1998-08-02d3t02.flac
+   152:52.00        1542.99 MB                           0.4778  (18 files)

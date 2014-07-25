@@ -1,0 +1,70 @@
+Phish
+1992-04-23
+Oz Nightclub
+Seattle, WA
+
+Set 1: 
+01 Cavern >
+02 The Curtain
+03 Split Open and Melt
+04 Uncle Pen
+05 Guelah Papyrus
+06 The Squirming Coil
+07 Llama
+08 Bouncing Around the Room
+09 It's Ice (cut)
+10 (cut) I Didn't Know
+11 Possum
+
+Set 2: 
+01 The Landlady
+02 Poor Heart
+03 Mike's Song > I Am Hydrogen > Weekapaug Groove
+04 The Lizards
+05 NICU
+06 Horn >
+07 Tweezer >
+08 Fee
+09 Maze
+10 Cold As Ice 
+11 Cracklin' Rosie
+12 Golgi Apparatus
+
+Encore: 
+01 Sleeping Monkey
+02 Tweezer Reprise
+
+Sonic Studios DSM omni mics >
+Sony WM-D6 cassette deck (No Dolby) >
+Maxell XL-II media
+
+Taped by: David N.
+SHNid: 110006
+
+Transfer:
+Master cassette playback on
+Nakamichi Dragon > 
+RME Fireface 800 audio interface @ 24-bit 96kHz
+
+Processing in Sound Forge 10.0:
+24-bit 96kHz version:
+     Waves L1+ Ultramaximizer (limiting, dither, noise shaping)
+16-bit 44.1kHz version for CD:
+     iZotope 64-bit Sample Rate Converter (resample to 44.1kHz)
+     Waves L1+ Ultramaximizer (limiting, dither, noise shaping, 
+     conversion to 16-bit)
+
+
+Notes:
+
+- The end of "It's Ice" and the beginning of "I Didn't Know" are chopped due to 
+running out of tape.
+
+- There is also a quick tape flip just before "NICU" but I don't think the song 
+is cut.
+
+- If you prefer to save a disc, the encore would fit on the end of the first disc.
+
+- Thanks to David N. for the loan of the master and to Edmund for figuring out 
+that this tape needed to get into circulation.
+

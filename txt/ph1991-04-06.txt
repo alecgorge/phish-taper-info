@@ -1,0 +1,108 @@
+Phish
+April 6, 1991
+Evergreen College
+Olympia, WA
+
+Set I and Set II (partial):
+-Source is a Maxell XLII Analog Cassette of lineage believed to be SBD/3 
+-A>D via Nakamichi Dragon>Korg MR1000>Korg Audio Gate>WAV @ 24/96
+-96khz > 44khz sample rate conversion via iZotope SRC 64 bit SRC 
+-24bit > 16bit bit depth conversion via iZotope MBIT+ Dither 
+-Tracking performed in Adobe Audition 3.0
+-FLAC conversion via Trader's Little Helper
+-Thanks to Rob Grego for the source tape.
+
+All transfers by ifthir@hotmail.com (11.29.2010)
+
+Set II (cont.) source:
+soundboard > cassette > DAT (@ 48 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > r8brain v1.9 (resample to 44.1 kHz) > Samplitude SE v9.1.1 (de-hiss, fades, tracking) > FLAC v1.2.1 (Level 8)
+
+FLAC tags added with metaflac v1.2.1
+
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded April 24, 2008
+
+notes:
+The Waves X-Noise (v5.0) plug-in was used to reduce background hiss.
+The original 48 kHz files from the DAT transfer have been archived, and are available upon request.
+Big thanks to Brett Stone for letting me borrow his DATs!
+
+
+Set I
+
+1. The Man Who Stepped Into Yesterday > [3:28]
+2. Avenu Malkanu > [3:16]
+3. The Man Who Stepped Into Yesterday [1:20]
+4. Tweezer > [11:35] 
+5. Esther [9:27]
+6. The Oh Kee Pa Ceremony > [2:04]
+7. AC/DC Bag [7:14]
+8. Fluffhead > [14:12]
+9. Tweezer Reprise [3:00]
+
+Set II
+
+1. Ya Mar [7:06]
+2. Split Open And Melt [8:34]
+3. Runaway Jim // [7:17]
+
+Total Time [1:18:33]
+
+Disc 1 - [73:07]
+Set II (partial)
+01 - [04:16] - /Magilla
+02 - [04:39] - Llama
+03 - [16:23] - You Enjoy Myself
+04 - [06:39] - Bathtub Gin
+05 - [04:20] - Icculus
+06 - [10:27] - Run Like an Antelope
+07 - [01:13] - HYHU >
+08 - [04:22] - Terrapin >
+09 - [00:53] - HYHU
+10 - [09:22] - Possum
+(encore)
+11 - [06:00] - Jesus Just Left Chicago >
+12 - [04:34] - Alumni Blues > Letter > Alumni Blues
+
+Set I and Set II (partial):
+Known Flaws:
+
+TMWSIY fades in.
+Not sure what is going in Tweezer, no editing performed by me.
+Tape flip during Fluffhead, I combined the tracks in Adobe Audition 3.0 without crossfading.
+Set 2 comes in very loud, I did not alter the levels.
+Runaway Jim is cut at the end.
+Missing most of set 2 and a lot of problems with this tape but it will have to do until a more complete copy surfaces.
+
+
+Show Notes:
+
+All ages show
+Trey says everyone is confusing him before Ya Mar.
+
+Set II (cont.) notes:
+The beginning of "Magilla" is cut.
+This is a portion of Set 2 (most of it, but not quite all of it), and none of Set 1.
+However, at this time, none of this show circulates at all (in either SHN or FLAC format).
+
+-------------------------------------------------------------------------------------------------
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     4:15.63          43.04 MB  ---   --   ---xx   flac  0.5041  ph1991-04-06d1t01.flac
+     4:39.24          46.99 MB  ---   --   ---xx   flac  0.5285  ph1991-04-06d1t02.flac
+    16:23.02         165.37 MB  ---   --   ---xx   flac  0.4186  ph1991-04-06d1t03.flac
+     6:39.00          67.12 MB  ---   --   ---xx   flac  0.4434  ph1991-04-06d1t04.flac
+     4:20.02          43.74 MB  ---   --   ---xx   flac  0.3862  ph1991-04-06d1t05.flac
+    10:27.14         105.51 MB  ---   --   ---xx   flac  0.4685  ph1991-04-06d1t06.flac
+     1:13.00          12.28 MB  ---   --   ---xx   flac  0.3163  ph1991-04-06d1t07.flac
+     4:21.58          44.04 MB  ---   --   ---xx   flac  0.3593  ph1991-04-06d1t08.flac
+     0:52.42           8.84 MB  ---   --   ---xx   flac  0.3299  ph1991-04-06d1t09.flac
+     9:21.54          94.50 MB  ---   --   ---xx   flac  0.4525  ph1991-04-06d1t10.flac
+     5:59.55          60.52 MB  ---   --   ---xx   flac  0.4463  ph1991-04-06d1t11.flac
+     4:33.47          46.03 MB  ---   --   ---xx   flac  0.4692  ph1991-04-06d1t12.flac
+    73:06.61         737.99 MB                           0.4415  (12 files)

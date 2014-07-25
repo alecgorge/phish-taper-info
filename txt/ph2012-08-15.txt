@@ -1,0 +1,40 @@
+Phish
+08/15/2012
+Long Beach, California  Long Beach Arena
+
+Source: Schoeps m934c> M221B> PS> Aeta PSP-3> SD 722 (@24bit/96kHz)
+ Location: FOB, DFC, DIN, m934c/cardioid
+
+Transfer: SD 722> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (08/16/2012)
+
+
+Set I
+t01 [01:35] Intro
+t02 [05:50] Suzy Greenberg
+t03 [07:07] Cities>
+t04 [09:55] Kill Devil Falls
+t05 [06:03] Guelah Papyrus
+t06 [07:05] Cool It Down
+t07 [07:02] Rift
+t08 [10:31] Stash
+t09 [03:44] Bouncing Around the Room>
+t10 [11:18] Bathtub Gin
+t11 [06:54] Quinn the Eskimo (Mighty Quinn)
+
+Set II
+t12 [25:27] Rock and Roll>
+t13 [13:23] Ghost>
+t14 [07:30] Limb by Limb
+t15 [11:00] Guyute
+t16 [04:51] Dirt
+t17 [14:08] Harry Hood>
+t18 [05:35] Good Times Bad Times
+t19 [02:52] crowd
+
+Encore
+t20 [07:18] Julius
+
+
+Notes:
+Set I [1:17:08] Set II [1:24:46] Encore [7:18]

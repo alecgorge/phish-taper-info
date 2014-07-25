@@ -1,0 +1,61 @@
+PHiSH
+07-12-88 
+Sam's Tavern - Burlington, VT 
+
+***New tracks added 10/1/02***
+
+Source: SBD > Cass/0 > Cass/1 (Maxell XLIIS) > DAT
+Transfer: Tascam DA20 mkII > ZA2 > SF 4.5 > CDWav > SHN
+
+Patch source: SBD > Cass/3 > DAT (master)
+Patch A>D transfer: Technics RS-BR465 > Tascam DA-P1
+Patch DAT>SHN transfer: Sony D7 > Zoltrix > SF 4.5 > CDWav > SF 4.5 > shntool > SHN
+
+Original transfer by Jimmy Sellers (pjimmy@delanet.com)
+Original seed provided by Chris Wallace
+Patch A>D Transfer by John Bower
+Patching and Patch DAT>SHN Transfer by Ben Mohr (benjamin.mohr@ce.gatech.edu)
+
+---------------------------------------------
+ Disc 1:			     (63:18)
+---------------------------------------------
+-Set 1-
+1. Cities			     (04:43)
+2. Lizards			     (11:38)
+3. Sneaking Sally Through the Alley* (10:52)
+4. Good Times Bad Times		     (07:39)
+5. Happy Birthday to Jen	     (00:51)
+6. Peaches en Regalia**	  	     (03:41)
+7. You Enjoy Myself^		     (18:03)
+8. I Didn't Know^^ 		     (05:50)
+
+---------------------------------------------
+ Disc 2:			     (79:13)
+---------------------------------------------
+-Set 2-
+1. Blue Bossa			     (08:24)
+2. Take the A-Train ->		     (08:47) 
+3. Timber (Jerry)		     (10:35) 
+4. Fluffhead ->			     (13:42) 
+5. Jesus Just Left Chicago	     (09:08) 
+[Makisupa Policeman]
+6. Slave to the Traffic Light        (08:43)
+7. AC/DC Bag >                       (06:12)
+8. Roll Like a Cantaloupe #          (13:38)
+
+ 
+* with vocal jam!
+** with Happy Birthday lyrics
+^ with 'Why should I feed you?' vocal jam
+^^ with Fish on trombone
+# AKA Run Like an Antelope but with different (funnier) lyrics :-)
+
+
+Notes:
+-The original seed for this show had sets 1 and 2 switched. This seed fixes that problem in     addition to the tracks at the end of set 2 that were graciously provided to me by John.       For some reason, none of the Cass/1 sources contain those d2t06-d2t08.
+-This version includes replaced d1t03
+   Replacement track provided by Jeff Ishaq...thanks!
+
+Fixes:
+-Removed dropout in d1t08 2:55 (0.030s)
+-Applied -90 cents pitch shift in SF 4.5 to d2t06-d2t08 to compensate for the increased         analog generations. I matched the track times between the previous seed and this seed for     the rest of Set 2 to achieve this value.

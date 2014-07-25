@@ -1,0 +1,62 @@
+Phish
+7/30/03
+Tweeter Center
+Camden, NJ
+
+Schoeps MK5(cards/DIN) >>> M222 >>> Elvo NT222 >>> Lunatec V3@48k >>> Sony D-100
+
+(OTS/DFC/front rail)
+
+DAP1 > ODL-276 > JB3 > Firewire > PC > Wavelab 4.0c > CD Wave > FLAC Frontend
+
+Taped by Jason Lonchar
+Transferred and tracked by Bean (diskobean@taperssection.com)
+
+2 SETS
+
+~d1: set 1~
+
+01. crowd
+02. My Friend, My Friend
+03. Lonesome Coyboy Bill
+04. Scents And Subtle Sounds*
+05. You Ain't Goin' Nowhere**
+06. Spock's Brain
+07. Chalkdust Torture***
+08. On Your Way Down
+
+~d2: set 1(cont.)~
+
+01. Fast Enough For You
+02. Taste
+set 2:
+03. crowd
+04. Twist
+05. Bug
+
+~d3: set 2(cont.)~
+
+01. You Enjoy Myself
+02. Walls Of The Cave
+03. E: Secret Smile 
+
+* - 25+ minutes; 
+** - first time played, Bob Dylan cover (includes the lyric "We'll climb that hill no matter how      steep / When we get up to IT"; reports indicate that the performance was closer to the      Byrds' well-known rendition of the song than to Dylan's original); 
+*** - very adventurous version; Thanks to Erik Swain for the calls.
+
+ph2003-07-30d1t01.flac:ad7b4cca4059e000b41890cb926a797e
+ph2003-07-30d1t02.flac:52e91b1818542d940195ee4c27fdc84b
+ph2003-07-30d1t03.flac:613a5f192b76d96fb7f0e4fd92eb331c
+ph2003-07-30d1t04.flac:28f3d8bdf79fa74a7b68b7a8a9b9841b
+ph2003-07-30d1t05.flac:1d2f64a9290874d3907ab063977d4c51
+ph2003-07-30d1t06.flac:1eef5ba7f50d8c199fc478a84b637003
+ph2003-07-30d1t07.flac:78cedf78362a3efd76228bc988f33fbd
+ph2003-07-30d1t08.flac:1a634647e1dbd13b7cd8d1cbabcb6cfe
+ph2003-07-30d2t01.flac:e3f24a2cab1cb3588126f90c1c2546eb
+ph2003-07-30d2t02.flac:05570f973497ec47359923b7e5bc39bf
+ph2003-07-30d2t03.flac:561a0179e2ef20f35ebc95b43775d49c
+ph2003-07-30d2t04.flac:5e3531a861419cca7069cc9a02768fca
+ph2003-07-30d2t05.flac:c4bcc9c694b7f7c4b2c980cf0a0d983e
+ph2003-07-30d3t01.flac:29fd0ba78bf9dba489ea8bc86d8db6bf
+ph2003-07-30d3t02.flac:c29091f9ae780a56d271bbb993d98b3b
+ph2003-07-30d3t03.flac:778d256b1d8df48a070e43e65a0e470f

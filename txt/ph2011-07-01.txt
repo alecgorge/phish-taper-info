@@ -1,0 +1,58 @@
+Phish
+07/01/2011
+Watkins Glen International
+Watkins Glen, NY
+
+**16 bit**
+
+Source: DPA 4023>Sonosax SX-M2>Sound Devices 722 (24/96)
+Config/Location: DIN/FOB/DFC 6' stand
+Transfer: 722>Firewire>Macbook>
+Sound Studio 3.6(fades, normalize peak, track)>
+Wave Editor (iZotope Resampler/MBIT+ Dither)>
+xACT 2.12(align on sector boundaries, encode, tag, fingerprint)>flac16 (level 8 )
+Taped & transferred by: Lenny Stubbe
+
+Set I: (1:33:08)
+
+01. intro
+02. Possum
+03. Peaches en Regalia
+04. Moma Dance
+05. Torn and Frayed >
+06. NICU >
+07. Bathtub Gin
+08. Life on Mars?
+09. My Friend
+10. Wolfman's Brother
+11. Roses Are Free>
+12. Funky Bitch
+13. Mighty Quinn
+
+Set II: (1:49:35)
+
+01. intro
+02. Jam >
+03. Crosseyed and Painless >
+04. Chalkdust Torture
+05. Sand>
+06. Wedge
+07. Mike's Song>
+08. Simple>
+09. Bug
+10. The Horse>
+11. Silent in the Morning>
+12. Weekapaug Groove>
+13. Joy>
+14. Character Zero
+
+15. encore break
+16. Show of Life
+
+Notes:
+- Third Stone from the Sun teases in Simple
+- Life on Mars? last time played was 2/15/03 (175 shows) courtesy of Phish.net
+
+Seeded to etree on:
+
+07/02/2011

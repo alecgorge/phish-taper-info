@@ -1,0 +1,57 @@
+Phish
+December 29, 1993
+Veterans Memorial Coliseum
+New Haven, CT
+
+source:
+AKG 460B/ck61 > custom pre-amp > Teac DA-P20 (@ 48kHz)
+
+transfer:
+Sony PCM-R500 > M-Audio MicroTrack > CF Card > usb > pc > WaveLab 5.01b (de-emphasis, fades, resample to 44.1kHz) > CD Wave v1.94.7 > FLAC v1.1.2 (Level 8)
+
+recorded by Dave Flashner & Tom McMinn
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded March 27, 2006
+
+notes:
+The original DAT recording was made with pre-emphasis. The Waves 5.0 Paragraphic EQ plug-in was used to de-emphasize the recording.
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+
+Disc 1 - [70:32]
+Set I
+01 - [08:28] - Runaway Jim
+02 - [03:14] - Peaches en Regalia
+03 - [08:54] - Foam
+04 - [05:02] - Glide
+05 - [14:02] - The Divided Sky
+06 - [06:22] - Wilson
+07 - [03:51] - Sparkle
+08 - [10:23] - Stash
+09 - [10:17] - The Squirming Coil
+
+Disc 2 - [56:13]
+Set II
+01 - [10:22] - Maze
+02 - [03:44] - Bouncing Around the Room
+03 - [14:17] - Fluffhead
+04 - [12:19] - Run Like an Antelope
+05 - [06:07] - Contact >
+06 - [03:19] - Big Black Furry Creature from Mars ->
+07 - [03:52] - Walk Away
+08 - [02:14] - Big Ball Jam
+
+Disc 3 - [26:41]
+Set II continued
+01 - [02:20] - HYHU >
+02 - [03:30] - If I Only Had a Brain >
+03 - [02:22] - HYHU
+04 - [02:04] - Sweet Adeline
+05 - [06:11] - Chalk Dust Torture
+06 - [02:35] - encore break
+07 - [03:06] - Nellie Kane
+08 - [04:33] - Cavern
+
+Show Notes: Glide included a Simpsons Signal and BBFCFM was unfinished. Stash included a 
+jam akin to the sound of a television newscast, complete with vocal quotes from Trey 
+referencing news personality Connie Chung. Fishman introduced Brain by talking 
+about his new haircut.

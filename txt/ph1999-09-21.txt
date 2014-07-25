@@ -1,0 +1,73 @@
+Phish
+September 21, 1999
+Pima County Fairgrounds
+Tucson, AZ
+
+source:
+(FOB) Schoeps mk4v > kc5 > cmc6 > Apogee AD-1000 > Tascam DA-P1 (@ 44.1 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > CD Wave v1.97 (track splits) > Samplitude SE v9.1.1 (fades) > FLAC v1.2.1 (Level 8)
+
+recorded by Milt, Mike, Van, TPTBNL, Carrion Crow
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded January 20, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+Big thanks to Dave Flaschner for letting me borrow his DATs!
+
+Disc 1 - [69:54]
+Set I
+01 - [02:52] - Poor Heart >
+02 - [05:09] - Sample in a Jar
+03 - [12:15] - Split Open and Melt
+04 - [17:19] - Drowned
+05 - [04:19] - I Didn't Know
+06 - [04:51] - Back on the Train
+07 - [07:38] - Birds of a Feather
+08 - [10:35] - Theme From the Bottom
+09 - [04:55] - Golgi Apparatus
+
+Disc 2 - [53:18]
+Set II
+01 - [10:06] - Carini >
+02 - [10:40] - Bug
+03 - [03:50] - Strange Design
+04 - [12:05] - Vultures ->
+05 - [08:50] - Limb by Limb
+06 - [07:47] - Will It Go Round In Circles
+
+Disc 3 - [50:39]
+Set II continued
+01 - [05:15] - Dirt
+02 - [17:09] - Run Like an Antelope
+03 - [04:10] - encore break
+04 - [16:21] - Reba
+05 - [07:43] - Bold as Love
+__________________________________________________________________________________
+
+shntool len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     2:52.06          28.95 MB  ---   --   ---xx   flac  0.4635  ph1999-09-21d1t01.flac
+     5:08.74          51.98 MB  ---   --   ---xx   flac  0.4897  ph1999-09-21d1t02.flac
+    12:15.27         123.71 MB  ---   --   ---xx   flac  0.4681  ph1999-09-21d1t03.flac
+    17:19.26         174.85 MB  ---   --   ---xx   flac  0.4999  ph1999-09-21d1t04.flac
+     4:18.67          43.55 MB  ---   --   ---xx   flac  0.4376  ph1999-09-21d1t05.flac
+     4:51.14          48.99 MB  ---   --   ---xx   flac  0.4366  ph1999-09-21d1t06.flac
+     7:38.22          77.10 MB  ---   --   ---xx   flac  0.4925  ph1999-09-21d1t07.flac
+    10:35.00         106.82 MB  ---   --   ---xx   flac  0.4859  ph1999-09-21d1t08.flac
+     4:54.64          49.60 MB  ---   --   ---xx   flac  0.4931  ph1999-09-21d1t09.flac
+    10:05.56         101.90 MB  ---   --   ---xx   flac  0.4850  ph1999-09-21d2t01.flac
+    10:40.23         107.72 MB  ---   --   ---xx   flac  0.4671  ph1999-09-21d2t02.flac
+     3:49.62          38.66 MB  ---   --   ---xx   flac  0.3737  ph1999-09-21d2t03.flac
+    12:05.28         122.03 MB  ---   --   ---xx   flac  0.4673  ph1999-09-21d2t04.flac
+     8:50.00          89.16 MB  ---   --   ---xx   flac  0.4723  ph1999-09-21d2t05.flac
+     7:47.17          78.60 MB  ---   --   ---xx   flac  0.4901  ph1999-09-21d2t06.flac
+     5:15.13          53.02 MB  ---   --   ---xx   flac  0.3541  ph1999-09-21d3t01.flac
+    17:09.30         173.17 MB  ---   --   ---xx   flac  0.4659  ph1999-09-21d3t02.flac
+     4:09.63          42.03 MB  ---   --   ---xx   flac  0.3907  ph1999-09-21d3t03.flac
+    16:21.07         165.05 MB  ---   --   ---xx   flac  0.4237  ph1999-09-21d3t04.flac
+     7:43.01          77.89 MB  ---   --   ---xx   flac  0.4949  ph1999-09-21d3t05.flac
+   173:51.00        1754.79 MB                           0.4645  (20 files)

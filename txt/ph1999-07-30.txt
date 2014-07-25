@@ -1,0 +1,48 @@
+Phish 
+7/30/99
+Fuji Rock Festival, Naeba, Niigata, Japan
+Fields of Heaven Stage
+
+Source: SBD -> Cass 1 > DAT
+Transfer: DAT -> Digi Coax -> S/PDIF in -> SB Live 2 -> SF 6.0 -> wav -> FLAC
+Taper: Unknown; Transfer: Greg Prenatt - (pernads@hotmail.com)
+-A pitch shift of -90 cents was applied to the entire show to compensate for a tape deck with a bad speed somewhere in the cassette chain. 
+
+FLAC > SHN and furthurnet seeded by jiminez on 2/18/04
+
+Disc 1 - 70:07
+Set 1
+01. Birds of a Feather
+02. Sample
+03. Beauty of My Dreams
+04. Stash
+05. NICU
+06. Funky Bitch >
+07. Ghost >
+08. Axilla
+
+Disc 2 - 75:31
+Set 2 + Encore
+01. DwD
+02. My Soul
+03. Reba
+04. HYHU >
+05. Bike* >
+06. HYHU
+07. Jim >
+08. Cavern
+E:
+09. Julius
+
+* w/ fishman on guitar
+
+
+Show Notes: Before Bike, Fishman told the crowd that he would play guitar instead 
+of vacuum because the Electrolux vacuum did not make the trip to Japan. Afterwards, 
+Trey said that the song was meant to impress Yoshimi, the drummer from The Boredoms, 
+because Fishman has "a crush on her."
+
+
+-there is a short cut in ghost and cavern where the analog tape flip occurred. 
+-there is some SBD static at the beginning of Birds. This was on the original DAT.
+

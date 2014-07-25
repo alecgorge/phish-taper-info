@@ -1,0 +1,66 @@
+Phish
+2-28-97
+Huxley's Neue Welt
+Berlin, Germany
+
+Source: Schoeps CMC64ug->Oade->SBM-1->DA-P1
+
+Transfer: DA-20mkII->Delta Dio 2496->Soundforge 6.0 (resampled 48>44.1 on highest accuracy setting w/anti alias filter)->CDWAV->shntool->shn
+Transfer by: Brandon Johnston -- http://db.etree.org/bisq
+
+Disc 1: 
+-Set I-
+1.Carini
+2.Paul and Silas
+3.My Soul
+4.Cars Trucks Buses
+5.Peaches en Regalia
+6.Stash
+7.Swept Away >
+8.Steep >
+9.Ya Mar
+10.Character Zero
+
+Disc 2:
+-Set II- 
+1.Taste
+2.Drowned ->
+3.Prince Caspian >
+4.Frankenstein
+5.David Bowie
+6.Love Me
+7.Axilla ->
+8.Waste
+9.Julius
+10.crowd noise
+11.E: A Day in the Life
+
+Show Notes: This show included the first Paul and Silas since October 24, 1995 (120 shows) and the first Drowned since December 31, 1995 (82 shows).
+
+Tech Notes: Fades were added in soundforge 6.0.
+
+Shntool Output:
+
+    length     expanded size   cdr  WAVE  probs   filename
+     4:52.36      51593516     ---   --    ---    ph1997-02-28d1t01.wav
+     2:22.13      25079420     ---   --    ---    ph1997-02-28d1t02.wav
+     5:00.28      52985900     ---   --    ---    ph1997-02-28d1t03.wav
+     4:10.58      44236460     ---   --    ---    ph1997-02-28d1t04.wav
+     3:13.58      34181660     ---   --    ---    ph1997-02-28d1t05.wav
+    11:53.69     125935532     ---   --    ---    ph1997-02-28d1t06.wav
+     2:14.32      23712908     ---   --    ---    ph1997-02-28d1t07.wav
+     0:54.36       9610316     ---   --    ---    ph1997-02-28d1t08.wav
+     8:24.44      89009132     ---   --    ---    ph1997-02-28d1t09.wav
+     6:22.08      67403660     ---   --    ---    ph1997-02-28d1t10.wav
+     9:19.26      98668796     ---   --    ---    ph1997-02-28d2t01.wav
+     6:48.51      72091196     ---   --    ---    ph1997-02-28d2t02.wav
+     8:23.43      88830380     ---   --    ---    ph1997-02-28d2t03.wav
+     4:40.28      49457900     ---   --    ---    ph1997-02-28d2t04.wav
+    14:23.30     152303804     ---   --    ---    ph1997-02-28d2t05.wav
+     2:51.42      30263228     ---   --    ---    ph1997-02-28d2t06.wav
+     4:31.01      47806796     ---   --    ---    ph1997-02-28d2t07.wav
+     5:12.67      55194428     ---   --    ---    ph1997-02-28d2t08.wav
+     7:56.48      84079340     ---   --    ---    ph1997-02-28d2t09.wav
+     2:07.43      22503980     ---   --    ---    ph1997-02-28d2t10.wav
+     5:12.55      55166204     ---   --    ---    ph1997-02-28d2t11.wav
+   120:56.66    1280114556 B                      (totals for 21 files)

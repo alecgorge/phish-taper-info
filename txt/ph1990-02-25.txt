@@ -1,0 +1,53 @@
+Phish 
+02-25-90 
+8x10 Club, Baltimore MD
+
+Source: FOB AKG 451 > Cass/0 > DAT 
+CDR > EAC > SHN and upload by Mike Shumsky (michael.shumsky@yale.edu)
+
+Fixes by Ben Mohr (bmohr@udel.edu)
+Splice Source: AKG 451 (ORTF) > Sony D5 (Cass/0) > DAT @ 48kHz 
+               *taped from balcony*
+
+Disc 1  (80-min disc)
+Soundcheck and Set 1:
+
+1. Jessica Jam (soundcheck)
+2. Donna Lee -> Jazz Jam (soundcheck)
+3. Foam
+4. My Sweet One
+5. Colonel Forbin's Ascent -> 
+6. Famous Mockingbird
+7. Funky Bitch
+8. The Squirming Coil
+9. Bouncing Around the Room
+10. David Bowie*
+11. Satin Doll
+12. Rift**
+13. Possum
+
+Disc 2
+Set 2:
+
+1. Jeopardy Theme 
+2. Reba
+3. McGrupp^ ->
+4. Makisupa Policeman
+5. Lizards
+6. Fluffhead
+7. Big Black Furry Creature From Mars 
+
+* Begins with Fish on the hi-hats for about 25 seconds; Trey then teases Tweezer, 
+  Mike starts playing the Tweezer bassline, even Fish changes the beat to match -- 
+  and then 57 seconds into the track, it's Bowie! 
+
+** First time played. With different, peppy, upbeat music.
+
+^ Segue not listed in the HPB, but I definitely hear it.
+
+Fixes (Ben):
+-My supposedly Cass/0 source was too slow so I applied a +75 pitch 
+  shift w/ anti-alias filtering (matched track lengths to verify shift length)
+-In d1t06, spliced in other source from 5:07.475-5:09.820 to remove digiglitch
+-In d1t08, spliced in other source from 4:55.749-4:57.719 to remove dropout 
+-In d2t06, spliced in other source from 10:36.083-10:37.719 to remove diginoise

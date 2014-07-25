@@ -1,0 +1,88 @@
+Phish
+November 21, 1995
+Lawrence Joe Coliseum - Winston Salem, NC
+
+Unverified Source: AKG 460B/CK61>Dat> Poc-da12p (7pin> optical cable)> Cdr
+Conversion: CDR> Wav> *EAC*> MKW> SHN
+
+No Known Flaws!!!
+Please Share!!!
+
+Set I Disk 1:
+1. Fee
+2. Chalk Dust Torture
+3. Prince Caspian
+4. Divided Sky
+5. Long Journey Home*
+6. I'm Blue I'm Lonesome*
+7. Guyute
+8. My Friend My Friend
+9. Dog Faced Boy
+10.Runaway Jim
+
+Set II Disk2:
+1. Simple
+2. David Bowie->
+3. Take Me To The River->
+4. David Bowie
+5. Glide
+6. Yamar
+
+DISK 3:
+1. Mikes Song->
+2. Keyboard Cavalry->
+3. HYHU>Suspicious Minds>HYHU
+5. Carolina
+6. A Day in the Life
+Encore:
+7. Good Times Bad Times
+
+SHN>WAV>FLAC
+By CrazyEd
+
+ph1995-11-21d1t01.flac:56c4e4617b7cfd150524ebf55393daea
+ph1995-11-21d1t02.flac:7a7c488b24a371e107e4718a491ff924
+ph1995-11-21d1t03.flac:a944c7ed1fef6cd8c1e7fd1b27fa3c93
+ph1995-11-21d1t04.flac:1c8b5a0dee0c459481b0fd83c987c8c7
+ph1995-11-21d1t05.flac:768a52b18b5de8534cd63caf06b4c1e2
+ph1995-11-21d1t06.flac:73f8170a48632e02096b248349c00ca5
+ph1995-11-21d1t07.flac:f9cb4920ac6202c7879f3d4f333baf25
+ph1995-11-21d1t08.flac:62d1ee23aa6108e07a5bafe77987da98
+ph1995-11-21d1t09.flac:110b467d81d71aff4fa30ac0a193a588
+ph1995-11-21d1t10.flac:415a3697e08852ddaa63f0cfc5051493
+ph1995-11-21d2t01.flac:cd8e343cc7b54c489a0fdc459e98aa96
+ph1995-11-21d2t02.flac:48134fa21b9c7a668847189804c3f0ca
+ph1995-11-21d2t03.flac:9e85673872e1b5562564c85e13bb9eac
+ph1995-11-21d2t04.flac:88ad0b5c3b620520ca91aa2cb4333859
+ph1995-11-21d2t05.flac:248abfc17e4bc55f495e1148283ffcf7
+ph1995-11-21d2t06.flac:73e558167116bd71cb5aa2362dffd147
+ph1995-11-21d3t01.flac:e45b82738654d73f1a6fc9f3f025ba1e
+ph1995-11-21d3t02.flac:d561d1c021a0c4192f0eac223a1eb783
+ph1995-11-21d3t03.flac:c749e65ae577d039fbd724d0bdc3b5ea
+ph1995-11-21d3t04.flac:d5a7583f2f74aed8e70a684c141c3c6c
+ph1995-11-21d3t05.flac:0f87db8bed64587aa05d991c093c5d1c
+ph1995-11-21d3t06.flac:9c0a35b90e9a9d7ebebfd02b323a0301
+
+Original SHN MD5s
+05e8f8fd0710c958263fa8fe43983c8e *ph1995-11-21d1t1.shn
+bb785b78985a227bb8d3c569a3808e1b *ph1995-11-21d1t2.shn
+7a62502868b824aff867a3887cc342a6 *ph1995-11-21d1t3.shn
+1f2327419f3b1259105a0f03d4a6b8e0 *ph1995-11-21d1t4.shn
+4df753cd642216beae17cf64c60fdc38 *ph1995-11-21d1t5.shn
+3ae14d920d664cccef0c752cd5c47995 *ph1995-11-21d1t6.shn
+66a0bbb08a5091fbb34fb246646f42f6 *ph1995-11-21d1t7.shn
+737354b806d3551f066c58d9b1b02f9e *ph1995-11-21d1t8.shn
+72868125c3807e53dcdcfc10309a1931 *ph1995-11-21d1t9.shn
+818485ede0b9e393273dfa81cd35f288 *ph1995-11-21d1t10.shn
+da769aed08eeba3dbf93a9c7d58a1766 *ph1995-11-21d2t1.shn
+552eec804f6cecfb2ae3bc20eafb2860 *ph1995-11-21d2t2.shn
+cacfc593960b3f1b6605685dcd9580b5 *ph1995-11-21d2t3.shn
+7179edc3528e389d27fc98467c46cf76 *ph1995-11-21d2t4.shn
+6dd78d143e23c75cc0b263867ba0d92b *ph1995-11-21d2t5.shn
+bc43f2a1544f55d540737449005a8d8a *ph1995-11-21d2t6.shn
+96aa9025c1dc030aa46d7bd6811c0ba3 *ph1995-11-21d3t1.shn
+d0c555ce7e774b99a143c408d421e317 *ph1995-11-21d3t2.shn
+e082b08a5f0ab0430e8daf26b02b7a2e *ph1995-11-21d3t3.shn
+8a70adc592a95cf668179012677ec704 *ph1995-11-21d3t4.shn
+6a4b3da707a354ab959ae08f01da7faf *ph1995-11-21d3t5.shn
+09882aae3285314eff928bb08ecbaac4 *ph1995-11-21d3t6.shn

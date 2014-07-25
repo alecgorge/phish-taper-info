@@ -1,0 +1,49 @@
+Phish 
+April 4th, 1991
+Starry Night, Portland, OR
+
+
+Disc 1
+(Set 1)
+Landlady>
+Bouncin Around the Room
+Divided Sky
+Cavern
+A-Train
+Reba
+Chalkdust Torture
+Foam
+
+Disc 2
+(Set 1 con't)
+Mike's Song>
+Hydrogen>
+Weekapaug Groove
+(Set 2)
+Rocky Top
+Stash>
+Lizards
+The Sloth
+Dinner and a Movie>
+Harry Hood
+
+Disc 3
+(set 2 con't)
+I Didn't Know
+My Sweet One
+Good Times, Bad Times
+(Encore)
+Fee
+Oh Kee Pah Ceremony>
+Suzie Greenberg
+
+
+Source: SBD>cass>DAT
+
+Transfer: DA-20mkII>coax>Hoontech DSP24 S/PDIF>Soundforge 4.5 
+              (resampled 48k>44.1k with anti-alias filtering)>CDWave>
+              mkwACT v.96f>SHN  by Mattress (mattress_shns@hotmail.com)
+
+
+
+

@@ -1,0 +1,65 @@
+Phish
+October 7, 1994
+Stabler Arena, Lehigh University
+Bethlehem, PA
+
+source:
+AKG 460B/ck61 > custom pre-amp > Sony D7 (@ 48kHz)
+
+transfer:
+Sony PCM-R500 > Tascam HD-P2 > CF card > usb > pc > WaveLab 5.01b (fades, resample to 44.1kHz, patch) > CD Wave v1.95 > FLAC v1.1.2 (Level 8)
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded November 17, 2006
+
+notes:
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+Big thanks to Dave Flaschner for letting me borrow the master DATs!
+
+Disc 1 - [71:01]
+Set I
+01 - [06:48] - My Friend My Friend
+02 - [07:52] - Julius
+03 - [04:23] - Glide
+04 - [02:17] - Poor Heart
+05 - [14:12] - The Divided Sky
+06 - [06:11] - Guelah Papyrus
+07 - [13:02] - Stash
+08 - [11:32] - Guyute
+09 - [04:44] - Golgi Apparatus
+
+Disc 2 - [45:44]
+Set II
+01 - [11:14] - Maze
+02 - [01:17] - The Horse >
+03 - [05:04] - Silent in the Morning
+04 - [14:27] - Reba
+05 - [05:08] - Wilson
+06 - [08:34] - Scent of a Mule
+
+Disc 3 - [43:24]
+Set II continued
+01 - [13:46] - Tweezer
+02 - [08:00] - Lifeboy
+03 - [02:07] - My Sweet One
+04 - [02:57] - Tweezer Reprise
+05 - [02:34] - encore break
+06 - [07:26] - Foreplay/Long Time
+07 - [04:40] - Cavern
+08 - [01:54] - outro
+
+show notes:
+This show marked the debut of Foreplay/Long Time and first performance of the completed Guyute, and provided the lasting image of Fishman on the "female washboard."
+
+patch notes:
+there were some drop-outs/digi-errors during "My Friend My Friend" and during "Cavern"
+these were present on the master DAT and were fixed by patching in the following source:
+AKG 460B/ck61 > ?
+http://db.etree.org/shninfo_detail.php?shnid=20753
+(based on the sound difference between the patch source and Dave's source, I would guess that the previously circulating source is NOT Dave's source)
+
+the patch source was used at the following locations:
+My Friend My Friend: [01:00] to [01:07]
+Cavern: [02:53] to [02:59]
+at each point, I cross-faded the patched source to make the transition smooth.

@@ -1,0 +1,81 @@
+Phish
+August 15th, 1998
+Loring Air Force Base
+Limestone, ME
+
+-Source DAT for Set1, Set2, and Ambient Set labeled (FOB Neumann u89i > Grace Lunatec V2 > Apogee > D8 @ 48khz)
+-Source DAT for Set3 labeled (Neumann u89i > Grace Lunatec V2 > Apogee > D8 @ 44khz)
+-Taper Unknown
+-Set1, Set2, Ambient Set transfer Tascam DA-40 > S/PDIF > M-Audio 2496 @ 48khz
+-Set3 transfer Tascam DA-40 > S/PDIF > M-Audio 2496 @ 44khz
+-Set1, Set2, Ambient Set 48khz > 44khz sample rate conversion via iZotope SRC 64 bit SRC 
+-Tracking performed in Adobe Audition 3.0
+-FLAC conversion via Trader's Little Helper
+
+All transfers by ifthir@hotmail.com (1.24.2011)
+
+
+Set 1
+
+1. Mike's Song > [10:16]
+2. Simple [11:56]
+3. Beauty Of My Dreams [3:28]
+4. Roggae [8:39]
+5. Split Open And Melt [12:19]
+6. Poor Heart [4:20]
+7. Moma Dance [13:02]
+8. Divided Sky [16:52]
+9. Water In The Sky [3:30]
+10. Funky Bitch > [7:50]
+11. Cities > [8:30]
+12. Weekapaug Groove [10:50]
+
+Total Time [1:51:32]
+
+Set 2
+
+1. The Wedge [7:05]
+2. Reba [16:45]
+3. Gumbo > [13:48]
+4. Sanity > [5:33]
+5. Tweezer > [16:04]
+6. The Horse > [1:39]
+7. Silent In The Morning [5:23]
+8. Chalkdust Torture [8:02]
+9. Slave To The Traffic Light [10:48]
+
+Total Time [1:25:07]
+
+Set 3
+
+1. NICU > [5:29]
+2. David Bowie [24:56]
+3. Strange Design [3:22]
+4. Limb By Limb > [11:29]
+5. Brian And Robert [3:42]
+6. Loving Cup [10:12]
+
+Encore
+
+7. Halley's Comet > [7:07]
+8. Cavern [4:09]
+9. Tweezer Reprise [9:03]
+
+Total Time [1:19:29]
+
+
+Ambient Set 
+
+1. Ambient Set [51:55]
+
+
+
+Show Notes:
+
+Split Open and Melt was by request
+Sneakin' Sally tease during Cities
+Alternate lyrics during Cities
+Extended intro to David Bowie
+Ambient Jam is in the style of "Brian Eno", per Trey's speech at the end of Tweezer Reprise
+
+

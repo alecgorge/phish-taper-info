@@ -1,0 +1,58 @@
+PHISH
+07-02-97 Paradiso, Amsterdam, The Netherlands
+
+Taper / X-fer :  Jordan Braunstein
+
+Taping Rig: Schoeps CMC6/mk4 > Sonosax SX-M2 > DA-P1 
+
+Transfer:   Master Dat (48 kHz) > ipaq H5555 via PDAudio card > 
+		SoundForge 6.0 (resampling & fades) > CD Wav (track splits) > FLAC
+
+
+
+set 1
+1 Mike's Song->
+2 Simple->
+3 Maze
+4 Strange Design
+5 Ginseng Sullivan
+6 Vultures
+7 Water in the Sky
+8 Weekapaug Groove
+
+disc 2
+set 2
+1 Stash->
+2 Llama->
+3 Worm Town Jam*
+4 Wading in the Velvet Sea
+
+disc 3
+E1: Free**
+E2: David Bowie
+
+*A jam on "Swing Town" (Steve Miller tune) with dark vocals about "Back
+of the Worm" and worms in the canals of Amsterdam. 
+
+**Band left stage after Free
+
+
+
+******************************
+	Fingerprints
+******************************
+
+ph97-07-02d1t01.flac:1576133539587c9aed33ba9431c8c2c1
+ph97-07-02d1t02.flac:3c39bfcac2fc0660034a3706d4d028cc
+ph97-07-02d1t03.flac:c1fb173a6242634758616ad375c2915e
+ph97-07-02d1t04.flac:ed9cf8ff3e8b53edc99b116f4d9f5c79
+ph97-07-02d1t05.flac:784b4cef10f48499542062e75735845f
+ph97-07-02d1t06.flac:96ee3d30ba59981f2fb95134f8f78746
+ph97-07-02d1t07.flac:993615e425b66e433566df23214a2a74
+ph97-07-02d1t08.flac:bdb8647b4b0ded5d37b23c5410e57f0a
+ph97-07-02d2t01.flac:d2dde40e2111a73a07fc3b37636f05d1
+ph97-07-02d2t02.flac:c9560fd190e853b0b4ec1584aaa32037
+ph97-07-02d2t03.flac:9babd13693689b85e33b434072812f9a
+ph97-07-02d2t04.flac:8498174b267ddb63dd50c647c2d87300
+ph97-07-02d3t01.flac:11dc37e69d5ca36eff6ba035f605b17f
+ph97-07-02d3t02.flac:fb10659e7f3627d18a7f559e38b94d00

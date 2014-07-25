@@ -1,0 +1,127 @@
+Phish
+April 2, 1993 
+Mt. Baker Theater
+Belligham, WA 
+
+
+Source: Nakamichi CM300 @ 48 kHz
+Transfer: Tascam DA-20 > Delta DiO 2496 > Sound Forge 6.0 (48>44.1) > CDWave > flac16
+Transferred by: Daniel Shay <daniel_shay@hotmaildotcom> 
+
+
+
+DISC 1					[74:52]	
+Set I: 
+01.  Buried Alive				[02:35]
+02.  Poor Heart				[02:26]
+03.  Foam					[08:23]
+04.  Bouncing Around the Room		[03:40]
+05.  The Divided Sky			[13:53]
+06.  I Didn't Know *				[03:48]
+07.  It's Ice				[08:04]
+08.  Sparkle				[03:46]
+09.  Maze					[10:05]
+10.  Golgi Apparatus 			[04:35]
+Set II: 
+11.  Runaway Jim ^				[08:37]
+12.  Sample in a Jar				[05:00]
+
+
+DISC 2					[76:55]
+Set II: (cont.)
+01.  Uncle Pen				[03:57]
+02.  Llama				[04:58]
+03.  The Horse > 				[02:25]
+04.  Silent in the Morning			[05:11]
+05.  Mike's Song > 				[08:10]
+06.  I Am Hydrogen > 			[02:52]
+07.  Weekapaug Groove ~ 			[14:20]
+08.  Lizards > 				[10:23]
+09.  Big Ball Jam				[02:54]
+10.  HYHU > 				[02:11]
+11.  Bike > 				[06:50]
+12.  HYHU				[01:12]
+13.  Chalkdust Torture 			[07:11]
+Encore: 
+14.  Amazing Grace			[01:48]
+15.  Rocky Top 				[02:33]
+
+
+
+Show notes:
+* with Fishman on Madonna washboard
+^ with Simpsons signal
+~ with Random Note signal
+
+
+Seed notes:
+- small spot of digi-noise @ 00:26 of d1t01 (Buried Alive)
+- two small spots of digi-noise @  01:18 of d1t02 (Poor Heart)
+- .355 second drop out on DAT edited out at 06:26 of d2t13 (Chalkdust)
+
+
+
+
+-------------------------------flac fingerprint-------------------------------
+
+ph1993-04-02d1t01.flac:f28d22a50d0cdfe35466c0b9b1aebdb9
+ph1993-04-02d1t02.flac:fc5f70a680ca5d6d19f40d63e1c44661
+ph1993-04-02d1t03.flac:d02677a5f7ec3bab1acb179a58d71831
+ph1993-04-02d1t04.flac:561975237ca4205fe2476044ed9d8316
+ph1993-04-02d1t05.flac:203d58b56895aa6e52bfa7278a2d099f
+ph1993-04-02d1t06.flac:942ab3a6f3c4859691bd42309c9214a1
+ph1993-04-02d1t07.flac:dd83cdfe2d15ecc5baad775d9513239f
+ph1993-04-02d1t08.flac:c1f0e244a260086cd8d1c35bf03d4b4a
+ph1993-04-02d1t09.flac:dacc9cfe027e3fbc16a5da7c7311d210
+ph1993-04-02d1t10.flac:dcdc86699fae89e376a3fd648d0ffded
+ph1993-04-02d1t11.flac:de8d97399b4308fb9aa768198ed34eb3
+ph1993-04-02d1t12.flac:28bb17eefc35d5da9cd24c5691abe68d
+ph1993-04-02d2t01.flac:fdc02789df6bcd25780b8628828a9052
+ph1993-04-02d2t02.flac:d6cd3be4c4b63b10a1123110ac55a4c1
+ph1993-04-02d2t03.flac:7e96f66ae26a8bfceea3f118ab470c4d
+ph1993-04-02d2t04.flac:ef251a807f2a45eb46099a211f799411
+ph1993-04-02d2t05.flac:6aa283491e794d6743c2be0da7a5a4bb
+ph1993-04-02d2t06.flac:6fc79f0b0ffa510720a48513a09dad64
+ph1993-04-02d2t07.flac:da3ab997b84e39a880d218d87ee0ea85
+ph1993-04-02d2t08.flac:2b8b9214b1d33814df9f959a8b1befdc
+ph1993-04-02d2t09.flac:1206c0e5ea8cf94968c4ac1501d2b333
+ph1993-04-02d2t10.flac:1bf3cf110099af54f1e5565cf56381e5
+ph1993-04-02d2t11.flac:a41714be435d74dcbe8e505c44a01436
+ph1993-04-02d2t12.flac:3d00c99d193fc731427612ba7e4b1fe0
+ph1993-04-02d2t13.flac:b95d7815008384148bc6d3476314e33d
+ph1993-04-02d2t14.flac:3a61a3eca40cd3913fc7cc055e3ca956
+ph1993-04-02d2t15.flac:e332f462eb79ad54ee1b40c193682e1f
+
+
+-------------------------------shntool output-------------------------------
+
+    length     expanded size   cdr  WAVE  probs   filename
+     2:35.35      27424364     ---   --    ---    ph1993-04-02d1t01.wav
+     2:26.34      25834412     ---   --    ---    ph1993-04-02d1t02.wav
+     8:23.14      88762172     ---   --    ---    ph1993-04-02d1t03.wav
+     3:40.38      38897420     ---   --    ---    ph1993-04-02d1t04.wav
+    13:53.47     147051788     ---   --    ---    ph1993-04-02d1t05.wav
+     3:48.59      40358012     ---   --    ---    ph1993-04-02d1t06.wav
+     8:04.19      85422332     ---   --    ---    ph1993-04-02d1t07.wav
+     3:46.66      40021676     ---   --    ---    ph1993-04-02d1t08.wav
+    10:05.47     106832588     ---   --    ---    ph1993-04-02d1t09.wav
+     4:35.01      48512396     ---   --    ---    ph1993-04-02d1t10.wav
+     8:37.73      91370540     ---   --    ---    ph1993-04-02d1t11.wav
+     5:00.66      53075276     ---   --    ---    ph1993-04-02d1t12.wav
+     3:57.09      41828012     ---   --    ---    ph1993-04-02d2t01.wav
+     4:58.32      52642508     ---   --    ---    ph1993-04-02d2t02.wav
+     2:25.45      25683884     ---   --    ---    ph1993-04-02d2t03.wav
+     5:11.37      54947468     ---   --    ---    ph1993-04-02d2t04.wav
+     8:10.20      86483084     ---   --    ---    ph1993-04-02d2t05.wav
+     2:52.70      30505484     ---   --    ---    ph1993-04-02d2t06.wav
+    14:20.51     151823996     ---   --    ---    ph1993-04-02d2t07.wav
+    10:23.22     109948988     ---   --    ---    ph1993-04-02d2t08.wav
+     2:54.34      30773612     ---   --    ---    ph1993-04-02d2t09.wav
+     2:11.53      23233100     ---   --    ---    ph1993-04-02d2t10.wav
+     6:50.71      72491036     ---   --    ---    ph1993-04-02d2t11.wav
+     1:12.09      12722012     ---   --    ---    ph1993-04-02d2t12.wav
+     7:11.62      76174268     ---   --    ---    ph1993-04-02d2t13.wav
+     1:48.27      19114748     ---   --    ---    ph1993-04-02d2t14.wav
+     2:33.63      27137420     ---   --    ---    ph1993-04-02d2t15.wav
+   152:01.54    1609072596 B                      (totals for 27 files)
+

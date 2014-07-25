@@ -1,0 +1,80 @@
+Add encore to end of disc 1, then burn 2t01 - d3t02 as the second disc for 2 80 min discs.
+
+Phish
+05-08-94
+The Backyard Bee Cave, Austin, TX
+--------------------------------------------------------------------------------------------
+Source: ?
+Transfer: ?
+--------------------------------------------------------------------------------------------
+
+Disc/Set I
+01. Runaway Jim			07:28.02
+02. Foam			08:27.53
+03. Axilla II			03:10.04
+04. Rift			05:48.71
+05. Down With Disease >		07:10.53
+06. Bouncin'			03:42.44
+07. Stash			11:34.12
+08. The Squirming Coil		09:59.39
+
+----------------------------------------
+
+Disc/Set IIa
+01. Also Sprach Zarathustra >	03:29.79
+02. Antelope			15:47.51
+03. It's Ice			09:23.45
+04. Fee >			05:41.32
+05. Julius			07:17.33
+06. Cavern			04:30.26
+07. YEM >			20:21.30
+
+----------------------------------------
+
+Disc 3/Set IIb
+01. Halley's Comet >		04:55.00
+02. Good Times Bad Times	07:36.39
+
+Encore
+03. Sweet Adeline		02:01.34
+04. Golgi Aparatus		04:30.51
+
+-------------------------------------------------------------------------------------------
+
+This the the 2 disc layout. See extra folder included.
+On d2 t08a should be appended onto t08 with addawav or
+similar program before loading into layout, otherwise your 
+cd player might not recognze t08a as a separate track.
+
+Disc 1/Set I
+01. Runaway Jim			07:28.02
+02. Foam			08:27.53
+03. Axilla II			03:10.04
+04. Rift			05:48.71
+05. Down With Disease		07:10.53
+06. Bouncin'			03:42.44
+07. Stash			11:34.12
+08. The Squirming Coil		09:59.39
+09. 2 seconds gap		00:02.00
+
+Disc 1/Set IIb
+10. Good Times Bad Times	07:36.39
+
+Encore
+11. Sweet Adeline		02:01.34
+12. Golgi Aparatus		04:30.51
+
+----------------------------------------
+
+Disc 2/Set II
+01. Also Sprach Zarathustra>	03:29.79
+02. Antelope			15:47.51
+03. It's Ice			09:23.45
+04. Fee				05:41.32
+05. Julius			07:17.33
+06. Cavern			04:30.26
+07. YEM				20:21.30
+08. Halley's Comet		04:55.00
+08a. GTBT overlap		00:01.52
+
+--------------------------------------------------------------------------------------------

@@ -1,0 +1,49 @@
+Phish
+09/04/2011
+Commerce City, Colorado  Dick's Sporting Goods Park
+
+Source: Schoeps mk5> KCY> VST62IU> EAA PSP-2> SD 744t (@24bit/96kHz)
+Location: FOB, DFC, 6' Stand, cardioid/ORTF
+
+Transfer: SD 744t> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred/Seeded by: taylorc (09/05/2011)
+
+
+Set I
+t01 [10:03] Maze
+t02 [08:34] Back on the Train>
+t03 [05:55] Rift>
+t04 [15:19] Bathtub Gin
+t05 [05:36] The Way It Goes
+t06 [07:31] Halfway to the Moon
+t07 [05:01] Gumbo
+t08 [06:09] Halley's Comet>
+t09 [04:37] Tube>
+t10 [05:17] Timber>
+t11 [05:07] Roses are Free>
+t12 [08:57] Chalk Dust Torture
+
+Set II
+t13 [10:14] Rock and Roll>
+t14 [03:07] Come Together>
+t15 [07:50] Twist>
+t16 [11:56] Piper>
+t17 [12:47] Harry Hood>
+t18 [08:00] Roggae>
+t19 [05:26] Ghost>
+t20 [04:12] Guy Forget>
+t21 [00:51] Ghost
+t22 [11:35] Walls of the Cave
+t23 [02:21] crowd
+
+Encore
+t24 [08:13] Backwards Down the Number Line
+
+
+Notes:
+Maze, last show opener 12/08/1995 (538 shows)
+The Way It Goes (Gillian Welch), first time played
+Come Together, last played 12/08/1995 (537 shows)
+Guy Forget, last played 10/01/2000 (199 shows)
+Thanks to Jason Lonchar for the mk5 caps
+Set I [1:28:06] Set II [1:18:19] Encore [8:13]

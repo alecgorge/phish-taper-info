@@ -1,0 +1,88 @@
+Phish
+June 12th, 2011
+Merriweather Post Pavilion
+Columbia, MD
+
+Taper: Timothy Brown (timothydavidbrown@gmail.com)
+Source: AKG C460Bs/CK 63-ULS (DINa, ~5' ROC, OTS, on stand ~7')->Kind Kables->Naiant LittleBox->Segue Dogstar Silver-Clad Interconnect->Edirol R-09HR (24 bit/48 kHz)
+Transfer: SDHC -> PC
+Processing: Fade in, fade out, dithered to 16 bit, resampled to 44.1 kHz & tracking using SoundForge 9.0.
+Conversion: FLAC frontend 1.7.1 used to align on sector boundaries and for Flac16 Conversion @ level 8
+Tagging: Band name, Venue and Song Title in Foobar2000
+
+*****************************************************************
+********* PLEASE SPREAD, BUT PLEASE INCLUDE SOURCE INFO *********
+****** DO NOT SELL OR DISTRIBUTE FOR A PROFIT BY ANY MEANS ******
+*****************************************************************
+
+Set I
+01. Buried Alive
+02. Lonesome Cowboy Bill
+03. Ha Ha Ha
+04. Sample in a Jar >
+05. Divided Sky
+06. Wolfman's Brother ->
+07. Boogie on Reggae Women >
+08. Gumbo
+09. Halley's Comet >
+10. Bathtub Gin >
+11. Jesus Left Chicago
+12. Character zero
+
+Set II
+13. Party Time
+14. Crosseyed and Painless >
+15. Steam >
+16. Light >
+17. The Wedge
+18. Alaska
+19. Halfway To The Moon
+20. Harry Hood >
+21. Backwards Down The Number Line
+22. Loving Cup
+23. Encore Break
+24. Sanity >
+25. Makisupa Policeman >
+26. First Tube
+
+Notes:
+Thanks to the kind folks in the TS for accomodating me with some clamp space!
+Congrats to Keith & Amy on your honeymoon show! Thanks so much for the VIP upgrade!!!!
+Shout outs to Erin, Jeff, Josh, Dino, Howell, Katie, Ryan, Naylor, Brandon, Jordan, Greg, Tom, Eric and all the CHS Jazz Band kids! 
+
+A 24 bit/48 kHz version exists.
+
+*****************************************
+****Please support artists and venues****
+************that allow taping************
+*****************************************
+
+phish.com
+timothydavidbrown.blogspot.com
+
+phish2011-06-12t01.flac:07e685a3dcaf1b88f751856cf2ec4f21
+phish2011-06-12t02.flac:89374d96e07b3fba798db429ad82f280
+phish2011-06-12t03.flac:60032a64c49bf7ae1576c9bc8e971021
+phish2011-06-12t04.flac:0b544a7a155bb5aa202427889a4bd048
+phish2011-06-12t05.flac:837abe4de880e643b2e78e8b29d20363
+phish2011-06-12t06.flac:6bebac346b0184c5826ec7ed668af51a
+phish2011-06-12t07.flac:923017d367b2998d0a5d279bb6704fc1
+phish2011-06-12t08.flac:3914b8df912959700527010d4d4857a7
+phish2011-06-12t09.flac:0d84df2ae5b5093285f1d81cae5024b4
+phish2011-06-12t10.flac:78a02564ce43ae499285b96a5774da89
+phish2011-06-12t11.flac:9f8abd26cf68a6848cabf6c897a50e50
+phish2011-06-12t12.flac:91adfe694330cfd87c12f055f9603d53
+phish2011-06-12t13.flac:9bae9383c01a8e2f2f8b9b8abb6ca385
+phish2011-06-12t14.flac:1ef41b068b4ce4e8bfac80a66ebc6b5b
+phish2011-06-12t15.flac:bb571744219a4bc3110be4041bf8a7cf
+phish2011-06-12t16.flac:ba60d2b8803c81b8b50e60f38b08ebb7
+phish2011-06-12t17.flac:4bbee721f06dc5d444351e35892bcc38
+phish2011-06-12t18.flac:341b83f1db41e457e29d7dea7ec6bc10
+phish2011-06-12t19.flac:bbacaac8fb594e0706b6e50b59623019
+phish2011-06-12t20.flac:5a2677c6736a04743bdbc627bccd6bbf
+phish2011-06-12t21.flac:d8860883bce60ad713110d2da2c9c377
+phish2011-06-12t22.flac:9db2964c9906645d8474c3d2aca93c23
+phish2011-06-12t23.flac:3ff5818539ba2046f97522c26946aaa6
+phish2011-06-12t24.flac:69f9b32ecc3ae570bf15bd2ba075e673
+phish2011-06-12t25.flac:4f89ea2bc6c09bf7a178464b11209889
+phish2011-06-12t26.flac:78f0edea628ed2f780908e63a859555e

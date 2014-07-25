@@ -1,0 +1,78 @@
+Phish
+11/01/2009
+Indio, California  Empire Polo Club, Festival 8
+
+Source (Set I): 
+Schoeps mk41> KC5> M222> NT222> Apogee Mini-Me> SD 722 (@24bit/96kHz)
+Location: FOB, 5' ROC, 75' from stage, 6' Stand, DINA
+
+Source (Set II, III, E):
+Schoeps mk22> KC5> M222> NT222> Apogee Mini-Me> SD 722 (@24bit/96kHz)
+Location: FOB, DFC, 50' from stage, 6' Stand, ORTF
+
+Transfer: SD 722> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44)
+Taped, Transferred & Seeded by: taylorc (11/02/2009)
+
+
+Set I (acoustic)
+t01 [01:45] Intro
+t02 [05:16] Water in the Sky
+t03 [05:40] Back on the Train
+t04 [04:41] Brian and Robert
+t05 [04:23] Invisble
+t06 [03:02] Strange Design
+t07 [08:28] Mountains in the Mist
+t08 [11:55] The Curtain With
+t09 [04:20] Army of One
+t10 [05:56] Sleep Again
+t11 [02:30] My Sweet One
+t12 [04:35] Let Me Lie
+t13 [04:06] Bouncing Around the Room
+t14 [02:57] Train Song
+t15 [04:43] Wilson
+t16 [08:21] McGrupp and the Watchful Hosemasters
+t17 [02:15] crowd
+t18 [03:55] Driver
+t19 [03:46] Talk
+t20 [06:23] Secret Smile
+
+Set II
+t21 [07:46] AC/DC Bag >
+t22 [06:21] Rift
+t23 [10:46] Gotta Jibboo
+t24 [06:23] Heavy Things
+t25 [12:36] Reba
+t26 [06:42] The Wedge
+t27 [05:44] Guelah Papyrus
+t28 [07:51] Undermind
+t29 [04:01] Sparkle
+t30 [12:09] Split Open and Melt
+
+Set III
+t31 [14:49] Tweezer>
+t32 [10:43] Maze
+t33 [09:02] Free
+t34 [05:17] Sugar Shack
+t35 [07:54] Limb by Limb
+t36 [08:14] Theme from the Bottom
+t37 [08:42] Mike's Song>
+t38 [06:22] Also Sprach Zarathustra>
+t39 [15:27] Light>
+t40 [10:33] Slave to the Traffic Light
+t41 [03:28] crowd
+
+Encore
+t42 [01:46] Grind
+t43 [09:37] Esther
+t44 [01:46] banter
+t45 [03:39] Tweezer Reprise
+
+
+Notes:
+Thanks to Jason Lonchar for the Schoeps tubes & Scott Gordon for the KC5's
+Stand lowered after Back on the Train with crowd sitting down
+Stand raised during The Curtain With as crowd stands back up
+Band left stage after McGrupp and the Watchful Hosemasters
+Invisible, first time played (Leo Kottke & Mike Gordon)
+Talk, last played 02/25/2003 (83 shows)
+Set I [1:38:57] Set II [1:20:19] Set III [1:40:31] Encore [16:48]

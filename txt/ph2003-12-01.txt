@@ -1,0 +1,75 @@
+Phish
+December 1, 2003
+Pepsi Arena
+Albany, NY
+
+source:
+Schoeps mk41 > kc5 > cmc6 > Sonosax SX-M2 > Apogee AD-1000 > Sony D100 (@ 44.1 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > WaveLab 5.01b (fades) > CD Wave v1.95.1 > FLAC v1.1.4 (Level 8)
+
+FLAC tags added with metaflac v1.1.4
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded May 20, 2007
+
+notes:
+Big thanks to Dave for letting me borrow the master DATs!
+
+Disc 1 - [67:00]
+Set I
+01 - [09:32] - Chalkdust Torture
+02 - [13:41] - Stash
+03 - [10:31] - Guyute
+04 - [07:18] - Thunderhead
+05 - [04:08] - Sparkle
+06 - [15:23] - Wolfman's Brother >
+07 - [06:27] - Good Times Bad Times
+
+Disc 2 - [50:01]
+Set II
+01 - [00:47] - intro
+02 - [16:57] - Tweezer ->
+03 - [08:15] - 2001 ->
+04 - [24:01] - You Enjoy Myself
+
+Disc 3 - [44:11]
+Set II continued
+01 - [01:42] - talking / Jeff intro
+02 - [05:38] - Camel Walk *
+03 - [09:04] - Possum *
+04 - [04:42] - Long Cool Woman in a Black Dress **
+05 - [12:22] - Run Like an Antelope #
+06 - [04:34] - encore break
+07 - [06:10] - Fire ^
+
+* with Jeff Holdsworth on guitar and vocals, singing tunes he wrote.
+** with Jeff on guitar and vocals, first song Phish ever played, "for old times' sake"
+# with Jeff on guitar and vocals; also with Tom Marshall on vocals and bell
+^ with Jeff Holdsworth on guitar
+
+
+
+    length     expanded size   cdr  WAVE problems filename
+     9:31.61      100867916    ---   --   ---xx   ph2003-12-01d1t01.flac
+    13:40.69      144810332    ---   --   ---xx   ph2003-12-01d1t02.flac
+    10:31.18      111350780    ---   --   ---xx   ph2003-12-01d1t03.flac
+     7:17.65       77239724    ---   --   ---xx   ph2003-12-01d1t04.flac
+     4:07.74       43744892    ---   --   ---xx   ph2003-12-01d1t05.flac
+    15:22.71      162807836    ---   --   ---xx   ph2003-12-01d1t06.flac
+     6:27.17       68306828    ---   --   ---xx   ph2003-12-01d1t07.flac
+     0:47.17        8330828    ---   --   ---xx   ph2003-12-01d2t01.flac
+    16:56.57      179356508    ---   --   ---xx   ph2003-12-01d2t02.flac
+     8:15.32       87393308    ---   --   ---xx   ph2003-12-01d2t03.flac
+    24:01.27      254255948    ---   --   ---xx   ph2003-12-01d2t04.flac
+     1:42.14       18025772    ---   --   ---xx   ph2003-12-01d3t01.flac
+     5:37.69       59609132    ---   --   ---xx   ph2003-12-01d3t02.flac
+     9:03.47       95895788    ---   --   ---xx   ph2003-12-01d3t03.flac
+     4:41.59       49707212    ---   --   ---xx   ph2003-12-01d3t04.flac
+    12:21.50      130830044    ---   --   ---xx   ph2003-12-01d3t05.flac
+     4:33.60       48298364    ---   --   ---xx   ph2003-12-01d3t06.flac
+     6:10.18       65310380    ---   --   ---xx   ph2003-12-01d3t07.flac
+   161:12.00     1706141592 B                     (totals for 18 files, 0.5294 overall compression ratio)
+

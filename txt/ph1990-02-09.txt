@@ -1,0 +1,111 @@
+Phish
+February 9, 1990
+Chameleon Club
+Lancaster, PA
+
+
+Source: SBD > Cass/X > DAT  (see notes)
+Transfer: Tascam DA-20 > Delta DiO 2496 > Sound Forge 6.0 (48>44.1) > CDWave > flac16
+Transferred by: Daniel Shay <daniel_shay@hotmaildotcom>
+
+
+
+DISC 1					[64:03]
+Set I: 
+01.  Golgi Apparatus			[04:27]
+02.  Oh Kee Pa Ceremony >		[01:44]
+03.  Suzy Greenberg			[05:25]
+04.  You Enjoy Myself			[14:45]
+05.  Walk Away				[04:50]
+06.  Bouncing Around the Room		[04:28]
+07.  AC/DC Bag				[05:53]
+08.  The Squirming Coil			[05:22]
+09.  Mike's Song > 			[05:47]
+10.  I Am Hydrogen > 			[02:12]
+11.  Weekapaug Groove			[07:39]
+12.  Carolina				[01:31]
+
+
+DISC 2					[69:20]
+Set II: 
+01.  Dinner and a Movie			[03:46]
+02.  Ya Mar				[06:17]
+03.  Reba				[11:59]
+04.  Wilson				[03:50]
+05.  Take the 'A' Train			[07:02]
+06.  Alumni Blues > Letter > Alumni*	[05:36]
+07.  Foam				[08:07]
+08.  The Ballad of Curtis Loew		[05:27]
+09.  David Bowie			[13:29]
+Encore: 
+10.  I Didn't Know			[03:47]
+
+
+Show notes:
+* contains a very brief Bathtub Gin tease by Page
+
+
+Seed notes:
+- d1t01 (Golgi) cuts in; level adjustment @ 0:10-0:14
+- d1t04 (YEM) cuts in; a 1.65 sec dropout was removed @ 5:55, coinciding with "Boy!"  
+- two small spots of digi-noise @ 5:10 of d1t08 (Coil)
+- a 1.01 sec dropout removed @ 5:14 of d1t08 (Coil)
+- a 1.42 sec dropout was removed @ 0:01 of d2t04 (Wilson) causing it to cut in
+
+
+
+
+-------------------------------flac fingerprint-------------------------------
+
+ph1990-02-09d1t01.flac:37d1e14086574d63c45c33532a80550e
+ph1990-02-09d1t02.flac:86650d4b31f56e4988ab00dddc542eda
+ph1990-02-09d1t03.flac:d6d95163033e4c3bf31b85173e68ffa0
+ph1990-02-09d1t04.flac:83bdb744274d54e2a836ba0c4a431dc8
+ph1990-02-09d1t05.flac:bbfaf69e6d7582acc9ae05b6c705d6b0
+ph1990-02-09d1t06.flac:892eb1e856266b5f4c8ef05efcbe2479
+ph1990-02-09d1t07.flac:26376c34996a0b0f8e446ab0038a2602
+ph1990-02-09d1t08.flac:3af84f60cdfb190baece33d1ad2de626
+ph1990-02-09d1t09.flac:36bccf41a7fb3d4302ea0e5a0f89edfe
+ph1990-02-09d1t10.flac:f2b7b7aff1b370f70481b7b84017da36
+ph1990-02-09d1t11.flac:eaa99448c674a5b0fdbfd80f6a5bbeef
+ph1990-02-09d1t12.flac:5a9bd15eef236452e7b9c6e253df9a48
+ph1990-02-09d2t01.flac:249ccc409828bde7b2e69d378b814a79
+ph1990-02-09d2t02.flac:ce9f6a62c1d528baaadee253df885cfc
+ph1990-02-09d2t03.flac:248b7af15303c913bd42b89a8ca38cbc
+ph1990-02-09d2t04.flac:414b84df202487e909682d8868ae195c
+ph1990-02-09d2t05.flac:bf9941b56f61241cd1c412f2d4ce4a78
+ph1990-02-09d2t06.flac:9f035db5289a9051d4098b43840c449e
+ph1990-02-09d2t07.flac:aea2a2ee7c9319cf801ed8d906e24a71
+ph1990-02-09d2t08.flac:361fa3e403326d07539b1b73cf50d0cc
+ph1990-02-09d2t09.flac:0dbc5691d1e90e143c3508d18591b2a5
+ph1990-02-09d2t10.flac:fbbdc2d42721a5c600f083724c03635d
+
+
+-------------------------------shntool output-------------------------------
+
+    length     expanded size   cdr  WAVE  probs   filename
+     4:27.24      47155292     ---   --    ---    ph1990-02-09d1t01.wav
+     1:44.36      18430316     ---   --    ---    ph1990-02-09d1t02.wav
+     5:25.13      57360620     ---   --    ---    ph1990-02-09d1t03.wav
+    14:45.00     156114044     ---   --    ---    ph1990-02-09d1t04.wav
+     4:49.29      51047852     ---   --    ---    ph1990-02-09d1t05.wav
+     4:26.69      47084732     ---   --    ---    ph1990-02-09d1t06.wav
+     5:53.71      62436236     ---   --    ---    ph1990-02-09d1t07.wav
+     5:21.25      56683244     ---   --    ---    ph1990-02-09d1t08.wav
+     5:47.59      61349612     ---   --    ---    ph1990-02-09d1t09.wav
+     2:12.04      23294252     ---   --    ---    ph1990-02-09d1t10.wav
+     7:39.20      81014684     ---   --    ---    ph1990-02-09d1t11.wav
+     1:31.34      16132412     ---   --    ---    ph1990-02-09d1t12.wav
+     3:46.66      40021676     ---   --    ---    ph1990-02-09d2t01.wav
+     6:17.36      66587516     ---   --    ---    ph1990-02-09d2t02.wav
+    11:59.30     126902204     ---   --    ---    ph1990-02-09d2t03.wav
+     3:48.70      40383884     ---   --    ---    ph1990-02-09d2t04.wav
+     7:02.72      74610188     ---   --    ---    ph1990-02-09d2t05.wav
+     5:36.49      59385692     ---   --    ---    ph1990-02-09d2t06.wav
+     8:06.71      85897436     ---   --    ---    ph1990-02-09d2t07.wav
+     5:27.54      57809852     ---   --    ---    ph1990-02-09d2t08.wav
+    13:29.36     142792316     ---   --    ---    ph1990-02-09d2t09.wav
+     3:47.33      40120460     ---   --    ---    ph1990-02-09d2t10.wav
+   133:28.01    1412614520 B                      (totals for 22 files)
+
+

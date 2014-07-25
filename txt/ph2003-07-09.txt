@@ -1,0 +1,72 @@
+Phish
+Wednesday, July 9th, 2003
+Shoreline Ampitheatre, Mountain View, CA
+
+Source:
+Schoeps Mk41V/CMC6 > Audio Magic Presto II microphone cables >
+Grace Designs Lunatec V2 preamplifier > 
+Audio Magic Presto II balanced interconnects >
+Benchmark Audio AD2K+ > Wicked Cable digital coaxial cable >
+Digigram VX Pocket interface > 
+Toshiba 3040CT (Jamie Lutch build) >
+Sonic Foundry Vegas Video 3.0
+
+plus (clamped on same stand)
+
+Neumann KM140 > Monster Cable microphone cables >
+Grace Designs Lunatec V3 preamplifier > 
+Benchmark Audio AD2K + > 
+Digigram VX Pocket intreface > 
+Toshiba 3040CT (Jamie Lutch build)>
+Sonic Foundry Vegas Video 3.0
+
+Taper section rail - DFC - aprox 8 feet high
+microphones aimed at each stack - (aprox ortf)
+
+Both sources recorded at 24 bit / 48Hz 
+
+Post production:
+
+Two sources mixed equally in Samplitude Studio 6.0 > 
+
+Sonic Foundry Soundforge 6.0 (markers > regions > 
+bit depth conversion to 16 bit with Highpass Triangular Dither and High-pass contour Noise Shaping >
+Resampling with anti-alias filtering to 44.1Hz >
+extract regions) >
+
+SHNTool (repair sector boundry errors) >
+
+Mkw (shn)
+
+Recorded by Larry Narachi "taperachi"
+lnarachi@narachi.com
+
+Thanks to Super Dave Haaf for the KM140 source!
+
+DISC ONE                  70:54
+
+- set one -
+You Enjoy Myself ->       17:10
+Simple >                  09:58
+Mist                      06:58
+Chalkdust Torture         09:45
+Bathtub Gin               26:52
+
+DISC TWO                  55:42
+
+- set two -
+Boogie On Reggae Woman -> 04:47
+AC/DC Bag                 08:43
+Piper                     19:14
+Twist >                   11:19
+Scents and Subtle Sounds  11:37
+
+DISC THREE                32:51    
+                
+Mike's Song ->            09:39  
+I Am Hydrogen ->          03:12
+Weekapaug Groove          12:17
+- encore -
+Loving Cup                07:42
+
+

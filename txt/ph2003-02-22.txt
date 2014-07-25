@@ -1,0 +1,70 @@
+Phish
+February 22, 2003
+US Bank Arena
+Cincinnati, OH
+
+source:
+(FOB) Schoeps mk4v > kcy > vms5u > Apogee AD-1000 -> Tascam DA-P1 (@ 48 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > r8brain v1.9 (resample to 44.1 kHz) > WaveLab 5.01b (fades) > CD Wave v1.95.1 > FLAC v1.1.4 (Level 8)
+
+FLAC tags added with metaflac v1.1.4
+
+recorded by Jim Charna
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded July 24, 2007
+
+notes:
+the 48kHz files from the DAT transfer have been archived, and are available upon request.
+Big thanks to Dave Flaschner for letting me borrow his DATs!
+
+Disc 1 - [78:13]
+Set I
+01 - [04:38] - The Sloth
+02 - [04:33] - Dogs Stole Things
+03 - [12:37] - Piper ->
+04 - [08:20] - Weekapaug Groove
+05 - [05:00] - Dirt
+06 - [09:29] - Scent of a Mule
+07 - [20:48] - Walls of the Cave
+08 - [07:13] - Mist
+09 - [05:35] - Sample In a Jar
+
+Disc 2 - [74:49]
+Set II
+01 - [01:16] - intro
+02 - [11:02] - Tube >
+03 - [26:43] - Bathtub Gin
+04 - [08:23] - Friday >
+05 - [18:30] - David Bowie
+06 - [08:54] - Bug
+
+Disc 3 - [11:53]
+Set II continued
+01 - [03:34] - encore break
+02 - [08:19] - Suzy Greenberg
+
+--------------------------------------------------------------------------------------------------
+
+SHNtool output:
+
+    length     expanded size   cdr  WAVE problems filename
+     4:38.06       49053356    ---   --   ---xx   ph2003-02-22d1t01.flac
+     4:32.49       48096092    ---   --   ---xx   ph2003-02-22d1t02.flac
+    12:36.54      133485452    ---   --   ---xx   ph2003-02-22d1t03.flac
+     8:20.15       88235324    ---   --   ---xx   ph2003-02-22d1t04.flac
+     5:00.08       52938860    ---   --   ---xx   ph2003-02-22d1t05.flac
+     9:28.50      100312844    ---   --   ---xx   ph2003-02-22d1t06.flac
+    20:47.50      220088444    ---   --   ---xx   ph2003-02-22d1t07.flac
+     7:13.32       76456508    ---   --   ---xx   ph2003-02-22d1t08.flac
+     5:35.36       59178716    ---   --   ---xx   ph2003-02-22d1t09.flac
+     1:16.24       13462892    ---   --   ---xx   ph2003-02-22d2t01.flac
+    11:01.64      116750972    ---   --   ---xx   ph2003-02-22d2t02.flac
+    26:43.21      282818636    ---   --   ---xx   ph2003-02-22d2t03.flac
+     8:23.03       88736300    ---   --   ---xx   ph2003-02-22d2t04.flac
+    18:29.64      195778172    ---   --   ---xx   ph2003-02-22d2t05.flac
+     8:54.23       94251740    ---   --   ---xx   ph2003-02-22d2t06.flac
+     3:33.73       37744940    ---   --   ---xx   ph2003-02-22d3t01.flac
+     8:19.37       88110668    ---   --   ---xx   ph2003-02-22d3t02.flac
+   164:55.09     1745499916 B                     (totals for 17 files, 0.5279 overall compression ratio)

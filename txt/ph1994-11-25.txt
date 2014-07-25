@@ -1,0 +1,40 @@
+Phish
+11-25-94 : UIC Pavilion - Chicago, IL
+
+Source: AKG480 > DAT
+Transferred: Sony R500 > AES/EBU > ZA2 > CoolEdit > SHN
+
+Disc One
+Set I:
+1. Llama
+2. Guelah Papyrus
+3. Reba
+4. Bouncing Around the Room
+5. Split Open and Melt
+6. Esther
+7. Julius
+8. Golgi Apparatus
+
+Disc Two
+Set II:
+1. 2001>
+2. Mike's Song>
+3. Simple>
+4. Harpua
+5. Weekapaug Groove>
+6. Mango Song>
+7. Purple Rain>
+8. HYHU
+
+Disc Three
+Set II continued:
+1. Run Like an Antelope
+Encore:
+2. Good Times Bad Times
+
+Notes:
+Llama (d1t1) sort of starts abruptly, and may have ~1 second or so
+missing from the beginning.  There are also some level adjustments
+in the beginning of it.
+I tidied up the track boundaries by merging them and resplitting
+them with CDWav, so the md5s may not match your copy's.

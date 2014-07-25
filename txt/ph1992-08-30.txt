@@ -1,0 +1,39 @@
+Phish
+August 30th, 1992
+Cal Expo Amphitheatre
+Sacramento, CA
+
+-Source recorded by Jean Lerond <lerond@gmail.com>
+-Source labeled - Sonic Studios DSM-6 omnidirectional binaural microphones > Sony TCD-D3 @ 16/48
+-Source transfer - Fostex D5 DAT > S/PDIF > M-Audio Firewire Audiophile > Sony Sound Forge 9.0e build 441 
+-48khz wav > FLAC Level 8 via libFLAC v1.1.4 20070213
+-Source flac's provided by MarcoEsc@phish.net
+
+-48khz FLAC > wav transfer via Trader's Little Helper
+-48khz > 44khz sample rate conversion via iZotope SRC 64 bit SRC
+-Tracking performed in Adobe Audition 3.0
+-FLAC conversion via Trader's Little Helper
+
+Final transfers by ifthir@hotmail.com 7/12/2011
+
+
+1. \\ Uncle Pen [2:35]
+2. The Landlady [3:30]
+3. Reba [11:43]
+4. Llama [4:59]
+5. Memories [1:56]
+6. Run Like An Antelope [12:56]
+7. Sweet Adeline [1:42]
+
+Total Time [39:21]
+
+
+Show notes:
+
+Phish was opening act on a bill that included Santana, Los Lobos and the Indigo Girls.
+Digi spot in Reba that is noted in Source notes
+
+Source notes:
+
+At some point after the tour, I cloned the Master DAT recordings of the Concord, Shoreline and Sacramento Phish segments onto a single DAT. The only editing performed at that time was to trim the sets, beginning and ending each recording with a digital fade in/out (using functionality built into the cloning DAT deck, probably a Sony DTC-60ES DAT). Unfortunately, I made no notes about my location, but my recollection is that we were dancing in the dragon's throat, that is, more or less dead center, about 20 to 40 feet back from the stage. It looks to me like I left the levels alone for the entire set, but that the PA was turned up during Run Like an Antelope; Sound Forge shows a single 5-sample clip in the R Channel at ~32:50; I didn't bother looking for any other clips, since I mean to hand over the master data in as pristine form as is possible.
+Similarly, the levels during Memories and Sweet Adeline are quite low, but it doesn't look to me like I screwed around with the levels, and my recollection is that the tunes were performed with a mic at the front of the stage, as opposed to the unamplified barbershop tunes Phish performed at other dates in the early 1990's. While listening, I noted a very brief dropout in the right channel at ~6:38, there may be others (I didn't look).

@@ -1,0 +1,82 @@
+Phish
+06-21-94
+Cincinnati Music Hall
+Cincinnati OH
+
+Source:    DAUD/OTS>AKG 460b ck61>AKG B-18 Phantom Power>Sony D-10
+           Pro II(@ 48khz)
+
+Transfer: Master Dat from D-10>Sony DTC-690> Audioquest
+          Optilink 1> SEK'D Prodif Plus> Samplitude v5.5> Soundforge xp
+          4.5 (resample @ 4/4 with anti alias filter)> Cdwav 1.6>
+          Mkw act 0.97b1
+
+
+Edits: Five second fade in/out of sets. 
+
+Notes: Disc Two,Tracks 4-7 & 13 were performed acoustic with no 
+       amplification and thus are very hard to hear.You will have to
+       turn up the volume. 
+      
+Taped by:      Jeff Jordan
+Transfered by: Chris "sparki" Ace  <sparki@iwon.com>.
+
+Big thanks to Jeff and Lauren Jordan for sending me the dats for transfer.
+
+48k archive shns available.
+
+____________________________________________________________________________
+
+*Dankseed Certification received 2002-02-20*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph1994-06-21
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________
+
+Disc 1 / Set I & Set IIa:              [71:10]              
+1.  Crowd/Tuning		       [00:46]
+2.  Runaway Jim                        [07:37]
+3.  Mound >               	       [05:49]
+4.  Sample In A Jar		       [05:00]
+5.  It's Ice			       [08:35]
+6.  The Horse			       [01:32]
+7.  Trey's Fire Alarm Announcement     [00:37]
+8.  "Fire Alarm"		       [01:00]
+    Set II
+9.  No Smoking Announcement	       [01:16]
+10. Fire			       [04:29]
+11. Poor Heart >                       [02:22]            
+12. Down With Disease		       [08:36]
+13. My Friend My Friend		       [08:19]
+14. Split Open & Melt		       [15:15]
+
+Disc 2 / Set IIb		       [65:33]
+1.  Esther			       [08:40]
+2.  Chalkdust Torture		       [07:30]
+3.  BBFCFM			       [04:13]
+4.  Ginseng Sullivan*		       [03:33]
+5.  BBFCFM*			       [01:54]
+6.  Dog Faced Boy*		       [02:44]
+7.  Adeline*			       [02:12]
+8.  Julius			       [06:58]
+9.  Sparkle			       [03:47]
+10. Harry Hood			       [13:11]
+11. Suzie Greenburg		       [05:59]
+12. Encore Break/Crowd		       [02:24]
+13. Amazing Grace*		       [02:28]
+
+* Acoustic/No Amplification
+
+
+
+
+

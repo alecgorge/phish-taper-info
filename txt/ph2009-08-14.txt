@@ -1,0 +1,42 @@
+Phish
+Comcast Theatre
+Hartford, CT
+2009-08-14
+
+Source: Microtech Gefell M270's(split 3ft)>Audio Magic Hyper-Conductors and Microtech Gefell M21 on JK labs box>
+Edirol R-4(Oade T mod) @ 24/96
+
+Mic Placement: OTS, DFC, BFT!!
+
+Transfer: R-4>USB>pc>Sound Forge 7(75/25 mix, track, resample and dither to 16/44.1)> Flac Frontend 1.7.1
+
+Taped and Transferred by Jason Adler Jason at Galactic-Trading dotcom
+
+
+Set One
+01. Punch You in the Eye
+02. AC/DC Bag
+03. NICU
+04. Colonel Forbin's Ascent >
+05. Fly Famous Mockingbird
+06. Birds Of A Feather
+07. Lawn Boy
+08. Stash
+09. I Didn't Know
+10. Middle Of The Road
+11. Character Zero
+
+Set Two
+01. Down With Disease >
+02. Wilson >
+03. Slave To The Traffic Light
+04. Piper >
+05. Water In The Sky
+06. Ghost >
+07. Psycho Killer >
+08. Catapult >
+09. Icculus >
+10. You Enjoy Myself
+Encore
+11. While My Guitar Gently Weeps
+

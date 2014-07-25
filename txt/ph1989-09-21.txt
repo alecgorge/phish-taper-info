@@ -1,0 +1,53 @@
+Phish
+09-21-89
+Pearl Street - Northampton, MA 
+
+Source: SBD > Cass/0 > DAT
+Transfer: DA-20 mkII > ZA2 > SF 4.5 > CDWav > SHN 
+
+Transfer by Jimmy Sellers (pjimmy@delanet.com)
+Fixes by Ben Mohr (bmohr@udel.edu)
+
+---------------------------------------------------
+ Disc 1:                                   (55:32)
+---------------------------------------------------
+-Set 1-
+1. Golgi Apparatus                         (04:59)
+2. Ya Mar                                  (05:44)
+3. AC/DC Bag                               (05:33)
+4. My Sweet One                            (03:42)
+5. Fee                                     (05:21)
+6. Alumni Blues > LtJP > Alumni            (06:26)
+7. Gamehendge story                        (00:36)
+8. McGrupp and the Watchful Hosemasters -> (05:11)
+9. Who Do? We Do! >                        (05:33)
+10. David Bowie                            (12:24)
+
+---------------------------------------------------
+ Disc 2:                                   (26:33)
+---------------------------------------------------
+-Set 2p-
+1. The Divided Sky* >                      (12:42)
+2. The Chase ->                            (01:10)
+3. Dinner and a Movie >                    (03:37)
+4. Bundle of Joy ->                        (01:38)
+5. Possum                                  (07:26)
+[Bathtub Gin]
+[You Enjoy Myself]
+[If I Only Had a Brain]
+[Run Like an Antelope]
+-Encore-
+[Good Times Bad Times]
+
+*With "Popeye" theme tease at 11:16
+
+Notes:
+-The partial set 2 is all that is known to circulate.
+-Some feedback in d2t01
+-Mild static d1t09 11:09, 11:13, 11:24 (on all known copies - seems to be from 
+  master since waveform is not distorted in any way)
+-Tape flip: d1t08 0:11 (43:20)
+
+Fixes:
+-Removed diginoise in d1t09 6:44.254 0.035s R channel
+-Removed d1t09 11.23.947 0.269 sec due to horrible diginoise 

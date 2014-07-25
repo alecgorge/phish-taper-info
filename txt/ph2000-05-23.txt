@@ -1,0 +1,90 @@
+phish
+roseland ballroom
+nyc
+2000-05-23
+
+
+check source: Schoeps mk4 > kc5 > cmc5 > Sonosax SX-M2 > Sony TCD-D3 (@ 44.1 kHz)
+      transfer: Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > WaveLab 5.01b (fades) > CD Wave v1.96.1 > FLAC v1.2.1 (Level 8)
+
+Soundcheck: 
+
+01 - [01:42] - intro setup
+02 - [05:35] - Mozambique
+03 - [02:18] - Driver
+04 - [05:15] - Driver (x2)
+05 - [03:53] - Driver (x3)
+06 - [07:08] - Driver (x4)
+07 - [08:36] - My Soul
+08 - [02:37] - Ginseng Sullivan
+09 - [03:16] - Ginseng Sullivan (x2)
+10 - [03:33] - Long Cool Woman in a Black Dress
+11 - [05:27] - Funky Bitch
+12 - [07:40] - Farmhouse
+13 - [02:45] - Mike / Fishman jam
+
+
+
+set 1
+
+disc 1
+01-AC/DC Bag, 
+02-Wilson, 
+03-First Tube, 
+04-Ya Mar-> 
+05-Mike's Song-> 
+06-Simple-> 
+07-It's Ice, 
+08-When The Circus Comes To Town, 
+
+disc 2
+01-Get Back On The Train, 
+02-Gotta Jiboo, 
+03-Taste, 
+04-Sleeping Monkey
+
+set 2
+
+05-Punch You in the Eye, 
+06-Twist Around, 
+07-Waste, 
+
+disc 3
+01-Piper, 
+02-You Enjoy Myself, 
+03-Run Like an Antelope, 
+04-Train Song, 
+05-Bug, 
+E: 
+06-Boogie On Reggae Woman, 
+07-Cavern
+
+Show Notes: This show was taped for VH-1's "Hard Rock Live." Portions were first 
+broadcast on July 1, 2000, and has been rebroadcast several times since. Ice was 
+played for the first time since November 13, 1998 (82 shows).
+
+source: SBD>DAT(?)>cd>eac>flac
+
+fingerprint:
+phish2000-05-23d1t01.flac:2199a0f174624f98a944bd99d1722fdc
+phish2000-05-23d1t02.flac:ea8a17a5a0b7a4b75d8c2e440bdb9080
+phish2000-05-23d1t03.flac:f3eefe826ace1a519f7827b472e88a58
+phish2000-05-23d1t04.flac:44969648087ebc9f283ca551b09aac58
+phish2000-05-23d1t05.flac:2a2db78c5e61ea859dbaa4adf25bfd21
+phish2000-05-23d1t06.flac:1b42e3de547e2cae7be591de65692ec2
+phish2000-05-23d1t07.flac:ff763b2a542e13b9b496ab347685b4e9
+phish2000-05-23d1t08.flac:cffbba77f960701be5df30c9f0dc80d2
+phish2000-05-23d2t01.flac:022dd761c894aa1044056007e59f5605
+phish2000-05-23d2t02.flac:47d6b3e23a76eac211a52a159ef60a70
+phish2000-05-23d2t03.flac:9db473005e9707cfeeb984de85183c55
+phish2000-05-23d2t04.flac:2d0e2168286160f73a476b177cc066f2
+phish2000-05-23d2t05.flac:fd10e9fef2c1a8796914c6e1ea4575dc
+phish2000-05-23d2t06.flac:1faac4b7bee35e10ad239c8ebba61177
+phish2000-05-23d2t07.flac:b4a4148079bcb6af404dd0e71ae56971
+phish2000-05-23d3t01.flac:88f8b8f84a4e30f1b234b266c9440df3
+phish2000-05-23d3t02.flac:f147a426e133009e65e1afd18db88f90
+phish2000-05-23d3t03.flac:5dcd37d524f119c2ec1ebd757f61988d
+phish2000-05-23d3t04.flac:a834339362ee896c223c084d817d9470
+phish2000-05-23d3t05.flac:487dd46d154ac55a1765b06d8d3b8797
+phish2000-05-23d3t06.flac:8d56034bab70d7300232ed9224913ebd
+phish2000-05-23d3t07.flac:50e9bb44dd97a7b4b582d9656a46f843

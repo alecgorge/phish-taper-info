@@ -1,0 +1,69 @@
+PHISH
+11/11/95 
+at the Fabulous Fox Theatre 
+Atlanta, GA
+
+Source: Sennheiser 421's ~> Sony SBM-1 ~> Denon DTR-80P (44.1 kHz)
+         (FOB-23rd row/center - stand @ 7'; K. Preuss)
+Transfer: Sony 59ES/master DAT > [S/PDIF] > M-Audio [USB] > Wavelab 5.0 
+           (remastered w/ Waves L3 Multimaximizer) > CD Wave > FLAC-level8 (KP July 15, 2009)
+
+  Set I: [79:10]
+Cars, Trucks & Buses~>
+Mike's Song >
+A Day in the Life >
+Poor Heart~>
+Weekapaug Groove
+The Horse~> 
+Silent in the Morning
+Ya Mar~
+Stash
+Amazing Grace
+Fee~>
+Chalkdust Torture
+
+  Set II: [79:56]
+Sprach Zarathustra~> 
+David Bowie
+Suzy Greenberg >
+Uncle Pen
+Fluffhead
+Sleeping Monkey >
+Frankenstein >
+Suspicious Minds
+Run Like An Antelope
+
+  Encore: [10:34]
+Acoustic Army
+Good Times Bad Times
+
+Show Notes: Amazing Grace was performed without microphones. GTBT included Heartbreaker teases. 
+
+This would be a good, clean source for a matrix, as it entact, no pauses or cuts in either set through the encore.
+It was sooo tempting for me to go for the 4 mic mix this night, but being fob and having been popped a couple times before, I just hoped that I'd get away w/ this one...
+
+
+	.ffp
+phish1995-11-11setI-remaster01.flac:931a354c644ee5d73b419dfd1a0cb383
+phish1995-11-11setI-remaster02.flac:fe95e2f427c635bef8cb38f4346c6583
+phish1995-11-11setI-remaster03.flac:ab1da2d97497a709ef0891dea6bdc78c
+phish1995-11-11setI-remaster04.flac:ab692611b8fa2114808c1d7071d0d2d9
+phish1995-11-11setI-remaster05.flac:4b516a4a8d7fec6f790dcaf849633b00
+phish1995-11-11setI-remaster06.flac:ffbf0fb3b31c0a57af5d3f76e6132b77
+phish1995-11-11setI-remaster07.flac:0816d63fd719eb48774f44158566edca
+phish1995-11-11setI-remaster08.flac:7a56b2d40beb91b044cc1aaec499c86d
+phish1995-11-11setI-remaster09.flac:f272e48965792833d811c03526a2739d
+phish1995-11-11setI-remaster10.flac:a85f0ed1bb19e76f155eeae97bfa6d7c
+phish1995-11-11setI-remaster11.flac:dbb7c4e0509a2a5b6edc96a94c1c1215
+phish1995-11-11setI-remaster12.flac:6e8daad4f7a2123fcac15a91848ce07e
+phish1995-11-11setII-remaster01.flac:de99f431637d4e7084131ad24758a665
+phish1995-11-11setII-remaster02.flac:4f7f646a4491fd0db4c18c364f9ba2a4
+phish1995-11-11setII-remaster03.flac:169d8e3397910e12fab7475d1eef1be6
+phish1995-11-11setII-remaster04.flac:17c83191a6a12378befac60f0e03d0fd
+phish1995-11-11setII-remaster05.flac:1b6dd2a8a6e492c8bc906610c7b17c03
+phish1995-11-11setII-remaster06.flac:b7064dc7eb539d595c57d0ee4f74bce5
+phish1995-11-11setII-remaster07.flac:e2ac1b71bb927da4f3b098e90cebd6a9
+phish1995-11-11setII-remaster08.flac:3d1a735ee4bc73fa6c0496d325f737af
+phish1995-11-11setII-remaster09.flac:a1f2a34066b0b1eba43583762bf5f882
+phish1995-11-11setII-remaster10.flac:1ba2d82421232a3018d365eb5f521c57
+phish1995-11-11setII-remaster11.flac:b9a8219c0dfc1a84eecf1459e9c62380

@@ -1,0 +1,41 @@
+Phish
+06/03/2011
+Clarkston, Michigan  DTE Energy Music Theatre
+
+Source: Schoeps mk4v> KC5> M222> NT222> Aeta PSP-3> SD 744t (@24bit/96kHz)
+Location: Section CTR6, Row FF, Seat 18, DFC, DIN, 7' Stand
+
+Transfer: SD 744t> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (06/04/2011)
+
+
+Set I
+t01 [01:06] Intro
+t02 [10:13] Wolfman's Brother
+t03 [07:05] Funky Bitch
+t04 [05:31] Sample in a Jar
+t05 [05:32] NICU
+t06 [09:26] Mike's Song>
+t07 [03:03] I am Hydrogen>
+t08 [09:58] Weekapaug Groove
+t09 [06:58] Tela>
+t10 [10:48] Chalk Dust Torture
+t11 [07:13] The Wedge
+
+Set II
+t12 [01:02] Intro
+t13 [24:14] Down with Disease>
+t14 [16:41] Fluffhead>
+t15 [16:31] David Bowie
+t16 [05:26] Waste>
+t17 [07:35] Also Sparch Zarathustra>
+t18 [04:42] Cavern
+t19 [02:18] crowd
+
+Encore
+t20 [07:13] Good Times Bad Times
+
+
+Notes:
+Thanks to Jason Lonchar for the Schoeps tubes
+Set I [1:16:53] Set II [1:18:29] Encore [7:13]

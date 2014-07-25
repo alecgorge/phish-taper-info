@@ -1,0 +1,93 @@
+Phish
+July 2, 1995
+Summerstage at Sugarbush North
+Fayston, VT
+
+source:
+(FOB) AKG 414's > DAT (@ 48 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > r8brain v1.9 (resample to 44.1 kHz) > WaveLab 5.01b (fades, patch) > CD Wave v1.95.1 > FLAC v1.1.4 (Level 8)
+
+FLAC tags added with metaflac v1.1.4
+
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded June 25, 2007
+
+notes:
+the 48kHz files from the DAT transfer have been archived, and are available upon request.
+Big thanks to Mark Lynn for letting me borrow his DATs!
+
+Disc 1 - [77:41]
+Set I
+01 - [05:00] - Sample in a Jar >
+02 - [17:28] - The Divided Sky
+03 - [05:33] - Gumbo
+04 - [06:09] - The Curtain >
+05 - [09:15] - Julius
+06 - [05:18] - Camel Walk
+07 - [12:25] - Reba
+08 - [03:49] - I Didn't Know
+09 - [06:49] - Rift
+10 - [05:57] - While My Guitar Gently Weeps
+
+Disc 2 - [57:42]
+Set II
+01 - [18:38] - Runaway Jim ->
+02 - [07:58] - Makisupa Policeman ->
+03 - [09:57] - Scent of a Mule
+04 - [13:05] - Tweezer >
+05 - [01:56] - Ha Ha Ha >
+06 - [06:08] - Sleeping Monkey
+
+Disc 3 - [23:45]
+Set II continued
+01 - [03:47] - Acoustic Army
+02 - [10:58] - Slave to the Traffic Light
+03 - [00:48] - encore break
+04 - [05:11] - Halley's Comet >
+05 - [03:02] - Tweezer Reprise
+
+show notes:
+This was a benefit show for the King Street Youth Center.
+The band brought back Camel Walk, which hadn't been played since February 24, 1989 (648 shows).
+
+technical notes:
+on the DAT, there were two very minor drop-outs, and there was a cut in the encore break
+The drop-outs were at the following locations:
+in Julius [06:38.2] to [06:38.6]
+in encore break [00:05.5] to [00:05.6]
+
+the drop-out in Julius was patched with the circulating B&K 4011 source:
+http://db.etree.org/shn/616
+
+the drop-out and the cut in the encore break were left as-is,
+because they are so minor and do not affect any of the music.
+
+-----------------------------------------------------------------------------------------------
+
+SHNtool output
+
+    length     expanded size   cdr  WAVE problems filename
+     4:59.55       52873004    ---   --   ---xx   ph1995-07-02d1t01.flac
+    17:27.74      184864892    ---   --   ---xx   ph1995-07-02d1t02.flac
+     5:32.71       58731836    ---   --   ---xx   ph1995-07-02d1t03.flac
+     6:08.40       65009324    ---   --   ---xx   ph1995-07-02d1t04.flac
+     9:15.30       97972604    ---   --   ---xx   ph1995-07-02d1t05.flac
+     5:17.45       56024684    ---   --   ---xx   ph1995-07-02d1t06.flac
+    12:24.42      131340428    ---   --   ---xx   ph1995-07-02d1t07.flac
+     3:48.44       40322732    ---   --   ---xx   ph1995-07-02d1t08.flac
+     6:48.60       72112364    ---   --   ---xx   ph1995-07-02d1t09.flac
+     5:56.64       62948972    ---   --   ---xx   ph1995-07-02d1t10.flac
+    18:37.69      197201132    ---   --   ---xx   ph1995-07-02d2t01.flac
+     7:57.65       84295724    ---   --   ---xx   ph1995-07-02d2t02.flac
+     9:57.18      105353180    ---   --   ---xx   ph1995-07-02d2t03.flac
+    13:04.37      138384668    ---   --   ---xx   ph1995-07-02d2t04.flac
+     1:56.06       20476556    ---   --   ---xx   ph1995-07-02d2t05.flac
+     6:08.30       64985804    ---   --   ---xx   ph1995-07-02d2t06.flac
+     3:46.40       39960524    ---   --   ---xx   ph1995-07-02d3t01.flac
+    10:57.66      116050076    ---   --   ---xx   ph1995-07-02d3t02.flac
+     0:47.43        8391980    ---   --   ---xx   ph1995-07-02d3t03.flac
+     5:10.46       54792236    ---   --   ---xx   ph1995-07-02d3t04.flac
+     3:02.10       32128364    ---   --   ---xx   ph1995-07-02d3t05.flac
+   159:07.55     1684221084 B                     (totals for 21 files, 0.4870 overall compression ratio)

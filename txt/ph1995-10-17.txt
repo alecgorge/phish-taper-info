@@ -1,0 +1,49 @@
+PHISH
+10-17-95 State Palace Theatre, New Orleans, LA 
+
+Source: Neumann KM140>SBM-1>D7
+
+Disc One
+Set 1:
+1 Sample in a Jar
+2 Stash
+3 Uncle Pen
+4 AC/DC Bag >
+5 Maze
+6 Glide
+7 Sparkle
+8 Free
+9 Strange Design
+10 Amazing Grace* 
+
+Disc Two
+Set 2:
+1 Mound->
+2 Prince Caspian
+3 Fog That Surrounds
+4 Suzy Greenberg->
+5 Keyboard Army->
+6 Jam**
+7 crowd noise
+8 E: My Long Journey Home
+9 I'm Blue I'm Lonesome 
+
+Medeski, Martin & Wood opened. 
+*Sung first a capella by the band;
+then again by Nathan, a gospel singer, with the audience
+**Martin & Wood join in the jam after Keyboard Army
+then Nathan does some scatting. 
+
+Additional Editing 4/6/04 by Brandon Johnston: There was a very small dropout at 0:58.321 
+of AC/DC Bag that I removed in soundforge. There was also some static on the left channel 
+at 1:10.8 of Maze that I fixed by pasting the right channel over the left channel. Also, 
+on the original shnset, a portion of the last song was missing. I decided to patch in the 
+entire encore from my dat which is apparently from the same source. I decided to crossfade 
+in my source during the crowd noise between set II and the encore rather than just patch 
+the end of the song due to differing sound levels between my dat and the existing shnset 
+and the difficulty that I had making a midsong swich sound smooth (not to mention 
+difficulty matching the levels due to the original shnset being 'louder' during loud parts 
+yet 'softer' during soft parts) . In the end I preferred a somewhat awkward change in level 
+during a period of crowd noise rather than during the middle of a song, as well as a more 
+consistant microphone level during the encore, although you may have to turn up the volume 
+to hear it due to no amplification on stage. Shntool was also run on each set to fix SBE's.

@@ -1,0 +1,60 @@
+Phish
+December 31, 2002
+Madison Square Garden
+New York, New York
+
+source:
+Schoeps mk41 > kc5 > cmc6 > Sonosax SX-M2 > Apogee AD-1000 > Sony D100 (@ 44.1 kHz)
+
+transfer:
+Sony PCM-R500 > Tascam HD-P2 > CF Card > usb > pc > WaveLab 5.01b (fades) > CD Wave v1.95 > FLAC v1.1.2 (Level 8)
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded August 16, 2006
+
+note:
+The master DATs were used in this transfer, thanks Dave!
+
+Disc 1 - [69:12]
+Set I
+01 - [16:07] - Piper
+02 - [10:28] - Guyute
+03 - [05:19] - NICU
+04 - [04:11] - Horn
+05 - [07:20] - Wilson *
+06 - [06:02] - Mound
+07 - [07:31] - The Squirming Coil >
+08 - [12:14] - David Bowie
+
+Disc 2 - [66:24]
+Set II
+01 - [10:43] - Waves ->
+02 - [17:35] - The Divided Sky
+03 - [02:52] - Lawn Boy
+04 - [09:29] - Carini Had a Lumpy Head
+05 - [05:58] - Rift
+06 - [12:07] - Harry Hood
+07 - [07:41] - Character Zero
+
+Disc 3 - [74:29]
+Set III
+01 - [05:05] - Sample in a Jar
+02 - [07:45] - Seven Below ** ->
+03 - [00:47] - Auld Lang Syne ^ >
+04 - [11:32] - Runaway Jim ->
+05 - [06:39] - Time Loves a Hero
+06 - [10:22] - Taste ^^
+07 - [03:04] - Strange Design
+08 - [18:19] - Walls of the Cave
+09 - [02:25] - encore break
+10 - [07:25] - Wading in the Velvet Sea
+11 - [01:08] - outro
+
+* - preceeded by footage from the movie "Castaway" on the jumbotron screens on the scoreboard; with "Tom Hanks" (actually Page's brother Steve McConnell
+
+** - "Seven Below" began approximately seven minutes before midnight; during the song a disco ball was lowered from within the scoreboard and it began snowing on stage; several dancers in white with blinking light "stick figure skeletons", dressed as snow creatures (with a vaguely "winter/forest kingdom" fantasy motif, including white costumes with fur and some horned helmets) came out and began circling the band on stage before moving off into the crowd - while in the crowd several grew into large snow angels by standing on covered ladders; midway during the song snow began falling on the fans on the floor from a pair of snowmaking rigs on the right and left sides of the scoreboard above the floor; shortly before midnight, the snow angels began shining small spotlights around the crowd, appearing similar to search lights
+
+^ - at midnight, pyrotechnics spiraled around and behind the stage (some coming from the snowmaking rigs) and enormous white balloons with snow designs were dropped onto the floor
+
+^^ - with "What's the Use" teases

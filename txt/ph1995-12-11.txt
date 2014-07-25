@@ -1,0 +1,64 @@
+Phish
+December 11, 1995
+Cumberland County Civic Center
+Portland, ME
+
+source:
+B+K 4011 > custom pre-amp > Teac DAP-20 (@48kHz)
+
+transfer:
+Sony PCM-R500 > M-Audio MicroTrack > CF Card > usb > pc > WaveLab 5.01b (de-emphasis, fades, resample to 44.1kHz) > CD Wave v1.94.7 > FLAC v1.1.2 (Level 8)
+
+recorded by Dave Flaschner with mics borrowed from Mikey Perrot
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded March 3, 2006
+
+notes:
+The original DAT recording was made with pre-emphasis. The Waves 5.0 Paragraphic EQ plug-in was used to de-emphasize the recording.
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+
+Disc 1 - [73:04]
+Set I
+01 - [06:07] - My Friend My Friend ->
+02 - [01:35] - Ha Ha Ha
+03 - [12:57] - Stash
+04 - [00:47] - Trey talking
+05 - [02:50] - Prince Caspian
+06 - [12:59] - Reba
+07 - [01:45] - Trey talking
+08 - [01:15] - Dog Log *
+09 - [04:25] - Llama
+10 - [01:20] - Trey talking
+11 - [01:46] - Dog Log **
+12 - [03:20] - Tube
+13 - [09:36] - McGrupp and the Watchful Hosemasters
+14 - [07:45] - Julius
+15 - [04:36] - Cavern
+
+Disc 2 - [60:04]
+Set II
+01 - [06:40] - The Curtain >
+02 - [23:20] - David Bowie
+03 - [07:59] - The Mango Song >
+04 - [09:17] - Fog That Surrounds
+05 - [12:50] - Scent of a Mule
+
+Disc 3 - [39:06]
+Set II continued
+01 - [15:04] - Harry Hood
+02 - [05:11] - Suspicious Minds >
+03 - [02:24] - HYHU
+04 - [06:30] - Funky Bitch ^
+05 - [02:52] - encore break
+06 - [07:05] - While My Guitar Gently Weeps ^
+
+* Trey explains that they are supposedly making an album of a bunch of "Dog Log"s and they need the audience to help make different versions
+** Lounge-lizard style, along with high pitched screaming on command
+^ with Warren Haynes on guitar
+
+Show Notes: Prince Caspian was preceded by Trey discussing how Portland was supposed 
+to be Elvis' last show so this song was for his kid, the prince. The Dog Gone Dogs 
+were part of Trey's announced "Dog Log" album and were preceded by Trey coaching the 
+audience's reaction. Dog Gone Dog had not been played since August 2, 1993 (217 shows). 
+Tube was played as a thank-you for helping out with the "album." Bowie included a 
+long, spacy intro. Funky Bitch and WMGGW featured Warren Haynes on guitar.

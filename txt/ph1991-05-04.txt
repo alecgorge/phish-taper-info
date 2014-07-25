@@ -1,0 +1,67 @@
+Phish
+Somerville Theater
+Somerville, MA 
+5/4/91 
+
+TAPER: John Redmond
+SOURCE Nak 300s > D5 
+
+AUD MCass (Maxell MX 90 min)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +~10dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC > Mastering > SHNv3.
+
+transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 12/13/2003
+Mastering , editing and WAV > SHN were performed on Doomtooth by shakedown@furthurnet.org (01/09/2003)
+
+**24/48 Masters do exist at the unedited/pre-processed level**
+
+Mastering info:
+24bit/48kHz FLAC's > Wavelab 4.01b on Doomtooth (patch/edits/crossfades) > Waves C4 > BBE > Waves L2 > 48kHz>44.1 via 192kHz Stereo Resampler and 24bit > 16bit dither UV22HR > Tracking in CD-WAV > SHNv3 appended
+
+DISC ONE
+set I:
+01. //Oh Kee Pa Ceremony >
+02. Suzy Greenberg
+03. Cavern
+04. Reba
+05. My Sweet One
+06. Split Open and Melt
+07. Guelah Papyrus
+08. /Fluffhead
+09. Mike's Song >
+10. I Am Hydrogen >
+11. Weekapaug Groove 
+
+DISC TWO
+set II:
+01. Dog Log
+02. Llama
+03. Colonel Forbin's Ascent > Famous Mockingbird
+04. Buried Alive
+05. Harry Hood
+06. Horn
+07. Rocky Top
+08. //Possum 
+encore:
+09. Stage Banter, Thanks & Dedications
+10. Terrapin
+11. Runaway Jim
+second encore:
+12. Golgi Apparatus
+
+Show Notes: Forbin featured a guest horn player dressed in a leopardskin toga and a 
+huge orange Mohawk. Hood was played in support of the Vermont Dairy Farmers. 
+
+Notes
+Things seem a little distorted/over-modulated in the bottom end, it's worst in the first few songs.  The second set sounds much nicer.
+
+There is a level adjustment in Split Open & Melt which I covered with a volume curve.
+
+A short crossfade covers a dropout in Fluffhead.
+
+Terrapin is NOT dedicated to Cam Neely, but instead is dedicated to Marnie. Trey makes note that without Marnie "you wouldn't recieve the newsletter"... Marnie Davis worked for John Paluska until sometime in 91 or early 92.
+
+NO tracking/editing/alterations performed before archiving to 24-bit FLAC
+(except to trim silence from the ends).
+
+Seeded to FurthurNet (www.furthurnet.org)

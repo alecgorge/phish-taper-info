@@ -1,0 +1,50 @@
+Phish
+05-20-94
+Evergreen College Recreation Center, Olympia, WA 
+--------------------------------------------------------------------------------------------
+Source:         [Master DAT>clone used for transfer]
+                B&K 4010 (20' spread omni's)-> Sony D3
+
+Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                Soundforge 5.0b (48KHz->44.1KHz at highest setting [4 of 4],
+                with anti-alias filter)-> CD Wave 1.62-> mkwACT v0.97
+                **No DAE at all**
+
+Tape Info:	Bill Shaw taped and provided the clone, thanks Bill!
+
+
+Minor Edits:	Fades in/out at begginning/end of sets.
+----------------
+Transferred by Dan Marquardt <danmarq@msn.com>, please contact me with questions/comments.
+There are also 48KHz shn's of this seed for archival.
+--------------------------------------------------------------------------------------------
+
+CD/Set 1:			68:04
+01. Fee				06:21
+02. Maze			09:53
+03. If I Could			06:04
+04. It's Ice			09:54
+05. Bathtub Gin			10:54
+06. Fast Enough for You		05:31
+07. Scent of a Mule		08:17
+08. Dog Faced Boy*		02:36
+09. Carolina*			01:31
+10. AC/DC Bag			07:00
+
+CD/ Set 2:			68:29
+01. Also Sprach Zarathustra->	04:04
+02. Run Like an Antelope	12:06
+03. Weigh			06:04
+04. Axilla [Part II]		03:15
+05. Wolfman's Brother		06:37
+06. Rift			05:55
+07. You Enjoy Myself**		21:42
+08. Crowd Noise			01:50
+
+Encore:
+09. Chalk Dust Torture		06:53
+
+--------------------------------------------------------------------------------------------
+
+*Acoustic and without mics.
+**"Ob-La-Di-Ob-La-Da" (The Beatles) jam  "Low Rider" (War) jam.

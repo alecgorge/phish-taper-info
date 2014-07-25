@@ -1,0 +1,65 @@
+Phish
+10-4-1991 
+- Hemp Fest -
+Barrymore Theater
+Madison, WI
+
+Source: SBD>Cass/3
+
+Transfer: Sony TC-KA3ES > BBE 882i Sonic Maximizer > Lucid AD 9624 A/D > REBA @ 24/48kHz
+
+Mastering: REBA > Wavelab Stereo Montage > Crossfaded Tape flips > Rendered 24/48 No alterations. 
+24/48kHz waves > Waves Linear Lowband EQ > Waves RBass +5 @ 40Hz > Waves L1+ > 24/48kHz processed wave.
+24/48Khz processed wave > 192kHz Resampler- 48/44.1 > reduced to 16bit via tc electronics Finalizer 96k > SHN V3
+**24/48 FLAC archives of the unedited transfer are available**
+
+-DISC 1-
+Set 1:
+01. Chalkdust Torture
+02. Reba
+03. Poor Heart
+04. Cavern
+05. Divided Sky
+06. Guelah Papyrus
+07. Sparkle
+08. //Suzie Greenberg
+09. Magilla
+10. David Bowie
+
+-DISC 2_
+Set 2:
+01. Announcements
+02. My Sweet One
+03. Brother
+04. Bouncing Around the Room
+05. Foam
+06. Runaway Jim
+07. "A Rare Treat"
+08. Lawnboy
+09. Stash
+10. The Squirming Coil^
+11. //Mike's Song >
+12. I Am Hydrogen >
+13. Weekapaug Groove
+
+-DISC 3-
+Encore 1:
+01. Sweet Adeline^^
+02. Golgi Apparatus
+03. Rocky Top
+Encore 2:
+04. HYHU > Love You > HYHU
+05. Llama
+
+^  -With Peanuts Theme
+^^ -Performed without mics
+
+**Notes**
+- The tape flip in set one missed a bunch of Suzy. I crossfaded this cut.
+- The tape flip in set two missed some of the start of Mike's...this was crossfaded.
+- This is one EVIL Bowie at the end of set one....and I can almost smell the smoke and see the strobes of the Mike's.....
+
+Thanks to elseed for the tapes to transfer!
+Transfered, mastered, and shorten done by Marmar- imthemarmar@stny.rr.com
+
+Seeded to Furthurnet.org by Marmar

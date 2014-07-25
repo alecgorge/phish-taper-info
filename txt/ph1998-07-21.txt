@@ -1,0 +1,40 @@
+Phish
+July 21, 1998
+Desert Sky Pavilion
+Phoenix, AZ
+
+source: B&K 4011 > Lunatec V2 > Apogee AD-1000 > HHb Portadat @ 48k
+transfer: Fostex D-5 > VX Pocket 440 > Spark XL 2.82 > xACT > .flac (16/44)
+
+disc 1 - Set 1
+01 Tuning
+02 AC/DC Bag
+03 Fluffhead
+04 Roggae
+05 Tube
+06 Sparkle
+07 Cavern
+08 Frankie Says >
+09 Run Like An Antelope
+
+disc 2 - Set 2
+01 Tuning
+02 Mike's Song >
+03 Simple >
+04 Bittersweet Motel(1) >
+05 Weekapaug Groove
+06 Brian & Robert
+
+disc 3 - Set 2 cont'
+01 Ghost >
+02 She Caught The Katy(2) >
+03 Funky Bitch
+Encore:
+04 Sleeping Monkey
+05 Rocky Top
+
+(1) First time played
+(2) Last played 4-29-87
+
+flac fingerprint:
+ph1998-07-21d1t01.flac:bba2c88eca9251c0060811b5b9777a95ph1998-07-21d1t02.flac:fa70d6366997aec0d4bcafa73fa05963ph1998-07-21d1t03.flac:3135cb3ed925810aeabb6190286309e6ph1998-07-21d1t04.flac:1519fad45209dedeac24749661025c82ph1998-07-21d1t05.flac:2ab095c82459f94eda8204546d6b1e3fph1998-07-21d1t06.flac:5b903ac6fde0eaea9fe7360e75ba6ae7ph1998-07-21d1t07.flac:fa67bcf89715e7353ee5fe518d6b73f2ph1998-07-21d1t08.flac:82b92b70edd6e2a631b8b389b85db7fcph1998-07-21d1t09.flac:79c9ebf0f482174e08b4868433d3a872ph1998-07-21d2t01.flac:6a807e6245d41e51f9813895861ebfedph1998-07-21d2t02.flac:f4bf9fea5964837bce546afc6d6f80c4ph1998-07-21d2t03.flac:1d108d973616bb626e64878bac0683b7ph1998-07-21d2t04.flac:e5927c6784f1005e8f25629f35f5e6bbph1998-07-21d2t05.flac:d2aaf495f32d1d6c8f9585ae3ee0bc34ph1998-07-21d2t06.flac:27d6e3ff6e90c6d103c4c66f6ae1cdcdph1998-07-21d3t01.flac:7451c34d88f477ae52ba93401eaffb2bph1998-07-21d3t02.flac:0b28a925610b8af81def11fe81efa947ph1998-07-21d3t03.flac:c5aff7e2237bde1a2b2218fa4bc974e9ph1998-07-21d3t04.flac:0eb60d3ee73798952f9e66c7f840a74aph1998-07-21d3t05.flac:d761ac8dee050e0eb29e3e187f3778a8

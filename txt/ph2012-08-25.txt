@@ -1,0 +1,44 @@
+Phish
+08/25/2012
+Atlanta, Georgia  Lakewood Amphitheatre
+
+Source: Schoeps m934c> M221B> PS> Aeta PSP-3> SD 744t (@24bit/96kHz)
+Location: Section 204, Row JJ, Seat 13, DIN, m934c/cardioid
+
+Transfer: SD 722> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (08/26/2012)
+
+
+Set I
+t01 [00:43] Intro
+t02 [06:22] Cars Trucks Buses
+t03 [08:20] Wolfman's Brother
+t04 [07:22] Runaway Jim
+t05 [07:40] Ya Mar
+t06 [08:57] Alaska
+t07 [05:45] My Soul>
+t08 [04:57] Wilson>
+t09 [10:08] Maze
+t10 [05:08] Roses Are Free>
+t11 [06:29] Backwards Down the Number Line>
+t12 [06:43] Character Zero
+
+Set II
+t13 [01:00] Intro
+t14 [10:53] Kill Devil Falls>
+t15 [11:03] Golden Run Age>
+t16 [06:56] Free>
+t17 [10:22] Light>
+t18 [06:36] Wading in the Velvet Sea>
+t19 [10:15] Chalk Dust Torture>
+t20 [05:06] What's the Use>
+t21 [05:32] Joy> Us
+t22 [10:04] Run Like an Antelope
+t23 [02:31] crowd
+
+Encore
+t24 [05:26] A Day in the Life
+
+
+Notes:
+Set I [1:18:40] Set II [1:20:24] Encore [5:26]

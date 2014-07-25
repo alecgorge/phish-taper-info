@@ -1,0 +1,59 @@
+Phish
+11/06/1998
+Kohl Center
+Madison, WI
+
+Source:      Schoeps cmc6/mk41 (tapers' section) > Lunatec V2 > Tascam DAP1 @ 48kHz
+
+Clone:       Sony PCM-R300 > Sony PCM-M1 @ 48kHz via Charlie Gubman
+
+Conversion:  Sony PCM-M1 > 7pin/Oade cable/coax > Digigram VXPocket > Soundforge 6.0 (fades in/out/48>44.1 resampling at highest setting - 4 of 4 - with anti-alias filter) > CD Wave > mkwACT v0.97 BETA 1 (shn files have seek tables appended)  **NO DAE**
+
+Notes:       Big thanks to Charlie Gubman for providing the clone.  Transferred and uploaded by Chris Black <chris_melas01@hotmail.com>.  There are also 48kHz FLACs of this seed for archival.
+
+_______________________________________________________________
+
+*Dankseed Certification received 2002-03-30*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph1998-11-06/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+
+____________________________________________________________________
+
+
+Disc One:
+Set One
+01.  Possum			09:33
+02.  Wilson >			06:53
+03.  Roggae			07:34
+04.  Maze			12:12
+05.  Meat			05:28
+06.  Sparkle			04:04
+07.  Split Open and Melt	14:43
+Set Two
+08.  Makisupa Policeman >	05:54
+09.  Funky Bitch		06:59
+		Total Time:	73:34
+Disc Two:
+Set Two Cont'd
+01.  Simple >			13:03
+02.  Prince Caspian		10:56
+03.  Fluffhead			14:30
+04.  HYHU >			02:16
+05.  Bike >			06:35
+06.  HYHU			02:16
+07.  Harry Hood			13:46
+08.  Audience			02:44
+Encore
+09.  Birds of a Feather		06:36
+10.  Hello My Baby		01:24
+		Total Time:	74:10

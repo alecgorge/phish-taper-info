@@ -1,0 +1,59 @@
+Phish
+3-17-90 Set 1
+23 East Cabaret - Ardmore, PA
+
+Source: SBD+AUD Matrix (R-SBD,L-AUD*) > Cass/0 > DAT
+* AUD source is most likely Sennheiser ME80 (see 2-10-90)
+Transfer: D7 > Zoltrix > SF4.5c > CDWav > shntool > FLAC
+
+DAT provided by Tim Cook
+Transferred by Ben Mohr (benjamin.mohr@ce.gatech.edu)
+
+--------------------------------------
+ Disc 1:                       (65:03)
+--------------------------------------
+-Set 1-
+1. intro                       (00:11)
+2. Golgi Apparatus             (04:43)
+3. Esther                      (09:17)
+4. Dinner and a Movie >        (03:36)
+5. Bouncin' Around the Room -> (04:04)
+6. My Sweet One                (02:11)
+7. Rhombus narration >         (02:01)
+8. Divided Sky                 (12:46)
+9. Donna Lee                   (04:40)
+10. Lizards*                   (10:18)
+11. Run Like an Antelope       (11:16)
+
+* with different lyrics
+
+Notes:
+-level fluctuations at beginning of d1t02 and d1t08
+-some clipping present and pre-existing on DAT
+-Tape flip: Either I missed it or there is none!
+-Amplitude drop d1t11 6:26
+
+Fixes:
+-Removed pop d1t02 6:59.201, 6:59.893, 7:28.122 L channel with SF4.5 pencil tool
+-Replaced R channel static/dropouts w/ L channel 
+  d1t03 8:48.615-8:49.021 (0.405s)
+        8:49.106-8:49.305 (0.199s)
+        8:49.491-8:49.566 (0.075s)
+        8:50.140-8:50.585 (0.445s)
+-Replaced L channel static/dropouts w/ R channel
+  d1t03 8:55.356-8:55.675 (0.319s)
+  d1t08 0:44.092-0:44.101 (0.008s)
+-Removed static d1t03 8:55.882 L channel with SF4.5 pencil tool
+
+
+ph1990-03-17d1t11.flac:47741626628f27d5a47a830a2f1da7fc
+ph1990-03-17d1t01.flac:14a5af5a7d57603748a5e11562f9ffdc
+ph1990-03-17d1t02.flac:9cd6d12cd29f06937b29dd7426884bea
+ph1990-03-17d1t03.flac:7e1c066d6861f514956f03d6d83a070b
+ph1990-03-17d1t04.flac:34bc3ffb986b0cdeb79e3279b5a99357
+ph1990-03-17d1t05.flac:74c0541b38fb92ba00571f98f8f7cbef
+ph1990-03-17d1t06.flac:1bba843f93453fd211a5429ee4ba116c
+ph1990-03-17d1t07.flac:b62ddd675b1a60bc922844d17e8c467a
+ph1990-03-17d1t08.flac:914d42a05d8654d72b2e2c7cd94bef4e
+ph1990-03-17d1t09.flac:04bf4efdea8f74a9e442b121d498f574
+ph1990-03-17d1t10.flac:eb71dfd0487383df39a8756fc3bab2ba

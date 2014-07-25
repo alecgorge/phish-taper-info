@@ -1,0 +1,61 @@
+Phish
+December 5, 1999
+BlueCross Arena
+Rochester, NY
+
+source:
+(FOB) Schoeps mk4 > kc5 > cmc6 > Sonosax SX-M2 > Sony D-100 (@48kHz)
+
+transfer:
+Sony D8 > M-Audio MicroTrack > CF Card > WaveLab 5.01b (fades, resample to 44.1kHz) > CD Wave v1.94.5 > FLAC (level 8)
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded 10/23/05
+
+notes:
+48kHz FLAC files of the original DAT transfer have been archived, and are available upon request
+
+Disc 1 - [73:02]
+Set I
+01 - [05:23] - Carini >
+02 - [10:42] - Gotta Jibboo
+03 - [05:33] - Back on the Train
+04 - [13:22] - Taste
+05 - [07:23] - Bug
+06 - [04:09] - Sparkle
+07 - [07:43] - Tube *
+08 - [02:42] - Lawn Boy
+09 - [03:57] - Ginseng Sullivan
+10 - [12:09] - Twist **
+
+Disc 2 - [45:59]
+Set II
+01 - [10:11] - Mike's Song ->
+02 - [14:12] - Meatstick ->
+03 - [03:25] - I Am Hydrogen ->
+04 - [08:47] - Weekapaug Groove
+05 - [05:27] - Brian and Robert
+06 - [03:57] - Jennifer Dances #
+
+Disc 3 - [55:47]
+Set II continued
+01 - [14:03] - Maze
+02 - [15:53] - Fluffhead
+03 - [06:43] - Chalkdust Torture
+04 - [06:32] - Frankenstein *
+05 - [02:57] - encore break
+06 - [08:18] - Character Zero
+07 - [01:21] - Hello My Baby
+
+* with Trey on keys
+** new arrangement; missing "and substituting every sound" lyric
+# new original
+
+Show Notes: Twist emerged at this show with a slightly new arrangement. Jennifer 
+Dances made its debut after Trey remarked of his affinity for the venue. 
+
+NOTE:
+0.15 second dropout in Mike's Song at 09:10 (present on the DAT)
+patched with the following source:
+Schoeps cmc641 > Lunatec V2 > Apogee AD-1000

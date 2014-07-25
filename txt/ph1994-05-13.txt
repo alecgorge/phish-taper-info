@@ -1,0 +1,53 @@
+Phish
+05-13-94
+Hayden Square, Tempe, AZ
+--------------------------------------------------------------------------------------------
+This show is included in the 1994 Phish Project.
+http://94project.webhop.net
+----------------
+
+Source:         [DAUD]
+                AKG 460-> DAT
+
+Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                Soundforge 7 (48KHz->44.1KHz at highest setting [4 of 4],
+                with anti-alias filter)-> CD Wave 1.91-> mkwACT v0.97
+                **No DAE**
+
+Minor Edits:	Fades (in/out at beginning/end of sets and before encore)
+----------------
+Transferred by Dan Marquardt <danmarq@msn.com>, please contact me with questions/comments.
+--------------------------------------------------------------------------------------------
+CD/Set 1:					1:59:53
+01. Runaway Jim					07:14
+02. It's Ice					10:10
+03. Julius					06:56
+04. Mound*					05:48
+05. Stash					11:39
+06. If I Could					05:33
+07. My Friend My Friend				06:28
+08. Slave to the Traffic Light			09:21
+09. Suzy Greenberg				06:07
+
+CD/Set 2: ***REQUIRES AN 80MIN CD!***		1:19:53
+01. Chalk Dust Torture				06:49
+02. Bouncing Around the Room			03:36
+03. Split Open and Melt				10:54
+04. McGrupp and the Watchful Hosemasters >	08:29
+05. Peaches en Regalia >			03:01
+06. Scent of a Mule				07:13
+07. You Enjoy Myself				19:51
+08. HYHU-> Purple Rain-> HYHU			07:47
+09. Good Times Bad Times			05:15
+
+Encore:
+10. Free Bird					06:58
+
+Total Running Time				2:29:09
+--------------------------------------------------------------------------------------------
+*Not included in the HPB setlist, but it's part of the show
+----------------
+Comments:
+It's not the best sounding DAUD, but it's the only source I've found.
+Bill S. did you tape this show with your B&K's?
+--------------------------------------------------------------------------------------------

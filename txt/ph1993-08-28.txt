@@ -1,0 +1,50 @@
+Phish
+Greek Theater
+Berkeley, CA
+08/28/1993
+
+Source: SBD > Cass/1 > DAT
+Transfer: ARCHIVE Python > vDAT > 16/48 wav (**16/48 masters are archived**)
+Mastering: 16/48wav > Wavelab 5.01b (pitch correction, editing, level/pan adjustments) > FLAC16
+
+Transfer, mastering, FLAC16 by Marmar- imthemarmar@gmail.com
+Thanks to Rusty @ On The Fly Recording for the source DAT!
+
+-Set 1/Disc 1-
+1.Llama 
+2.Bouncing Around the Room
+3.Foam
+4.Ginseng Sullivan
+5.Maze
+6.Fluffhead
+7.Stash
+8.The Squirming Coil
+9.Crimes of the Mind
+
+-Set 2a/Disc 2-
+1.Also Sprach Zarathustra >
+2.Rift
+3.Run Like an Antelope
+4.The Horse-> Silent in the Morning
+5.Sparkle
+6.It's Ice->
+7.Big Ball Jam
+8.Purple Rain-> HYHU
+
+-Set 2b/Disc 3-
+1.You Enjoy Myself-> Oye Como Va Jam - You Enjoy Myself >
+2.Contact
+3.Chalk Dust Torture
+-Encore-
+4.Daniel Saw the Stone
+5.Amazing Grace
+
+Show Notes: Crimes featured the Dude of Life on vocals. Antelope included Brady Bunch 
+theme teases and a Simpsons Signal, while It's Ice featured Random Note, All Fall Down, 
+and Oom Pa Pa Signals. Amazing Grace was performed without microphones. Also, while 
+several versions of YEM have teased Oye Como Va, this version featured an all-out jam 
+of the song. Contact segued out of the YEM vocal jam. During Daniel, the band introduced 
+and thanked each member of the crew.
+
+**Mastering Notes**
+The DAT was running flat. This was corrected in wavelab using the Time Stretch feature of the Audio Montage with http://db.etree.org/shninfo_detail.php?shnid=1472 used as the tuning reference. That same source was used to patch the cassette flips after Fluffhead, the end of the Big Ball Jam, and the encores.

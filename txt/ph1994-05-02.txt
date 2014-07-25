@@ -1,0 +1,39 @@
+http://db.etree.org/shninfo_detail.php?shnid=13580
+
+Due to the relative lack of seeds in MAC format and compatibily issues with a mac :) I have taken this etree seed and converted to .wav and then to .flac for better distrubution.If anyone doesn't like this I will reseed the original MAC version if you would like.
+
+Phish
+05-02-94
+Five Points South Music Hall, Birmingham, AL
+
+Source: AKG 460>Sony D8 (Unverified)
+
+Extraction/Compression: CD-R>EAC>wav>Monkey's Audio>Flac
+
+CD/Set 1:
+01. Great Gig in the Sky >
+02. Split Open and Melt Jam
+03. Bouncing Around the Room
+04. Down With Disease
+05. It's Ice
+06. Glide
+07. The Divided Sky
+08. Suzy Greenberg
+09. Foam
+10. Sample in a Jar 
+
+CD/Set 2:
+01. Runaway Jim
+02. Mound
+03. Reba
+04. Golgi Apparatus
+05. Lizards
+06. Julius
+07. Lawn Boy
+08. Mike's Song > Bass Jam* 
+
+Encore:
+09. Cavern 
+
+*With Oteil Burbridge (Aquarium Rescue Unit).
+

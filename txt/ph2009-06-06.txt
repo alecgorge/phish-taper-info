@@ -1,0 +1,60 @@
+Phish
+
+6/06/09 Comcast Center, Mansfield, MA
+
+Source: AKG393's(Second Row OTS/DFC) -> Hydra Silver XLR's -> Edirol UA-5 (Oade warm mod) -> NJB3 @ 48 Khz
+
+Transfer: NJB3 -> Firewire -> PC-> r8Brain (Resample to 44.1 Khz) -> CD WAVE Editor -> Flac Frontend
+
+Microphone Config:DINA (90 degree angle between mics, 17 cm separation)
+
+Taped by: Greg Bloch
+
+Transferred by: Greg Bloch(phishn@taperssection.com)
+
+Thank you Jeff for the Tapers tickets trade.
+
+
+Set I
+
+Disk 1
+
+t01 Crowd 1:13
+t02 Stealing Time From the Faulty Plan 5:42
+t03 Nothing 4:34
+t04 Back on the Train 8:02
+t05 Golgi Apparatus 4:59
+t06 Sparkle 3:57
+t07 Gotta Jibboo 10:41
+t08 Lawn Boy 3:37
+t09 Let Me lie 5:26
+t10 Taste 8:47
+t11 Makisupa Policeman 4:56
+t12 Prince Caspian 7:43
+t13 Crowd :32
+
+70:14
+
+Set II
+
+Disk 2
+t01 Crowd :09
+t02 Seven Below 10:22
+t03 Fluffhead 15:26
+t04 Scent of a Mule 8:18
+t05 Heavy Things 6:09
+t06 Harry Hood 14:50
+t07 Possum 9:29
+t08 Bug 8:13
+t09 Crowd 2:40
+
+75:36
+
+Encore
+Disk 3
+
+t01 Contact 6:47
+t02 Julius 8:03
+t03 Crowd :43
+
+15:33

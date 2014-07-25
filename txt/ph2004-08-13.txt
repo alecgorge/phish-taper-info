@@ -1,0 +1,30 @@
+Phish
+
+8/13/04 Coventry, VT Soundcheck
+
+Source: SBD->FM(Bunny 92.1) -> Sony Walkman with digital tuner (line out) -> D8 @ 44.1 Khz
+
+Transfer: D8 ->NJB3 -> Firewire -> PC-> CDWAV -> Flac Frontend 
+
+Location: Approximately 2 miles from Rte 5 exit.  Sorry folks, this is all I could tape since I got turned away after waiting in 35+ hours of traffic.
+
+Taped by: Greg Bloch
+
+Transferred by: Greg Bloch(phishn@taperssection.com)
+
+Soundcheck
+
+Disk 1
+
+t01 Jam 1 39:16
+t02 Jam 2 5:07 
+t03 Light Up or Leave me Alone 9:56
+t04 Ginseng Sullivan 4:10
+
+
+Flac Fingerprints
+
+ph2004-08-13d1t01.flac:134aa6b9806056b3cb5eca82178dea9f
+ph2004-08-13d1t02.flac:2360fb4bdc999256cbf2f6ea407be809
+ph2004-08-13d1t03.flac:8fde0f8a437285d6ab68a7a912474102
+ph2004-08-13d1t04.flac:0fd1785e027e5d7f13ce470b9e5c8336

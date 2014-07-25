@@ -1,0 +1,85 @@
+Phish
+October 6, 2000
+Shoreline Amphitheatre
+Mountain View, CA
+
+source:
+Schoeps cmc6/mk4v > Sonosax SX-M2 > Sony PCM-M1 (set 1 @ 48 kHz, set 2 @ 44.1 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > r8brain v1.9 (resample set 1 to 44.1 kHz) > Samplitude SE v9.1.1 (fades, volume adjustments, track splits) > FLAC v1.2.1 (Level 8)
+
+FLAC tags added with metaflac v1.2.1
+
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded October 18, 2008
+
+notes:
+I smoothed out a 6dB level adjustment at [00:38] in "Heavy Things", it is now hardly noticeable.
+I increased the volume on "Inlaw Josie Wales" by 12dB
+The original 48 kHz file (of set 1) from the DAT transfer has been archived and is available upon request.
+Big thanks to Eliot Byron for letting me borrow his DATs!
+
+Disc 1 - [69:00]
+Set I
+01 - [09:34] - Carini Had A Lumpy Head
+02 - [12:39] - Stash >
+03 - [08:43] - Boogie on Reggae Woman
+04 - [02:56] - Mellow Mood
+05 - [13:48] - Maze
+06 - [09:12] - The Moma Dance
+07 - [12:07] - Run Like an Antelope
+
+Disc 2 - [74:08]
+Set II
+01 - [05:09] - Heavy Things
+02 - [11:50] - Down with Disease ->
+03 - [06:24] - Spock's Brain
+04 - [02:58] - The Inlaw Josie Wales
+05 - [05:57] - Rift
+06 - [06:41] - Cities >
+07 - [15:28] - Sand
+08 - [04:45] - Golgi Apparatus
+09 - [03:56] - Brian and Robert
+10 - [06:23] - Bold as Love
+11 - [04:37] - encore break
+
+Disc 3 - [28:33]
+Set II continued
+01 - [05:59] - El Paso *
+02 - [10:16] - Chalk Dust Torture * >
+03 - [12:18] - West L.A. Fadeaway *
+
+* with Bob Weir
+
+Show Notes: Glide was teased before the Carini opener and Jibboo was teased before 
+Heavy Things. The encore, which included the debuts of El Paso and West L.A. 
+Fadeaway, featured a Bob Weir guest appearance.
+
+-------------------------------------------------------------------------------------------------
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     9:34.14          96.59 MB  ---   --   ---xx   flac  0.4798  ph2000-10-06d1t01.flac
+    12:39.20         127.73 MB  ---   --   ---xx   flac  0.4414  ph2000-10-06d1t02.flac
+     8:42.49          87.93 MB  ---   --   ---xx   flac  0.4263  ph2000-10-06d1t03.flac
+     2:56.06          29.62 MB  ---   --   ---xx   flac  0.4299  ph2000-10-06d1t04.flac
+    13:48.25         139.35 MB  ---   --   ---xx   flac  0.4752  ph2000-10-06d1t05.flac
+     9:12.14          92.89 MB  ---   --   ---xx   flac  0.4647  ph2000-10-06d1t06.flac
+    12:06.70         122.29 MB  ---   --   ---xx   flac  0.4579  ph2000-10-06d1t07.flac
+     5:09.32          52.05 MB  ---   --   ---xx   flac  0.4397  ph2000-10-06d2t01.flac
+    11:49.38         119.36 MB  ---   --   ---xx   flac  0.4859  ph2000-10-06d2t02.flac
+     6:23.44          64.53 MB  ---   --   ---xx   flac  0.4365  ph2000-10-06d2t03.flac
+     2:57.58          29.91 MB  ---   --   ---xx   flac  0.3835  ph2000-10-06d2t04.flac
+     5:56.51          60.00 MB  ---   --   ---xx   flac  0.4727  ph2000-10-06d2t05.flac
+     6:41.18          67.50 MB  ---   --   ---xx   flac  0.4409  ph2000-10-06d2t06.flac
+    15:28.00         156.12 MB  ---   --   ---xx   flac  0.4593  ph2000-10-06d2t07.flac
+     4:45.30          48.01 MB  ---   --   ---xx   flac  0.4597  ph2000-10-06d2t08.flac
+     3:55.51          39.65 MB  ---   --   ---xx   flac  0.3492  ph2000-10-06d2t09.flac
+     6:23.36          64.51 MB  ---   --   ---xx   flac  0.4713  ph2000-10-06d2t10.flac
+     4:37.21          46.65 MB  ---   --   ---xx   flac  0.3816  ph2000-10-06d2t11.flac
+     5:58.48          60.33 MB  ---   --   ---xx   flac  0.4375  ph2000-10-06d3t01.flac
+    10:15.70         103.62 MB  ---   --   ---xx   flac  0.4761  ph2000-10-06d3t02.flac
+    12:18.18         124.19 MB  ---   --   ---xx   flac  0.4285  ph2000-10-06d3t03.flac
+   171:40.38        1732.84 MB                           0.4511  (21 files)

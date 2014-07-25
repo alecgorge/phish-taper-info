@@ -1,0 +1,93 @@
+Phish
+August 13, 1997
+Star Lake Amphitheater
+Burgettstown, PA
+
+source:
+AKG 460B/ck68 > Oade pre-amp > Sony SBM-1 > DAT (@ 48 kHz)
+
+transfer:
+Tascam DA-20mkII > Marantz PMD-661 > SDHC card > usb 2.0 > pc > r8brain v1.9 (resample to 44.1 kHz) > CD Wave v1.98 (track splits) > Samplitude SE v9.1.1 (fades, splice) > FLAC v1.2.1 (Level 8)
+
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded May 25, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+The original 48 kHz files from the DAT transfer have been archived and are available upon request.
+
+Disc 1 - [59:38]
+Set I
+01 - [00:43] - intro
+02 - [06:03] - Amoreena *
+03 - [03:26] - Poor Heart
+04 - [15:01] - Stash
+05 - [04:29] - Water in the Sky
+06 - [19:24] - Gumbo ->
+07 - [01:21] - The Horse >
+08 - [05:44] - Silent in the Morning
+09 - [03:26] - Beauty of My Dreams
+
+Disc 2 - [59:12]
+Set I continued
+01 - [15:00] - Crosseyed and Painless >
+02 - [06:53] - Wilson
+03 - [01:39] - Sweet Adeline
+Set II
+04 - [10:09] - Runaway Jim
+05 - [13:37] - Ghost ->
+06 - [05:48] - Izabella
+07 - [06:06] - Sleeping Monkey
+
+Disc 3 - [51:34]
+Set II continued
+01 - [10:27] - McGrupp and the Watchful Hosemasters >
+02 - [04:55] - Sample in a Jar
+03 - [11:35] - 2001 >
+04 - [04:45] - Golgi Apparatus >
+05 - [04:46] - Frankenstein
+06 - [05:03] - encore break
+07 - [10:03] - Theme From the Bottom
+
+* debut
+
+Show Notes: The end of Wilson included a Little Drummer Boy tease. This show 
+featured the first jammed-out Gumbo and the debut (and only appearance) of Amoreena. 
+
+splice notes:
+The very beginning of "Runaway Jim" was missing from the DAT.
+The missing portion was spliced in with the following source:
+Schoeps MK4's > KCY > VMS02IB > Sony SBM-1 > HHB PDR1000(@44.1khz)
+recorded by Keith Litzenberger
+http://db.etree.org/shn/94030
+Keith's source was used for the following portion:
+d2t04 - "Runaway Jim" - [00:00] to [00:26]
+____________________________________________________________________
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:43.30           7.30 MB  ---   --   ---xx   flac  0.4136  ph1997-08-13d1t01.flac
+     6:03.31          61.14 MB  ---   --   ---xx   flac  0.4941  ph1997-08-13d1t02.flac
+     3:25.42          34.58 MB  ---   --   ---xx   flac  0.4911  ph1997-08-13d1t03.flac
+    15:01.25         151.63 MB  ---   --   ---xx   flac  0.4993  ph1997-08-13d1t04.flac
+     4:29.33          45.33 MB  ---   --   ---xx   flac  0.4582  ph1997-08-13d1t05.flac
+    19:23.56         195.77 MB  ---   --   ---xx   flac  0.4829  ph1997-08-13d1t06.flac
+     1:20.72          13.62 MB  ---   --   ---xx   flac  0.4237  ph1997-08-13d1t07.flac
+     5:44.15          57.90 MB  ---   --   ---xx   flac  0.5104  ph1997-08-13d1t08.flac
+     3:26.09          34.68 MB  ---   --   ---xx   flac  0.4948  ph1997-08-13d1t09.flac
+    14:59.51         151.35 MB  ---   --   ---xx   flac  0.5219  ph1997-08-13d2t01.flac
+     6:52.50          69.42 MB  ---   --   ---xx   flac  0.5148  ph1997-08-13d2t02.flac
+     1:39.36          16.74 MB  ---   --   ---xx   flac  0.4079  ph1997-08-13d2t03.flac
+    10:08.39         102.37 MB  ---   --   ---xx   flac  0.5347  ph1997-08-13d2t04.flac
+    13:37.08         137.46 MB  ---   --   ---xx   flac  0.5197  ph1997-08-13d2t05.flac
+     5:48.04          58.55 MB  ---   --   ---xx   flac  0.5668  ph1997-08-13d2t06.flac
+     6:06.26          61.63 MB  ---   --   ---xx   flac  0.5009  ph1997-08-13d2t07.flac
+    10:26.71         105.47 MB  ---   --   ---xx   flac  0.4843  ph1997-08-13d3t01.flac
+     4:55.20          49.67 MB  ---   --   ---xx   flac  0.5771  ph1997-08-13d3t02.flac
+    11:35.03         116.93 MB  ---   --   ---xx   flac  0.5058  ph1997-08-13d3t03.flac
+     4:44.69          47.93 MB  ---   --   ---xx   flac  0.5427  ph1997-08-13d3t04.flac
+     4:45.55          48.07 MB  ---   --   ---xx   flac  0.5497  ph1997-08-13d3t05.flac
+     5:02.52          50.92 MB  ---   --   ---xx   flac  0.4584  ph1997-08-13d3t06.flac
+    10:03.32         101.51 MB  ---   --   ---xx   flac  0.5256  ph1997-08-13d3t07.flac
+   170:24.04        1719.97 MB                           0.5079  (23 files)

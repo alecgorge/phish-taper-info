@@ -1,0 +1,214 @@
+Phish
+Dick's Sporting Goods Park
+Commerce City, Colorado
+9/1/2013
+
+Source: Schoeps CCM4V'S(din)>Lunatec V2>Benchmark AD2K>
+Sound Devices 722 (24/48)
+FOB/DFC/KFC/ZFC/AARP 48' From Stage, 6' High
+DSP: Sound Devices 722>Sound Forge 9.0>CD Wave>flac(16)
+Recorded By: Z-Man
+Seeded By: Z-Man
+
+Disc I 1st Set
+
+01 A Song I Heard The Ocean Sing
+02 Kill Devil Falls
+03 Back On The Train >
+04 Rift 
+05 Meat >
+06 It's Ice >
+07 Guelah Papyrus
+08 Divided Sky 
+09 Funky Bitch 
+
+Disc II 1st Set Con't
+
+01 Cavern
+02 Stealing Time From The Faulty Plan >
+03 David Bowie
+2nd Set:
+04 Carini >
+05 Birds Of A Feather
+06 Golden Age >
+07 Prince Caspian >
+08 Piper >
+09 Boogie On Reggae Woman >
+
+Disc III 2nd Set Con't 
+
+01 Saw It Again
+02 Mike's Song  >
+03 *Legalize It >
+04 Weekapaug Groove 
+05 Show Of Life >
+06 Suzy Greenberg
+Encore:
+07 Character Zero
+
+* First Time Played
+
+phish2013-09-01d01t01.flac:c39509f52a2d4657182ac7ac4b3407f8
+phish2013-09-01d01t02.flac:323e6c06a17ed1e72651e662b35a525d
+phish2013-09-01d01t03.flac:07987fc368143f1937311bb08768a2bc
+phish2013-09-01d01t04.flac:b1bc630bc67902b33d81fc59784bee92
+phish2013-09-01d01t05.flac:8225b71e61ead9336849cec8493de0ad
+phish2013-09-01d01t06.flac:305ce796c2db9abd8b640d79999fa8af
+phish2013-09-01d01t07.flac:acd59f21364daee25bfbc2ce178b0eb0
+phish2013-09-01d01t08.flac:075a96bbdcc264caaab47cd8ee35576f
+phish2013-09-01d01t09.flac:fab39b42e4f622d8461b33fc8748bcc6
+phish2013-09-01d02t01.flac:1cfb272b359d8121712e5152fe2dbde8
+phish2013-09-01d02t02.flac:df512211797df06306a239c19486efe3
+phish2013-09-01d02t03.flac:810575e50e4371ac6893b672a161b2cd
+phish2013-09-01d02t04.flac:c9a807a0e556958b0bac26da1090f313
+phish2013-09-01d02t05.flac:2664c43af6dcfc7a1979b364e8cdf5a7
+phish2013-09-01d02t06.flac:1738d8d9a63dbfa7fdbb09ad9ba5079e
+phish2013-09-01d02t07.flac:65398cc48969c8094797d08cb6b10218
+phish2013-09-01d02t08.flac:615c5591bbab33be534aa25a868423c4
+phish2013-09-01d02t09.flac:d10555844afd5f8b927f69d48a21b193
+phish2013-09-01d03t01.flac:1a0f6f65cab2f94e8102c603e5fd3080
+phish2013-09-01d03t02.flac:88f179b763b5d40c7c94d7e70d2dabf9
+phish2013-09-01d03t03.flac:e872cf3f129bb241effcf6c5632e3764
+phish2013-09-01d03t04.flac:34680d25c51437d1798ba69e814ee4e5
+phish2013-09-01d03t05.flac:48666dbdc006c90cde1b5d9a8417a035
+phish2013-09-01d03t06.flac:58af80be2140e2cebc6668cf9892f084
+phish2013-09-01d03t07.flac:b415069526449e94104d01d6fc209d1e
+
+ length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     5:52.43       62193980 B   ---   --   ---xx   flac  0.4668  phish2013-09-01d01t01.flac
+     6:52.41       72773276 B   ---   --   ---xx   flac  0.4973  phish2013-09-01d01t02.flac
+     6:29.10       68643164 B   ---   --   ---xx   flac  0.4512  phish2013-09-01d01t03.flac
+     6:10.71       65435036 B   ---   --   ---xx   flac  0.4525  phish2013-09-01d01t04.flac
+     4:35.27       48573548 B   ---   --   ---xx   flac  0.4071  phish2013-09-01d01t05.flac
+     8:29.20       89834684 B   ---   --   ---xx   flac  0.4633  phish2013-09-01d01t06.flac
+     5:28.03       57866300 B   ---   --   ---xx   flac  0.4569  phish2013-09-01d01t07.flac
+    15:13.39      161144972 B   ---   --   ---xx   flac  0.4310  phish2013-09-01d01t08.flac
+     7:00.09       74109212 B   ---   --   ---xx   flac  0.5000  phish2013-09-01d01t09.flac
+     4:33.24       48213692 B   ---   --   ---xx   flac  0.4944  phish2013-09-01d02t01.flac
+     5:48.27       61450748 B   ---   --   ---xx   flac  0.5025  phish2013-09-01d02t02.flac
+    12:13.07      129317708 B   ---   --   ---xx   flac  0.4337  phish2013-09-01d02t03.flac
+    12:27.39      131862572 B   ---   --   ---xx   flac  0.4588  phish2013-09-01d02t04.flac
+     5:07.01       54157196 B   ---   --   ---xx   flac  0.4676  phish2013-09-01d02t05.flac
+     7:57.04       84152252 B   ---   --   ---xx   flac  0.4640  phish2013-09-01d02t06.flac
+     6:17.13       66533420 B   ---   --   ---xx   flac  0.4571  phish2013-09-01d02t07.flac
+    11:01.14      116633372 B   ---   --   ---xx   flac  0.4785  phish2013-09-01d02t08.flac
+     4:56.30       52285004 B   ---   --   ---xx   flac  0.4579  phish2013-09-01d02t09.flac
+     4:12.03       44459900 B   ---   --   ---xx   flac  0.5068  phish2013-09-01d03t01.flac
+     7:29.20       79250684 B   ---   --   ---xx   flac  0.4730  phish2013-09-01d03t02.flac
+     5:48.06       61401356 B   ---   --   ---xx   flac  0.4058  phish2013-09-01d03t03.flac
+     5:47.38       61300220 B   ---   --   ---xx   flac  0.4617  phish2013-09-01d03t04.flac
+     5:55.66       62777276 B   ---   --   ---xx   flac  0.4432  phish2013-09-01d03t05.flac
+     7:20.51       77735996 B   ---   --   ---xx   flac  0.4745  phish2013-09-01d03t06.flac
+     6:35.06       69692156 B   ---   --   ---xx   flac  0.4743  phish2013-09-01d03t07.flac
+   179:41.12     1901797724 B                            0.4611  (25 files)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

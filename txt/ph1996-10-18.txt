@@ -1,0 +1,70 @@
+Phish
+10/18/1996
+Civic Arena
+Pittsburgh, PA
+
+
+2 Source AUD Matrix (50/50)
+
+Source 1:  Schoeps cmc64>Sonosax SX-M2>SV-255>BTP @ 48 kHz 
+
+     Transfer:  DA20mkII>Audio Magic Presto II>ZA2>Soundforge 4.5 (48>44.1)>CDWav>.shn
+          Transfer and encoding by Eric McRoberts
+
+          Decoded to wav using TLH
+
+
+Source 2:  Illegal Bootleg CD, Titled: “Seed Pitts”
+     
+     Unknown AUD recording
+          Original CDs > EAC > Wav  
+
+
+Matrix by OctopusRider using Cakewalk Home Studio 2004
+          
+          Both sources: Wav > Cakewalk Home Studio > Wav > Flac
+
+
+DISC 1                                     67:37
+  SET I
+01 Runaway Jim                             09:19
+02 Guelah Papyrus                          05:26
+03 Old Home Place                          02:53
+04 Cars Trucks Buses                       03:35
+05 Stash                                   11:38
+06 Strange Design                          02:51
+07 The Divided Sky                         14:10
+08 Billy Breathes                          05:03
+09 Taste                                   07:27
+10 Sample in a Jar                         05:10
+
+
+DISC 2                                     73:18
+  SET II
+01 Suzy Greenberg                          06:22
+02 Maze                                    12:10
+03 You Enjoy Myself                        21:01
+04 Reba                                    14:30
+05 Waste                                   05:32
+06 Harry Hood                              13:41
+
+
+DISC 3                                     08:33
+  ENCORE
+01 Julius                                  08:33
+
+Show Notes: YEM included teases of Peter Frampton's Do You Feel Like We Do. This Maze 
+was fantastic and remains a fan favorite. 
+
+
+Matrix Notes
+
+Source 1 was decoded to wav using TLH. Both sources were aligned using Cakewalk Home Studio 2004.
+
+Source 1 had better sounding bass than source 2. It also contained more recording from before/after the show and during the encore break. Source 2 had better highs and sounded more up close (possibly a FOB). 
+
+I did not alter or EQ the sound of either recording. Both sources had qualities that complimented the other and when put together they make for a really nice listen. Source 1 had better stereo separation and Source 2 had less crowd noise.
+
+I added fades to smooth out the listening experience at the beginning of both sets, the end of set 1 and after of the encore. 
+
+-OctopusRider 2/07

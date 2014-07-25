@@ -1,0 +1,113 @@
+Phish
+11-23-96
+Pacific ColiseumVancouver, British Columbia
+
+2 Sources:
+Set 1 & Set 2
+Neumann KM-84's> Tascam DA-PI FOB > Wav > CDR > EAC > SHN
+
+Encore only: 
+Unknown AUD (OTS)>P1>D8>DAT master->Sony PCM-r500->Audiophile 2496->CD Wave Editor-> FLAC
+
+
+Conversion: 12/08/07 discocape@yahoo.com
+
+All files were converted to wav (mkwACT for shn and flac frontend for flac) renamed if necessary,
+Hood was cut using CD wav and then all files were encoded to flac via flac frontend
+
+
+Disc 1Set 1 1. Chalk Dust Torture		(06:24)2. Guelah Papyrus		(05:33)3. Cars Trucks and Buses	(04:05)4. Divided Sky			(14:31)5. PYITE			(08:56)6. Midnight on the Highway*	(03:32)7. Split Open & Melt		(11:16)8. Rift				(05:42)9. Funky Bitch			(06:56)			total:	(76:55)Disc 2
+set2 
+1. The Curtain-> 		(06:21)2. Mike's Song-> 		(09:27)
+3. Simple-> 			(09:08)4. Makisupa Policeman-> 	(06:16)	5. Axilla-> 			(03:39)6. Weekapaug Groove-> 		(11:39)7. Catapult			(02:35)8. Waste			(06:01)9. Amazing Grace**		(01:56)10. Harry Hood			(15:32)
+
+Encore: 
+11. Good Times Bad Times#	(07:24)
+			total:  (79:58)
+
+* 1st time played. ** A capella. # Dedicated to the Crew
+
+
+fingerprint:
+ph96-11-23d1t04.flac:58ca7c8885b9180828f28a0669747eb8
+ph96-11-23d1t05.flac:f100083c7dec37223cc215ee16ea26b6
+ph96-11-23d1t06.flac:8f8cd1f559b6054bce0e50791640bd9e
+ph96-11-23d1t07.flac:877d3dcb19224fd9f7cb0b21061bbde2
+ph96-11-23d1t08.flac:b3092956286d83dc7fc813bc2753b4ca
+ph96-11-23d1t09.flac:3ed3329cb57ccf8721265d5162a02457
+ph96-11-23d2t01.flac:efed5e77304e49431c1c0600a46f8cf9
+ph96-11-23d2t02.flac:513e6a03fe9dc41c9cf82f9996aca0f7
+ph96-11-23d2t03.flac:2e4ca54ca3fbd119b1f530df7878c1ea
+ph96-11-23d2t04.flac:93a1a71ab879d54a5eab4ea80ded3f79
+ph96-11-23d2t05.flac:9e005e9aeb632035a78af013bb783512
+ph96-11-23d2t06.flac:d4981db134b915a2eb56badb71ee63e7
+ph96-11-23d2t07.flac:8c5d4e5d1df4bc391d15a666425573b9
+ph96-11-23d2t08.flac:92bcbc05719c15d5da561afad08b5868
+ph96-11-23d2t09.flac:e21c33a6090a0c1269d38939391f9da2
+ph96-11-23d2t10.flac:61f39d145f179ee5b83c0f64a4c4dba5
+ph96-11-23d2t11.flac:641b16fdd5c52033c173ecbbbd46b9ec
+ph96-11-23d1t01.flac:92c95fb228555eba55eec9260fd95ead
+ph96-11-23d1t02.flac:30fc153315d1ad94321b595d5da0aefe
+ph96-11-23d1t03.flac:349807ca523422a766819d746d62298b
+
+
+
+Notes:
+The neumann source is nearly complete missing only the encore. It was a shorten fileset. The encore
+was an unknown source and encoded to flac. To create one complete recording using only one type 
+of encoding I converted everything to wav then to flac. The only alteration I made was to clip about
+18 seconds off of the end of Hood using CDwave. There was nothing there, it fades out at 15:32 and had nothing
+but silence until 15:50. When the unknown source for GTBT kicks in is it obvious that there is gap 
+between the end of the first recording and the beginning of the second. The unknown recording kicks in as the boys
+are coming back on stage for the encore, no music is lost, just some cheering. The second source is a little louder than 
+the first but both are solid. Sonically I did nothing to alter these sources. This is a fantastic show and 
+great recording, enjoy!! -disco
+
+*******************************************************************************************************
+*******************************************************************************************************
+Here are the original text files from both sources that were used:
+
+1. Phish11/23/96Pacific ColiseumVancouver, British Columbia*****************************************************************Source: Neuman KM-84's> Tascam DA-PI FOB > Wav > CDR > EAC > SHN*****************************************************************Upload and EAC by: Matt Alden <lamar_latrel@hotmail.com>Questions/Comments: Michael Stern <m_stern6@hotmail.com> mockingbird.dyndns.orgDisc 1Set 1 1. Chalk Dust Torture2. Guelah Papyrus3. Cars Trucks and Buses4. Divided Sky5. PYITE6. Mid-Highway Blues*7. Split Open & Melt8. Rift9. Funky Bitchset2 1. The Curtain-> 2. Mike's Song-> 3. Simple-> 4. Makisupa Policeman-> 5. Axilla-> 6. Weekapaug Groove-> 7. Catapult8. Waste9. Amazing Grace**10. Harry HoodE: Good Times Bad Times# (missing from recording)* 1st time played. ** A capella. # Dedicated to the CrewComments: I queried for this show in the etree db recently and found only one person with a digital copy.  For many pacific northwesterner's and other phans who made the trip, this is a long sought after show.  It was one of the best of the tour, and extremely high energy. The band as well as many phans had quite an evening crossing the border and this is reflected during multiple show narratives (listen to makisupa and mid-highway blues). If you've got a copy of this show that includes the encore, please contact Michael Stern <m_stern6@hotmail.com> mockingbird.dyndns.org
+e79630d1ec436b5c66f2fd3786bacce5 *ph96-11-23d1t05.shn
+17a6132a0f2391898013c23dc2fa09a3 *ph96-11-23d1t02.shn
+29ebb53ab5cbb1063865705d57fe9853 *ph96-11-23d1t03.shn
+6afa2d1c59d1d19bbe38940cf3c29c8d *ph96-11-23d1t04.shn
+4f98a63353c277dc803357498ef77130 *ph96-11-23d1t01.shn
+e6688c53465e3adf5ef4e666c4ae0354 *ph96-11-23d1t06.shn
+6ca5f58f1b950b1a223998653730eee5 *ph96-11-23d1t07.shn
+709a27c4ebc8a71612d0bcccdc80c14c *ph96-11-23d1t08.shn
+da2258c9c747ad37397ef4549ce668b2 *ph96-11-23d1t09.shn
+a183989d2c1a0ae55c0b007ae177753d *ph96-11-23d2t01.shn
+e63fd5694db99f462763791eb27b9c7f *ph96-11-23d2t02.shn
+9cbd7eea05024205a6839cf738d2d1fc *ph96-11-23d2t03.shn
+d6691d35c5cf2dcbcc310ffc55a78449 *ph96-11-23d2t04.shn
+90c4344c98431a61a6a02943ac5e5de9 *ph96-11-23d2t05.shn
+db9cd6860be3cedd4bb006e4c9accac5 *ph96-11-23d2t06.shn
+53e4411c4ac881590042b322260c4b24 *ph96-11-23d2t07.shn
+e683b26b2ef1892dc86aed851f0c2e9e *ph96-11-23d2t08.shn
+182cac8cc7adda81b162d5f3a8971487 *ph96-11-23d2t09.shn
+3f76345f54a07d95fc6e5b1141869e54 *ph96-11-23d2t10.shn
+*******************************
+
+2. Phish - 11/23/96
+Pacific Coliseum
+Vancouver, British Columbia
+
+Source: Unknown AUD (OTS)>P1>D8
+
+Transfer: DAT master->Sony PCM-r500->Audiophile 2496->CD Wave Editor-> FLAC by EEE on 11/6/05
+
+Encore:
+
+Good Times Bad Times
+
+FFP:
+ph96-11-23dGTBT.flac:641b16fdd5c52033c173ecbbbd46b9ec
+
+
+SHNTOOL OUTPUT
+
+    length     expanded size   cdr  WAVE problems filename
+     7:24.35       78403964    ---   --   -----   ph96-11-23dGTBT.wav
+     7:24.35       78403964 B                     (total for 1 file, 1.0000 over
+all compression ratio)

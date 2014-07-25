@@ -1,0 +1,43 @@
+Phish
+08/05/2011
+George, Washington The Gorge Amphitheatre
+
+Source: Schoeps mk4v> KC5> M222> NT222> Aeta PSP-3> SD 744t (@24bit/96kHz)
+Location: FOB, DFC, DIN, 6' Stand
+
+Transfer: SD 744t> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (08/06/2011)
+
+
+Set I
+t01 [07:53] Kill Devil Falls
+t02 [08:23] The Wedge
+t03 [11:43] Bathtub Gin
+t04 [02:47] Nellie Kane
+t05 [05:54] My Friend, My Friend
+t06 [04:08] Cavern
+t07 [09:07] Taste
+t08 [11:17] Roggae
+t09 [07:32] Walk Away
+t10 [06:23] Funky Bitch
+t11 [05:21] Roses are Free>
+t12 [10:59] David Bowie
+
+Set II
+t13 [06:24] Backwards Down the Number Line
+t14 [20:15] Rock and Roll>
+t15 [08:40] Meatstick>
+t16 [08:31] Boogie On Reggae Woman>
+t17 [05:32] Farmhouse
+t18 [05:21] Show of Life
+t19 [08:20] Julius
+t20 [06:15] Character Zero
+t21 [02:14] crowd
+
+Encore
+t22 [07:03] Loving Cup
+
+
+Notes:
+Thanks to Jason Lonchar for the Schoeps tubes
+Set I [1:31:32] Set II [1:11:37] Encore [7:03]

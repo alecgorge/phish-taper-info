@@ -1,0 +1,86 @@
+Phish
+February 18, 1997
+Bataclan
+Paris, France
+
+source:
+Neumann km140 > Beyerdynamic MV100 > DAT (@ 48 kHz)
+
+transfer:
+Tascam DA-20mkII > Marantz PMD-661 > SDHC card > usb 2.0 > pc > r8brain v1.9 (resample to 44.1 kHz) > Samplitude SE v9.1.1 (fades, splices) > CD Wave v1.98 (track splits) > FLAC v1.2.1 (Level 8)
+
+recorded by ?
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded November 1, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+The original 48 kHz files from the DAT transfer have been archived and are available upon request.
+
+Disc 1 - [71:53]
+Set I
+01 - [02:48] - Beauty of My Dreams >
+02 - [04:28] - Cavern >
+03 - [07:43] - Punch You In the Eye >
+04 - [08:12] - Runaway Jim >
+05 - [05:22] - NICU
+06 - [14:29] - Stash
+07 - [05:54] - Waste
+08 - [05:43] - Walfredo
+09 - [05:56] - Character Zero >
+10 - [11:17] - Slave to the Traffic Light
+
+Disc 2 - [78:14]
+Set II
+01 - [03:42] - Peaches en Regalia
+02 - [09:06] - 2001 >
+03 - [05:38] - My Soul
+04 - [11:09] - Maze >
+05 - [06:56] - Wolfman's Brother >
+06 - [12:37] - Reba
+07 - [02:42] - Train Song
+08 - [13:56] - Harry Hood >
+09 - [04:35] - Frankenstein
+10 - [02:46] - encore break
+11 - [05:06] - Bold As Love
+
+splice notes:
+On the DAT, There were drop-outs during "Beauty of My Dreams", and at the very end of "Stash".
+
+The missing portions were spliced in from the following source:
+(FOB) Schoeps mk4 > DAT (@ 48 kHz)
+transferred by Jason Sobel
+http://db.etree.org/shn/92599
+
+The Schoeps mk4 source was used at the following spot:
+ph1997-02-18d1t01 - Beauty of My Dreams - [00:31] to [00:35]
+ph1997-02-18d1t06 - Stash - [13:59] to [14:25]
+
+
+--------------------------------------------------------------
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     2:48.12          28.29 MB  ---   --   ---xx   flac  0.5753  ph1997-02-18d1t01.flac
+     4:28.25          45.14 MB  ---   --   ---xx   flac  0.6246  ph1997-02-18d1t02.flac
+     7:43.12          77.92 MB  ---   --   ---xx   flac  0.5870  ph1997-02-18d1t03.flac
+     8:11.70          82.76 MB  ---   --   ---xx   flac  0.5932  ph1997-02-18d1t04.flac
+     5:22.29          54.23 MB  ---   --   ---xx   flac  0.5763  ph1997-02-18d1t05.flac
+    14:28.66         146.17 MB  ---   --   ---xx   flac  0.5903  ph1997-02-18d1t06.flac
+     5:54.34          59.63 MB  ---   --   ---xx   flac  0.4454  ph1997-02-18d1t07.flac
+     5:43.03          57.71 MB  ---   --   ---xx   flac  0.4714  ph1997-02-18d1t08.flac
+     5:55.41          59.81 MB  ---   --   ---xx   flac  0.5147  ph1997-02-18d1t09.flac
+    11:17.08         113.91 MB  ---   --   ---xx   flac  0.4542  ph1997-02-18d1t10.flac
+     3:42.07          37.36 MB  ---   --   ---xx   flac  0.5788  ph1997-02-18d2t01.flac
+     9:06.26          91.91 MB  ---   --   ---xx   flac  0.5511  ph1997-02-18d2t02.flac
+     5:37.67          56.84 MB  ---   --   ---xx   flac  0.6272  ph1997-02-18d2t03.flac
+    11:08.54         112.50 MB  ---   --   ---xx   flac  0.5770  ph1997-02-18d2t04.flac
+     6:55.71          69.97 MB  ---   --   ---xx   flac  0.5491  ph1997-02-18d2t05.flac
+    12:36.63         127.32 MB  ---   --   ---xx   flac  0.5311  ph1997-02-18d2t06.flac
+     2:42.00          27.25 MB  ---   --   ---xx   flac  0.4527  ph1997-02-18d2t07.flac
+    13:56.27         140.70 MB  ---   --   ---xx   flac  0.5563  ph1997-02-18d2t08.flac
+     4:34.62          46.23 MB  ---   --   ---xx   flac  0.6199  ph1997-02-18d2t09.flac
+     2:46.36          28.01 MB  ---   --   ---xx   flac  0.5736  ph1997-02-18d2t10.flac
+     5:06.37          51.56 MB  ---   --   ---xx   flac  0.6009  ph1997-02-18d2t11.flac
+   150:07.00        1515.23 MB                           0.5533  (21 files)

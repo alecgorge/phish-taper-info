@@ -1,0 +1,54 @@
+Phish
+12-8-89
+Green Mountain College 
+Poultney, VT
+
+Set I Source: SBD > cass/?  >Audacity 1.2.4 > FLAC16
+Transfer: By Taperwayne
+
+Notes: I had this material as filler on an analog of another show.
+The sourced version of this show is far superior in sound quality than
+this source - however these tracks are missing from Set I, so I decided to
+archive them.
+
+Set II Source: MCS > Dat > CD
+Encoding: CD > EAC (secure Mode) > WAV > SHNTool > Flac (1.1.0)
+
+-From Set I-
+
+(Missing Oh Kee Pa)
+(Missing Suzy)
+01. Split Open and Melt
+02. Ya Mar
+03. Reba
+04. McGrupp and the Watchful Hosemasters >
+05. Who Do? We Do! >
+06. AC/DC Bag
+
+Disc 1
+Set II
+01. Harry Hood
+02. Tela
+03. Timber Ho
+04. Slave to the Traffic Light
+05. I Didn't Know
+06. YEM >
+
+Disc 2
+01. Vocal Jam >
+02. Possum
+Encore:
+03. Lawn Boy
+04. Fire
+
+Filler: Set I 12-8-89
+05. My Sweet One
+06. Bathtub Gin
+07. Run Like an Antelope
+
+Transferred by Chris Warren (hip_school_preppie@yahoo.com)
+Shn'd by Mark Kerchoff (Mark@Kerchoff.com)
+
+
+
+

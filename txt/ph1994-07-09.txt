@@ -1,0 +1,51 @@
+Phish
+July 9, 1994
+Great Woods Amphitheater
+Mansfield, MA
+
+source:
+AKG 460B/ck61 > custom pre-amp > Teac DA-P20 (@ 48kHz)
+
+transfer:
+Sony PCM-R500 > Tascam HD-P2 > CF Card > usb > pc > WaveLab 5.01b (de-emphasis, fades, resample to 44.1kHz) > CD Wave v1.95 > FLAC v1.1.2 (Level 8)
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded August 12, 2006
+
+notes:
+The master DAT was used in this transfer, thanks Dave!
+The original DAT recording was made with pre-emphasis. The Waves 5.0 Paragraphic EQ plug-in was used to de-emphasize the recording.
+The 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+
+Disc 1 - [73:22]
+Set I
+01 - [07:51] - Runaway Jim
+02 - [09:42] - Foam
+03 - [05:42] - Gumbo
+04 - [10:48] - Maze
+05 - [05:42] - Guelah Papyrus
+06 - [07:39] - Scent of a Mule
+07 - [07:07] - Down with Disease >
+08 - [01:24] - The Horse >
+09 - [05:05] - Silent in the Morning
+10 - [12:23] - Run Like an Antelope
+
+Disc 2 - [63:14]
+Set II
+01 - [04:40] - 2001 >
+02 - [15:00] - Split Open and Melt
+03 - [13:46] - Fluffhead
+04 - [02:21] - Poor Heart
+05 - [12:50] - Tweezer ->
+06 - [08:39] - Lifeboy
+07 - [03:37] - Sparkle ->
+08 - [02:21] - Big Ball Jam
+
+Disc 3 - [31:40]
+Set II continued
+01 - [14:48] - Harry Hood
+02 - [06:05] - Suzy Greenberg
+03 - [01:59] - encore break
+04 - [05:36] - Sleeping Monkey
+05 - [03:11] - Tweezer Reprise

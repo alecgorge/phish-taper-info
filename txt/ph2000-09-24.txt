@@ -1,0 +1,83 @@
+Phish
+Target Center
+Minneapolis, MN
+September 24, 2000
+
+Taper: Ken Rossiter
+Source: Schoeps m222/mk41 > nt222 > AD-1000
+
+These .shn's come from my patch masters which were recorded straight off the AD-1000
+
+DAT > CD Conversion: Don Becker <donald.becker@marquette.edu>
+Equipment: PCM-M1 > Oade Active Cable > Sek'd Prodif Plus >
+           Samplitude v5.5 (48>44.1) > CDWAV > MKW Audio Compression Tool
+
+** No DAE -- DAT > .WAV > .SHN
+
+
+Updates:
+This show is the source listed in db.etree.org below only FLAC.
+No changes/edits/alterations were made, it is identical (see below).
+http://db.etree.org/shninfo_detail.php?shnid=1670
+SHN>MKWACT>WAV>FLAC V1.71 (with ID Tags) 6/2005
+
+
+
+*************************************************************
+***   PLEASE DO NOT ENCODE THIS SHOW INTO .MP3 FORMAT!!   ***
+*************************************************************
+
+Disc 1:
+-------
+01  -  Set I Intro				-	00:55.14
+02  -  Mellow Mood				-	02:59.33
+03  -  Chalkdust Torture			-	07:04.51
+04  -  Back at the Chicken Shack		-	05:55.61
+05  -  Sparkle					-	04:01.13
+06  -  The Sloth				-	03:58.05
+07  -  The Divided Sky *			-	16:05.72
+08  -  Roggae					-	06:48.05
+09  -  First Tube				-	07:57.01
+10  -  Punch You In the Eye			-	07:59.70
+11  -  Sample In a Jar				-	05:39.67
+
+Disc 2:
+-------
+01  -  Set II Intro				-	01:06.37
+02  -  Cities					-	19:05.40
+03  -  Free					-	10:56.73
+04  -  Ya Mar					-	08:29.05
+05  -  Carini					-	07:12.32
+06  -  Lawn Boy					-	02:52.56
+
+Disc 3:
+-------
+01  -  Hold Your Head Up ->			-	01:18.71
+02  -  Love You	->				-	03:18.26
+03  -  Hold Your Head Up			-	04:37.73
+04  -  Cool It Down				-	10:24.25
+05  -  David Bowie				-	12:05.53
+06  -  Encore Break				-	03:43.39
+07  -  Fire					-	04:36.14
+08  -  Post Show Applause / House Music	**	-	01:37.57
+
+* - The band stopped playing for a few minutes during The Divided Sky in favor of
+    watching the glowstick war that was going on in the audience :-)
+
+Show Notes: Cool it Down was played for the first time since its debut on October 31, 1998 (127 shows).
+
+
+** - I made a seperate track for the Post Show Applause and House Music because about
+     a minute after the show was over, the house lights were turned back off -- you'll
+     definitely know when it happened due to the audience's roar of applause and also
+     audience's bummed reaction when the lights were turned on once again a couple
+     seconds later.
+
+Comments
+--------
+- The only digital editing I did to this show was add fades in/out at the
+  beginning/end of each set.
+- Great recording, much thanks goes out to Ken for the patch....GO TEAM SCHOEPS!!
+
+Compiled by Don Becker
+October 12, 2000

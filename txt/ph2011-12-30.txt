@@ -1,0 +1,45 @@
+PHiSH
+12/30/11
+Madison Square Garden
+New York NY
+
+Field: AKG C414XLS (Hypercardioid) > Edirol R4Pro ( Oade preamp mod ) @ 24/88.2
+config: pointed at PA array, centered behind SBD, 13 feet high.
+
+Path: R4Pro > WaveBurner ( track on sector boundaries, fades, SRC, BDC ) > xACT ( to flac, and for tagging and checksums )
+
+Recorded, processed and let loose by Mike Kutik ( padelimike at mac d0t c0m )
+At bt.etree.org 2011-12-31
+
+
+
+Set the First:
+01 crowd in
+02 Punch You In The Eye >
+03 Prince Caspian >
+04 Backwards Down The Number Line
+05 Nellie Kane
+06 Divided Sky
+07 Sand
+08 Vultures
+09 Rift
+10 Joy
+11 The Mighty Quinn
+
+
+Set the Second:
+01 crowd in
+02 Wilson >
+03 Axilla >
+04 Piper >
+05 Twist >
+06 Julius >
+07 Golgi Apparatus >
+08 Also Sprach Zarathustra
+09 The Horse >
+10 Silent In The Morning
+11 David Bowie
+12 The Squirming Coil
+13 encore break
+14 Boogie On Reggae Woman
+15 Good Times Bad Times

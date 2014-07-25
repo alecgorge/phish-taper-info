@@ -1,0 +1,39 @@
+Phish
+9/28/95
+Summer Pops
+Embarcadero Center
+San Diego, CA
+
+Source: (F.O.B.) Schoeps mk2 (no other source info)
+Transfer: DA-20 mkii> Philips CDR 870 > EAC > CDWAV > Soundforge 4.5 > Shntool > SHN
+Transfer by: Brandon Johnston -- http://db.etree.org/bisq
+
+Disc 1:
+-Set I-
+1.Cars Trucks Buses
+2.Runaway Jim
+3.Billy Breathes
+4.Scent of a Mule
+5.Stash
+6.Fee ->
+7.The Fog That Surrounds
+8.Acoustic Army
+9.Slave to the Traffic Light
+
+Disc 2:
+-Set II-
+1.Theme From the Bottom
+2.Poor Heart
+3.Don't You Wanna Go
+4.Tweezer
+5.Keyboard Army
+6.Amazing Grace
+7.Sample in a Jar
+8.Run Like an Antelope
+9.crowd noise
+10.E: Fire
+
+Show Notes: Fire was played for the first time since October 13, 1994 (69 shows).
+
+Tech Notes: I extracted the cds as a range and resplit the tracks using CDWAV. The EAC logs for each disc are included.  I added fades at the beginning and end of the sets in soundforge. Shntool was also run to remove SBE's.  
+This show contains a fair amount of boom that can be fixed with an eq somewhat.  I haven't found an eq that can get rid of the chatty (and often yelling and screaming) crowd near the taper however.

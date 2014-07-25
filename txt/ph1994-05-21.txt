@@ -1,0 +1,57 @@
+Phish - 5-21-94
+Moore Theatre, Seattle WA
+
+Welcome to my masterclone copy of this show.
+*It has a couple of "MINOR" dat issues
+hiccups.You should not notice then unless
+you are looking for them,they are that small.
+
+This show was taped by my friend,
+Robert Ward from San Jose CA
+*While taping this show, Robert paused his deck
+at 2nd set's end and restarted it before the
+encore.He also adjusted the levels during the
+Acoustic Songs so they are a little "up and down".
+Here's his setup:
+NAK 300 Omnis>D-7>DAT.
+
+I have no clue how he mastercloned it for me.
+
+Their journey to SHN:
+Technics SV 260A>COAX>WAV>CDWAV>SHN
+I have used the MKW audio compression tool.
+These SHN files are seekable in your SHNamp.
+Also, I have included the md5 for the wav files.
+Please use it to verify yours.
+Please use the audio file provided 
+when trading in the audio format.
+
+PEACE  LOVE  AND  PHISH!!!
+Linda Webster
+http://db.etree.org/linda95
+My "Dat Only List" aka my "SHN Only List".
+
+Disc 1 Set 1
+{1}Runaway Jim(8:36:06),
+{2}Foam(8:59:53),
+{3}Guelah Papyrus(6:31:63),
+{4}Down with Disease(6:40:16),
+{5}Mound(5:48:65),
+{6}Stash(12:23:24),
+{7}Squirming Coil(10:12:38),
+{8}Tela(6:48:00),
+{9}Llama(4:37:41).
+TOTAL: 70:38:06
+
+Disc 2 Set 2
+{1}Dinner and a Movie(3:30:48),
+{2}Sample in a Jar(4:51:05),
+{3}David Bowie(12:29:25),
+{4}Contact(6:52:34),
+{5}Big Ball Jam(2:39:29),
+{6}Julius(6:44:72),
+{7}HYHU>Bike>HYHU(8:33:32),
+{8}Harry Hood(15:21:41),
+{9}Amazing Grace(4:08:42),
+{10}E:Bold as Love(5:18:37).
+TOTAL: 70:29:68

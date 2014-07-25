@@ -1,0 +1,44 @@
+Phish
+Boston Garden
+Boston, MA
+10/30/92 
+
+TAPER: John Redmond
+SOURCE Nak 300s > D5 
+
+AUD/FOB MCass (Maxell MX 90 min)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +12dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)>
+Mastering (see notes)> SHNv3
+
+Transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 2/7/2004
+Mastering, and shorten done on REBA by Marmar- imthemarmar@stny.rr.com
+
+-Disc 1-
+01. //Runaway Jim
+02. Maze
+03. Bouncing Around the Room
+04. Rift
+05. Cavern > Vacuum Solo > Cavern
+06. Squirming Coil
+07. //Stash
+08. Sweet Adeline
+09. You Enjoy Myself 
+
+Notes
+"BCN Roctoberfest"
+
+The taper noted "Nak 300s > DCM-5 - Back left 60ft off stage" on the tape cover.
+
+**Mastering**
+24bit 48kHz FLAC > wav > Montage to reconstruct set and add fades over flip > Internal 24bit rendering (no dither) > BBE @ 0/4/0 > Waves Rbass Module +5db @ 35Hz > Internal 24bit renerding (no dither) > Rendered 24/48 wav files > Waves L1+ (24bit, no dither, +2.3 gain make-up) > 48kHz>44.1/High and 24bit>16bit/Mode 1/Low via tc electronic Finalizer 96k > Tracking in Wavelab > SHNv3
+
+*Mastering Notes*
+- Even though I was able to bring some of the bass back into the mix, if I were to have tried to raise it any more the mid registers would have gotten burried in the mud. 
+- There is a pause after Runaway Jim. There was no silent part of the wave, it just appears as if the deck was paused and then restarted...I left this *as is*
+- The start of Stash was missing from the tape flip...I crossfaded this as best I could...
+
+NO tracking/editing/alterations performed before archiving to 24-bit FLAC
+(except to trim silence from the ends).
+
+Seeded to FurthurNet (www.furthurnet.org)

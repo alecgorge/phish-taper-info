@@ -1,0 +1,46 @@
+Phish
+08/15/2009
+Columbia, Maryland  Merriweather Post Pavilion
+
+Source: Schoeps mk22> KCY> Schoeps VMS02IB> Apogee Mini-Me> SD 722 (@24bit/96kHz)
+Location: OTS, ROC, ORTF, 6' Stand, Section CTR, Row DD, Seat 131
+
+Transfer: SD 722> Samplitude SE 9.1.1(resample/dither)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (08/16/2009)
+
+
+Set I
+t01 [04:19] Crowd Control
+t02 [07:22] Kill Devil Falls
+t03 [04:19] The Sloth
+t04 [05:32] Beauty of a Broken Heart
+t05 [03:32] Axilla
+t06 [07:35] Foam
+t07 [10:45] Esther
+t08 [02:13] Ha Ha Ha
+t09 [07:38] Party Time
+t10 [04:24] Tube
+t11 [05:34] Stealing Time from the Faulty Plan
+t12 [03:26] Strange Design
+t13 [16:24] Time Turns Elastic
+
+Set II
+t14 [10:25] Tweezer >
+t15 [09:28] Taste
+t16 [08:38] Alaska
+t17 [06:07] Let Me Lie
+t18 [16:25] 46 Days
+t19 [07:22] Oh! Sweet Nuthin'
+t20 [13:42] Harry Hood
+t21 [02:14] crowd
+
+Encore
+t22 [05:25] Good Times Bad Times
+t23 [03:44] Tweezer Reprise
+
+
+Notes:
+The Sloth, last played 07/31/2003 (57 shows)
+Ha Ha Ha, last played 07/15/2003 (69 shows)
+Party Time, first time played
+Set I [1:23:03] Set II [1:14:21] Encore [9:09]

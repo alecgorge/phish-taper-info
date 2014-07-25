@@ -1,0 +1,41 @@
+Phish
+10-28-94 
+Galliard Auditorium, Charleston, SC 
+
+Source: AKG 460's+ck61
+Transfer: DA-20 mkII->Delta Dio 2496->Soundforge 4.5 (resampled 48>44.1 on highest accuracy setting w/ anti alias filter)->CDWAV->SHN
+
+Set I:
+Disc I:
+1.I Didn't Know
+2.Llama
+3.Guelah Papyrus
+4.Scent of a Mule
+5.Stash
+6.Glide
+7.Axilla [Part II]
+8.All Things Reconsidered
+9.Sample in a Jar
+10.Carolina/
+11.E:Fee
+12.  Highway to Hell
+
+Set II:
+Disc II:
+1.Also Sprach Zarathustra->
+2.David Bowie->Manteca->David Bowie
+3.Lizards
+4.Peaches en Regalia
+5.Rift
+6.Lifeboy
+7.Chalk Dust Torture
+8.The Old Home Place*
+9.Nellie Cane*
+10.Foreplay*->
+11.Long Time* 
+ 
+
+*Acoustic. 
+
+Notes: Last line of Carolina clipped on dat. I put the encore on disc 1 to fit the show on 2 discs.
+       There was a brief drop in lizards that was edited out w/ soundforge.

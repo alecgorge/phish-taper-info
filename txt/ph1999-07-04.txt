@@ -1,0 +1,61 @@
+Phish
+July 4, 1999
+Lakewood Amphitheatre
+Atlanta, GA
+
+source:
+Schoeps cmc6/mk4v > Lunatec V2 > Tascam DA-P1 (@ 48 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb > pc > WaveLab 5.01b (fades, resample to 44.1kHz) > CD Wave v1.95 > FLAC v1.1.3 (Level 8)
+
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded January 9, 2007
+
+notes:
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+Big thanks to Dave Flaschner for letting me borrow the his DATs!
+
+Disc 1 - [66:09]
+Set I
+01 - [07:37] - My Soul
+02 - [13:19] - Ya Mar
+03 - [06:24] - Farmhouse
+04 - [01:54] - The Oh Kee Pa Ceremony >
+05 - [09:58] - AC/DC Bag
+06 - [06:39] - The Wedge
+07 - [07:27] - Vultures
+08 - [05:20] - I Didn't Know
+09 - [07:32] - Fast Enough For You
+
+Disc 2 - [56:10]
+Set I continued
+01 - [16:44] - David Bowie
+Set II
+02 - [13:21] - Ghost ->
+03 - [11:41] - Slave to the Traffic Light
+04 - [00:49] - The Horse >
+05 - [05:36] - Silent in the Morning >
+06 - [07:59] - What's the Use
+
+Disc 3 - [52:49]
+Set II continued
+01 - [08:48] - Wilson >
+02 - [09:22] - Mike's Song >
+03 - [05:16] - Sleeping Monkey >
+04 - [09:45] - Weekapaug Groove
+05 - [03:51] - encore break
+06 - [04:01] - Carini Had a Lumpy Head >
+07 - [06:36] - Meatstick Reprise
+08 - [03:14] - encore break 2
+09 - [01:56] - The Star Spangled Banner
+
+Show Notes: Fishman, introduced as "Flagina Fishman," took a vacuum solo during I Didn't 
+Know wearing only stars and stripes boxers. Slave included a What's the Use tease and an 
+instrumental Dark Star tease from Mike and Page. What's the Use subsequently debuted later 
+in the set. Silent included a Little Drummer Boy tease. After Carini, the band reprised 
+the chorus of Meatstick while part of the crew and a few fans did the Meatstick Dance. The 
+band performed the encore in stars and stripes outfits and, afterwards, the sky was filled 
+with fireworks. What's the Use debuted at this show, where Trey wore a Mia Hamm soccer 
+jersey. FEFY was played for the first time since July 16, 1998 (55 shows) and Star Spangled 
+Banner was played for the first time since December 2, 1997 (82 shows).

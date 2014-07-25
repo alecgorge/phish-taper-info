@@ -1,0 +1,42 @@
+Phish
+07/31/2013
+Stateline, Nevada  Lake Tahoe Harveys Outdoor Arena
+
+Source: Schoes mk21> KC5> M222> NT222> Aeta 4MinX (@24bit/48kHz)
+Location: FOB, DFC, 6' Stand
+
+Transfer: SDHC Card> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (08/01/2013)
+
+
+Set I
+t01 [00:31] Intro
+t02 [06:42] Chalk Dust Torture
+t03 [05:24] Camel Walk
+t04 [03:59] Sparkle
+t05 [08:09] Back on the Train
+t06 [07:53] It's Ice
+t07 [04:08] Brian and Robert
+t08 [06:25] Yarmouth Road
+t09 [08:34] Kill Devil Falls
+t10 [03:05] Lawn Boy
+t11 [10:21] Ocelot
+t12 [10:37] Stash
+
+Set II
+t13 [00:33] Intro
+t14 [36:16] Tweezer
+t15 [06:21] Tela >
+t16 [08:36] Twist >
+t17 [08:38] Architect
+t18 [03:36] Bouncing Around the Room >
+t19 [10:39] Run Like an Antelope
+t20 [01:34] crowd
+
+Encore
+t21 [07:23] Julius >
+t22 [03:41] Tweezer Reprise
+
+
+Notes:
+Set I [1:15:54] Set II [1:16:17] Encore [11:05]

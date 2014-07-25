@@ -1,0 +1,65 @@
+Phish
+07/31/2003
+Tweeter Center
+Camden, NJ
+
+AKG CK61/480* >>> Graham Patten DMIC-20@48k >>> Sony D-8
+
+*OTS/DIN/LOC/Front rail*
+
+Tascam DAP1 >>> Hosa ODL-276 >>> Nomad JB3 >>> Firewire >>> PC >>> Wavelab 4.0c(48>44.1k) >>> CD Wave >>> FLAC Frontend
+
+Taped, transferred, and tracked by Bean (diskobean@taperssection.com)
+
+2 SETS
+
+~d1: set 1~
+
+01. crowd
+02. Llama
+03. Moma Dance
+04. Divided Sky
+05. Dirt
+06. Seven Below
+07. The Sloth
+08. Water In The Sky
+09. Wolfman's Brother
+
+~d2: set 1(cont.)~
+
+01. Possum
+set 2:
+02. crowd
+03. Piper
+04. Mike's Song >
+05. I Am Hydrogen >
+06. Weekapaug Groove* >
+07. Free >
+08. Friday
+
+~d3: set 2(cont.)~
+
+01. Harry Hood
+02. E: Frankenstein
+
+* - with "In-A-Gadda-Da-Vida" tease
+
+ph2003-07-31.481.d1t01.flac:be23456381508cf64460f5a93cc1aeb7
+ph2003-07-31.481.d1t02.flac:f200bc22ff0560e47da7d81371c9f793
+ph2003-07-31.481.d1t03.flac:7e4fd7d7039a76ed5f1028475bbbbae3
+ph2003-07-31.481.d1t04.flac:bf8ce32ae8e719873183e56e62183824
+ph2003-07-31.481.d1t05.flac:a6e9c5bf8b1eeee3db1c1abd8bd5cc29
+ph2003-07-31.481.d1t06.flac:87bcb4b66d0f3b33e258573a0f037f0a
+ph2003-07-31.481.d1t07.flac:75edba0721a88bcb8435591d3c32489f
+ph2003-07-31.481.d1t08.flac:4ac00115353484e5a107b91c5ab221c7
+ph2003-07-31.481.d1t09.flac:95f624b1ccd721288d32108764283c76
+ph2003-07-31.481.d2t01.flac:d5de91ceaac880d749c70c206e9051ae
+ph2003-07-31.481.d2t02.flac:b8aa763a570e0936668980c7dab08b13
+ph2003-07-31.481.d2t03.flac:4a7a7984ef39ac41022137825e78fa0d
+ph2003-07-31.481.d2t04.flac:8bb7459f5f186b041288c099b254b4f9
+ph2003-07-31.481.d2t05.flac:cac005d6b62cffe5241256ff5f473897
+ph2003-07-31.481.d2t06.flac:eba22adcb79a495d985400f6ac3222b5
+ph2003-07-31.481.d2t07.flac:b702de2751b312f75dbad794e990e664
+ph2003-07-31.481.d2t08.flac:00438e6b14285a418c3aa87b982b0653
+ph2003-07-31.481.d3t01.flac:c5ac2fa6f0200d5ac29adf59382d6b8d
+ph2003-07-31.481.d3t02.flac:82a34e579fbb3982cc5b40e622d7ac8a

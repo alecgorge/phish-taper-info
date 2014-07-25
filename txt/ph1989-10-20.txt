@@ -1,0 +1,69 @@
+Phish - 10/20/1989
+The Front - Burlington, VT
+
+Set I
+	01	Harpua >			(01:34)
+	02	Bundle of Joy >			(01:51)
+	03	Col. Forbin's Ascent >		(06:28)
+	04	Fly Famous Mockingbird  	(06:26)
+	05	You Enjoy Myself 		(16:11)
+	06	Oh Kee Pa Ceremony 		(01:48)
+	07	Reba //				(12:21)
+	08	Divided Sky 			(11:48)
+	09	Golgi Apparatus	&		(04:09)
+	10	Run Like An Antelope #		(11:53)
+
+Set II
+	01	No Dogs Allowed	@		(03:50)
+	02	Walk Away 			(03:58)
+	03	Dinner and a Movie		(03:35)
+	04	I Didn't Know #			(07:50)
+	05	AC/DC Bag #			(06:15)
+	06	Donna Lee #			(06:29)
+	07	Split Open and Melt take 1#	(03:40)
+	08	Split Open and Melt take 2#%	(06:33)
+	09	Harry Hood #^			(10:27)
+	10	Sweet Chariot Jam #		(03:05)
+	11	In a Hole #			(06:06)
+Encore
+	12	La Grange			(05:53)
+	13	Slave to the Traffic Light #	(07:08)
+
+Notes:
+
+	// tape flip between peak and whistling
+	& tape flip cutting last couple minutes
+	# w/ Russ Remington and Dave Grippo
+	@ dedicated to Dave
+	% Trey decides to start it over
+	^ tape flip immediately following the peak of Hood
+
+Source:	SBD>Cass>DAT
+Xfer:	ARCHIVE Python>vDAT>WaveLab>CDWave> Flac/CDR
+
+Transferred, tracked and seeded by rusty@ontheflyrecording.com
+48KHZ Flacs have been archived.
+
+ph1989-10-20d2t08.flac:4f01ae48418f111734de47ee2042a1ee
+ph1989-10-20d1t02.flac:53c113df943113fc5a98986ecb73f94e
+ph1989-10-20d1t03.flac:f355a8e8c2ad1dc1e25037464412f349
+ph1989-10-20d1t04.flac:853a283ec83cb3415be1cbfc4deab191
+ph1989-10-20d1t05.flac:e293d3dfdc0c213beae9f521794d2a3f
+ph1989-10-20d1t06.flac:3f41a0a288ba9918aa27f4c9b5bd5193
+ph1989-10-20d1t07.flac:586b93a4fb7f257781effbefd59a8bb1
+ph1989-10-20d1t08.flac:0b63f0d53a4ac2675a3a49fea675bb12
+ph1989-10-20d1t09.flac:11d39203c2f2b3a58e2cd2c134ff9cd8
+ph1989-10-20d1t10.flac:1ef0626765cc9a0e69eeb2a71f2dae02
+ph1989-10-20d2t01.flac:a1743664e23d91a15ef8950dc1239a1d
+ph1989-10-20d2t02.flac:a2746b26f611aecc4582ef275d685989
+ph1989-10-20d2t03.flac:c52d6aa083a1d76da9d6757aef2654a8
+ph1989-10-20d2t04.flac:790e19c96edfc3823b6a8ea7e438fdd1
+ph1989-10-20d2t05.flac:1b7efe12d897b38b7496ae83f3e80326
+ph1989-10-20d2t06.flac:32249355d267c96b507a2b48f5c4ad03
+ph1989-10-20d2t07.flac:d35cfe809e4c8125bb7443324fd7e499
+ph1989-10-20d1t01.flac:bde8f0ada902387bf65e88568c25570e
+ph1989-10-20d2t09.flac:7951aeffd72d083a39aa24793d93de34
+ph1989-10-20d2t10.flac:f7d0ee57468893daa709ed80ca0c4259
+ph1989-10-20d2t11.flac:063e527509d502bbe2bac64c37604675
+ph1989-10-20d2t12.flac:6d3c0475ea9b5e325c3ed77a2c72eb10
+ph1989-10-20d2t13.flac:cdbb2531e0202cdd5b65d816087138c7

@@ -1,0 +1,62 @@
+Phish
+2011-09-14
+Champlain Valley Exposition Center
+Essex Junction, VT
+A Benefit For Vermont Flood Recovery
+
+Recorded and transferred by Andy Murray
+
+Mics were FOB 70' from stage DFC ORTF
+
+Schoeps MK22>KC5>CMC6>Sonosax SX-M2>Apogee Mini-me(aes out24bit/96khz)>COAX>Edirol R-44 
+
+SDHC Card>USB>Macbook Pro>Wave Editor(tracking,fades,resample(izotope)/dither(mbit+) to 16bit/44.1 khz)>XACT(FLAC 8,ffp,fix sbe)
+
+Big thanks to our crew of blockers
+
+2 Discs
+2 Sets
+
+Disc 1: 
+Set 1:
+
+01 Thank You Speech
+02 Intro
+03 Chalkdust Torture
+04 The Moma Dance >
+05 NICU
+06 Funky Bitch
+07 Sample In A Jar
+08 Cavern
+09 Bathtub Gin
+10 Alaska >
+11 Possum
+
+---cd split---
+
+12 Wolfman's Brother >
+13 Julius
+
+Disc 2:
+Set 2:
+
+01 Intro
+02 Carini >
+03 Down With Disease >
+04 Slave To The Traffic Light >
+05 Rock & Roll >
+06 Twist >
+07 Backwards Down The Number Line
+
+---cd split---
+
+08 Theme From The Bottom >
+09 Suzy Greenberg >
+10 Character Zero
+
+Encore:
+11 Loving Cup
+
+ph2011-09-14_mk22_1644_d1t01.flac:be1c06f4330c99b862825b9835118d8eph2011-09-14_mk22_1644_d1t02.flac:adf3f28fbcc5d268f9e1a2f5f2d81920ph2011-09-14_mk22_1644_d1t03.flac:117dc6def510b1fcaed429a68149eea1ph2011-09-14_mk22_1644_d1t04.flac:d092f7f10313a3292ed50ee78b95c572ph2011-09-14_mk22_1644_d1t05.flac:16ae89d4f143f82720256fc555d941c2ph2011-09-14_mk22_1644_d1t06.flac:63153a4bfe32515e432dd5d99bc410faph2011-09-14_mk22_1644_d1t07.flac:49d8e7db9f52ea5fa1a88e9b14a00bb7ph2011-09-14_mk22_1644_d1t08.flac:fcb6e5b01afcc893a2667d443e8f0662ph2011-09-14_mk22_1644_d1t09.flac:8b9210d5251f0ff56ba21ab4dc8149adph2011-09-14_mk22_1644_d1t10.flac:922db703a728ea19de4b1d2534079ef4ph2011-09-14_mk22_1644_d1t11.flac:451e555348b1deb10b1edda3cbe6f1a8ph2011-09-14_mk22_1644_d1t12.flac:b0c40f6da793a1774eb40d83464755daph2011-09-14_mk22_1644_d1t13.flac:81e52e9a9b69de197b19d29e0864edfaph2011-09-14_mk22_1644_d2t01.flac:b87fb75eef5e091e45946e1ef0506cf8ph2011-09-14_mk22_1644_d2t02.flac:d77fad99e4a2fdf74460e33fe0fb26deph2011-09-14_mk22_1644_d2t03.flac:bc88a1913b742571e63d2a9a8a8f9251ph2011-09-14_mk22_1644_d2t04.flac:3145855aabed7e8865410f09c1754ce6ph2011-09-14_mk22_1644_d2t05.flac:2cf1e102233a0a5da121bc6ef5d3c8adph2011-09-14_mk22_1644_d2t06.flac:8e39dccb937436449681f3225a2231f1ph2011-09-14_mk22_1644_d2t07.flac:09e7f6bee8a8bdac3b75f20ab0b8318cph2011-09-14_mk22_1644_d2t08.flac:afbc8bcd24cbb5c45d38a4e8e0d0adeaph2011-09-14_mk22_1644_d2t09.flac:43adc4b5aeab369639efaa059b0b76f0ph2011-09-14_mk22_1644_d2t10.flac:786a6bd424c61ba6b4de3c15a5b78b46ph2011-09-14_mk22_1644_d2t11.flac:f3c268d027c4f47e7abd5311929c4b36
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename     4:42.44       49848332 B   ---   --   -----  ph2011-09-14_mk22_1644_d1t01.wav     0:54.69        9687932 B   ---   --   -----  ph2011-09-14_mk22_1644_d1t02.wav     7:06.24       75202892 B   ---   --   -----  ph2011-09-14_mk22_1644_d1t03.wav     7:07.08       75341660 B   ---   --   -----  ph2011-09-14_mk22_1644_d1t04.wav     5:02.16       53310476 B   ---   --   -----  ph2011-09-14_mk22_1644_d1t05.wav     6:15.35       66232364 B   ---   --   -----  ph2011-09-14_mk22_1644_d1t06.wav     5:42.68       60488780 B   ---   --   -----  ph2011-09-14_mk22_1644_d1t07.wav     4:20.50       45981644 B   ---   --   -----  ph2011-09-14_mk22_1644_d1t08.wav    13:00.23      137646140 B   ---   --   -----  ph2011-09-14_mk22_1644_d1t09.wav     8:32.14       90349772 B   ---   --   -----  ph2011-09-14_mk22_1644_d1t10.wav     8:33.12       90521468 B   ---   --   -----  ph2011-09-14_mk22_1644_d1t11.wav    11:12.69      118703132 B   ---   --   -----  ph2011-09-14_mk22_1644_d1t12.wav    11:49.68      125227580 B   ---   --   -----  ph2011-09-14_mk22_1644_d1t13.wav     0:48.27        8530748 B   ---   --   -----  ph2011-09-14_mk22_1644_d2t01.wav    10:54.09      115386812 B   ---   --   -----  ph2011-09-14_mk22_1644_d2t02.wav    12:30.12      132328268 B   ---   --   -----  ph2011-09-14_mk22_1644_d2t03.wav    10:07.03      107081900 B   ---   --   -----  ph2011-09-14_mk22_1644_d2t04.wav     7:35.60       80403164 B   ---   --   -----  ph2011-09-14_mk22_1644_d2t05.wav     6:56.25       73441244 B   ---   --   -----  ph2011-09-14_mk22_1644_d2t06.wav     8:10.14       86468972 B   ---   --   -----  ph2011-09-14_mk22_1644_d2t07.wav     7:44.16       81887276 B   ---   --   -----  ph2011-09-14_mk22_1644_d2t08.wav     6:19.00       66855644 B   ---   --   -----  ph2011-09-14_mk22_1644_d2t09.wav    10:36.69      112352732 B   ---   --   -----  ph2011-09-14_mk22_1644_d2t10.wav     7:23.45       78251084 B   ---   --   -----  ph2011-09-14_mk22_1644_d2t11.wav   183:26.30     1941530016 B                            1.0000  (24 files)

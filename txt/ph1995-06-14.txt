@@ -1,0 +1,47 @@
+Phish
+6-14-95
+Mud Island Amphitheater
+Memphis, TN
+
+Source: Neumann RMS 190i (no other source info given)
+
+Transfer: DA-20->Delta Dio 2496->Soundforge 6.0 (resampled 48>44.1 on highest accuracy setting w/anti alias filter)->CDWAV->shntool->shn
+Transfer by: Brandon Johnston -- http://db.etree.org/bisq
+
+
+Disc 1: 
+-Set I-
+1.Intro (stairway to heaven tease)
+2.Don't You Wanna Go
+3.Gumbo
+4.NICU
+5.Mound
+6.Cavern
+7.Possum
+8.All Things Reconsidered
+9.Amazing Grace
+10.The Horse >
+11.Silent in the Morning
+12.Spock's Brain
+13.Split Open and Melt
+
+Disc 2:
+-Set II-
+1.Also Sprach Zarathustra >
+2.Poor Heart >
+3.Tweezer
+4.Acoustic Army
+5.While My Guitar Gently Weeps
+6.E:Simple
+7.Rocky Top >
+8.Tweezer Reprise
+
+Show Notes: The highlight of this show was a massive, long (almost 50 minutes!), jammed out 
+Tweezer that included a brief Gypsy Queen jam, an Also Sprach tease, a Slave-like jam, and a 
+Digital Delay Loop Jam with whistling. Simple was performed with an a cappella ending instead 
+of a jam, akin to the ALO version from December 8, 1994. Amazing Grace was performed without 
+microphones. Listen for a Stairway to Heaven tease at the start of the first set.
+
+Tech Notes:  Fades were added in soundforge 6.0 . I used a really quick fade at the beginning of set II because the music cut in immediately on my dat and I wanted to preserve as much as possible. There was also crowd noise missing between the second set and encore on my dat so I left it as is.
+
+Amazing Grace is performed without amplification so it is barely audible on the DAT.

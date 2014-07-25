@@ -1,0 +1,41 @@
+Phish 
+10/13/95
+Will Rogers Auditorium
+Fort Worth, TX
+
+Source:  Tascam PE-125 > DA-P1 > DAT  (Bill Shaw's Rig)
+Transfer:  (Jeff Ishaq jishaq@earthlink.net) Fostex D5 > WaveTerminal 2496 > CDRWin > SHN
+Seed from:  Barton Hodges 
+
+Disc 1: [61:26]
+Set I:
+1.  [08:33] Ya Mar
+2.  [03:28] Also Sprach Zarathustra 
+3.  [11:21] Maze
+4.  [06:27] Billy Breathes
+5.  [02:52] I'm Blue I'm Lonesome *
+6.  [02:52] Prince Caspian
+7.  [11:07] Split Open and Melt
+8.  [14:45] Fluffhead
+9.  [03:45] Life On Mars? **
+Set II:
+10. [00:33] Crowd Noise
+11. [03:46] Tube
+
+Disc 2: [76:19, tracked for an 80-minute CDR]
+1.  [04:18] Uncle Penn
+2.  [12:10] Theme From The Bottom >
+3.  [05:49] Wilson ->
+4.  [13:10] Run Like an Antelope ->
+5.  [04:10] Keyboard Army
+6.  [10:28] Lizards
+7.  [06:20] While My Guitar Gently Weeps
+8.  [02:06] Sweet Adeline *
+9.  [12:18] The Squirming Coil
+Encore:
+10. [05:30] Bold as Love
+
+*: Unplugged and a capella, barely discernable
+**: First time played
+
+d2t06: 00:08-00:09, background noise might be confused for a DAE skip -- it's not!

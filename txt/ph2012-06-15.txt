@@ -1,0 +1,45 @@
+Phish
+06/15/2012
+Atlantic City, New Jersey  Bader Field
+
+Source: Schoeps m934c> M221B> PS> Aeta PSP-3> SD 722 (@24bit/96kHz)
+Location: FOB, DFC, DIN, 6' Stand, m934c/cardioid
+
+Transfer: SD 722> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (06/16/2012)
+
+
+Set I
+t01 [04:14] The Sloth
+t02 [02:09] My Sweet One >
+t03 [07:23] 46 Days >
+t04 [05:44] Camel Walk
+t05 [06:32] Tube >
+t06 [05:49] Cities >
+t07 [07:46] It's Ice
+t08 [03:28] Ginseng Sullivan
+t09 [12:04] Stash
+t10 [07:20] Simple >
+t11 [07:09] The Wedge
+t12 [08:42] Stealing Time from the Faulty Plan
+t13 [09:47] The Squirming Coil
+
+Set II
+t14 [06:38] My Soul
+t15 [14:38] Birds of a Feather >
+t16 [05:24] Back on the Train >
+t17 [07:33] Heavy Things >
+t18 [09:56] Twist >
+t19 [12:14] Piper >
+t20 [08:05] Billy Breathes
+t21 [07:56] Sneakin' Sally Through the Alley >
+t22 [11:33] Davide Bowie
+t23 [02:31] crowd
+
+Encore
+t24 [07:13] First Tube
+
+
+Notes:
+Billy Breathes, last played 6/18/2010 (85 shows)
+Set I [1:28:15] Set II [1:26:28] Encore [7:13]

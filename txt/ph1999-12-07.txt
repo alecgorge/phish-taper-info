@@ -1,0 +1,51 @@
+Phish
+December 7, 1999
+Cumberland County Civic Center
+Portland, ME
+
+source:
+(FOB) Schoeps mk4 > kc5 > cmc6 > Sonosax SX-M2 > Sony D-100 (@48kHz)
+
+transfer:
+Sony D8 > M-Audio MicroTrack > CF Card > WaveLab 5.01b (fades, resample to 44.1kHz) > CD Wave v1.94.5 > FLAC (level 8)
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded 10/22/05
+
+notes:
+48kHz FLAC files of the original DAT transfer have been archived, and are available upon request
+
+Disc 1 - [77:16]
+Set I
+01 - [05:48] - Farmhouse
+02 - [08:25] - First Tube
+03 - [05:07] - NICU >
+04 - [07:53] - Funky Bitch >
+05 - [08:58] - Punch You in the Eye
+06 - [04:19] - Nellie Kane
+07 - [27:57] - Halley's Comet >
+08 - [08:50] - The Squirming Coil
+
+Disc 2 - [58:54]
+Set II
+01 - [13:19] - Wolfman's Brother
+02 - [06:28] - Jennifer Dances
+03 - [05:49] - Heavy Things
+04 - [08:13] - Bug
+05 - [16:48] - Bathtub Gin ->
+06 - [08:16] - Simple
+
+Disc 3 - [26:04]
+Set II continued
+01 - [09:29] - Free
+02 - [07:01] - Suzie Greenberg
+03 - [03:04] - encore break
+04 - [03:43] - Walk Away
+05 - [02:48] - Rocky Top
+
+NOTES:
+brief static 6 seconds into Funky Bitch
+sorry about the short disc 3.  Set II and encore are 85 minutes.
+Even if you take out the crowd noise between Set II and encore, you're at 82 minutes.
+It had to be split somewhere.

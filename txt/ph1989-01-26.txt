@@ -1,0 +1,28 @@
+Phish
+January 26, 1989
+The Paradise
+Boston, MA
+
+Source: SBD > ?(will assume 1 cassette gen) > CDR > EAC > .SHN > Mastering > FLAC16
+Mastering, FLAC16 by Marmar- imthemarmar@gmail.com
+
+Thanks to Alec Swensen for the source SHN's!
+
+SET I:
+01. I Didn't Know
+02. Golgi Apparatus
+03. Alumni Blues > Letter to Jimmy Page > Alumni Blues
+04. You Enjoy Myself
+05. The Lizards/
+06. /Take the 'A' Train
+07. Sanity
+08. Divided Sky
+09. Fee
+10. Good Times Bad Times
+
+- Fishman on trombone for I Didn't Know
+- A-Train has Flintstone Theme tease
+- Fast version of Sanity
+
+**NOTES**
+There was a tape flip between Lizards and A-Train...the start of A-Train was cut, so the files were crossfaded. There is a short pause at the start of The Lizards. The levels were adjusted by using the L3 MultiMaximizer and to also limit sub-bands to squeeze the most db's out of the recording without introducing distortion.

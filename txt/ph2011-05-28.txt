@@ -1,0 +1,41 @@
+Phish
+05/28/2011
+Bethel, New York  Bethel Woods Center for the Arts
+
+Source: Schoeps mk4v> KC5> M222> NT222> Aeta PSP-3> SD 744t (@24bit/96kHz)
+Location: Section 100, Row H, Seat 16, DFC, DIN, 7' Stand
+
+Transfer: SD 744t> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (05/29/2011)
+
+
+Set I
+t01 [01:03] Intro
+t02 [08:56] Theme From the Bottom
+t03 [05:25] NICU
+t04 [09:00] Cities
+t05 [11:59] Halley's Comet>
+t06 [08:43] Runaway Jim
+t07 [04:37] Gumbo>
+t08 [06:13] Quinn The Eskimo>
+t09 [08:20] Limb by Limb
+t10 [03:57] Horn
+t11 [14:45] Bathtub Gin
+
+Set II
+t12 [15:42] Down with Disease>
+t13 [07:14] Free>
+t14 [12:09] Backwards Down the Number Line>
+t15 [07:34] Makisupa Policeman>
+t16 [12:37] Harry Hood>
+t17 [04:31] Cavern>
+t18 [12:25] David Bowie
+t19 [02:22] crowd
+
+Encore
+t20 [05:08] A Day in the Life
+
+
+Notes:
+Thanks to Jason Lonchar for the Schoeps tubes
+Set I [1:23:04] Set II [1:14:38] Encore [5:08]

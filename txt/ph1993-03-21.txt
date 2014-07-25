@@ -1,0 +1,117 @@
+Phish
+March 21, 1993
+Ventura Theatre - Ventura, CA
+
+Source: Nakamichi CM300/CP4 > Sony D3 @ 48kHz
+
+Transfer: Sony PCM-R500 > Delta Di0 2496 > Soundforge 8 (48>44.1 resampling on highest accuracy setting w/anti alias filter)> CDwav > FLAC v1.7.1 
+48kHz FLACs are available for archival purposes.
+Transferred, Encoded, and Seeded by Matt Edlhuber <medlhuber@hotmail.com>
+
+Thanks to Bill Shaw for the tapes!
+
+Set I
+Disc 1
+01. Maze
+02. Sparkle
+03. The Sloth
+04. Divided Sky
+05. Esther
+06. All Things Reconsidered
+07. Split Open & Melt
+08. Poor Heart
+09. Punch You In the Eye
+10. Lawn Boy
+
+Disc 2
+01. Possum
+Set II
+02. Loving Cup
+03. My Friend My Friend
+04. Rift-> 
+05. Tweezer->
+06. Ya Mar->
+07. You Enjoy Myself
+
+Disc 3
+01. My Sweet One
+02. Big Ball Jam
+03. Hold Your Head Up->
+04. Cracklin' Rosie->
+05. Hold Your Head Up
+06. Llama
+07. Harry Hood
+08. Cavern
+
+Encore
+09. Sleeping Monkey
+10. Sweet Adeline
+11. Tweezer Reprise
+
+Notes: 
+-Show starts right into Maze intro.  
+-PA problems during YEM (about 1-2 min).
+-Cut between Set2 & Encore.
+
+
+Shntool Output:
+    length     expanded size   cdr  WAVE problems filename
+     9:45.50      103311644    ---   --   ---xx   ph1993-03-21d1t01.flac
+     3:53.41       41197676    ---   --   ---xx   ph1993-03-21d1t02.flac
+     3:44.46       39621836    ---   --   ---xx   ph1993-03-21d1t03.flac
+    14:37.60      154843964    ---   --   ---xx   ph1993-03-21d1t04.flac
+     9:41.31      102561356    ---   --   ---xx   ph1993-03-21d1t05.flac
+     2:55.17       30910028    ---   --   ---xx   ph1993-03-21d1t06.flac
+    13:08.32      139078508    ---   --   ---xx   ph1993-03-21d1t07.flac
+     2:30.03       26467100    ---   --   ---xx   ph1993-03-21d1t08.flac
+     7:53.68       83597180    ---   --   ---xx   ph1993-03-21d1t09.flac
+     2:39.20       28094684    ---   --   ---xx   ph1993-03-21d1t10.flac
+    11:16.14      119279372    ---   --   ---xx   ph1993-03-21d2t01.flac
+     6:37.00       70030844    ---   --   ---xx   ph1993-03-21d2t02.flac
+     7:28.52       79149548    ---   --   ---xx   ph1993-03-21d2t03.flac
+     6:01.27       63743948    ---   --   ---xx   ph1993-03-21d2t04.flac
+    11:37.61      123094316    ---   --   ---xx   ph1993-03-21d2t05.flac
+     6:55.15       73241324    ---   --   ---xx   ph1993-03-21d2t06.flac
+    22:00.07      232864508    ---   --   ---xx   ph1993-03-21d2t07.flac
+     2:09.57       22889708    ---   --   ---xx   ph1993-03-21d3t01.flac
+     2:31.61       26779916    ---   --   ---xx   ph1993-03-21d3t02.flac
+     1:45.73       18693740    ---   --   ---xx   ph1993-03-21d3t03.flac
+     2:54.62       30839468    ---   --   ---xx   ph1993-03-21d3t04.flac
+     1:36.43       17035580    ---   --   ---xx   ph1993-03-21d3t05.flac
+     4:54.21       51911036    ---   --   ---xx   ph1993-03-21d3t06.flac
+    13:20.01      141122396    ---   --   ---xx   ph1993-03-21d3t07.flac
+     4:38.60       49180364    ---   --   ---xx   ph1993-03-21d3t08.flac
+     6:38.57       70341308    ---   --   ---xx   ph1993-03-21d3t09.flac
+     1:38.68       17447180    ---   --   ---xx   ph1993-03-21d3t10.flac
+     2:56.72       31215788    ---   --   ---xx   ph1993-03-21d3t11.flac
+   187:52.69     1988544320 B                     (totals for 28 files, 0.5830 overall compression ratio)
+
+Flac Fingerprint:
+ph1993-03-21d1t01.flac:35664cd3efe0f52fe899f3cd7b5abd20
+ph1993-03-21d1t02.flac:c09a3dce893beec6ba5d37c451b8908b
+ph1993-03-21d1t03.flac:9734cc8d707ac399b98fdd35c697cdff
+ph1993-03-21d1t04.flac:e0f51c2e485916125b5d9d7087a992cb
+ph1993-03-21d1t05.flac:20ce19334753028434ac192fc21c0a6c
+ph1993-03-21d1t06.flac:144da37efd4949f06c9396093692d29c
+ph1993-03-21d1t07.flac:87273f1bbcc82b154a5ddb6fa8695d1b
+ph1993-03-21d1t08.flac:5a827c202363d49d14b9b5620cb3c24c
+ph1993-03-21d1t09.flac:32d07474f07587bce49ef3cf85f603b3
+ph1993-03-21d1t10.flac:d8c63ae212ec4c0bbffcc823f2bef774
+ph1993-03-21d2t01.flac:7708f81cb3cedbcefde4b8c63dcac1d0
+ph1993-03-21d2t02.flac:66191f190676eb262700ec1877222422
+ph1993-03-21d2t03.flac:e20b10140d3fa65cb33f03fa70e91ceb
+ph1993-03-21d2t04.flac:91d2c669f53fb2f171ae97c2a1965a10
+ph1993-03-21d2t05.flac:1512746f2c4ff0f7ce43b1bd94e6543d
+ph1993-03-21d2t06.flac:193b4c7b2e7c2a9db786096dce8f49b7
+ph1993-03-21d2t07.flac:1322765083e04594579cea5d52559f25
+ph1993-03-21d3t01.flac:f2aea69b62f95cabcc060268d1899229
+ph1993-03-21d3t02.flac:bb64684415945bb4b4dd30db8d46919a
+ph1993-03-21d3t03.flac:7a73e2f01b47e7f9c12902d7c9389161
+ph1993-03-21d3t04.flac:1f00d7da3f5d1343d3646f20412da87a
+ph1993-03-21d3t05.flac:ec07e37c10fb08534785844db2a38d2d
+ph1993-03-21d3t06.flac:aff76c41058a779384c37785ae91675b
+ph1993-03-21d3t07.flac:6d15deeb2afe0a34fe0e906f07cc19d5
+ph1993-03-21d3t08.flac:a0c38d3d7399aefdc85987de5c808c08
+ph1993-03-21d3t09.flac:dbbb638685c5fd40bddb537330879010
+ph1993-03-21d3t10.flac:6d1899af4251b57b8c5628d86a1354da
+ph1993-03-21d3t11.flac:5fd03462947cce7a9ab2910a1837cf84

@@ -1,0 +1,63 @@
+Phish
+November 29, 1997
+Worcester Centrum
+Worcester, MA
+
+source:
+(FOB) Neuman km184 > Beyer MV-100 > Tascam DA-P1 > Teac DAP-20 (@ 48 kHz)
+
+transfer:
+Sony PCM-R500 > M-Audio MicroTrack > CF Card > usb > pc > WaveLab 5.01b (fades, resample to 44.1kHz, edits) > CD Wave v1.94.7 > FLAC v1.1.2 (Level 8)
+
+recorded by  Felix Delguisemo (sp?)
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded February 18, 2006
+
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request
+
+Disc 1 - [78:43]
+Set I
+01 - [07:06] - The Wedge
+02 - [11:44] - Foam
+03 - [10:46] - Simple >
+04 - [04:19] - TMWSIY ->
+05 - [03:14] - Avenu Malenu ->
+06 - [01:37] - TMWSIY
+07 - [03:53] - The Sloth
+08 - [03:52] - Ginseng Sullivan
+09 - [05:35] - Saw It Again
+10 - [04:19] - Horn
+11 - [03:02] - Water in the Sky
+12 - [19:15] - David Bowie
+
+Disc 2 - [62:22]
+Set II
+01 - [00:30] - intro
+02 - [58:49] - Runaway Jim * ->
+03 - [03:03] - Strange Design ->
+
+Disc 3 - [51:55]
+Set II continued
+01 - [16:31] - Harry Hood
+02 - [10:16] - Prince Caspian
+03 - [07:16] - Suzy Greenberg
+04 - [03:11] - encore break
+05 - [01:46] - encore intro
+06 - [03:05] - Buffalo Bill ->
+07 - [02:39] - Moby Dick ->
+08 - [07:11] - Fire
+
+* with a "Weekapaug Groove" jam
+
+
+edit notes:
+For the first song of each set, the start of the set was not on the DAT tapes.
+I patched the start of each set with the following source:
+Neumann u87 (cardiod) > Sonosax SX-M2 > Tascam DA-P1 (@ 48 kHz)
+The patch source was used for:
+- the first 54 seconds of "The Wedge"
+- the "intro" track for Set II
+- the first 12 seconds of "Runaway Jim"
+
+additional edits include:
+lowered volume of loud scream during the "encore break" track, 4 seconds into the track

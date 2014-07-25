@@ -1,0 +1,73 @@
+Phish 
+7-5-1994 
+Congress Centre, Ottawa, ON, Canada
+
+Source: AKG461>Oade Custom Pre-Amp>DAT @48khz (taped by Kevin Shapiro)
+	Rift was cut on the DAT master, and I have patched in the DSBD source of the track.
+	No other DSBD tracks of this show are known to circulate.
+
+Transfer: Sony D8>Coax Cable>MAudio Dio 24/48 Soundcard> CDWav> Cool Edit (48>44.1)> FLAC
+Transfer by Blane Harvey (blane_at_canada.com)
+
+Disc 1 - Set I
+
+1. Rift
+2. Sample in a Jar
+3. The Curtain-> 
+4. Letter to Jimmy Page 
+5. If I Could
+6. Uncle Pen
+7. Stash
+8. Esther
+9. Down With Disease
+10. Sweet Adeline*
+
+Disc 2 - Set II
+
+1. Punch You in the Eye-> 
+2. Sparkle->
+3. Bathtub Gin-> 
+4. Lifeboy
+5. Cities 
+6. You Enjoy Myself->
+7. Great Gig in the Sky > HYHU
+
+Disc 3 - Set II cont.
+
+1. Ginseng Sullivan*
+2. My Sweet One*
+3. Amazing Grace**
+4. Golgi Apparatus
+5. Good Times Bad Times
+
+*Acoustic and without mics. **A cappela and without mics.
+
+
+Great show full of rarities and very nice sound.  Enjoy!
+
+Blane
+
+
+FINGERPRINT:
+ph1994-07-05d1t01.flac:50f594d1207294b4514168c1f7c61ed9
+ph1994-07-05d1t02.flac:9b8af9a3e7e9433c290f5c17b21dc7b7
+ph1994-07-05d1t03.flac:340604168bfd6e5167f451921e24e28d
+ph1994-07-05d1t04.flac:46677bc733fd2401c317a8636938ea77
+ph1994-07-05d1t05.flac:419a7e7dc055bcc0579ce6fd4768cbb2
+ph1994-07-05d1t06.flac:c88d5509e8b377e07f9ffbd485dc4ac9
+ph1994-07-05d1t07.flac:4eaa19a959847e2a9dfdea8e30240bb9
+ph1994-07-05d1t08.flac:6bb1aae27801e5134e826f761412daeb
+ph1994-07-05d1t09.flac:4e52f99f77946d8e811217f7f54c1b99
+ph1994-07-05d1t10.flac:6ea49e6c69dffad92c81ed5ec7531b8f
+ph1994-07-05d2t01.flac:2e2f137b098b1dc62c6c1404f73da62b
+ph1994-07-05d2t02.flac:5ea4723ad64978a5861c803d9afbb95b
+ph1994-07-05d2t03.flac:1c008fa5118d11dff178613348ba7374
+ph1994-07-05d2t04.flac:4a04aa5c412d7c3eca085fddce9d8767
+ph1994-07-05d2t05.flac:95091f88e711b92aff070b477323a96f
+ph1994-07-05d2t06.flac:ca0c155c5b4892c271ccfa172b87eb7d
+ph1994-07-05d2t07.flac:c95fd236dc70d9c1adacb7ed179f892c
+ph1994-07-05d3t01.flac:9c2bf345143d1e68d5298dba64de7f79
+ph1994-07-05d3t02.flac:f7ccac80829f3b38a05bd84fd5a257c5
+ph1994-07-05d3t03.flac:b3de532337a5c7009eaa9a0d3efa6030
+ph1994-07-05d3t04.flac:2e0a63472f88f18eb0a9c6678d42323e
+ph1994-07-05d3t05.flac:5266ed43192ed16a411489a083ef2e49

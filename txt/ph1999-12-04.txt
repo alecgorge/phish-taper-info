@@ -1,0 +1,56 @@
+phish
+firstar center
+cincinnati, oh
+1999-12-04
+
+set 1 (~58 min.)
+
+disc 1
+01-crowd, 
+02-Heavy Things, 
+03-Simple > 
+04-Ya Mar, 
+05-Guyute, 
+06-Tweezer > 
+07-Dirt, 
+08-Loving Cup
+
+encore tracked at end of set 1
+E: 
+09-crowd, 
+10-Julius > 
+11-Tweezer Reprise
+
+set 2 (~90 min.)
+
+disc 2
+01-Down With Disease > 
+02-Split Open & Melt, 
+03-Moma Dance > 
+04-Farmhouse, 
+05-TMWSIY > Avenu Malkanu > TMWSIY, 
+06-When the Circus Comes, 
+07-David Bowie,
+
+source: akg460b/ck61>V2>SBM1>D8, by JK
+transfer: DAT(1)>cd(1)>eac>cdwave>flac, by john m 2007-09-25
+
+fingerprint:
+phish1999-12-04d1t01.flac:c2bafc51fa2826d6760bed7ce6990340
+phish1999-12-04d1t02.flac:2e897ef3f1b63f343b236e6fea3074b7
+phish1999-12-04d1t03.flac:4eaec7f954be55d279d2555c756d7703
+phish1999-12-04d1t04.flac:95ab9b59616ea0e27ae5919ce7e18431
+phish1999-12-04d1t05.flac:8086684c6847a3a23bb65b2934af86b5
+phish1999-12-04d1t06.flac:30aa3ecc57a968bceb8395448b5ada74
+phish1999-12-04d1t07.flac:3f2b9a5bade18447646c89a5cb1bd175
+phish1999-12-04d1t08.flac:cc57b76137f92e5f78d7f1a898b05c1c
+phish1999-12-04d1t09enc..flac:3918f53bddb6e9a5373826368cda02bc
+phish1999-12-04d1t10enc..flac:f8c5ac2b2c4641f1dd2c465007af244a
+phish1999-12-04d1t11enc..flac:0c658965a732026160141fb770a0f55f
+phish1999-12-04d2t01.flac:5cb81e2a8ad3f2a0ebad9832b4d47514
+phish1999-12-04d2t02.flac:6ac6dff0734ddedc673c71d1a88a0b4d
+phish1999-12-04d2t03.flac:44eda8a0e70b985a9ee5a26ad6a74c3a
+phish1999-12-04d2t04.flac:5171bcc6d485efe7f3e9c8a345ed5a38
+phish1999-12-04d2t05.flac:9ba587dee365ee6e1b4dcd6982d13cda
+phish1999-12-04d2t06.flac:01166af6ccba7523ea8cd1f7e6b1d017
+phish1999-12-04d2t07.flac:2056b13de6406116b287bd8752674b2a

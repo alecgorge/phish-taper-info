@@ -1,0 +1,50 @@
+PHiSH 
+9-28-1990
+The Chance 
+Poughkeepsie, NY
+
+Source:
+AUD > D5 (Cass/0) > Apogee AD1000 > DAT > CDR 
+CD > EAC[secure] > WAV > FLAC16
+
+Disc 1 [56:14]
+::set 1::
+01 The Landlady				[04:11]			
+02 Bouncing Around the Room		[03:57]
+03 The Oh Kee Pa Ceremony >		[01:48]
+04 Suzy Greenberg			[05:42]
+05 Stash				[09:12]
+06 My Sweet One				[02:36]
+07 The Squirming Coil > 		[06:15]
+08 Lizards//				[10:02]
+09 //The Asse Festival			[01:58]
+10 Run Like an Antelope			[10:33]
+
+Disc 2 [61:09]
+::set 2::
+01 AC/DC Bag >				[06:08]
+02 Esther				[08:46]
+03 Gumbo*				[05:02]		
+04 Dinner and a Movie			[03:40]
+05 You Enjoy Myself			[17:11]
+06 The Divided Sky			[12:59]
+::encore::
+07 Black and Tan Fantasy** 		[03:22]
+08 Paul and Silas			[04:01]
+
+* first time played
+** wipeout tease...has a small cut near the start
+
+
+~Mastering~
+Leveler (-3db linked) > Waves RBass @ 40Hz +7db > Waves 10 band Paragraphic EQ -5db @ 5225kHz/Q7 > BBE 0/4.5/0 > Waves Linear MultiBand Compressor (set for Adaptive Multi-Electro Mastering) > Waves S1-Imager -.75 width > Waves L2 -1.5 threshold/-0.1 out ceiling/16bit/Mode1/Normal
+
+*NOTES*
+There was a tape flip between Lizards and The Asse Festival that I crossfaded. In YEM, there were about 100 spots of diginoise that I edited by redrawing the offending samples with the pencil tool in Wavelab, they no longer exist. The Divided Sky ends abruptly, this was faded out. The filler disc was not mastered.
+
+CD > FLAC16 transfer and re-tracking by mbalch- http://db.etree.org/car
+Editing, mastering, re-tracking, FLAC done by Marmar- imthemarmar@stny.rr.com
+
+Seeded by the SHNfamily Phish Project 6/04
+http://db.etree.org/SHNfamily
+http://www.SHNshare.org

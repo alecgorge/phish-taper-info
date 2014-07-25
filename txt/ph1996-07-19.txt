@@ -1,0 +1,20 @@
+PHiSH - 7/19/96
+Les Arenes, Arles, France
+
+source: AKG 414 > DA-P1
+transfer: Casio DA-R100 > M-Audio 24/96 via Coax SPDIF > Wavelab (fades, normalize, sample rate conversion) > CD-WAV > SHNv3
+
+transfer by shakedown@furthurnet.org on 12/18/2003
+
+DISC ONE
+set I:
+01. Runaway Jim
+02. Foam
+03. Sweet Adeline
+04. Waste
+05. Chalkdust Torture
+06. The Squirming Coil
+
+Show Notes:
+Phish opened for Santana
+Listen for Page's "charge" riff right before Waste.

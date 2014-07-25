@@ -1,0 +1,69 @@
+Phish
+April 9, 1994
+Broome County Arena
+Binghamton, NY
+
+SET I source:
+(FOB) AKG 460B/ck61 > custom pre-amp > Teac DA-P20 (@ 48kHz)
+recorded FOB on stand
+
+transfer:
+Sony PCM-R500 > Tascam HD-P2 > CF Card > usb > pc > WaveLab 5.01b (de-emphasis, fades, resample to 44.1kHz) > CD Wave v1.94.7 > FLAC v1.1.2 (Level 8)
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded May 9, 2006
+
+notes:
+The master DAT was used in this transfer, thanks Dave!
+The original DAT recording was made with pre-emphasis. The Waves 5.0 Paragraphic EQ plug-in was used to de-emphasize the recording.
+The 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+
+-------------------------------------------------------------------------------------
+
+SET II+E SOURCE: SBD > Cass/x > DAT(44.1 Khz) 
+ 
+Patched from 46:40 > 47:46 with 
+audiance source: AKG460b-FOB
+
+CONVERSION: CTD8000H-S > DAT2WAV > WAVELAB 3.3 >
+CD Wave (track splits) > SHN 
+
+
+Disc 1 - [63:49]
+Set I
+01 - [04:21] - Magilla
+02 - [05:55] - Wilson
+03 - [06:05] - Rift
+04 - [09:09] - Bathtub Gin
+05 - [03:05] - Nellie Kane
+06 - [07:03] - Julius
+07 - [05:18] - Fee ->
+08 - [03:06] - All Things Reconsidered
+09 - [10:41] - Stash
+10 - [09:07] - The Squirming Coil
+
+Set 2:
+01. Sample in a Jar
+02. Reba
+03. Peaches en Regalia-> 
+04. Big Ball Jam
+05. Demand*
+06. Mike's Song-> 
+07. I Am Hydrogen-> 
+08. Weekapaug Groove
+09. Tela-> 
+10. Slave to the Traffic Light
+11. Cavern 
+Encore:
+12. Amazing Grace
+13. Highway to Hell 
+
+*-First time played
+
+
+show notes:
+This show marked the first performance of Demand.
+This non-standard, free-form Weekapaug included quotes from The Little Drummer Boy, Divided Sky, and Dave's Energy Guide.
+Little Drummer Boy was also teased during the end of Peaches and the ensuing Big Ball Jam.
+Highway to Hell was jokingly dedicated to some fans in the front row, who were chanting for AC/DC Bag and not an AC/DC song.

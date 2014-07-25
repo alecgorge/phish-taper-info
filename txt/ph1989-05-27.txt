@@ -1,0 +1,73 @@
+Phish
+05-27-1989
+Alpha Delta Phi Fraternity, Trinity College, West Hartford, CT
+
+
+Source: SBD? > Cass/x
+
+Transfer: CDR > EAC > FLAC
+
+The sound on this isn't great, basically for historic purposes until hopefully a better source surfaces.
+
+
+Disc One:
+
+ Set I:
+01. AC/DC Bag			5:14
+02. Mike's Song > 		5:58
+03. I Am Hydrogen >		2:15
+04. Weekapaug Groove		7:03
+05. Funky Bitch			6:00
+06. Fee				5:10
+07. You Enjoy Myself *		13:27
+08. Take the 'A' Train		7:05
+09. Fluffhead			14:13
+10. Bathtub Gin			7:07
+11. Good Times Bad Times	5:24
+
+* Tape flip, pretty harsh flip right in the middle of Trey's jam
+
+
+Show Notes: Setlist Incomplete
+
+
+ffp:
+ph89-05-27d1t06.flac:9fc47a4f1b383ab96b5c2afd4c3c580e
+ph89-05-27d1t07.flac:8f5b8af88ad79fbfc25a3d64c3919357
+ph89-05-27d1t08.flac:dcbd58f6dfec202f628afc3756f7ff73
+ph89-05-27d1t09.flac:ef3a8909db56035bf01b2575a3435198
+ph89-05-27d1t10.flac:2fbbc866144e821271d25ac03c712b96
+ph89-05-27d1t11.flac:770dd77a7deebfe70b50c6f43d721a22
+ph89-05-27d1t01.flac:67d9ff4fa3415d027dea3f4d3014e6a5
+ph89-05-27d1t02.flac:7ddb40e3e2263745ca8fb6b5f1997b4a
+ph89-05-27d1t03.flac:dcd2c8de862c35730e5b3ea854f537c4
+ph89-05-27d1t04.flac:939af402473eeee776ac1d57245f24f9
+ph89-05-27d1t05.flac:852de6cf0d5adabe1608d38b96cbcebf
+
+
+M:\>shntool len c:\shows\ph1989-05-27.flac\*.wav
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     5:14.20       55436684 B   ---   --   -----    wav  1.0000  c:\shows\ph1989
+-05-27.flac\ph89-05-27d1t01.wav
+     5:58.42       63250028 B   ---   --   -----    wav  1.0000  c:\shows\ph1989
+-05-27.flac\ph89-05-27d1t02.wav
+     2:15.05       23825804 B   ---   --   -----    wav  1.0000  c:\shows\ph1989
+-05-27.flac\ph89-05-27d1t03.wav
+     7:03.63       74765420 B   ---   --   -----    wav  1.0000  c:\shows\ph1989
+-05-27.flac\ph89-05-27d1t04.wav
+     6:00.06       63518156 B   ---   --   -----    wav  1.0000  c:\shows\ph1989
+-05-27.flac\ph89-05-27d1t05.wav
+     5:10.28       54749900 B   ---   --   -----    wav  1.0000  c:\shows\ph1989
+-05-27.flac\ph89-05-27d1t06.wav
+    13:27.54      142481852 B   ---   --   -----    wav  1.0000  c:\shows\ph1989
+-05-27.flac\ph89-05-27d1t07.wav
+     7:05.64       75120572 B   ---   --   -----    wav  1.0000  c:\shows\ph1989
+-05-27.flac\ph89-05-27d1t08.wav
+    14:13.30      150539804 B   ---   --   -----    wav  1.0000  c:\shows\ph1989
+-05-27.flac\ph89-05-27d1t09.wav
+     7:07.12       75351068 B   ---   --   -----    wav  1.0000  c:\shows\ph1989
+-05-27.flac\ph89-05-27d1t10.wav
+     5:24.03       57160700 B   ---   --   -----    wav  1.0000  c:\shows\ph1989
+-05-27.flac\ph89-05-27d1t11.wav
+    79:00.27      836199988 B                            1.0000  (11 files)
+

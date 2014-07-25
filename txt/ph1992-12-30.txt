@@ -1,0 +1,53 @@
+PHiSH
+12-30-1992
+Symphony Hall
+Springfield, MA
+
+Source: SBD > DAT > Cass/x
+Transfer: Sony TC-KA3ES > Lucid AD 9624 A/D > REBA @ 24/48kHz
+**24/48 Master waves do exist at the pre-processed level**
+
+-DISC 1-
+Set 1:
+01. Landlady
+02. Sparkle
+03. Split Open And Melt
+04. Esther
+05. Chalkdust Torture
+06. Fluffhead*
+07. Paul and Silas
+08. Reba >
+09. I Walk the Line > Reba
+10. I Didn't Know
+
+-DISC 2-
+01. David Bowie > Timber Ho >
+02. David Bowie
+Set 2:
+03. Axilla
+04. Rift
+05. Bathtub Gin
+06. YEM
+07. TMWSIY > Avenu Malkenu > TMWSIY
+
+-DISC 3-
+01. Possum
+02. Big Ball Jam >
+03. HYHU > Love You > HYHU
+04. Take The A-Train
+05. Llama
+-Encore-
+06. Ride Captain Ride
+07. Sweet Adeline**
+
+* has a nasty cut near the end
+** a capella and not on the sbd
+
+~Mastering~
+24/48 wav loaded into a montage for each set for reconstructing each set > each unprocessed 24/48 wav was then opened as a stereo wav to perform the following processes: BBE 1/4/0 > R-Bass @ 32Hz +5db > Waves C4 Multiband Compressor > Waves L1 for make-up gain > Waves X-Noise > 192kHz resampler to 44.1 > Waves L1+ for final gain adjustments and dithering to 16bit via Mode 1/Normal/Digital > FLAC 16bit
+ 
+*NOTES*
+This show speaks for itself. After having the FOB source for so long, I was suprised that this show surfaced as a SBD. Amazing jams all nite long. There is a cut near the end of Fluffhead that could not be fixed. There also appears to be a sopt of stretched tape durring Possum, but it is short lived. Whoever taped this off the DAT did it correctly by leaving some overlaps on the flips....this made it a snap to put back together seamlessly.
+
+Transfered, edited, mastered and FLAC'd on REBA by Mamrar- imthemarmar@stny.rr.com
+Thanks to Kirk Mehtlan for the tapes to transfer.

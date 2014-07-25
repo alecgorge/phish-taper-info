@@ -1,0 +1,38 @@
+Phish
+09-24-88
+Humphries House (The Zoo) - Amherst College, Amherst, MA  
+Source: Soundboard>cass/0>DAT
+Transfer: DA-20 mkii->Delta Dio2496->Soundforge 4.5 (resampled on setting 4 w/anti alias filter->cdwav->shn
+Received From: Brandon Johnston
+
+Disc I:
+Set I:
+1.Golgi Apparatus
+2.On Your Way Down
+3.Alumni Blues (LtJP)
+4.You Enjoy Myself->
+5.Wilson->
+6.Peaches en Regalia
+7.La Grange
+8.//Take the A-Train
+9.The Divided Sky
+10.Bold as Love 
+
+Disc II:
+Set II:
+[David Bowie]
+1.Lizards
+2.Walk Away->
+3.Possum
+4.Fee->
+5.Sparks
+6.Whipping Post 
+
+Set III:
+7.Good Times Bad Times
+8.Fluffhead
+9.The Curtain
+10.AC/DC Bag 
+
+Notes: GTBT contains diginoise. Dat was missing david bowie, apparently this is missing or severly cut on all
+copies. A-train is also clipped, most likely an analog flip

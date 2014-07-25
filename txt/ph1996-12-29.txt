@@ -1,0 +1,86 @@
+Phish
+December 29, 1996
+Corestates Spectrum
+Philadelphia, PA
+
+source:
+(FOB) Schoeps CMBI/mk4 > HHb PDR-1000 (@ 48 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > r8brain v1.9 (resample to 44.1 kHz) > Samplitude SE v9.1.1 (fades, tracking) > FLAC v1.2.1 (Level 8)
+
+FLAC tags added with metaflac v1.2.1
+
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded April 5, 2008
+
+notes:
+The original 48 kHz files from the DAT transfer have been archived, and are available upon request.
+Big thanks to Brett Stone for letting me borrow his DATs!
+
+Disc 1 - [62:57]
+Set I
+01 - [02:27] - Poor Heart
+02 - [05:52] - Caravan
+03 - [04:31] - Cavern
+04 - [09:23] - Taste
+05 - [05:39] - Guelah Papyrus
+06 - [02:52] - Train Song
+07 - [05:55] - Rift
+08 - [08:35] - Free
+09 - [11:42] - The Squirming Coil
+10 - [06:01] - La Grange
+
+Disc 2 - [72:18]
+Set II
+01 - [17:27] - David Bowie
+02 - [04:47] - A Day in the Life
+03 - [11:25] - Bathtub Gin
+04 - [10:36] - The Lizards
+05 - [21:57] - You Enjoy Myself * -> Rotation Jam ->
+06 - [02:03] - Sixteen Candles ** ->
+07 - [04:01] - Vocal Jam
+
+Disc 3 - [18:00]
+Set II continued
+01 - [06:05] - Harpua ->
+02 - [01:51] - Champagne Supernova ^ ->
+03 - [06:32] - Harpua
+04 - [00:51] - encore break
+05 - [02:41] - Rocky Top
+
+* with a rotation jam
+** performed by Mike, solo, on piano
+^ with Tom Marshall on vocals
+
+note:
+There was a cut during the encore break.  I cross-faded the two sides to make it appear seamless.
+
+-------------------------------------------------------------------------------------------
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     2:27.27          24.79 MB  ---   --   ---xx   flac  0.5311  ph1996-12-29d1t01.flac
+     5:51.70          59.21 MB  ---   --   ---xx   flac  0.4736  ph1996-12-29d1t02.flac
+     4:30.71          45.58 MB  ---   --   ---xx   flac  0.5732  ph1996-12-29d1t03.flac
+     9:23.07          94.73 MB  ---   --   ---xx   flac  0.5221  ph1996-12-29d1t04.flac
+     5:38.40          56.95 MB  ---   --   ---xx   flac  0.5052  ph1996-12-29d1t05.flac
+     2:51.54          28.89 MB  ---   --   ---xx   flac  0.4014  ph1996-12-29d1t06.flac
+     5:54.58          59.68 MB  ---   --   ---xx   flac  0.5073  ph1996-12-29d1t07.flac
+     8:35.03          86.64 MB  ---   --   ---xx   flac  0.5268  ph1996-12-29d1t08.flac
+    11:42.24         118.15 MB  ---   --   ---xx   flac  0.4215  ph1996-12-29d1t09.flac
+     6:00.70          60.72 MB  ---   --   ---xx   flac  0.5265  ph1996-12-29d1t10.flac
+    17:27.01         176.14 MB  ---   --   ---xx   flac  0.5061  ph1996-12-29d2t01.flac
+     4:47.08          48.30 MB  ---   --   ---xx   flac  0.5387  ph1996-12-29d2t02.flac
+    11:25.33         115.31 MB  ---   --   ---xx   flac  0.5059  ph1996-12-29d2t03.flac
+    10:36.12         107.02 MB  ---   --   ---xx   flac  0.4796  ph1996-12-29d2t04.flac
+    21:57.36         221.64 MB  ---   --   ---xx   flac  0.5018  ph1996-12-29d2t05.flac
+     2:03.01          20.69 MB  ---   --   ---xx   flac  0.4134  ph1996-12-29d2t06.flac
+     4:01.23          40.59 MB  ---   --   ---xx   flac  0.4355  ph1996-12-29d2t07.flac
+     6:05.01          61.41 MB  ---   --   ---xx   flac  0.5034  ph1996-12-29d3t01.flac
+     1:51.10          18.70 MB  ---   --   ---xx   flac  0.5069  ph1996-12-29d3t02.flac
+     6:31.73          65.94 MB  ---   --   ---xx   flac  0.4887  ph1996-12-29d3t03.flac
+     0:51.09           8.60 MB  ---   --   ---xx   flac  0.4825  ph1996-12-29d3t04.flac
+     2:41.05          27.10 MB  ---   --   ---xx   flac  0.5492  ph1996-12-29d3t05.flac
+   153:14.36        1546.77 MB                           0.4970  (22 files)

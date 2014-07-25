@@ -1,0 +1,84 @@
+Phish
+07-13-94
+Big Birch Concert Pavillion
+Patterson, NY
+
+Source: ?SBD/AUD Matrix? > Liberated Bootleg > EAC > FLAC Frontend > .flac
+
+Liberation & EAC > FLAC By: Ryan Burns (mstrpce420@aol.com)
+
+"I'd Rather Be Phishin'"
+
+Disc 1: (72:39)
+
+Set 1:
+01. Buried Alive >
+02. Poor Heart >
+03. Sample in a Jar
+04. Foam
+05. The Mango Song
+06. Down With Disease >
+07. Fee >
+08. It's Ice
+09. Fast Enough for You
+10. I Didn't Know
+11. Split Open and Melt
+
+Disc 2: (76:56)
+
+Set 2:
+01. Possum 
+02. Cavern > Wilson * > Cavern >
+03. NICU >
+04. Tweezer # >
+05. Julius ^ >
+06. Tweezer > 
+07. Big Black Furry Creature From Mars ** >
+08. Tweezer >
+09. Mound
+10. Slave to the Traffic Light
+11. Suzy Greenberg %
+Encore:
+12. My Sweet One
+13. Tweezer Reprise
+
+*  Played to the tune of "Cavern."
+#  With "Woody Woodpecker" tease.
+^  With "Rock and Roll Is Here To Stay" tease.
+** Played to tune of "Scent of a Mule."
+% "Slave to the Traffic Light" jams in between verses.
+
+- I EAC'd both discs secure test & copy, used CDWav to split up a few spots that needed tracking, and added fades to the beginning and end of each set in Soundforge 5.0.
+ 
+- Encore break was cut, so it fades out and back in.
+
+Enjoy :)
+
+FLAC Fingerprint:
+
+ph1994-07-13d1t01.flac:723182463d87a59fd9bf0c0a0e6dc49a
+ph1994-07-13d1t02.flac:254d82ad835b90c90a85cc80961118d7
+ph1994-07-13d1t03.flac:3b30efece71f134cf2f705b8b44d5973
+ph1994-07-13d1t04.flac:5db09a86b0d709681149005d98984c21
+ph1994-07-13d1t05.flac:1e2afb42d73b051cd64f86f7de5132de
+ph1994-07-13d1t06.flac:7677e69b0473457b34b6b1ac373d7874
+ph1994-07-13d1t07.flac:179de69e45ec7037d70543bbecd1330f
+ph1994-07-13d1t08.flac:364631847b8239e8849fce8774171345
+ph1994-07-13d1t09.flac:8473ff1c8fb59e91171f018f92dc6aad
+ph1994-07-13d1t10.flac:233da5d7dc6a96893546180f45ff7285
+ph1994-07-13d1t11.flac:ab7e78de4c9b3655639c43e835d2e62f
+ph1994-07-13d2t01.flac:5bc806affa5f9c86c5cbdd348f6373d3
+ph1994-07-13d2t02.flac:c9d4595e31c6b0c0675b6577cfe1a708
+ph1994-07-13d2t03.flac:a8e4c1116f7fb6484b7e87e5e949bd83
+ph1994-07-13d2t04.flac:f4ffa485b974cb3a7066129db50c476d
+ph1994-07-13d2t05.flac:a812949e6eb03d54582ff87972b42d6a
+ph1994-07-13d2t06.flac:6f296deb9d3503243f50447daa8df4ee
+ph1994-07-13d2t07.flac:dc52b8443811462995731e4c42f855e6
+ph1994-07-13d2t08.flac:18e45e9dc47b5aa821f8391c3f28f75a
+ph1994-07-13d2t09.flac:79d7f00ac1f6ab4ada85775469a181f7
+ph1994-07-13d2t10.flac:47567019b3ccc9966b93c0e2aefe29ae
+ph1994-07-13d2t11.flac:9c6ea6d763d4fbbd092ba97bccbeab5f
+ph1994-07-13d2t12.flac:24a14c1ca79ac0d812ded31ec7f55135
+ph1994-07-13d2t13.flac:ee36de5b97a3f9b56f76da44acc76cc2
+
+

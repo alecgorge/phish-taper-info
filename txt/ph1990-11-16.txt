@@ -1,0 +1,53 @@
+Phish
+Campus Club
+Providence, RI
+11/16/90 
+
+TAPER: John Redmond
+SOURCE SBD > D5 
+
+SBD MCass (Maxell MX 90 min)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +~10dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)>
+Mastering (see notes)> SHNv3
+
+**Mastering**
+24bit 48kHz FLAC > wav > Montage to reconstruct sets and add fades over flips > Internal 24bit rendering (no dither) > BBE @ 2/4/-8 > Waves X-Noise > Internal 24bit renerding (no dither) > Rendered 24/48 wav files > montage to adjust volume to make it continuous...6 envelope points > Waves L2 (24bit, no dither, +7.5 gain make-up) > 48kHz>44.1/High and 24bit>16bit/Mode 3/Extreme via tc electronic Finalizer 96k > Tracking in Wavelab > SHNv3 
+
+transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 11/2/2003
+Mastering, editing and WAV > SHN were performed on REBA by Arty- imthemarmar@stny.rr.com (on 11/2003)
+
+Disc 1:
+Suzy Greenberg
+Buried Alive
+Foam
+You Enjoy Myself
+Magilla//
+Llama
+The Divided Sky
+Golgi Apparatus 
+
+Disc 2:
+I Dream of Jeannie Theme/Contact tease
+Trey explains the Landlady Dance
+The Landlady
+Mike's Song->
+I Am Hydrogen->
+Weekapaug Groove
+Lawn Boy
+Tube
+Paul and Silas
+Lizards
+Runaway Jim
+I Didn't Know
+Possum
+E: Contact
+Fire
+
+**Notes**
+This show should be called Phish on TV....Listen for all the TV show theme songs being teased and used as themes for jams all throughout the nite.
+ 
+NO tracking/editing/alterations performed before archiving to 24-bit FLAC
+(except to trim silence from the ends).
+
+Seeded to FurthurNet (www.furthurnet.org) by Marmar

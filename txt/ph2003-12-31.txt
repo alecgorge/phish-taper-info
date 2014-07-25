@@ -1,0 +1,63 @@
+Phish
+December 31, 2003
+American Airlines Arena
+Miami, FL
+
+Source:
+Schoeps mk41v > kc5 > cmc6 > Lunatec V2 > Mini-Me > vx pocket > Toshiba 3490ct > vegas 3.0 (24/48) > .wav
+
+Tracking:
+(24 bit .wav files transfered from Scott's USB harddrive)
+.wav > CD Wave v1.93.3 > Cool Edit 2000 (fades, patch edits) > FLAC Frontend
+
+taped by John Crouch
+laptop patcher: Scott Gordon
+patch edits, tracked & FLAC'ed by Jason Sobel (jasonsobel@gmail.com)
+
+Set 1 - [81:50]
+01 - [01:00] - Wilson (conclusion) >
+02 - [08:00] - Mike's Song >
+03 - [03:02] - I Am Hydrogen >
+04 - [12:17] - Weekapaug Groove
+05 - [09:47] - Moma Dance
+06 - [11:56] - Guyute
+07 - [26:08] - You Enjoy Myself
+08 - [07:51] - First Tube >
+09 - [01:49] - Tube (conclusion)
+
+Set 2 - [60:18]
+01 - [24:01] - Stash (see patch edit details below)
+02 - [10:17] - Seven Below
+03 - [03:17] - Lawn Boy
+04 - [07:05] - Chalkdust Torture >
+05 - [10:34] - Slave to the Traffic Light >
+06 - [05:04] - Chalkdust Torture
+
+Set 3 - [82:49]
+01 - [09:41] - Jungle Boogie >
+02 - [00:58] - Auld Lang Syne >
+03 - [01:24] - Iron Man
+04 - [22:14] - Runaway Jim >
+05 - [06:19] - Simple >
+06 - [14:15] - Reba
+07 - [01:42] - I Didn't Know >
+08 - [02:25] - Feel the Heat >
+09 - [04:08] - HYHU
+10 - [11:38] - Run Like an Antelope
+11 - [03:15] - encore break
+12 - [04:47] - Frankenstein
+
+Patch Edit Details:
+The intro crowd noise and the beginning of Stash were patched from the following source:
+Neumann AK50's (ortf) > LC3's > M100's > Lunatec V3 (44.1 khz) > DA-P1
+First row OTS, left side of board, row 13, seat 3
+Taper:  Mark Skeens
+Patch (at show) and transfer:  Trey Batson
+
+To patch this source into Scott's source, the following edits were done in Cool Edit 2000:
+* increase bit-depth to 24 bit, and upsample to 48 kHz (obviously, this isn't "true" 24 bit)
+* 0.5 second of cross-fade
+* the switch back to Scott's source occurs at 03:32
+
+If you listen very closely, you'll hear when Scott's source kicks in, because the sound charateristics 
+of the two sources are a bit different.  But I think the patch came out very well, nice and smooth.

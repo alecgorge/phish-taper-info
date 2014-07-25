@@ -1,0 +1,29 @@
+Phish
+7-30-92
+Meadowbrook Music Festival
+Rochester Hills, MI (Oakland U.)
+
+AUD/FOB/48KHZ>D; Sonic Studios DSM-10 omni>D3
+Cloned: 75ES>SV3700
+
+Transfer: Sony PCM R500>Opcode DatPort>SF4.5>CD Wave>FLAC                                     
+
+Taper: Ian VanHuysen 
+Seed: Kevin Shapiro
+DAT>FLAC Transfer by Chris Moore
+Tracking by Chris Moore
+
+------------------------------------
+ Disc 1:                    (46:13)
+------------------------------------
+-Set 1-
+1. Rift%	    	    (06:32)
+2. Horn		    	    (03:42)
+3. Sparkle	            (03:57)
+4. It's Ice >     	    (07:42)
+5. All Things Reconsidered  (02:53)
+6. Maze	    		    (08:07)
+7. I Didn't Know 	    (03:25)
+8. Possum 	    	    (09:52)
+
+%-15sec dropout in Rift on master

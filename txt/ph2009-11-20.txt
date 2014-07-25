@@ -1,0 +1,41 @@
+Phish
+11/20/2009
+Cincinnati, Ohio  US Bank Arena
+
+Source: Schoeps mk22> KCY> Schoeps VMS02IB> Apogee Mini-Me> SD 722 (@24bit/96kHz)
+Location: FOB, Section 2, Row P, Seats 12 & 13, ORTF
+
+Transfer: SD 722> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44)
+Taped, Transferred & Seeded by: taylorc (11/21/2009)
+
+
+Set I
+t01 [07:20] Chalk Dust Torture
+t02 [07:26] The Moma Dance >
+t03 [16:34] The Divided Sky
+t04 [10:09] Alaska
+t05 [03:02] Water in the Sky
+t06 [07:47] Fast Enough for You
+t07 [17:14] Time Turns Elastic
+t08 [10:59] Gotta Jibboo >
+t09 [15:08] Fluffhead
+
+Set II
+t10 [08:21] Punch You in the Eye >
+t11 [15:01] Tweezer >
+t12 [07:53] Light >
+t13 [05:35] Back on the Train >
+t14 [09:40] Possum
+t15 [09:34] Slave to the Traffic Light
+t16 [20:19] YoU Enjoy Myself
+t17 [03:40] crowd
+
+Encore
+t18 [05:21] Joy
+t19 [04:30] Golgi Apparatus >
+t20 [03:42] Tweezer Reprise
+
+
+Notes:
+One second drop out in CDT
+Set I [1:35:39] Set II [1:20:03] Encore [13:33]

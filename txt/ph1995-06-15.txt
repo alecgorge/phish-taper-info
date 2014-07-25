@@ -1,0 +1,54 @@
+Phish
+6-15-95
+Lakewood Amphitheatre
+Atlanta, GA
+[Attended: 13,571 and Capacity: 18,920]
+
+
+Source: Nak 300 w/ cp-4 & Senn 441 > Sony Mixer > D10 Pro
+Location: Taper Section
+Conversion: DAT (48kHz)>MIT s/pdif>Delta DiO 2496>Samplitude v5.55 (44.1kHz conversion)>CD Wav>MKW v0.97 (with seek tables appended)
+
+Taper - ?
+Conversion - Jered Haddad <funkyoctopus@shns.net>  March 30, 2003 (see notes at bottom)
+
+Disc One
+Set I:
+1.My Friend, My Friend
+2.Sparkle >
+3.AC/DC Bag 
+4.Old Home Place
+5.Taste
+6.The Wedge
+7.Stash > 
+8.I Didn't Know* 
+9.Fluffhead
+
+
+Disc Two:
+1.Run Like An Antelope
+Set II:
+2.My Sweet One
+3.Ha Ha Ha >
+4.David Bowie
+5.Strange Design
+6.Theme From the Bottom
+7.Scent of a Mule
+8.Acoustic Army
+
+Disc Three:
+1.Slave to the Traffic Light
+encore
+2.Bouncin
+3.Frankenstein
+
+
+*W/ Fishman on Trombone, Mike on electric drill and Trey on Megaphone.
+
+Notes on Conversion:  this is a re-seed.  Donswank's original conversion was with the
+Zefiro ZA-2 soundcard, which yielded inferior results compared to this fileset. Regardless, 
+there is a quick drop of levels around the 14-minute mark of set I, during AC/DC Bag (just before
+"Braindead...and made of money...), but nothing to worry about. This flaw is also on my DAT.
+Maybe the band will get with it and release this show as part of the LivePhish series. 
+I hope you enjoy the music. This show marked my first AC/DC Bag, which is among my top  
+favorite phish songs...when played right.  Please join WWW.SHNS.NET 

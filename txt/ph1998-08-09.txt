@@ -1,0 +1,51 @@
+Phish
+August 9, 1998
+Virginia Beach Amphitheatre
+Virginia Beach, VA
+
+source:
+Schoeps cmc6/mk41 > Sonosax SX-M2 > Apogee AD-1000 > Tascam DA-P1 (@48kHz)
+(Audio Magic Excaliber cables)
+
+transfer:
+Sony PCM-R500 > Tascam HD-P2 > CF Card > usb > pc > WaveLab 5.01b (fades, resample to 44.1kHz) > CD Wave v1.94.7 > FLAC v1.1.2 (Level 8)
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded June 8, 2006
+
+note:
+The master DATs were used in this transfer, thanks Dave!
+The original 48kHz files from the DAT transfer have been archived, and are available upon request.
+
+Disc 1 - [71:25]
+Set I
+01 - [09:26] - Punch You in the Eye
+02 - [15:02] - Bathtub Gin
+03 - [12:07] - The Lizards
+04 - [10:16] - The Moma Dance
+05 - [07:05] - Birds of a Feather
+06 - [09:20] - Esther
+07 - [08:10] - Roggae
+
+Disc 2 - [51:10]
+Set I continued
+01 - [03:44] - Bouncing Around the Room
+02 - [13:34] - David Bowie
+Set II
+03 - [01:01] - intro
+04 - [14:56] - AC/DC Bag >
+05 - [04:03] - Sparkle
+06 - [13:52] - Run Like an Antelope
+
+Disc 3 - [61:12]
+Set II continued
+01 - [03:33] - Brian and Robert
+02 - [07:26] - Waste
+03 - [02:27] - Somewhere Over the Rainbow
+04 - [17:46] - You Enjoy Myself
+05 - [06:22] - Frankenstein
+06 - [08:25] - Chalk Dust Torture
+07 - [01:14] - Hello My Baby
+08 - [03:25] - encore break
+09 - [10:33] - Terrapin Station

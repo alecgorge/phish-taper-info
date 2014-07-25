@@ -1,0 +1,51 @@
+Phish
+07-21-96 
+The Forum, Nürnberg, Germany 
+
+source: AKG391(all the info i have)
+conversion : DAT > Phillips CDR880(Standalone Burner) > CD > EAC > MKW > SHN
+converted by : Ralf Karpa from DAT to Standalone , Volker Skrzeba (BigV) from CD to SHN
+checked with SHNTOOL no errors reported
+
+Disc 1
+Set 1
+01. Golgi Apparatus
+02. Guelah Papyrus
+03. Rift
+04. Tweezer
+05. If I Could
+06. My Mind's Got a Mind of It's Own
+07. Split Open and Melt
+08. The Horse -> 
+09. Silent in the Morning
+10. Taste
+11. Train Song *
+
+Disc 2
+01. Fee -> 
+02. Timber (Jerry) -> 
+03. Johnny B. Goode
+ 
+Set 2
+04. Llama
+05. Theme From the Bottom
+06. Reba
+07. Life on Mars
+08. Free
+
+Disc 3
+01. Run Like an Antelope >
+02. Simple
+03. Prince Caspian
+04. Suzy Greenberg 
+Encore: 
+05. Harry Hood 
+
+* First time played. 
+
+note:
+
+since it seems that this show is pretty rare , i was told to please encode that to SHN and share it.
+
+Big V
+04-03-07

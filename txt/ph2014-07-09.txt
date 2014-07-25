@@ -1,0 +1,45 @@
+Phish
+07/09/2014
+Philadelphia, Pennsylvania  The Mann Center for the Performing Arts
+
+Source: Schoeps m934c > M221B > PS > Aeta 4MinX (@24bit/96kHz)
+Location: DFC, 9' Stand, Orchestra Circle Center, Row M, Seat 116, Cardioid/DIN/32cm
+
+Transfer: SDHC > Samplitude SE 9.1.1(dither/resample) > CDWave > flac(16/44.1)
+Taped & Seeded by: taylorc (07/10/2014)
+
+
+Set I
+t01 [00:45] Intro
+t02 [05:24] Glide
+t03 [04:46] Sing Monica
+t04 [06:01] Birds of a Feather
+t05 [09:39] Wolfman's Brother
+t06 [06:39] Sugar Shack
+t07 [07:58] Alaska
+t08 [10:01] McGrupp and the Watchful Hosemasters
+t09 [05:42] Stealing Time from the Faulty Plan
+t10 [04:02] Horn
+t11 [06:21] Devotion to a Dream
+t12 [05:11] Silent in the Morning >
+t13 [10:27] Run Like an Antelope
+
+Set II
+t14 [00:55] Intro
+t15 [16:44] Chalk Dust Torture >
+t16 [09:06] Wingsuit >
+t17 [06:35] Winterqueen >
+t18 [10:46] Twist >
+t19 [08:24] Crosseyed and Painless >
+t20 [05:39] Waste >
+t21 [08:14] Mike's Song >
+t22 [06:33] Sneakin' Sally Through the Alley
+t23 [02:02] crowd
+
+Encore
+t24 [06:56] Julius >
+t25 [07:27] Weekapaug Groove
+
+
+Notes:
+Set I [1:23:02] Set II [1:15:02] Encore [14:24]

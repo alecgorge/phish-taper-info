@@ -1,0 +1,71 @@
+Phish - 8/10/87 
+Nectar's, Burlington, VT 
+
+Source: unknown AUD> CassX> DAT> Cass0 (recorded 10/97)
+
+Transfer: Dennon DRW-840> Sony r500> Audiophile 2496> Samplitude 5.5 at 44.1> WAV> FLAC on 6/10/05 by EEE
+
+Disc 1 - 79:08 
+Set I
+1.  Peaches en Regalia
+2.  Alumni Blues (LtJP)
+3.  Golgi Apparatus
+4.  Wilson
+5.  Quinn the Eskimo
+6.  The Divided Sky//
+7.  Good Times Bad Times
+Set II
+8.  Fire
+9.  //AC/DC//Bag#->
+10. Possum
+11. Fluffhead
+12. Fee
+Set III (end of show)
+13. Tush
+14. Dear Mrs. Reagan 
+
+Disc 2 - 77:28
+1.  The Curtain With (last song of set II)
+Set III
+2.  I Know a Little
+3.  Mustang Sally
+4.  You Enjoy Myself
+5.  La Grange
+6.  Icculus*
+7.  David//Bowie#
+8.  Jesus Just Left Chicago
+9.  Whipping Post
+10. Anarchy
+#tape flip songs joined using Cool Edit Pro
+*deadicated to Paul's mom on her birthday
+Between many of the songs there are cuts where the master was paused or crowd was edited out. 
+
+SHNTOOL OUTPUT:
+
+    length     expanded size   cdr  WAVE problems filename
+     3:23.60       35950364    ---   --   -----   ph1987-08-10d1t01.wav
+     6:29.62       68765468    ---   --   -----   ph1987-08-10d1t02.wav
+     5:15.70       55730684    ---   --   -----   ph1987-08-10d1t03.wav
+     5:06.68       54138380    ---   --   -----   ph1987-08-10d1t04.wav
+     6:09.43       65192780    ---   --   -----   ph1987-08-10d1t05.wav
+     4:20.46       45972236    ---   --   -----   ph1987-08-10d1t06.wav
+     5:00.26       52981196    ---   --   -----   ph1987-08-10d1t07.wav
+     4:57.71       52557836    ---   --   -----   ph1987-08-10d1t08.wav
+     7:44.01       81851996    ---   --   -----   ph1987-08-10d1t09.wav
+     8:38.11       91401116    ---   --   -----   ph1987-08-10d1t10.wav
+     9:32.01      100903196    ---   --   -----   ph1987-08-10d1t11.wav
+     5:42.63       60477020    ---   --   -----   ph1987-08-10d1t12.wav
+     3:24.61       36129116    ---   --   -----   ph1987-08-10d1t13.wav
+     3:20.01       35282396    ---   --   -----   ph1987-08-10d1t14.wav
+    10:39.16      112757276    ---   --   -----   ph1987-08-10d2t01.wav
+     3:47.74       40216892    ---   --   -----   ph1987-08-10d2t02.wav
+     7:09.27       75739148    ---   --   -----   ph1987-08-10d2t03.wav
+    14:42.38      155674220    ---   --   -----   ph1987-08-10d2t04.wav
+     3:33.19       37617932    ---   --   -----   ph1987-08-10d2t05.wav
+     2:28.25       26166044    ---   --   -----   ph1987-08-10d2t06.wav
+    15:56.60      168779564    ---   --   -----   ph1987-08-10d2t07.wav
+     7:20.67       77773628    ---   --   -----   ph1987-08-10d2t08.wav
+    10:29.11      110981516    ---   --   -----   ph1987-08-10d2t09.wav
+     1:18.38       13848620    ---   --   -----   ph1987-08-10d2t10.wav
+   156:32.59     1656888624 B                     (totals for 24 files, 1.0000 o
+verall compression ratio)

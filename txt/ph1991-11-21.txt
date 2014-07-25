@@ -1,0 +1,60 @@
+Phish
+11-21-91
+Somerville Theater
+Somerville, MA
+
+Set I Source: SBD > DAT@48kHz
+Transfer: Archive Python DDS > vDAT > FLAC16/48
+
+Transfer by Rusty Grey- rusty@ontheflyrecording.com
+Editing, mastering, and FLAC16/44.1 by Marmar- imthemarmar@gmail.com
+
+Set II Source is a Maxell XLII-S Analog Cassette (labeled AUD1)
+-A>D via Nakamichi Dragon>Korg MR1000>Korg Audio Gate>WAV
+-Tracking performed in Adobe Audition 3.0
+-FLAC conversion via Trader's Little Helper
+-Thanks to Parker Harrington for the source tape.
+
+Set 1:
+-Disc 1-
+01. Chalkdust Torture
+02. BATR
+03. Poor Heart
+04. Guelah Papyrus
+05. Reba
+06. Foam
+07. Horn
+08. Split Open and Melt
+-Disc2-
+01. Esther
+02. Mike's Song > 
+03. H2 >
+04. Weekapaug Groove
+
+Set II
+
+1. Wilson [5:53]
+2. Harry Hood [14:06]
+3. It's Ice [9:23]
+4. Mango Song [7:24]
+5. Uncle Pen [4:06]
+6. Tweezer > [10:36]
+7. TMWSIY > [3:41]
+8. Alvenu Malkenu > [3:16]
+9. TMWSIY [1:15]
+10. Runaway Jim [7:41]
+encore
+11. Banter and Raffle [1:55]
+12. Memories [1:21]
+13. Sweet Adeline [2:11]
+14. Golgi Apparatus [5:09]
+
+Total Time [1:17:57]
+
+Show Notes: 
+- This long, fantastic version of Weekapaug included an On Broadway tease. At one point, the jam stopped completely before Trey counted everyone back in to finish the song.
+
+Mastering Notes:
+- This 2 Track master DAT was completely remixed. The DAT was a M/S with a stereo sub-carrier. This presented problems durring original playback, so it was decoded, and remixed back into a stereo representation. No major DSP processing was performed other than a slight ammount of BBE processing on the Mid and stereo sub-carrier channels durring the mixing stages.
+- The beginning of Chalkdust has volume adjustments. There is also a short moment of static.
+- 2 small drop outs were edited from Esther.

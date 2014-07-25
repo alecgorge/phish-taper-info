@@ -1,0 +1,56 @@
+Phish
+11-22-94
+Jesse Auditorium, University of Missouri, Columbia, MO 
+--------------------------------------------------------------------------------------------
+This show is included in the 1994 Phish Project.
+http://people.atl.mediaone.net/danmarq/1994_phish_project.html
+----------------
+
+Source:         DFOB: AKG 460(?)>DAT
+
+Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                Soundforge 5.0b (48KHz->44.1KHz at highest setting [4 of 4],
+                with anti-alias filter)-> CD Wave 1.62-> mkwACT v0.97
+                **No DAE at all**
+
+Minor Edits:	Fades in/out at the start/end of set.
+----------------
+Transferred by Dan Marquardt <danmarq@msn.com>, please contact me with questions/comments.
+There are also 48KHz shn's of this seed for archival.
+--------------------------------------------------------------------------------------------
+
+CD/Set 1:			49:01
+01. %Buried Alive		02:35
+02. Poor Heart			02:18
+03. Horn			03:44
+04. Foam			11:58
+05. Guyute			10:44
+06. I Didn't Know		03:48
+07. Bouncing Around the Room	03:39
+08. Down With Disease		08:29
+09. Sweet Adeline		01:43
+
+CD/Set 2:			67:30
+01. Funky Bitch>		06:29
+02. Lulu Jam>			22:20
+03. Y-Rushalayim Schel Zahav	01:58
+04. Cry Baby Cry		04:13
+05. The Curtain>		06:02
+06. Blackbird			02:33
+07. Runaway Jim->		06:28
+08. BBFCFM			07:55
+09. I'm Blue I'm Lonesome	02:51
+10. Butter Them Biscuits	03:14
+11. My Long Journey Home	03:23
+
+CD 3/Set 2 Cont'd:		28:04
+01. Harry Hood**		13:24
+02. Highway to Hell		03:48
+
+Encore:
+03. Lizards			10:50
+
+--------------------------------------------------------------------------------------------
+
+%First few seconds cut.
+**By an audience members request.

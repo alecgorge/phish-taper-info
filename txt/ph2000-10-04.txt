@@ -1,0 +1,50 @@
+phish
+coors amph.
+chula vista, ca
+2000-10-04
+
+set 1
+
+disc 1
+01-Moma Dance, 
+02-It's Ice, 
+03-Bouncing Around the Room, 
+04-Funky Bitch, 
+05-Reba, 
+06-Dog Faced Boy, 
+07-Run Like An Antelope
+
+set 2
+
+disc 2
+01-Rock and Roll > 
+02-2001
+03-Sample in a Jar, 
+04-Gotta Jibboo, 
+05-Bug, 
+06-Harry Hood, 
+07-Cavern, 
+E: 
+08-Loving Cup
+
+Show Notes: Antelope included a reference to Bob Weaver instead of Marco Esquandolas. 
+
+source: akg460b/ck61>V2>SBM1>D8>D7; by JK, john m patch
+transfer: DATmaster>cd(1)>eac>cdwave>flac; by john m 2007-10-10
+
+fingerprint:
+phish2000-10-04d1t01.flac:726d20081ae35c45bf421828d6749d98
+phish2000-10-04d1t02.flac:07f41933fb6010de240796ec8e47ae5a
+phish2000-10-04d1t03.flac:06390d259aef3800468ea1f6eff3a798
+phish2000-10-04d1t04.flac:d560bb2c06bde3238a2d3ebd42f321ce
+phish2000-10-04d1t05.flac:990f2d2d0d38e4b9973fe652bcb78c05
+phish2000-10-04d1t06.flac:f34053d1c6f1ea5bc8e56b44e9e4e4e3
+phish2000-10-04d1t07.flac:0c171271903d8cc7f7036a1fd251e499
+phish2000-10-04d2t01.flac:d90810d585bbeea66aa881a063e8340c
+phish2000-10-04d2t02.flac:f827064699f52736caa625b8aec1e133
+phish2000-10-04d2t03.flac:ff892ebf61429d6932293a3c1745db0d
+phish2000-10-04d2t04.flac:9cb7875d39523619931cb47107d776ef
+phish2000-10-04d2t05.flac:81525737f1a7be6a31326556945af73f
+phish2000-10-04d2t06.flac:236aa4850adf00fd67951beea3688cc9
+phish2000-10-04d2t07.flac:ebb3ccb9ce6f13db08599d721f3874f0
+phish2000-10-04d2t08.flac:3cabd3ee46fb7b86acf909708b72037e

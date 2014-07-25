@@ -1,0 +1,50 @@
+Phish
+03/02/1993
+Tipitina's 
+New Orleans, LA
+
+Source: Unknown AUD > Cass/x
+Transfer: Sony TC-KA3ES > DSP24 > Wavelab 24/48wavs > FLAC16
+Transfer, mastering, and FLAC16 by Marmar
+Thanks to Matt Lauten for the tapes!
+
+Set I: 
+Buried Alive
+Poor Heart
+Stash
+Reba
+Sparkle
+It's Ice
+Fee
+All Things Reconsidered
+Chalk Dust Torture//
+The Horse (missing)
+//Silent in the Morning
+I Didn't Know
+David Bowie
+
+Set II:
+My Friend My Friend
+Uncle Pen
+Tweezer
+The Lizards
+Llama
+You Enjoy Myself
+HYHU > Love You > HYHU
+It's My Life
+Loup Garou
+Choo Choo Ch' Boogie
+Harry Hood//
+Amazing Grace (missing)
+Encore:
+//Golgi Apparatus
+Tweezer Reprise
+
+*missing
+
+Show Notes: 
+-It's My Life through Choo Choo Ch' Boogie featured Bruce "Sunpie" Barnes of Sunpie & the Louisiana Sunspots on washboard, harp, and lead vocals. 
+-During I Didn't Know, Fishman wore a Madonna-like pointy boob washboard while Trey and Mike loaded Mardi Gras beads on his head.
+
+NOTES:
+Pretty decent sound for a cass/x. There are moments where it appears the deck was paused...These dropouts were cut as close together as possible (none actually cut any music except for the beginning of Fee) and crossfaded where needed. There was a cut in YEM that was patched using a different transfer (the patch source had far too many dropouts to seed, so it was used for patching where needed) No fancy mastering was performed to the raw cassette transfer files. 24/48 to 16/44.1 conversion done with Wavelab using the 192k Resampler and the Apogee uv22HR units respectively.

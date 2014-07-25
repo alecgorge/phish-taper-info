@@ -1,0 +1,53 @@
+Phish 9/28/91
+The Rink, Buffalo, NY
+Reported Source: Unknown AUD>1CassGen>DAT>CDR
+
+Disc #1:
+
+Set One:
+1. The Landlady>
+2. Bouncin' Around the Room
+3. Chalkdust Torture
+4. Squirming Coil
+5. My Sweet One
+6. Stash
+7. Eliza
+8. Foam
+9. Brother
+10. Golgi Apparatus
+11. Memories/Crowd
+
+
+Disc #2:
+
+Set Two:
+1. Llama
+2. Guelah Papyrus
+3. Sparkle
+4. Cavern
+5. Run Like an Antelope
+6. Lawn Boy
+7. Lizards
+8. Poor Heart
+9. Magilla
+10. Mike's Song>
+11. I Am Hydrogen>
+12. Weekapaug Groove
+ENCORE:
+13. Contact>
+14. Big Black Furry Creature from Mars
+
+SHOW NOTES: "Before Llama, an award was presented for 
+longest distance traveled for any Phish gig to Henry Petras, who traveled to Amy's 
+Farm from Palo Alto, California. During Weekapaug, Trey soloed while riding through the
+crowd on rollerblades. BBFCFM featured "I Love Lucy" theme teases, and Antelope featured
+an early Simpsons Signal. After Brother, Trey wished a happy birthday to "Dmitri." Eliza 
+was played for the first time since November 24, 1990 (82 shows)." - couresy of the 
+Phish Companion.
+
+Show Seeded By Crossland/Carll
+
+***NOTES***
+Had to re-shn this show. There was extra header info on every file, which was stripped using shntool. The Sets were reconstructed, then severe sound processing was performed to try to balance the mix out a little better. The bottom end of Mike and Fish was boosted, using my UltraLowExtender (still in development stages)....Also, the balance of the recording was a whole 20 degrees off center axis. This was corrected in the transfer stage by adjusting the mixer to center the soundstage. The show was retracked to two discs. Final mix measurements performed on the files using REBA before sending the files through my finalizer for re-shn'ing and burning.
+
+Mr. Marmar 4/22/2003

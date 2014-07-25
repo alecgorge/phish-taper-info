@@ -1,0 +1,49 @@
+Phish 6/10/89 - Set I
+The Living Room
+Providence, RI
+
+Source: SBD>CassX (recorded in 10/94)
+
+Transfer: Dennon DRW-840> Sony PCM-r500 at 44.1> Audiophile 2496> CD Wave Editor> FLAC on 11/18/04 by EEE
+
+Disc 1  - Set I:
+t01 - Antelope
+t02 - McGrupp->
+t03 - Ya Mar
+t04 - You Enjoy Myself
+t05 - Ac DC\Bag*
+t06 - Foam
+t07 - Good Time Bad Times
+
+*Cool Edit Pro append used to join AC/DC Bag together where tape flip occured.
+
+This may not be 6/10. My tape was labelled The Living Room in Providence 6/89. 6/10 is the only Living Room show they played in June, though I can find no setlist for 6/10. They say after GTBT they will be back for another set, so definetly a two set show. If anyone can clarify this please do so.
+
+Shntool Output:
+
+    length     expanded size   cdr  WAVE problems filename
+     0:17.02        3003548    ---   --   -----   ph1989-06-10s1d1t01.wav
+     9:57.05      105322604    ---   --   -----   ph1989-06-10s1d1t02.wav
+     8:31.70       90305084    ---   --   -----   ph1989-06-10s1d1t03.wav
+     7:35.47       80372588    ---   --   -----   ph1989-06-10s1d1t04.wav
+    19:12.23      203266940    ---   --   -----   ph1989-06-10s1d1t05.wav
+     3:33.12       37601468    ---   --   -----   ph1989-06-10s1d1t06.wav
+     8:42.01       92083196    ---   --   -----   ph1989-06-10s1d1t07.wav
+     5:37.66       59602076    ---   --   -----   ph1989-06-10s1d1t08.wav
+    63:27.01      671557504 B                     (totals for 8 files, 1.0000 ov
+erall compression ratio)
+
+CHECKSUMS:
+509933104b4507b37931c0e0bdd2d350 *ph1989-06-10s1.flac16.md5
+91c6fd94a7329f5075e340b42169bf3f *ph1989-06-10s1.txt
+9a286068f842e06f96600efb1f8db090 *ph1989-06-10s1d1t01.flac
+4030a9695f766ebb93635e6b60713864 *ph1989-06-10s1d1t02.flac
+c4c18e661d408ef9a537b2ee36c4bf81 *ph1989-06-10s1d1t03.flac
+81b392733998c03af0bcebd186a2ebae *ph1989-06-10s1d1t04.flac
+32e6d460ee3f0bfc3d01b786aafc5633 *ph1989-06-10s1d1t05.flac
+a97d13b3c67cd4f213073bd5004c6bb8 *ph1989-06-10s1d1t06.flac
+a61486293a47a98db2c045bea54d5af9 *ph1989-06-10s1d1t07.flac
+464277b88243086ad0579980f15c4e56 *ph1989-06-10s1d1t08.flac
+
+No errors occured.
+

@@ -1,0 +1,62 @@
+Phish
+Portland Expo
+Portland, ME
+2/3/93
+
+Source: Sennheiser 421 > Sony TCD-D3 > CD
+Conversion: EAC (Secure Mode) > WAV > ShnTool > FLAC (1.7.1)
+All tracks were extracted with 100% quality.
+
+Debut of Page's Baby Grand Piano!
+
+Disc 1:
+Set I
+01. Loving Cup*
+02. Rift
+03. Fee
+04. Llama
+05. Wedge*
+06. Divided Sky
+07. I Didn't Know
+08. My Friend, My Friend
+09. Poor Heart
+10. Guelah Papyrus
+11. David Bowie
+
+Disc 2:
+Set II
+01. Runaway Jim
+02. It's Ice
+03. Tweezer
+04. Horse >
+05. Silent in the Morning
+06. Sparkle
+07. You Enjoy Myself**
+08. Life Boy*
+
+Disc 3:
+Set II con't
+01. H.Y.H.U > Terrapin > Big Ball Jam > H.Y.H.U.***
+02. Possum
+Encore:
+03. Amazing Grace****
+04. Tweezer Reprise****
+
+
+* - Debuts
+** - contains My Girl tease and alternate lyrics "Water your team in a beehive, I'm a sent you".  
+This happened due to Mike's response in a previous Döniac Schvice when someone asked "What are the lyrics in You Enjoy Myself?" posted to Mike's Corner.
+*** - Dedicated to Sarah who was taking care of Marley because he was "too old and fat to come on tour anymore."
+**** - Spliced in from a master cassette audience source.
+
+I received this show as thanks from Kevin Shapiro for filling a void in the Phish archives, Wetlands 6/9/90 that many of you have been enjoying.
+It appears that there was an analog deck in the beginning of this chain since there are short drop-outs (due to tape flips) at the end of I Didn't Know
+and in the middle of YEM.  There is no hiss whatsoever on this source, so it definitely was recorded to a digital media.
+Kevin used the master cassette audience source to smooth out the transition between Divided Sky and I Didn't Know.
+I fused together the cut in YEM using Sound Forge 6.0 at 12:07.  Kevin also supplied the fillers which sound like MCS or CS1 sources.
+
+A HUGE THANK YOU to Kevin Shapiro for hooking me up with my first show : )
+
+Conversion by Chris Warren (hip_school_preppie@yahoo.com)
+Seeded on BT.Etree.org on 12/09/2004 by Mark Kerchoff (Mark@Kerchoff.com)
+Enjoy!

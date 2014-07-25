@@ -1,0 +1,69 @@
+Phish
+07/20/2013
+Northerly Island Pavilion
+Chicago, IL
+
+**16 bit**
+
+Source: DPA 4023>Sonosax SX-M2>Sound Devices 722 (24/96)
+Config/Location: ORTF/FOB/DFC 6' stand
+Transfer: 722>Firewire>Macbook>
+Sound Studio 3.6(fades, normalize peak, +gain, track)>
+Wave Editor 1.5.7 (iZotope Resampler/MBIT+ Dither)>
+xACT 2.23(align on sector boundaries, encode, tag, fingerprint)>flac16 (level 8 )
+Taped & transferred by: Lenny Stubbe
+
+Set I: (1:19:03)
+
+01. intro
+02. Prince Caspian>
+03. Twist>
+04. Ha Ha Ha>
+05. Possum
+06. Cities
+07. Lawn Boy
+08. I Didn't Know>
+09. Rift
+10. Destiny Unbound>
+11. My Friend
+12. Kill Devil Falls>
+13. Cavern>
+14. David Bowie
+
+Set II: (1:10:36)
+
+01. intro
+02. Back on the Train>
+03. Mike's Song>
+04. Theme From the Bottom>
+05. Weekapaug Groove
+06. Golden Age>
+07. Waves>
+08. Piper>
+09. Slave to the Traffic Light
+
+Set III: (1:01:08)
+
+01. intro
+02. Meatstick>
+03. Birds of a Feather
+04. Strange Design>
+05. Ocelot>
+06. Light>
+07. Harry Hood>
+08. Good Times Bad Times
+
+09. encore break
+10. Shine a Light
+
+Notes:
+- Oye Como Va tease by Trey in Twist
+- Melt the Guns quotes from Fish in Bowie
+- Dave's Energy Guide tease in Light
+- This was a 3 set show due to the night before being cut short due to severe thunder storms.
+- Mic stand was lowered approximately 1' at the beginning of Golden Age through the remainder of set II to shelter them from the rain. 
+Rain drops can be heard in spots during this period.
+
+Seeded to etree on:
+
+07/21/2013

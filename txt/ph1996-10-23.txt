@@ -1,0 +1,39 @@
+PHiSH - 10/23/96
+Hartford Civic Center, Hartford, CT
+
+source: B&K 4021s > EAA PSP-2 > DA-P1 > D(1) - ORTF / OTS (row 2 center)
+transfer: Tascam DAP1 > M-Audio 24/96 via Coax SPDIF > Wavelab (fades, normalize, sample rate conversion) > CD-WAV > SHNv3
+
+transfer by shakedown@furthurnet.org on 11/08/03
+
+DISC ONE
+
+set I:
+01. PYITE
+02. Poor Heart
+03. AC/DC Bag
+04. Foam
+05. Ragtime Gal
+06. Character Zero
+07. Rift
+08. Theme from the Bottom
+09. Run Like An Antelope
+
+DISC TWO
+set II:
+01. Brother
+02. Yamar
+03. Tweezer
+04. Lizards
+05. Llama
+06. Suzy Greenberg
+07. Slave to the Traffic Light
+08. Julius
+
+DISC THREE
+encore:
+01. Chalkdust Torture
+
+Show Notes: Second set and encore with Bob Gullotti on drums.  Read Charlie Dirksen's Tweezer review here: http://www.phish.net/reviews/tweezer/10-23-96.html
+
+Anomolies: there was a small glitch in AC/DC Bag, I did my best to repair it, however it's still audible.

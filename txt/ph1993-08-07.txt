@@ -1,0 +1,78 @@
+Phish 8-7-93
+Darien Lake Performing Arts Center - Darien Center, NY
+
+Source: AUD (FOB)>AKG460b/ck61>Custom Preamp>Sony D10>Sony D7
+Taped on a tripod from section c, row 15, seat 128, set at
+7ft height until midway through set 1, then lowered to ~6ft.
+Transfer: Sony DTC-670>Zoltrix Nightengale via optical cable>
+Samplitude v5.32(48>44.1)>CDwav v1.6>mkwACT v.97b1 (seek
+tables appended) *No DAE*
+
+Edits: None (all fades occur on master DAT)
+
+Taped by Tom McMinn and Robert Brown <rshn@twcny.rr.com>, 
+Transferred and seeded via Dankseeds by Brian Feller 
+<getjams@yahoo.com>
+
+Disc 1				72:48
+Set 1
+01. Llama*			05:14
+02. Bouncing Around The Room>	03:36
+03. Poor Heart>			02:21
+04. Stash->			12:23
+05. Makisupa Policeman		05:56
+06. Reba@			10:53
+07. Maze			09:22
+08. Col. Forbin's Ascent>	05:48
+09. Roller Coaster of the Mind>	05:47
+10. The Famous Mockingbird	06:23
+11. Cavern%			05:03
+
+Disc 2 *Requires an 80min disc*	78:40
+Set 2
+01. 2001>			04:02
+02. Mike's Song->		08:46
+03. Irish diddy->&		02:22
+04. KUNG>			01:54
+05. Mike's Song			01:49
+06. TMWSIY>			03:40
+07. Alvenu Malkenu>		03:05
+08. The Sloth			03:34
+09. Sparkle			03:59
+10. My Friend My Friend>#	07:58
+11. McGrupp->			10:56
+12. Purple Rain>HYHU		07:03
+13. Run Like An Antelope	10:32
+14. Crowd			03:04
+Encore:
+15. Carolina			01:46
+16. La Grange			04:52
+
+*fades in during drum intro - on master DAT
+@Reba whistling occurs during the Maze intro
+%before the last rave-up chord, Trey asks everyone to stop by
+the Greenpeace table and give Steph a Happy Birthday hug
+&with language (Aw Fuck!, Oom Pah Pah)
+#acoustic guitar intro
+
+Show Notes: Reba was performed without the whistling ending. To compensate, there 
+was some whistling during the Maze opening. The narration in Forbin's dealt with 
+the "Roller Coaster of the Mind." Mike's Song contained a Fingerscrape Signal and 
+an Oom Pa Pa Signal.
+
+____________________________________________________________________________
+
+*Dankseed Certification received 01-06-06*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph93-08-07/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________

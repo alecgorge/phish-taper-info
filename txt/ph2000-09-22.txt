@@ -1,0 +1,50 @@
+Phish
+September 22, 2000
+Allstate Arena - Rosemont, IL
+
+Source: 	DAUD/FOB Schoeps MK4V (ORTF) > KC-5 Actives > CMC6 > 
+		Lunatec V2 > Apogee AD-1000 > Sony TCD-D8  @ 48kHz
+		(1st generation clone of master used in below transfer)
+		
+Conversion: 	Sony PCM-R500 > AM Presto II Coax > Delta Di0 2496 > 
+		Samplitude v5.5 > CDwav > mkwACT v0.97 
+		(shn files have seek tables appended) **No DAE at all** 		
+
+Detailed info:	Recording was done fob/dfc 50' from stage in hat by Chris O. & Tom T..
+		
+Huge thanks to Chris for the clones.
+Transferred, Encoded, and Seeded by Matt Edlhuber <medlhuber@hotmail.com>.
+Please contact me with questions etc.  
+
+Set I:
+Disc 1
+01: Down with Disease
+02: Meat ->
+03: Poor Heart ->
+04: Wilson ->
+05: Slave to the Traffic Light
+06: Dogs Stole Things
+07: Bathtub Gin
+08: Heavy Things
+	Total: 68:33
+
+Disc 2
+01: You Enjoy Myself
+Set II:
+02: Tube
+03: Reba
+04: Ghost ->
+05: The Wedge
+	Total: 61:09
+
+Disc 3
+01: When the Circus Comes to Town
+02: Meatstick
+03: Run Like an Antelope
+encore:
+04: Bold As Love
+	Total: 34:53
+
+Comments: 
+Meat was unfinished.
+Meatstick included japanese lyrics and the audience finished the son

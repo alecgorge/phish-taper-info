@@ -1,0 +1,107 @@
+Phish 06/19/95 	Deer Creek Amphitheater - Noblesville, IN
+
+Source: 	DAUD/OTS Schoeps CMC5/mk4 > Aerco > Casio DA-R100@48k
+		Master(on DA-R100 listed above) > clone used in below transfer
+		
+Conversion: 	R500 > Canare Coax > Sek'd Prodif Plus > Soundforge 5.0 
+		(fade in/out/48>44.1 at highest setting[4of4]
+		with anti-alias filter) > CD Wave > SHNv3 via Monkey's/md5sum.exe
+		(shn files have seek tables appended) **No DAE at all** 		
+
+Transfer was done twice, then inverted over itself to determine transfer 
+errors.  No errors were present or the errors that were present were inaudible and due to
+differing error correction on the DAT playbacks not transfer errors.
+
+Detailed info:	Slight windnoise here and there.
+		See shntool logs below for proof of correct tracking.
+
+Minor Edits:	Fades in/out beg/end of sets--5 sec in all cases.
+
+Taped by Jason Frankhouser, with the gear of Adam Gross.
+The DATs (clones from the master) for this transfer were supplied by Franklin Malemud.
+Transferred and uploaded by Jim Raras <jraras@yahoo.com> via Dankseeds
+Please contact me with questions etc.  There are also 48k shn's of this seed for archival.
+
+____________________________________________________________________________
+
+*Dankseed Certification received 2002-06-16*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph1995-06-19.mk4-ots/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________
+
+
+
+Disc 1 / Set I 			                        	     01:18:50
+01. Theme From the Bottom
+02. Poor Heart
+03. AC/DC Bag
+04. Tela
+05. Punch You in the Eye
+06. Reba
+07. Strange Design
+08. Rift
+09. Cavern
+10. Run Like an Antelope
+
+Disc 2 / Set II 			                      	     01:11:27
+01. Simple ->
+02. David Bowie
+03. The Mango Song
+04. Loving Cup
+05. Sparkle
+06. You Enjoy Myself
+
+Disc 3 / Set II con't & Encore		                      	     00:25:59
+01. Acoustic Army
+02. Possum
+03. Encore Break/Crowd
+04. A Day in the Life
+
+Show Notes: Bowie featured a Mind Left Body tease from Trey.
+
+Setlist from "The Phish Companion" http://www.mockingbirdfoundation.org/setlists/
+
+F:\ph1995-06-19.mk4-ots.beta.shnf\ph1995-06-19d1.shnf>shntool len *.shn
+    length     expanded size   cdr  WAVE  probs   filename
+    11:58.25     126714044     ---   --    -xx    ph1995-06-19d1t01.shn
+     2:39.50      28165244     ---   --    -xx    ph1995-06-19d1t02.shn
+     9:01.45      95538284     ---   --    -xx    ph1995-06-19d1t03.shn
+     6:48.55      72100604     ---   --    -xx    ph1995-06-19d1t04.shn
+     7:30.05      79391804     ---   --    -xx    ph1995-06-19d1t05.shn
+    16:32.65     175141724     ---   --    -xx    ph1995-06-19d1t06.shn
+     2:57.30      31293404     ---   --    -xx    ph1995-06-19d1t07.shn
+     5:51.30      61987004     ---   --    -xx    ph1995-06-19d1t08.shn
+     4:19.45      45793484     ---   --    -xx    ph1995-06-19d1t09.shn
+    11:12.45     118646684     ---   --    -xx    ph1995-06-19d1t10.shn
+    78:52.20     834772280 B                      (totals for 10 files)
+
+F:\ph1995-06-19.mk4-ots.beta.shnf\ph1995-06-19d2.shnf>shntool len *.shn
+    length     expanded size   cdr  WAVE  probs   filename
+     6:21.00      67208444     ---   --    -xx    ph1995-06-19d2t01.shn
+    23:43.40     251111324     ---   --    -xx    ph1995-06-19d2t02.shn
+     7:05.30      75040604     ---   --    -xx    ph1995-06-19d2t03.shn
+     5:42.55      60458204     ---   --    -xx    ph1995-06-19d2t04.shn
+     3:51.10      40771964     ---   --    -xx    ph1995-06-19d2t05.shn
+    24:39.15     260930924     ---   --    -xx    ph1995-06-19d2t06.shn
+    71:23.00     755521464 B                      (totals for 6 files)
+
+F:\ph1995-06-19.mk4-ots.beta.shnf\ph1995-06-19d3.shnf>shntool len *.shn
+    length     expanded size   cdr  WAVE  probs   filename
+     3:41.00      38984444     ---   --    -xx    ph1995-06-19d3t01.shn
+    14:16.00     150998444     ---   --    -xx    ph1995-06-19d3t02.shn
+     1:35.00      16758044     ---   --    -xx    ph1995-06-19d3t03.shn
+     6:26.65      68243324     ---   --    -xx    ph1995-06-19d3t04.shn
+    25:58.65     274984256 B                      (totals for 4 files)
+
+
+

@@ -1,0 +1,45 @@
+Phish
+10-15-94
+Oak Mt. Ampitheater, Pelham, AL
+
+Source: Audio Technica 822>Sony D8
+
+Extraction/Compression: CD-R>EAC>Monkey's Audio
+
+CD/Set 1:
+01. Wilson
+02. Sparkle
+03. Simple->
+04. Maze
+05. Glide
+06. Reba
+07. Down With Disease
+08. Golgi Apparatus 
+
+CD/Set 2:
+01. Also Sprach Zarathustra->
+02. Runaway Jim
+03. Halley's Comet->
+04. Scent of a Mule
+05. You Enjoy Myself->
+06. Catapult->
+07. You Enjoy Myself
+08. Amazing Grace
+09. Foreplay*->
+10. Long Time*
+11. Bouncing Around the Room
+12. Suzy Greenberg 
+
+Encore:
+13. Drums->
+14. Jam^->
+15. The Maker^# 
+
+Dave Matthews Band opened.
+*Acoustic.
+^With Dave Matthews Band.
+#First time played.
+
+ABOUT MAC (MONKEY'S AUDIO): In order to decompress the .ape files, you
+will need to download MAC (http://www.monkeysaudio.com). MAC has a
+built in file verifying tool. so there is no need for md5's.

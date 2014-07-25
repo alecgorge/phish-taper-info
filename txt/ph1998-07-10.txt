@@ -1,0 +1,69 @@
+Phish
+07/10/98
+Zeleste
+Barcelona, Spain
+
+:::::SOURCE:  
+AKG C1000 on 2.2m stand, in TS just behind Paul's mixer > DA P1 > Master DAT; taped by Aldo Torre
+
+:::::LINEAGE:
+Master DAT > Fostex D5 + Tascam DA20mkII > Alf's First Gen Clone
+
+:::::TRANSFER:
+Alf's DAT (First Gen Clone) > Fostex D5 > optical cable > HOSA ODL-276 > coax cable > Waveterminal 2496, hardware downsampling to 44.1KHz > CoolEdit 2000 > CDWave 1.6 > WAV > mkwACT 0.97b1 > SHN v3 
+
+:::::CREDITS:
+Taped by Aldo Torre.  Transferred, tracked, initially critiqued, and seeded thru Dankseeds by Jeff Ishaq <jishaq@earthlink.net>.  Thanks to Alf & Aldo for the DAT! Thanks also to Matt Vernon for fixing up fades.
+
+___________________________________________________________________________
+
+*Dankseed Certification received 2002-03-30*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph98-07-10_AKGC1000
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________
+
+
+07-10-98 Zeleste, Barcelona, Spain 
+
+Disc One: [55:07]
+Set I: 
+01.  [10:59] Down with Disease
+02.  [04:26] Dogs Stole Things#
+03.  [05:00] The Divided Sky#*
+04.  [03:38] Mike's Song#** (0:27) 
+Set II:
+05.  [05:05] Halley's Comet -> 
+06.  [12:56] Jam > %
+07.  [06:56] Roggae
+08.  [06:03] Sparkle#***
+
+Disc Two: [69:11]
+01.  [10:05] Mike's Song -> 
+02.  [12:33] Simple -> 
+03.  [09:53] Jam -> 
+04.  [12:37] Weekapaug Groove
+05.  [05:03] Sample in a Jar 
+06.  [06:49] Good Times Bad Times 
+Encore:
+07.  [03:38] Brian and Robert
+08.  [08:30] Taste 
+
+#Loud PA problems in each of these songs. 
+*Trey forgets some of the guitar parts; aborted after a particularly bad PA glitch. 
+**Aborted due to PA problems. Set 1 ends early so the crew can work on the PA. Trey promises a long second set, right up to the curfew. 
+% First Tube tease during Jam (realize that First Tube was debued 9/9/99, more than a year later) - Jeff Ishaq
+***Aborted due to PA problems. Trey asks the road crew to turn the monitors around to face the audience and just use them as a PA. While they work, Trey, Mike, and Fish each tell a joke. Trey asks Fish to tell the Prison Joke (see 04-11-91 and 03-24-93), but the sound system is finally ready to go. Trey says, "Let's try this one again," and they begin "Mike's Song." During "Mike's Song", the road crew fixes the monitors [parts of the PA were still working]. 
+
+
+Jeff Ishaq & Matt Vernon 03/06/02 
+Burlington, VT

@@ -1,0 +1,73 @@
+Phish
+December 12, 1997
+Pepsi Arena
+Albany, NY
+
+source:
+(FOB) Schoeps mk4 > Sonosax SX-M2 > Sony SBM-1 > Sony TCD-D8 (@ 48 kHz)
+recorded from row 14
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > r8brain v1.9 (resample to 44.1 kHz) > CD Wave v1.97 (track splits) > Samplitude SE v9.1.1 (fades) > FLAC v1.2.1 (Level 8)
+
+recorded by Dan Haugh
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded February 8, 2009
+
+note:
+FLAC tags added with metaflac v1.2.1
+The original 48 kHz files from the DAT transfer have been archived and are available upon request.
+Thanks to Eliot Byron for letting me borrow his DATs.
+
+Disc 1 - [65:05]
+Set I
+01 - [06:55] - Funky Bitch ->
+02 - [10:51] - 2001 >
+03 - [05:16] - Camel Walk
+04 - [11:11] - Taste >
+05 - [04:37] - Bouncing Around the Room
+06 - [15:56] - Tweezer >
+07 - [02:59] - Train Song
+08 - [07:20] - Character Zero
+
+Disc 2 - [65:42]
+Set II
+01 - [12:01] - Saw it Again ->
+02 - [19:37] - Piper >
+03 - [01:15] - Swept Away >
+04 - [02:18] - Steep >
+05 - [18:24] - Prince Caspian ->
+06 - [05:22] - Izabella >
+07 - [03:36] - Tweezer Reprise
+08 - [03:10] - encore break
+
+Disc 3 - [25:08]
+Set II continued
+01 - [10:42] - Guyute
+02 - [14:26] - Run Like An Antelope
+
+Show Notes: The jam out of Caspian bore a similarity to Llama. 
+____________________________________________________________________________
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     6:55.17          69.85 MB  ---   --   ---xx   flac  0.5255  ph1997-12-12d1t01.flac
+    10:51.15         109.55 MB  ---   --   ---xx   flac  0.5083  ph1997-12-12d1t02.flac
+     5:16.31          53.23 MB  ---   --   ---xx   flac  0.4817  ph1997-12-12d1t03.flac
+    11:10.49         112.82 MB  ---   --   ---xx   flac  0.5048  ph1997-12-12d1t04.flac
+     4:36.66          46.58 MB  ---   --   ---xx   flac  0.4958  ph1997-12-12d1t05.flac
+    15:55.49         160.77 MB  ---   --   ---xx   flac  0.4981  ph1997-12-12d1t06.flac
+     2:58.50          30.06 MB  ---   --   ---xx   flac  0.3998  ph1997-12-12d1t07.flac
+     7:20.23          74.07 MB  ---   --   ---xx   flac  0.5385  ph1997-12-12d1t08.flac
+    12:00.43         121.22 MB  ---   --   ---xx   flac  0.4824  ph1997-12-12d2t01.flac
+    19:36.61         197.97 MB  ---   --   ---xx   flac  0.5064  ph1997-12-12d2t02.flac
+     1:15.35          12.70 MB  ---   --   ---xx   flac  0.4093  ph1997-12-12d2t03.flac
+     2:18.00          23.22 MB  ---   --   ---xx   flac  0.4355  ph1997-12-12d2t04.flac
+    18:24.00         185.72 MB  ---   --   ---xx   flac  0.4849  ph1997-12-12d2t05.flac
+     5:22.05          54.18 MB  ---   --   ---xx   flac  0.5391  ph1997-12-12d2t06.flac
+     3:35.48          36.28 MB  ---   --   ---xx   flac  0.5338  ph1997-12-12d2t07.flac
+     3:09.68          31.95 MB  ---   --   ---xx   flac  0.4138  ph1997-12-12d2t08.flac
+    10:41.54         107.96 MB  ---   --   ---xx   flac  0.4859  ph1997-12-12d3t01.flac
+    14:25.61         145.65 MB  ---   --   ---xx   flac  0.5180  ph1997-12-12d3t02.flac
+   155:55.00        1573.78 MB                           0.4981  (18 files)

@@ -1,0 +1,31 @@
+
+Phish
+12/17/1988
+Stone Church
+Newmarket, NH
+Set I - Only
+
+Source: SBD > Cass > Cass (XLII) > Goldwave 44k (via Tascam 202 MK III) > mkw (shn)
+
+Notes:
+1. Slight bass boost and high end trim during RIP
+2. Pitch correction: 45 fine tune (side a) 60 fine tune (side B) 
+3. Analog flip after Slave (quick fade on applause)
+4. Not sure about the Divided start -- sounds cut??
+5. Set was close to 82 minutes on RIP, but after pitch correction is only 79 minutes and will fit on an 80 minute CD.  How's that for serendipity?
+
+I haven't seen this show around, so I figured I'd use it for my first seed.  The quality is as good as anything I've heard from this era.
+
+ph1988-12-17d1t01-divided.shn
+ph1988-12-17d1t02-yem.shn >
+ph1988-12-17d1t03-slave.shn
+ph1988-12-17d1t04-foam.shn
+ph1988-12-17d1t05-possum.shn
+ph1988-12-17d1t06-forbin.shn >
+ph1988-12-17d1t07-mockingbird.shn >
+ph1988-12-17d1t08-bowie.shn
+
+Cheers,
+
+-jg
+

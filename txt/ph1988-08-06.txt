@@ -1,0 +1,47 @@
+Phish
+August 5, 1988
+The Roma
+Telluride, CO
+
+
+Source:		Master SBD > Cass(0) > DAT
+
+Conversion:	Archive Python DDS/dat2wav > .wav; no soundcard
+		Soundforge for resampling (*no DAE at all)
+		Louie Rendek <ljr7@po.cwru.edu>
+
+		CDWAV used for tracking by Mike Woellert <dmbnum41@aol.com>
+
+WAV > SHN:	mkwACT > SHN: Mike Woellert <dmbnum41@aol.com>
+
+*********DO NOT CONVERT TO MP3*************
+
+
+Disc 1
+1. La Grange				- 06:24.12
+2. You Enjoy Myself >			- 17:28.26
+3. Cities > DEG > Citeis		- 06:55.30
+4. Take the A-Train			- 06:23.11
+5. Funky Bitch				- 05:22.48
+6. Dinner and a Movie*			- 03:37.10
+7. Fire  				- 05:25.33
+
+
+Disc 2
+1. Set II Intro				- 00:54.29
+2. Golgi Apparatus >			- 05:28.41
+3. AC/DC Bag				- 11:57.36
+4. Satin Doll				- 05:14.33
+5. Sanity				- 08:03.19
+6. Big Black Furry Creatures from Mars	- 04:55.72
+7. Slave to the Traffic Light**		- 04:04.07
+
+
+Compiled by Mike Woellert 10/26/01
+-Notes
+*-Dinner and a Movie abruptly ends at the 3:37 mark, than goes into Fire
+**-DAT cuts off.  Must have run out.
+
+All in all, a pretty sweet show.....besides the fact that songs cut out...it's a nice older show, and definitely worth giving a listen to.   Lots of talking by Trey, and interaction...sounds like there's about 6 people at the show
+
+Thanks to Mark Lynn for the DAT, and Louie Rendek for the conversion!!!!!!!!

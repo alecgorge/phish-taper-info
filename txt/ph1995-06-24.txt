@@ -1,0 +1,46 @@
+Phish
+6-24-95
+The Mann Music Center
+Philadelphia, PA
+
+Source: Neumann U87 (no other source info given)
+
+Transfer: DA-20 mkii->Delta Dio 2496->Soundforge 6.0 (resampled 48>44.1 on highest accuracy setting w/anti alias filter)->CDWAV->shntool->shn
+Transfer by: Brandon Johnston -- http://db.etree.org/bisq
+
+
+Disc 1: 
+-Set I-
+1.Fee >
+2.Rift
+3.Spock's Brain
+4.Julius
+5.Glide
+6.Mound
+7.Stash
+8.The Horse >
+9.Silent in the Morning
+10.The Squirming Coil
+
+Disc 2:
+-Set II- 
+1.Also Sprach Zarathustra > 
+2.Halley's Comet > 
+3.David Bowie
+4.Lifeboy
+5.Suzy Greenberg
+6.Harry Hood
+7.Acoustic Army
+8.Sweet Adeline
+9.Golgi Apparatus
+
+Disc 3: (can be combined with disc 1 to fit the show on two cdrs)
+-Encore-
+1.crowd noise
+2.Bold As Love
+
+Show Notes: After Acoustic Army, Trey thanked the crowd for being so quiet. The band then proceeded to don surgical masks for Adeline. The masks were provided by a fan in the front - Trey thanked him for the "hats." The encore was preceded by a Random Note Signal.
+
+Tech Notes: Fades were added in soundforge 6.0. There was crowd noise missing between the second set and encore on my dat. I used a crossfade in soundforge to make the shift less abrubt.
+
+Flaw Notes: There was a dropout in stash at 9:59.868 that I edited out using soundforge 6.0.

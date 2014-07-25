@@ -1,0 +1,27 @@
+Phish
+11/3/83
+Slade Hall Basement, University of Vermont - Burlington, VT
+
+Source: Aud > cass/2 > DAT
+Conversion: DA-P1 > Fiji > Sound Forge 4.5 > CD Wave > SHN v3
+Conversion and Encoding by Mike Wren <mikew@etree.org> 11/3/00
+
+Thanks Shaggy for the seed!
+
+--------------------------------------------------------------
+http://etree.org - The standard in lossless audio distribution
+--------------------------------------------------------------
+
+01  Ignition Sequence					(00:30)
+02  The Midnight Hour (Wilson Pickett)			(06:22)
+03  Wild Child (Lou Reed)				(05:20)
+04  St. Stephen Jam > Bertha (Grateful Dead)		(13:39)
+05  Can't You Hear Me Knockin' (Rolling Stones) *	(09:39)
+06  Camel Walk						(01:17)
+07  Eyes of the World > (Grateful Dead)			(17:54)
+08  Whipping Post (Allman Brothers)			(16:03)
+
+*With "St. Stephen" (Grateful Dead) jam. 
+
+Total Time: 70:44
+

@@ -1,0 +1,61 @@
+Phish
+03-17-92 
+Lisner Auditorium - Washington, DC 
+
+Set I and first 4 songs of Set II:
+Source: SBD > DAT > Cass/3
+Transfer: Sony TC-KA3ES > DSP24 > Wavelab 24/48wavs (mastering) > FLAC16
+
+Transfer, mastering and FLAC16 by Marmar- imthemarmar@gmail.com
+
+Tweezer through the end:
+Source: B+K 4011 (XY-90 degrees) > Sony D-10 Pro
+Transfer: Fostex D5 > Tascam CDRW 700 > CDR (master) > EAC > SHN
+
+DAT>CD Transfer by Mark Lynn
+SHN Conversion by Ben Mohr (bmohr@udel.edu)
+
+Disc One:
+Buried Alive 
+Possum
+Cavern
+Sparkle 
+It's Ice
+I Didn't Know
+The Divided Sky//
+//Guelah Papyrus/
+Rift
+Bouncing Around the Room
+Run Like an Antelope
+
+Disc Two:
+Runaway Jim
+Glide 
+The Sloth
+Poor Heart/
+(start B+K source)
+5. Tweezer >                 (11:17)
+6. Esther                    (08:58)
+7. Mike's Song ->            (06:39)
+8. I Am Hydrogen ->          (03:06)
+9. Weekapaug Groove          (05:40)
+10. Cold as Ice ->           (01:07)
+11. Love You^ ->             (03:49)
+12. Cold as Ice              (00:40)
+13. Llama                    (05:23)
+-Encore-
+14. Memories                 (01:01)
+15. Sweet Adeline            (02:00)
+
+* with Secret Language signals 
+** with Henrietta on vacuum
+^ Fish introduces band - on piano, Mr. Page McConnell...on the bass, 
+   Mr. Michael Gordon...on the tubs, Mr. Ernest Giuseppie Anastasio
+
+Notes:
+-Great sounding show!!
+-Memories and Sweet Adeline were performed without amplication; therefore, the 
+  volume is low, so just crank up your stereo (but be aware of the crowd noise!!)
+
+Fixes:
+-d2t01 1:27.728-1:27.752 Removed static in R channel with SF4.5 pencil tool.

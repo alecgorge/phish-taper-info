@@ -1,0 +1,88 @@
+Phish
+June 13th, 2010
+Hersheypark Stadium
+Hershey, PA
+
+Taper: Timothy Brown (timothydavidbrown@gmail.com)
+Source: AKG C460Bs/CK 63-ULS (DINa, OTS, LOC, on stand ~10')->Kind Kables->Naiant LittleBox->Segue Dogstar Silver-Clad Interconnect->Edirol R-09HR (24 bit/96 kHz)
+Transfer: SDHC -> PC
+Processing: Fade in, fade out, dithered to 16 bit, resampled to 44.1 kHz & tracking using SoundForge 9.0.
+Conversion: FLAC frontend 1.7.1 used to align on sector boundaries and for Flac16 Conversion @ level 8
+Tagging: Band name, Venue and Song Title in Foobar2000
+
+*****************************************************************
+********* PLEASE SPREAD, BUT PLEASE INCLUDE SOURCE INFO *********
+****** DO NOT SELL OR DISTRIBUTE FOR A PROFIT BY ANY MEANS ******
+*****************************************************************
+
+Set I
+01. Intro
+02. Gotta Jibboo
+03. Chalkdust Torture
+04. Fluffhead
+05. Funky Bitch
+06. Runaway Jim >
+07. NICU
+08. Horn
+09. It's Ice
+10. Bouncing Around the Room
+11. Sparkle
+12. Split Open and Melt
+
+Set II 
+13. Intro
+14. Drowned ->
+15. Tweezer ->
+16. Twist
+17. Piper ->
+18. Free
+19. Wading in the Velvet Sea
+20. You Enjoy Myself
+21. Encore Break
+22. Bold as Love
+
+Sound Check 
+23. Sugar Shack (fades in)
+24. Burn That Bridge
+
+Notes:
+Soundcheck sourced from Edirol R-09HR Internal Mics (24 bit/96 kHz). Stood side stage outside the gates.
+Thanks to Keith for rolling up with me!
+Shout outs to grill master Frank!!
+Shout out the Jeff & Phelps!
+Thanks to Steve for the clamp space!
+
+A 24 bit/96 kHz version exists.
+
+*****************************************
+****Please support artists and venues****
+************that allow taping************
+*****************************************
+
+phish.com
+timothydavidbrown.blogspot.com
+
+phish2010-06-13t01.flac:339be912a7f32e41711b97066f830fd4
+phish2010-06-13t02.flac:86a593f619c55a8211c4f2c752abeae0
+phish2010-06-13t03.flac:acf4c126c530f2296cb7510b57b98a5e
+phish2010-06-13t04.flac:9e8d0449f3cd77e6460e7500a715bfd8
+phish2010-06-13t05.flac:ede0d70e56d133ce95152eaf1a08ab77
+phish2010-06-13t06.flac:aa88aeb2c8da0bb04d0a93df0b170bce
+phish2010-06-13t07.flac:24e570b46e520b072f445b9df723b73d
+phish2010-06-13t08.flac:daa19d7c208b1c64d748df35ac66e0eb
+phish2010-06-13t09.flac:bd2052af96b8c29df8f2a1ae4a05b668
+phish2010-06-13t10.flac:a700f3e92249a55938f09b1bd8deae17
+phish2010-06-13t11.flac:a9310f8da26018c271be0ea9559a2d31
+phish2010-06-13t12.flac:ad389b43c7b6ad7eacf0a6aa31acd176
+phish2010-06-13t13.flac:c8c42773094ce05174b07507fc2bc8e0
+phish2010-06-13t14.flac:4696b4a35ea18bdc0bcee21c100a2797
+phish2010-06-13t15.flac:3b6b8c78717d0827022ec2ef7d3f5525
+phish2010-06-13t16.flac:a0a2233635a96feb8e804e81308f280f
+phish2010-06-13t17.flac:349108be2b4877457dfbc35bc5de79c5
+phish2010-06-13t18.flac:aba174b3f9da56f1f1b43855d6ead1f2
+phish2010-06-13t19.flac:2b93f7f2cc877dd426c7481ad977bce0
+phish2010-06-13t20.flac:e293a2e1fc354bffecc4fb3ca3670f41
+phish2010-06-13t21.flac:390c79f98a2c2b83d9aa52146492b050
+phish2010-06-13t22.flac:494c9ae05592efe823b0a2277722d549
+phish2010-06-13t23.flac:aa2945230765438f8d0b649bed3f4494
+phish2010-06-13t24.flac:d32549fa1f63d36bce351840e57c7418

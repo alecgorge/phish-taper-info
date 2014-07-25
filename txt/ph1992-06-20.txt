@@ -1,0 +1,32 @@
+Phish
+06-20-92
+Waldbuhn - Nordheim, Germany
+opening for Lou Reed and the Violent Femmes
+
+Source: SBD > Cass/1 > DAT
+A>D Transfer: Marantz PMD430 > Sony DTC ZE700 (w/SBM) @44.1kHz
+DAT>SHN Transfer: Tascam DA-302 > Coax > Dio 24/48 > CDWav > mkwACT > SHN
+
+A>D and DAT>SHN transfers by Blane Harvey
+Fixes by Ben Mohr (bmohr@udel.edu)
+
+------------------------------------
+ Disc 1:                    (41:33)
+------------------------------------
+1. Buried Alive             (02:07)
+2. Bouncing Around the Room (03:50)
+3. Foam                     (07:35)
+4. Runaway Jim              (06:36)
+5. It's Ice                 (08:18)
+6. Horn                     (03:45)
+7. HYHU ->                  (00:58)
+8. Love You > HYHU          (04:03)
+9. Llama                    (04:21)
+
+Notes: 
+-some mic reverb at beginning of d1t01 (from venue SBD)
+
+Fixes:
+-Applied Cool Edit Pro hiss reduction of 12dB based on floor sample taken between d1t01/t02
+-Boosted high shelf above 11kHz by 3 dB
+-Normalized show to 98%

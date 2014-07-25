@@ -1,0 +1,50 @@
+phish
+lawrence joel coliseum
+winston-salem, nc
+1997-11-23
+
+set 1
+
+disc 1
+My Soul, 
+Theme From the Bottom > 
+Black-Eyed Katy, 
+Sparkle, 
+Twist Around, 
+Stash > 
+NICU, 
+
+disc 2
+Fluffhead, 
+Character Zero
+
+set 2
+
+disc 3
+Bathtub Gin > 
+Down With Disease > 
+Low Rider > 
+Down With Disease, 
+Bold As Love, 
+crowd
+E: Julius
+
+source: akg460b/ck61>b18>sbm1>D7, (OTS) by JK
+transfer: DAT(1)>cd(1)>eac>flac, by john m 2007-07-16
+
+phish1997-11-23d1t01.flac:978481cb9b8fc8e6cc67a2a1ad96d74c
+phish1997-11-23d1t02.flac:61cabffe7caf59729c2e2d7600817e86
+phish1997-11-23d1t03.flac:4995b9962a33b45d53bc70be2c664b88
+phish1997-11-23d1t04.flac:a38b68e0bdc4e9e56d26a751b3e68544
+phish1997-11-23d1t05.flac:a498506d25adca1b714e5ee85d2ee32a
+phish1997-11-23d1t06.flac:825678954844048995ddcebba0d30d91
+phish1997-11-23d1t07.flac:8a710ed736fc2581441ebccdd16d2810
+phish1997-11-23d2t01.flac:6944ed66fd7715d9e3c9b2b990000f97
+phish1997-11-23d2t02.flac:bd44056f5c436b59306f3428dd00be73
+phish1997-11-23d3t01.flac:d910ee551e9e23d10442c9cae06a1897
+phish1997-11-23d3t02.flac:56d24bf2911a540df290232cfc0b39aa
+phish1997-11-23d3t03.flac:0c654207310491cf493bcbaddadd7d93
+phish1997-11-23d3t04.flac:f1cbe3b0ec8a74df8999720a95edab2e
+phish1997-11-23d3t05.flac:c990fc6929565a00ba18a92e4818b2be
+phish1997-11-23d3t06.flac:660239077824253e4b5a0dcf339e122d
+phish1997-11-23d3t07.flac:b484ddc5e170d2842cc818c2c478e844

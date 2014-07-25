@@ -1,0 +1,77 @@
+Phish
+8.10.97
+Deer Creek Amp.
+Noblesville, In
+
+Source:
+DFC TS > Schoeps Cmxy-4v > Audio Magic Apprentice Cables > 
+Lunatec 316 > A/D 1000 > Da-P1 > D7 (Patch from Nutter)
+
+Transfer:
+Fostex D5 @ 48k > Vx Pocket 440 > Toshiba Protege 3480ct > SF 7.0 >
+(normalized,fades,resampled to 44.1 @ highest setting) > Cd Wave > Flac 
+
+Props For A Raging Summer Tour:
+Marc Nutter, James Gray, Mikey K, Jimbo, Guido, Matt Henley & Rob Garland
+
+Note:
+There was some minor diginoise at the very end of Hood on my dat. A quick
+fade out was applied to delete it.  Also there was a pause between Set II
+& the Encore, fades were also applied here as well.
+
+Disc 1/Set Ia
+1.Bathtub Gin >
+2.Sparkle
+3.Down With Disease
+4.Dirt
+5.Cars, Trucks & Busses
+6.Billy Breathes
+
+Disc 2/Set Ib
+1.Split Open & Melt*
+2.Bye Bye Foot >
+3.Ginseng Sullivan
+4.Harry Hood
+
+Disc 3/Set II
+1.Cities** >
+2.Good Times, Bad Times >
+3.Theramin Solo >
+4.Rotation Jam*** >
+5.Rocko William >
+6.David Bowie#
+-Encore-
+7.Cavern
+
+*With a "Third Stone from the Sun" (Jimi Hendrix) jam. 
+**With "Listen to the Music" (Doobie Brothers) jam. 
+***Page to Theremin (solo), Trey to keyboards, Mike to guitar,
+Page to bass, Mike joins Trey on keyboards, Trey joins Fish on drums, 
+Mike takes piano solo, Fish to guitar...and into "Rocko William." 
+#With a long intro (9 min).
+
+ph1997-08-10d1t01.flac:3eaecb0101ca527c5d1d3614f17a5549
+ph1997-08-10d1t02.flac:63421fe2988553c8c6533550d9a7b1b6
+ph1997-08-10d1t03.flac:ec08bdbbe241654bf781645b8daed1db
+ph1997-08-10d1t04.flac:665e959b838ab2ea8aec90c7374dd00a
+ph1997-08-10d1t05.flac:87a825eb9c2b80850e6aa8b9c12382c1
+ph1997-08-10d1t06.flac:0359986680ac6606aca9aa83588048be
+ph1997-08-10d2t01.flac:da862cb262bb826c6e52fc25e4457b69
+ph1997-08-10d1t01.flac:3eaecb0101ca527c5d1d3614f17a5549
+ph1997-08-10d1t02.flac:63421fe2988553c8c6533550d9a7b1b6
+ph1997-08-10d1t03.flac:ec08bdbbe241654bf781645b8daed1db
+ph1997-08-10d1t04.flac:665e959b838ab2ea8aec90c7374dd00a
+ph1997-08-10d1t05.flac:87a825eb9c2b80850e6aa8b9c12382c1
+ph1997-08-10d1t06.flac:0359986680ac6606aca9aa83588048be
+ph1997-08-10d2t01.flac:da862cb262bb826c6e52fc25e4457b69
+ph1997-08-10d2t02.flac:8ac59e959e86792baf1f38f5bf07bbbc
+ph1997-08-10d2t03.flac:c97a5dcb390c11487f5b5415b00cf1b3
+ph1997-08-10d2t04.flac:7d18551387cceef39168b61081036e8d
+ph1997-08-10d3t01.flac:e9191c1fc01684e60111a87c25370413
+ph1997-08-10d3t02.flac:e09da4b4e7299c25311b0c14d57cfccd
+ph1997-08-10d3t03.flac:82c01179f3b9832d5de25d351f119a5b
+ph1997-08-10d3t04.flac:4222a75a0ee14b6774bdb2db1be14e0e
+ph1997-08-10d3t05.flac:63f8268d46d4b3463ae162a978d35c9d
+ph1997-08-10d3t06.flac:5d2e1b487d43857347398681bac302db
+ph1997-08-10d3t07.flac:1a801ff8f77ed3e6b4902aa1f7b798da
+

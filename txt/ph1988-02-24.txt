@@ -1,0 +1,38 @@
+Phish
+02-24-88 (uncertain)
+Gallaghers - Wattsfield, VT
+
+Source: 	aud>c0>dat NakCR-1A>A7
+
+Transfer: 	Conversion: Sony PCM-R500 > Audio Magic Presto II 
+	    	Delta Di0 2496 > Soundforge 4.5 (48>44.1) > 
+		cdwav > MKWact (SHNv3)
+
+Disc 1
+Set I
+(Funky Bitch)
+(Fluffhead)
+The Curtain > (cut)
+You Enjoy Myself
+banter
+I Didn't Know
+Lizards
+Wilson >
+Peaches en Regalia
+Golgi Apparatus
+Slave to the Traffic Light
+Corrina
+Fee
+David Bowie (cut)
+	Total: 78:51
+
+Disc 2
+Set II
+intro
+Mustang Sally*
+Sneakin Sally Through the Alley*
+Sanity
+LaGrange
+Harry Hood
+
+*with John Caltron

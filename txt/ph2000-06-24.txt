@@ -1,0 +1,61 @@
+phish
+lakewood amph.
+atlanta, ga
+2000-06-24
+
+set 1 (~69 min.)
+
+disc 1
+01-Moma Dance >
+02-Runaway Jim, 
+03-Bouncing Around the Room >
+04-Tweezer, 
+05-Strange Design, 
+06-Cavern
+
+set 2 (~100 min.)
+
+disc 2
+01-Birds of a Feather, 
+02-Bug, 
+03-My Sweet One, 
+04-Run Like An Antelope, 
+05-Frankie Says, 
+06-Carini, 
+07-Squirming Coil, 
+08-Prince Caspian, 
+
+disc 3
+E: 
+01-Guyute, 
+02-Inlaw Josie Wales, 
+03-Driver, 
+04-Tweezer Reprise
+
+source: akg460b/ck61>V2>SBM1>D8>D7, by JK, john m patch
+transfer: DATmaster>cd(1)>eac>cdwave>flac, by john m
+
+Show Notes: My Sweet One (first since July 17, 1999, or 63 shows) was botched, 
+which led to band introductions from Trey and extended solos from Fish, Mike, 
+and Page. Tweezer included an I Know You Rider (traditional, though a Dead 
+concert staple) tease.
+
+fingerprint:
+phish2000-06-24d1t01.flac:9f801d88c4cb09c632a6f8f0559090b2
+phish2000-06-24d1t02.flac:1fc361f783d03b3ae95d7d9c8288af6b
+phish2000-06-24d1t03.flac:1c9084bfee60ee7b12740bc466805d91
+phish2000-06-24d1t04.flac:6b0386c2d79fdf9f80608bce7b25043f
+phish2000-06-24d1t05.flac:789efebf98464186f67a4ab6e9308194
+phish2000-06-24d1t06.flac:644c99308a6036b222c25714f52b9a4b
+phish2000-06-24d2t01.flac:eaa836dfca690b5693f5539f5596cb14
+phish2000-06-24d2t02.flac:e3849ff93dccdfaf79e2e4e1d25d7ad2
+phish2000-06-24d2t03.flac:0c9d78f66c7ef57143ee99108f9389e4
+phish2000-06-24d2t04.flac:2ad466927ed650a83512621505a6fce3
+phish2000-06-24d2t05.flac:254f099237eb9e76bd000b8ad6f073ff
+phish2000-06-24d2t06.flac:3d6a08334c03bb73e9401c4351239458
+phish2000-06-24d2t07.flac:93202ed783495db94550218ec9ca4d6c
+phish2000-06-24d2t08.flac:26d1e91a3d108cdd534eb4a3e55eb12a
+phish2000-06-24d3t01.flac:2a021a6db9f80d18bbb41b383446a660
+phish2000-06-24d3t02.flac:17794128e15a1107e707352b7a22a3da
+phish2000-06-24d3t03.flac:27b7415e657810df22ed3259757e0b21
+phish2000-06-24d3t04.flac:a11c12b8e534f84116ca5372792a8d7a

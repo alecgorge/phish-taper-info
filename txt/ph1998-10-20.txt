@@ -1,0 +1,55 @@
+Phish
+10/20/98
+Sessions @ West 54th St
+NYC, NY
+
+source: soundboard>dat>cd>eac>mkACT(shn)
+
+1.  Sleep
+2.  Frankie Says >
+3.  Ghost
+4.  Roggae
+5.  Guyute
+6.  Wading in the Velvet Sea
+7.  Driver*
+8.  Albuquerque*
+9.  Birds of a Feather
+10. Piper
+11. Taste
+
+Show Notes: This intimate show, performed in front of roughly 200 
+fans and industry executives, was a taping for the PBS television 
+show Sessions. Sleep and Driver were performed acoustic. Trey made 
+jokes about the length of Guyute, remarking that the show could cut 
+to four commercial breaks and the band would still be playing the 
+same song. Taste was played after Trey took the crowd's requests 
+for the final song. When the show was aired, only Birds, Ghost, 
+and Taste were broadcast, with interviews interspersed between songs.
+
+SHN>WAV>FLAC
+By CrazyEd
+
+ph1998-10-20t01.flac:c3386e9bb9cb52d27298652225218b2f
+ph1998-10-20t02.flac:11cc566cad042e0ebed0cf03639d0047
+ph1998-10-20t03.flac:0b43cd48bd4076f969805c2112a755c8
+ph1998-10-20t04.flac:2ea3d85b287ddd730c6e2302341633c5
+ph1998-10-20t05.flac:200ee3a2309f373ddf3bec146c3544fd
+ph1998-10-20t06.flac:9f5c61a4fff4e3aed02f921589e7278b
+ph1998-10-20t07.flac:742b7f1c9b6f84e9ba5dfa0344562ea7
+ph1998-10-20t08.flac:f5b3b156c0efd304e82b7163c3d26039
+ph1998-10-20t09.flac:04433c150614df4e3234957d92d34566
+ph1998-10-20t10.flac:125a2febfd99db6b41ff3739701a3af8
+ph1998-10-20t11.flac:ec9f1baa07b129a914754632926ebe93
+
+Original SHN MD5s
+495e64a037a33f614d55f9737a5beb6a *ph98-10-20t01.shn
+cc21431fc37b965c0dbb51b1144d94a7 *ph98-10-20t02.shn
+3dab1fbb564f170250877a9bbd643243 *ph98-10-20t03.shn
+2ab433025e71f111b5e9d8b8ea81b6e7 *ph98-10-20t04.shn
+d809391a01ed26846c04168f5804c6ea *ph98-10-20t05.shn
+abf74dbc749bce375b3cdae32585adae *ph98-10-20t06.shn
+3da8e0ef469e9c14bfcdc71956b976cb *ph98-10-20t07.shn
+1a880769d718f521407280cba7f43354 *ph98-10-20t08.shn
+c62019132f44aec3b22429fdd5ea2d77 *ph98-10-20t09.shn
+1f9255076c4f3cbfceecc135df19cb25 *ph98-10-20t10.shn
+a4b0456f80b3aa1828a63382896caea9 *ph98-10-20t11.shn

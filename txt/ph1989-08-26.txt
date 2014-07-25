@@ -1,0 +1,46 @@
+Phish
+August 26, 1989
+Townsend Family Park
+Townsend, Vermont
+
+- Source is an analog cassette of very high gen
+- Audio source is very likely a SBD
+- A>D via an old tape deck -> HHB 
+- Tracking performed in Audacity
+- FLAC conversion via Trader's Little Helper
+
+Set Two (Disc 1)
+1. The Fishin' Hole (Andy Griffith Theme song)
+2. Bold As Love
+3. Ya Mar
+4. Slave
+5. AC/DC Bag
+6. Donna Lee
+7. Funky Bitch >
+8. Foam
+9. David Bowie
+
+Set Three (Disc 2)
+1. TMWSIY >
+2. Avenu Malkenu 
+3. Suzy Greenberg
+4. Dinner and a Movie
+5. Antelope (Paint It Black tease) (fades out at end)
+
+Great thanks to KEN RUGG who contacted Phish.net to inform us that The Spreadsheet was missing a copy of this show, and offered up his copy. Yes, this show circulates as LIVE PHISH VOL. 9, in much, much higher quality than this tape. But Kevin Hoy, the man behind The Spreadsheet, would like there to be something for this show for folks to download, even if it is poor quality (as this is). If even one person downloads this, listens to it, decides they want to hear it in excellent quality, and purchases LIVE PHISH VOL. 9, then I'll consider this effort worth it.
+
+This tape would probably have received a C-/D+ quality rating on my old tapelist. It's listenable, but only to those with a high tolerance for hiss (i.e., whose ears have been subjected to incredible amounts of hiss and wow and flutter over the years). I had to massively goose the levels for the transfer, and so there is an ocean of hiss in this recording. But this show's Antelope is excellent, and these sets are worth a listen, if only for you to either (A) hear how bad analog cassette tapes of Phish shows could sound back in the day, and/or (B) determine whether you want to buy LIVE PHISH VOL. 9. -charlie
+
+ph19890826d1t02.flac:161e8ec78928de02d6d61990c9ea73f2
+ph19890826d1t03.flac:aa62cfd9510b6bba19309dfcb1b78169
+ph19890826d1t04.flac:de8fe826c497ada67cc2e8553f83e3d8
+ph19890826d1t05.flac:120ad53ee2f223e9f1ed68a02cd76567
+ph19890826d1t06.flac:dd8f11b87c598f96128947e69a9fe09a
+ph19890826d1t07.flac:92469ff9fef61b48898d3ef9d9a7df8b
+ph19890826d1t08.flac:2f4b6fc09890b125572d8652be44c82f
+ph19890826d1t09.flac:d2d183226cb19c04bf7c7fb957b6d8b3
+ph19890826d2t01.flac:f23927170b1742405644c410f93c9bfe
+ph19890826d2t02.flac:b4821141020d7b46810f7beadc955eb6
+ph19890826d2t03.flac:1958f28ccbc82de3d86ef43dfe5569a1
+ph19890826d2t04.flac:a003e67613261b2d75a35bbb993abbb5
+ph19890826d2t05.flac:fd23d84597b3bb6965709233c725e448

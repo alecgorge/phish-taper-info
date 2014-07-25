@@ -1,0 +1,52 @@
+Phish
+July 2, 1994
+Garden State Arts Center
+Holmdel, NJ
+
+Source:		FOB B+K 4011
+
+Transfer:	Fostex D5 -> optical cable -> HOSA ODL-276 -> digi coax cable -> 
+		EgoSys Waveterminal 2496 -> CoolEdit 2000 (resample, fades, fix) -> 
+		CD Wave v1.71 -> mkwACT 0.97b1
+
+Fixes:		20.220 second dropout @1:30.636 in d2t14 (Rift) in right channel only.
+		replaced that portion with clean left channel 
+
+transfered by: Jason Sobel (jasonsobel@hotmail.com)
+Big thanks to Blane Harvey for letting me borrow his DATs.
+
+Remaster: 	SHN -> xACT 1.58 -> WAV -> Logic Express (Remaster, levels,) -> xACT 1.58
+
+remastered by: Joshua Fleetwood (jfleetwood@gmail.com)
+Thanks to Phishhook for your ears
+
+
+==Disc 1==	total...(66:14.492)
+Set 1:
+1)  Golgi Apparatus		(04:32.173)
+2)  The Divided Sky		(15:18.440)
+3)  Guelah Papyrus		(05:59.680)
+4)  Fast Enough For You		(06:45.546)
+5)  Scent of A Mule		(07:14.360)
+6)  Tweezer ->			(10:58.960)
+7)  Lifeboy			(08:32.320)
+8)  Sparkle			(03:47.733)
+9)  Tweezer Reprise		(03:05.280)
+
+
+==Disc 2== 	total...(78:47.010)
+Set 2:
+1)  2001 ->			(04:18.893)
+2)  Mike's Song ->		(06:21.226)
+3)  Simple ->			(04:23.800)
+4)  Mike's Song ->		(01:47.733)
+5)  Yerushalayim Shel Zahav ->	(01:24.240)
+6)  I Am Hydrogen ->		(03:00.200)
+7)  Weekapaug Groove		(11:17.920)
+8)  McGrupp and The W.H.	(09:34.160)
+9)  Maze			(10:53.613)
+10) Sample In a Jar		(04:48.493)
+11) Slave To The Traffic Light	(09:43.533)
+12) Highway To Hell		(03:25.360)
+13) encore break		(01:42.693)
+14) Rift			(06:11.146)

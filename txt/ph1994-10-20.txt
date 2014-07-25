@@ -1,0 +1,69 @@
+Phish
+10-20-94
+Mahaffey Theatre, St. Petersburg, FL 
+--------------------------------------------------------------------------------------------
+This show is included in the 1994 Phish Project.
+http://people.atl.mediaone.net/danmarq/1994_phish_project.html
+----------------
+
+Source:         DFOB: AKG 460>DAT
+
+Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                Soundforge 5.0b (48KHz->44.1KHz at highest setting [4 of 4],
+                with anti-alias filter)-> CD Wave 1.62-> mkwACT v0.97
+                **No DAE at all**
+
+Minor Edits:	Fades in/out at the start/end of set.
+----------------
+Transferred by Dan Marquardt <danmarq@msn.com>, please contact me with questions/comments.
+There are also 48KHz shn's of this seed for archival.
+--------------------------------------------------------------------------------------------
+____________________________________________________________________________
+
+*Dankseed Certification received 01-12-21*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph94-10-20fob/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________
+
+CD/Set 1:			66:26
+01. Runaway Jim			08:01
+02. Golden Lady#		04:46
+03. Poor Heart			02:17
+04. Guelah Papyrus		05:48
+05. Split Open and Melt->	08:20
+06. Kung->			02:00
+07. Split Open and Melt		02:39
+08. Esther			09:19
+09. Julius			07:54
+10. Guyute			10:50
+11. Golgi Apparatus		04:27
+
+CD/Set 2: (80 Min. CD)		75:13
+01. Lengthwise->		01:59
+02. Maze			12:28
+03. McGrupp			09:52
+04. Rift			05:52
+05. Harry Hood			22:32
+06. Nellie Cane*		03:34
+07. Foreplay*->			02:36
+08. Long Time*			04:20
+09. Chalk Dust Torture		05:39
+10. Crowd Noise			01:02
+
+Encore:
+11. Sample in a Jar		05:14
+
+--------------------------------------------------------------------------------------------
+
+#First time played.
+*Acoustic.

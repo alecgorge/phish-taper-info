@@ -1,0 +1,62 @@
+phish
+municipal auditorium
+nashville, tn
+1995-11-29
+
+set 1
+
+disc 1
+AC/DC Bag, 
+Ya Mar, 
+Reba, 
+If I Could, 
+It's Ice, 
+Theme From the Bottom, 
+Acoustic Army, 
+Fee, 
+Split Open and Melt
+
+set 2
+
+disc 2
+Timber Ho, 
+Sparkle, 
+Simple, 
+Possum, 
+You Enjoy Myself
+
+disc 3
+Taste That Surounds* > 
+Heart and Soul*, 
+Poor Heart*, 
+Blue & Lonesome*, 
+My Long Journey Home*, 
+Slave to the Traffic Light*, 
+E: A Day in the Life
+
+* with Bela Fleck
+
+source:  akg460b/ck61>b18>denon dtr80p (OTS), by chad and JK
+transfer: DAT master>cd(1), by JK - cd(1)>eac>flac, by john m 2007-07-28
+
+ - phish11-29-95d101.flac:cc1312d5984961d4546314edb578773e
+ - phish11-29-95d102.flac:2a17489bad4269b2b73893d4c4f46105
+ - phish11-29-95d103.flac:c64aefd9a34a338469b9ec5ca2f21baf
+ - phish11-29-95d104.flac:26a972978339f68090106f0e81a6fad1
+ - phish11-29-95d105.flac:312f371b65612cbb2f1a49b3a8000fc5
+ - phish11-29-95d106.flac:23bf3e6a1a977bcc12a9069c9101ec70
+ - phish11-29-95d107.flac:ca5205b609d4d9eb5c016f5f30cb5382
+ - phish11-29-95d201.flac:fd592fdcffcef737f2d84b9e2a23bb44
+ - phish11-29-95d202.flac:ca9d586b7cabd5f5240b15baed958fdc
+ - phish11-29-95d203.flac:3e224e494f8213960df37ffeef3bb494
+ - phish11-29-95d204.flac:a82a13fbb693303ca4629aee34bf24a7
+ - phish11-29-95d205.flac:b233cb7da8a2e5383987bb765a6ac71b
+ - phish11-29-95d206.flac:d1a2e7d95cce98f3720f45f4e489970c
+ - phish11-29-95d207.flac:4dced370b729836a95b1552804cde82e
+ - phish11-29-95d301.flac:a2f3c7ef32a0e38de1f1036bc5573ae5
+ - phish11-29-95d302.flac:5a82d6e31b3c64841a22dfb73d1fa7a8
+ - phish11-29-95d303.flac:593353b16f3177683a9f7268516b8299
+ - phish11-29-95d304.flac:bede9363a40abbb58349c1dc9f8864fe
+ - phish11-29-95d305.flac:29a35fdf80f1994a5ad25b6e548d8801
+ - phish11-29-95d306.flac:65ff7dac8ca9c5175f8242cc6b5ccac0
+ - phish11-29-95d307.flac:9f40af0d338f23e3919e7c1481c2f43d

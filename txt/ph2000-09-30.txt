@@ -1,0 +1,86 @@
+Phish
+September 30, 2000
+Thomas & Mack Center
+Las Vegas, NV
+
+source:
+(FOB) Schoeps mk21 > kc5 > cmc6 > Apogee AD-1000 > Sony TCD-D8 (@ 44.1 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > Samplitude SE v9.1.1 (fades, patch, track splits) > FLAC v1.2.1 (Level 8)
+
+recorded by Mikey K. and Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded January 17, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+Big thanks to Dave for letting me borrow the master DATs!
+
+Disc 1 - [68:49]
+Set I
+01 - [01:47] - set 1 intro
+02 - [07:16] - Walfredo
+03 - [13:42] - The Curtain With
+04 - [11:24] - Maze
+05 - [08:24] - Roggae
+06 - [04:30] - I Didn't Know
+07 - [08:45] - Mike's Song >
+08 - [06:26] - Simple >
+09 - [06:36] - Saw it Again
+
+Disc 2 - [59:37]
+Set I continued
+01 - [09:12] - Esther >
+02 - [11:10] - Weekapaug Groove
+Set II
+03 - [00:27] - set 2 intro
+04 - [07:58] - Timber (Jerry)
+05 - [09:23] - AC/DC Bag
+06 - [14:22] - Colonel Forbin's Ascent >
+07 - [07:04] - The Famous Mockingbird
+
+Disc 3 - [47:52]
+Set II continued
+01 - [10:45] - Twist >
+02 - [12:36] - Sand >
+03 - [06:21] - A Day in the Life
+04 - [04:26] - encore break
+05 - [13:44] - Emotional Rescue
+
+patch notes:
+On Dave's DAT, there was one minor drop-out in "AC/DC Bag".
+The following source was used to splice in the missing portion:
+
+B&K 4011's > Lunatec V2 > Apogee AD-500 > Tascam DA-P1 (@48kHz)
+taped by Ned Struzziero with R. Dalton's gear
+
+The B&K 4011 source was used at the following spot:
+AC/DC Bag: [01:59] to [02:02]
+___________________________________________________________________________
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     1:47.18          18.04 MB  ---   --   ---xx   flac  0.4735  ph2000-09-30d1t01.flac
+     7:16.28          73.41 MB  ---   --   ---xx   flac  0.4655  ph2000-09-30d1t02.flac
+    13:41.49         138.23 MB  ---   --   ---xx   flac  0.5008  ph2000-09-30d1t03.flac
+    11:23.53         115.02 MB  ---   --   ---xx   flac  0.5580  ph2000-09-30d1t04.flac
+     8:24.22          84.84 MB  ---   --   ---xx   flac  0.4654  ph2000-09-30d1t05.flac
+     4:29.45          45.35 MB  ---   --   ---xx   flac  0.4920  ph2000-09-30d1t06.flac
+     8:44.72          88.31 MB  ---   --   ---xx   flac  0.5824  ph2000-09-30d1t07.flac
+     6:25.46          64.87 MB  ---   --   ---xx   flac  0.5366  ph2000-09-30d1t08.flac
+     6:35.43          66.55 MB  ---   --   ---xx   flac  0.5676  ph2000-09-30d1t09.flac
+     9:12.20          92.91 MB  ---   --   ---xx   flac  0.4993  ph2000-09-30d2t01.flac
+    11:10.26         112.77 MB  ---   --   ---xx   flac  0.5381  ph2000-09-30d2t02.flac
+     0:26.41           4.47 MB  ---   --   ---xx   flac  0.4930  ph2000-09-30d2t03.flac
+     7:58.21          80.46 MB  ---   --   ---xx   flac  0.4940  ph2000-09-30d2t04.flac
+     9:23.18          94.75 MB  ---   --   ---xx   flac  0.5526  ph2000-09-30d2t05.flac
+    14:22.00         145.01 MB  ---   --   ---xx   flac  0.4976  ph2000-09-30d2t06.flac
+     7:04.30          71.40 MB  ---   --   ---xx   flac  0.5170  ph2000-09-30d2t07.flac
+    10:44.47         108.44 MB  ---   --   ---xx   flac  0.5053  ph2000-09-30d3t01.flac
+    12:36.37         127.26 MB  ---   --   ---xx   flac  0.4957  ph2000-09-30d3t02.flac
+     6:20.41          64.02 MB  ---   --   ---xx   flac  0.5600  ph2000-09-30d3t03.flac
+     4:26.21          44.80 MB  ---   --   ---xx   flac  0.4685  ph2000-09-30d3t04.flac
+    13:43.48         138.56 MB  ---   --   ---xx   flac  0.5295  ph2000-09-30d3t05.flac
+   176:17.51        1779.46 MB                           0.5173  (21 files)

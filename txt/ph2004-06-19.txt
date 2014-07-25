@@ -1,0 +1,53 @@
+PHiSH
+06.19.2004
+Saratoga Performing Arts Center
+Saratoga Springs, NY
+
+Source: Schoeps M222/MK5's(card,DIN,DFC)>NT222>V3>D8
+Transfer: Tascam DA-20mkII>Audiophile2496>Wavelab4.0(48>44.1)>CDwav>FLACfrontend
+
+Taped by Jason Lonchar
+Transfered by Hank Schandel
+
+Disc1
+[Set1]
+01. Reba
+02. Runaway Jim
+03. NICU >
+04. Scents & Subtle Sounds
+05. Wolfman's Brother
+
+Disc2
+01. Walls of the Cave >
+02. David Bowie
+[Set2]
+03. A Song I Heard the Ocean Sing >
+
+Disc3
+01. Piper* >
+02. Gotta Jibboo 
+03. Limb By Limb
+04. Cavern
+[Encore]
+05. (crowd noise)
+06. Wading in the Velvet Sea 
+
+Notes:
+* with Tweezer Reprise tease
+
+
+FLACfingerprint:
+ph2004-06-19d1t01.flac:89d4b683ada5786361bee02596b59b48
+ph2004-06-19d1t02.flac:236e473a406985e2769cf503588cd783
+ph2004-06-19d1t03.flac:b33886ac794abb2fd664008caf9635af
+ph2004-06-19d1t04.flac:259c49586865a46dac6b95c8344c6b96
+ph2004-06-19d1t05.flac:fa86291155d758dc4fc7cb093e5fbc3d
+ph2004-06-19d2t01.flac:ce0729700542a63e18f0b06201515659
+ph2004-06-19d2t02.flac:3d958c9ca46e6c1d510068ff71cf6962
+ph2004-06-19d2t03.flac:f018bf48fe692803057b6e08fbeb522a
+ph2004-06-19d3t01.flac:544c303a685f8b2942429d3336f68325
+ph2004-06-19d3t02.flac:26f750fa0e67d20dee140028da91641e
+ph2004-06-19d3t03.flac:2127f54fa4b7b0142103f408a1efb184
+ph2004-06-19d3t04.flac:2bede0dee79254f422f6ceedc4de088e
+ph2004-06-19d3t05.flac:49e76ba33979457f1f6bd0c6bd15a8a4
+ph2004-06-19d3t06.flac:2102539494659eb61ae0b0169b6ff5db

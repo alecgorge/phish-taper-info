@@ -1,0 +1,57 @@
+Phish
+06/04/09
+Jones Beach Amphitheatre
+Wantagh, NY
+
+Source: {16 bit} TELEFUNKEN Ela m260 tubes (cards, 30cm, 90 degrees, 7') > Lunatec V3 > Sonic AD2K+ > wav @ 24/44.1
+Lineage: CF > Sound Studio (fades, EQ -2.5db @ 160Hz, normalize) > xAct (align on sector boundaries, encode flac16 level 8, tag, fingerprint)
+Recorded by Jesse Hurlburt
+
+-Disc 1-
+Set I
+01 Crowd
+02 Grind
+03 The Divided Sky
+04 Ocelot
+05 The Squirming Coil
+06 Punch You in the Eye
+07 Dirt
+08 NICU
+09 Ghost
+10 Run Like An Antelope
+
+-Disc 2-
+Set II
+01 Water in the Sky
+02 Birds of a Feather
+03 Drowned >
+04 Meatstick
+05 Time Turns Elastic
+06 Waste
+07 You Enjoy Myself
+08 -encore break-
+
+-Disc 3-
+01 Rock and Roll
+
+length expanded size cdr WAVE problems fmt ratio filename
+0:51.11 9022316 B --- -- ---xx phish2009-06-04.m260.d1t01.flac
+2:15.00 23814044 B --- -- ---xx phish2009-06-04.m260.d1t02.flac
+14:35.28 154415900 B --- -- ---xx phish2009-06-04.m260.d1t03.flac
+10:10.10 107627564 B --- -- ---xx phish2009-06-04.m260.d1t04.flac
+7:51.47 83194988 B --- -- ---xx phish2009-06-04.m260.d1t05.flac
+8:15.05 87329804 B --- -- ---xx phish2009-06-04.m260.d1t06.flac
+4:13.09 44650412 B --- -- ---xx phish2009-06-04.m260.d1t07.flac
+5:06.40 54072524 B --- -- ---xx phish2009-06-04.m260.d1t08.flac
+14:15.71 150989036 B --- -- ---xx phish2009-06-04.m260.d1t09.flac
+10:43.05 113437004 B --- -- ---xx phish2009-06-04.m260.d1t10.flac
+3:35.41 38022476 B --- -- ---xx phish2009-06-04.m260.d2t01.flac
+7:39.40 81061724 B --- -- ---xx phish2009-06-04.m260.d2t02.flac
+11:39.61 123447116 B --- -- ---xx phish2009-06-04.m260.d2t03.flac
+8:26.25 89317244 B --- -- ---xx phish2009-06-04.m260.d2t04.flac
+15:59.24 169224092 B --- -- ---xx phish2009-06-04.m260.d2t05.flac
+6:08.68 65075180 B --- -- ---xx phish2009-06-04.m260.d2t06.flac
+20:56.33 221636060 B --- -- ---xx phish2009-06-04.m260.d2t07.flac
+2:35.41 27438476 B --- -- ---xx phish2009-06-04.m260.d2t08.flac
+8:43.26 92318396 B --- -- ---xx phish2009-06-04.m260.d3t01.flac
+164:01.60 1736094356 B 0.5390 (19 files)

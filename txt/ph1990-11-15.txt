@@ -1,0 +1,27 @@
+Phish
+November 15, 1990
+Lengyel Gym, University of Maine
+Orono, ME
+
+Source: Unknown Aud>Cass1>Sont TC-WE305>Acoustic Research AP031 RCAs>Tascam US-122>CDWav>FLAC
+
+Transferred and seeded by james_dineen@yahoo.com
+
+SET ONE ONLY:
+
+01. The Landlady
+02. The Squirming Coil
+03. Runaway Jim
+04. Dinner & A Movie
+05. Bouncing Around The Room
+06. You Enjoy Myself
+07. /Magilla (tape flip misses first note or two)
+08. Buried Alive!
+09. Paul & Silas
+10. Carolina
+11. David Bowie
+
+**Mastering**
+Waves Q10-Paragraphic EQ > BBE > Waves RBass > Waves C4 > 192kHz Stereo ReSampler > Waves L2 > FLAC16
+
+Mastered, tracked and FLAC'd by Marmar 11/2004- imthemarmar@gmail.com

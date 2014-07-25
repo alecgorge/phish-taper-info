@@ -1,0 +1,65 @@
+Phish
+October 8, 1999
+Nassau Coliseum
+Uniondale, Long Island, NY
+
+source:
+(FOB) Schoeps mk4 > kc5 > cmc6 > Sonosax SX-M2 > Apogee AD1000 > Sony D100 (Set I @44.1kHz, Set II @48kHz)
+
+transfer:
+Sony D8 > M-Audio MicroTrack > CF Card > WaveLab 5.01b (fades, resample Set II to 44.1kHz, patch/splice) > CD Wave v1.94.7 > FLAC (level 8)
+
+recorded by Dave Flaschner, Milt, Memphis Mike, and Tony A.
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded 11/13/05
+
+notes:
+unaltered files from the original DAT transfer have been archived, and are available upon request
+
+Disc 1 - [58:22]
+Set I
+01 - [10:20] - Piper (see note below)
+02 - [11:13] - AC/DC Bag
+03 - [07:10] - Suzy Greenberg
+04 - [07:04] - Meat
+05 - [09:15] - Meatstick *
+06 - [13:21] - Run Like an Antelope
+
+Disc 2 - [68:36]
+Set II
+01 - [14:42] - Halley's Comet >
+02 - [20:14] - Tweezer
+03 - [09:09] - Bug
+04 - [09:04] - Fee
+05 - [15:27] - Harry Hood (see note below)
+
+Disc 3 - [33:06]
+Set II continued
+01 - [10:48] - We're Not Gonna Take It **
+02 - [08:18] - Chalkdust Torture
+03 - [02:43] - encore break
+04 - [07:46] - The Squirming Coil
+05 - [03:31] - Tweezer Reprise
+
+
+* Page's wife Sofi Dillof joined in the dance
+** First time played; from The Who's "Tommy"; with Tom Marshall on vocals and stage antics
+
+Show Notes: Sofi Dillof joined the band for the Meatstick Dance. We're Not Gonna 
+Take It (from The Who's Tommy; not the Twisted Sister song) debuted with Tom Marshall 
+singing and performing various stage antics. Tweezer included a brief Sand tease and 
+a jam somewhat akin to My Left Toe. The Coil outro included a Bug tease from Mike. 
+
+NOTE:
+Unfortunately, the FOB tapers were shut down during Harry Hood.
+I have spliced in the following source to complete the show:
+DPA 4011's > V2 > Apogee AD500 > DA-P1 (recorded by Ron Dalton)
+Starting at 11:58 in Harry Hood, and the rest of the show after that, is from the DPA 4011 source.
+
+Also, in Piper, there was one point where the levels probably got bumped up mistakenly,
+and the right channel was heavily clipped.  I used the DPA 4011 source to replace this short segment,
+for a length of approximately 20 seconds starting at 04:18.
+
+One other thing to note about the DPA 4011 source is that the overall recording level is louder.
+For the patch in Piper, I adjusted the levels on the DPA source to match the Schoeps, so the patch would be smoother.
+For the splice in Harry Hood, and everything after the splice, I left the DPA source levels as orginally recorded.

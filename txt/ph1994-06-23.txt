@@ -1,0 +1,49 @@
+
+Phish 6-23-94
+Phoenix Amphitheater, Pontiac, MI
+
+Source:  AKG 460b's -> B18 -> D10proII @ 48 Khz
+
+Transfer:  DAT->PC (dat2wav w/error correction)
+           48->44.1 via CoolEdit Pro v1.2 @ 999 qs with Pre/Post Filter
+           Adam Shiffman - adam@rift.com [09/04/02]
+
+ This is a great show, but this recording has some problems.  There was a pretty bad storm that night, and the wind and rain show up on the tape at times.  Otherwise, it sounds pretty darn good.  Unfortunately I do not remember which capsules were on the mics that night and I didn't write it down - sounds like the hypers to me.
+
+Last NICU - 5-7-92 (254 shows) [http://www.ihoz.com]
+
+The Silent in the Morning is played without Horse, as Horse was played 2 nights earlier in Cincinatti when the Fire Alarm went off.
+
+Disc 1:
+
+Set I:
+
+
+1)  Buried Alive 
+2)  Poor Heart 
+3)  Split Open and Melt 
+4)  NICU  
+5)  Foam 
+6)  Bouncing Around the Room
+7)  Down With Disease 
+8)  Silent in the Morning
+9)  Punch You in the Eye 
+10) Julius 
+
+Disc 2 (requires 80 minute disc, or put Frankenstein on d1)
+
+Set II:
+
+1)  Frankenstein
+2)  David Bowie
+3)  The Mango Song >
+4)  Axilla [Part II]
+5)  Uncle Penn
+6)  Tweezer
+7)  Lifeboy >
+8)  Slave to the Traffic Light 
+
+Encores: 
+
+9)  Sparkle >
+10) Tweezer Reprise 

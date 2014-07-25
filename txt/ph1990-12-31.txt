@@ -1,0 +1,86 @@
+Phish
+Boston World Trade Center
+Boston MA
+12/31/90
+
+Source: Unknown Aud > Cass (gens unknown)
+Transfer: Playback JVC TD-w354 > CDWAv > Audacity 1.2.4 > Flac16
+
+Transfer By: Taperwayne (taperwayne@yahoo.com)
+
+Special Thanks to Jon (JJ) williams for the source tapes!!!!!!
+
+Disc 1
+Set I
+
+1. Suzie Greenberg
+2. Divided Sky
+3. I Didn't Know
+4. The Landlady
+5. Bouncin Around The Room
+6. My Sweet One
+7. Mikes Song >
+8. I Am Hydrogen >
+9. Weekapaug Groove
+10. Auld Lang Syne
+11. Buried Alive >
+12. Possum
+
+Disc 2
+Set II
+
+1. Golgi Apparatus
+2. Stash
+3. The Squirming Coil
+4. Runaway Jim
+5. Magilla
+6. You Enjoy Myself
+7. Rocky Top
+8. HYHU >
+9. If I Only Had A Brain >
+10. HYHU >
+11. Run Like An Antelope
+
+
+Notes: Set I was on a Maxell XLII. Set II was on a UR-90
+       You'll hear the slight difference in quality at the beginning of Magilla.
+       Crossfaded tape flip during "New Years Eve"
+       Tape flip edited between Runaway Jim and Magilla
+       YEM: Several instances of static from the source tape. There was one
+       I could not repair, so I left it in, so as to not cut out a section of
+       the song. You'll notice it, but it only lasts a second. There is also
+       a crossfaded tape flip during the vocal jam toward the end (see if you
+       can find it!)
+       The two tracks from 12/29/90 also apprear not to circulate, so I left
+       them on.
+       This is a rarer show, and is not perfect, but will do until a better
+       source turns up!
+
+
+***FLAC FINGERPRINTS*****
+
+5b041d08f74ed8f6f4795cac452c3166 *ph1990-12-31d1t01.flac
+71e3df92e86ba5d22d5258122798708b *ph1990-12-31d1t02.flac
+7a234fd597fc21649119708528841c8a *ph1990-12-31d1t03.flac
+70a0f5b80543159de5b134899c2bd9f7 *ph1990-12-31d1t04.flac
+d9a43ca565371a0c3bf41d948b0fa195 *ph1990-12-31d1t05.flac
+8da1c99b7a7ea72053ae69bed6687cc0 *ph1990-12-31d1t06.flac
+1c35d3f9fdc099fa79b6b4dd56e71d68 *ph1990-12-31d1t07.flac
+b7694f01aff0843d36923ec2fa2917c9 *ph1990-12-31d1t08.flac
+06663d16dba7b8cc5c4e1282f3f421b0 *ph1990-12-31d1t09.flac
+624e5b5f3dcd00a5c7a920f7650b4e68 *ph1990-12-31d1t10.flac
+0668b7f41cccd7478063b96fa13ec365 *ph1990-12-31d1t11.flac
+00cf3b51a0323b338f9acff491fa7065 *ph1990-12-31d1t12.flac
+cf2edeeff3cdb337bde9a008c6a5c450 *ph1990-12-31d2t01.flac
+afb41832a4d758cff0c274bf9d065c84 *ph1990-12-31d2t02.flac
+e715b0aec737ceac6b1b96973b56522a *ph1990-12-31d2t03.flac
+c277701aeae9b0ee8271366840d644b5 *ph1990-12-31d2t04.flac
+bbb2e280b45d278800ecebb491624814 *ph1990-12-31d2t05.flac
+ce3ef92a610a062cee4c9b90e8bdc046 *ph1990-12-31d2t06.flac
+a929ba11b835efd8e40ebf1d0a03eea5 *ph1990-12-31d2t07.flac
+1b14fecb80bd8ab8ff2cbbf460289894 *ph1990-12-31d2t08.flac
+575d6c9966207e9cb9af813aa92a2cf3 *ph1990-12-31d2t09.flac
+fc44a0503975aa4ce296516249a15084 *ph1990-12-31d2t10.flac
+1619d2c1f21f07886e8e54fc51c235c1 *ph1990-12-31d2t11.flac
+82c55d1d5fb4bfe3b27cca3a4a8e7c4a *ph1990-12-31d2t12.flac
+e1c074f89d3ae792cfa3cd8b81feeba9 *ph1990-12-31d2t13.flac

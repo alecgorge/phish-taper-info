@@ -1,0 +1,57 @@
+Phish
+11-23-94
+The Fox Theater
+St. Louis, MO
+
+-------------------------------------------------------------------------------- 
+
+Source:         [DAUD; Clone]
+                AKG C1000 -> ?
+
+Conversion:     Tascam DA-20 MkII-> Coax-> Philips CDR-870 (Standalone)->
+                WAV -> EAC (Extracted file as one track) -> CD Wave Editor
+		-> Soundforge 4.5 -> mkwACT (shn)
+                **DAE was used**
+		**When I can afford a good soundcard, DAE will be upgraded
+		=)**
+
+Minor Edits:	Fades (in/out at beginning/end of sets)
+
+----------------
+Transferred by Misunderstood <jrtimko@adelphia.net>, please contact me with 
+questions/comments/suggestions.  Thanks to Dankseeds for the text file format =)
+...it looks perfessional, I like it.
+--------------------------------------------------------------------------------
+
+CD 1/Set 1:				[57:16:48]
+01. Wilson >				[05:16:74]
+02. Sparkle >				[03:36:05]
+03. Simple				[05:27:03]
+04. It's Ice				[09:30:30]
+05. If I Could				[07:53:39]
+06. The Oh Kee Pa Ceremony >		[01:43:68]
+07. Suzy Greenberg			[06:25:01]
+08. The Divided Sky			[15:52:14]
+09. Amazing Grace			[01:31:39]
+	
+------------------------------------------------
+
+CD 2/Set 2:				[53:44:04]
+01. Maze				[11:26:59]
+02. Fee 				[05:21:12]
+03. Scent of a Mule			[08:37:37]
+04. Tweezer				[20:01:05]
+05. Lifeboy				[08:17:41]
+
+------------------------------------------------
+
+CD 3/Set 2 cont:			[37:15:62]
+01. You Enjoy Myself>VoL>YEM		[27:26:66]
+02. Tweezer Reprise			[04:58:48]
+Encore:
+03. Sample in a Jar			[04:50:23]
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Notes and setlist (sans segues) courtesy of The Phish Companion.

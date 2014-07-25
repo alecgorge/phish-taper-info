@@ -1,0 +1,47 @@
+Phish
+Monday, July 22, 2013
+Molson Amphitheatre
+Toronto, ON
+
+Source: Oktava MC-012s (omni, 90*/30cm, 8' up, sec. 405, ROC) > Edirol UA-5 (DIY digi-mod, 44.1kHz) > optical > Creative Nomad JB3 (WAV)
+Lineage: Creative Nomad JB3 > USB > Creative Play Center > CDWav > normalize -b (+4.73dB) > Trader's Little Helper (FLAC Level 8)
+
+d1t01 The Moma Dance >
+d1t02 Chalk Dust Torture
+d1t03 Undermind
+d1t04 Army of One
+d1t05 Halley's Comet >
+d1t06 Twist
+d1t07 Bouncing Around The Room
+d1t08 Stash
+d1t09 Yarmouth Road
+d2t01 Tube >
+d2t02 Ocelot >
+d2t03 Suzy Greenberg
+
+d2t04 Down With Disease >
+d2t05 Also Sprach Zarathustra >
+d2t06 Free >
+d2t07 Piper >
+d2t08 Tweezer >
+d2t09 Silent in the Morning >
+d3t01 Backwards Down The Number Line >
+d3t02 Cavern >
+d3t03 David Bowie
+d3t04 encore break / thanks
+d3t05 Loving Cup >
+d3t06 The Squirming Coil
+d3t07 Tweezer Reprise
+
+Notes:
+1. The track titles were taken from
+   
+   http://phantasytour.com/shows/14265
+
+2. Set I is all of d1 and d2t01 - d2t03. Set II is the rest of d2
+   and all of d3.
+
+3. Big thanks to jagdawg for being there recording with me,
+   and for helping me keep track of what was going on.
+
+Taped and transferred by BradM (bradmcmail@yahoo.ca).

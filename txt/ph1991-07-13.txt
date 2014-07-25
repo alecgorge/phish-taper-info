@@ -1,0 +1,65 @@
+Phish
+Berkshire Performing Arts Center
+Lenox, MA
+7/13/91 
+
+TAPER: John Redmond
+SOURCE AKG 451s > D5 
+
+AUD MCass (Maxell MX 90 min)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +~10dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)>
+Mastering (see notes)> SHN v3
+
+transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 12/23/2003
+Mastering, editing and WAV > SHN were performed on REBA by Arty- imthemarmar@stny.rr.com
+
+**Mastering**
+
++ On the master the levels jump from 00:20:59-> 00:21:50 in Divided Sky. Distortion results.
++ There is a cut at the start of If I Only Had a Brain...almost like the taper paused to save room.
++ All the indicated tape flips and cuts have been either faded or crossfaded.
+**24/48 Masters do exist at the unedited/pre-processed level**
+
+Set 1:
+01. The Curtain >
+02. Runaway Jim
+03. Foam
+04. Llama
+05. Oh Kee Pa Ceremony->
+06. Suzy Greenberg >
+07. Alumni Blues
+08. TMWSIY->
+09. Avenu Malkenu->
+10. //TMWSIY
+11. Split Open and Melt
+12. Bouncing Around the Room
+13. Frankenstein 
+
+Set 2:
+01. //Chalk Dust Torture
+02. Guelah Papyrus
+03. The Divided Sky
+04. Flat Fee
+05. Paul and Silas
+06. Lizards
+07. Stash
+08. HYHU-> Happy Birthday-> 
+09. //If I Only Had a Brain-> HYHU
+10. You Enjoy Myself 
+Encore: 
+11. The Landlady
+
+Show Notes: This show featured The Giant Country Horns from Suzy through the end of the 
+first set and from Guelah through the encore. Trey flubbed the slow, middle section of Divided 
+Sky and humorously remarked that "that was the jazz version." Brain was preceded by Happy 
+Birthday teases and was dedicated to Erica; YEM subsequently included a brief reprise of 
+the tease from Trey. The YEM vocal jam featured Chain Gang teases from Mike.
+
+Notes
+With The Giant Country Horns from Suzy Greenberg to encore.
+
+NO tracking/editing/alterations performed before archiving to 24-bit FLAC
+(except to trim silence from the ends).
+
+Seeded to FurthurNet (www.furthurnet.org)

@@ -1,0 +1,56 @@
+Phish
+07-31-97
+Shoreline Ampitheatre, Mountain View, CA 
+--------------------------------------------------------------------------------------------
+Source:         [DFOB; Master DAT>clone>clone used for transfer]
+                Schoeps MK5 cardioids -> Oade Custom Pre-Amp -> Sony SBM-1 @ 44.1KHz;
+		Section 102; Row M
+
+Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                Soundforge 5.0b (48KHz->44.1KHz at highest setting [4 of 4],
+                with anti-alias filter)-> CD Wave 1.62-> mkwACT v0.97
+                **No DAE at all**
+
+Minor Edits:	Fades in/out at begginning/end of sets, except the start of Set 2.
+----------------
+Transferred by Dan Marquardt <danmarq@msn.com>, please contact me with questions/comments.
+There are also 48KHz shn's of this seed for archival.
+--------------------------------------------------------------------------------------------
+
+CD 1/Set 1a:			70:01
+01. Ghost->			12:28
+02. Ya Mar >			14:04
+03. Dogs Stole Things		04:45
+04. Limb By Limb		12:10
+05. Dirt			03:55
+06. Maze			13:14
+07. Glide			04:22
+08. I Saw It Again		05:03
+
+CD 2/Set 1b:			65:35
+01. You Enjoy Myself		29:50
+
+CD 2/Set 2a:			35:45
+02. Sweet Home Alabama Tease	00:33
+03. Runaway Jim->		23:09
+04. When the Circus Comes	04:53
+05. Vultures			07:10
+
+CD 3/Set 2b:			41:47
+01. McGrupp->			10:04
+02. Mike's Song->		15:13
+03. I Am Hydrogen->		03:02
+04. Weekapaug Groove^		07:55
+05. Crowd Noise			00:56
+
+Encore:
+06. Cinnamon Girl		04:37
+
+--------------------------------------------------------------------------------------------
+
+^Trey thanks Bill Graham Productions and the Phish crew, talks about keeping the spirit of Jerry Garcia
+alive through music, and wishes a Happy Birthday to Jerry Garcia.
+Jerry and the Dead had played many a time at Shoreline, and Jerry's birthday was the next day
+(teases of "Happy Birthday" and "Can't You Hear Me Knocking?" at the end).
+
+____________________________________________________________________________*Dankseed Certification received 01-11-19*and posted at http://groups.yahoo.com/group/dankseeds/files/ph97-07-31fob/Listening test performed by *5* danksterspositive criteria met:Tracking- OKSeamless and complete- OKLineage listed- OKnegative criteria met:DAE- NOResampled- NODiginoise- NO___________________________________________________________________________

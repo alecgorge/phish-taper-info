@@ -1,0 +1,56 @@
+Phish
+2003-07-27
+Alltel Pavilion at Walnut Creek, Raleigh, NC
+
+Source:KM184>PSP-3>Mini-Me>DA-P1
+Recorded by Jeff Killion
+Transfer:DA-P1>VX Pocket>Wavelab>flac>Wav>CDWav>flac
+Transfered by Jeff Killion
+Tracked by Jay Morris
+
+Disc One:
+Set One
+1.Runaway Jim >
+2.Ya Mar
+3.Down With Disease
+4.Divided Sky
+5.Sample in a Jar
+6.Discern
+7.Anything But Me
+8.Llama 
+
+Disc Two:
+Set Two
+1.Ghost
+2.Halley's Comet > 
+3.Seven Below*
+
+Disc Three:
+1.Tube > 
+2.Prince Caspian > 
+3.Also Sprach Zarathustra > 
+4.Fire 
+Encore: 
+6.The Squirming Coil 
+Show Notes: 
+*with Mozambique tease
+Jeff encoded this to flac and sent it to me to track while he was at IT(must be nice),hence the flac>Wav>CDWav>flac in the lineage.
+fades added in soundforge
+
+PH2003-07-27D1T02.flac:98a14c7217d2ea13aace479f1a63f14d
+PH2003-07-27D1T03.flac:13fd74e29882de93950e896fc61a587a
+PH2003-07-27D1T04.flac:881e154898547cfd99c830fbabd4c9d9
+PH2003-07-27D1T05.flac:75dcdb0a4b55ddebc0c8b02ca33b1aeb
+PH2003-07-27D1T06.flac:42bc09373539f2ad260cf3b75e2b1010
+PH2003-07-27D1T07.flac:15c284df86d87bbb628c57755b6efb9b
+PH2003-07-27D1T08.flac:90260b4a813ea43ea3c196c6531745d2
+PH2003-07-27D1T01.flac:1e32e68b6359949fd905b98d96fe1496
+PH2003-07-27D2T02.flac:54f7c89a210a8467141343d1415948e8
+PH2003-07-27D2T03.flac:752e9238064979eb1414196581437b04
+PH2003-07-27D2T01.flac:2fe85ba395ccfad155c0f65be73d43f9
+PH2003-07-27D3T02.flac:7a734d76c77683ae37db4b7ff4da5805
+PH2003-07-27D3T03.flac:0170db7a5c9a00033874726a4e36ca44
+PH2003-07-27D3T04.flac:21a42f2e78a32f2d9d4f9d83e76989b3
+PH2003-07-27D3T05.flac:84013dbfe9fa646eb6b66f5ad095119d
+PH2003-07-27D3T06.flac:343d744b72214c89cfc9542d518f55af
+PH2003-07-27D3T01.flac:cef96cc23e955702254412a610cbf419

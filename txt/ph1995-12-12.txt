@@ -1,0 +1,50 @@
+Phish
+December 12, 1995
+Civic Center
+Providence, RI
+
+source:
+AKG 460B/ck61 > custom pre-amp > Teac DAP-20 (@48kHz)
+
+transfer:
+Sony PCM-R500 > M-Audio MicroTrack > CF Card > usb > pc > WaveLab 5.01b (de-emphasis, fades, resample to 44.1kHz) > CD Wave v1.94.7 > FLAC v1.1.2 (Level 8)
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded February 24, 2006
+
+notes:
+The original DAT recording was made with pre-emphasis.  The Waves 5.0 Paragraphic EQ plug-in was used to de-emphasize the recording.
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+
+Disc 1 - [45:55]
+Set I
+01 - [09:31] - Ya Mar
+02 - [04:51] - Sample in a Jar
+03 - [15:29] - The Divided Sky
+04 - [08:14] - Lifeboy
+05 - [07:51] - Punch You in the Eye
+
+Disc 2 - [35:15]
+Set I continued
+01 - [01:22] - The Horse >
+02 - [05:01] - Silent in the Morning
+03 - [14:06] - Run Like an Antelope
+04 - [02:42] - I'm Blue I'm Lonesome
+05 - [01:26] - Trey talking
+06 - [10:38] - The Squirming Coil
+
+Disc 3 - [78:33]
+Set II
+01 - [00:42] - chess move intro
+02 - [10:04] - Free
+03 - [03:38] - Sparkle
+04 - [31:45] - Down with Disease ->
+05 - [09:56] - The Lizards ->
+06 - [06:58] - Simple
+07 - [09:05] - Runaway Jim
+08 - [01:47] - encore break
+09 - [04:38] - Fire
+
+note:
+Set I total time is 81:10, so it had to be split somewhere.

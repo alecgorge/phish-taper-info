@@ -1,0 +1,29 @@
+Phish
+07-27-93
+Classic Amphitheater - Richmond, VA
+H.O.R.D.E. Festival
+Source: FOB Neumann KM150's > Neumann Power Supply > Panasonic SV-255
+Transfer: Fostex D5 > Tascam CDRW 700 > CDR(x1) > EAC > SHN v3
+DAT>CD Transfer by Mark Lynn
+SHN Conversion by Ben Mohr (bmohr@udel.edu)
+--------------------------------------
+ Disc 1:                      (60:18)
+--------------------------------------
+1. Also Sprach Zarathustra -> (03:33)
+2. Rift                       (05:58)
+3. Stash                      (09:53)
+4. The Squirming Coil         (08:43)
+5. Sparkle                    (03:37)
+6. It's Ice ->                (08:25)
+7. Purple Rain -> HYHU        (06:47)
+8. You Enjoy Myself*          (13:19)
+
+*With John Popper (harmonica) and Chan Kinchla (guitar).
+
+Fixes:
+-Minimized two digizaps d1t08 4:31
+-Normalized show to 98%
+
+Show Notes: This show was part of the HORDE festival. YEM featured Chan Kinchla and 
+John Popper, among other special guests. Popper was lowered onto the stage in his 
+wheelchair and the cord snapped!

@@ -1,0 +1,82 @@
+Phish
+
+12/02/03 Fleet Center, Boston, MA
+
+
+Source: AKG391's(Front Row,OTS,DFC,ATS) -> Edirol UA-5 (Oade warm mod) -> d8 @ 48 Khz
+
+Transfer: d8 -> S/PDIF NVIDIA SoundStorm Dolby Digital Audio -> Soundforge 7.0 (clips removed with noise reduction 2.0 clip peak restoration.  Resampled to 44.1Khz using anti-alias filter and Interpolation accuracy of 4) -> CDWAV -> Flac Frontend 
+
+Taped by: Greg Bloch
+
+Transferred by: Greg Bloch(gbloch27@hotmail.com)
+
+48 Khz flac's also available upon request.
+
+Set I 
+disk 1
+
+t01 Crowd               0:27
+t02 Harry Hood         14:19  
+t03 Cavern              4:58 
+t04 Birds of a Feather 10:32
+t05 Yamar               7:40              
+t06 Horn                3:57
+t07 Piper              15:27
+t08 Anything But Me     5:49
+t09 Water in the Sky    5:59
+t10 Down with Disease   9:22
+                       ----- 
+                       78:30        
+
+Set II 
+disk 2
+t01 Crowd                      0:32
+t02 Rock and Roll ->          17:58
+t03 Weekapaug Groove ->        1:56
+t04 Tweezer Reprise >          3:00
+t05 Frankenstein ->            6:21
+t06 Kung ->                    3:11 
+t07 Frankenstein               1:21
+t08 All of These Dreams        4:46  
+t09 The Wedge                  5:59
+t10 Boogie On Reggae Woman ->  6:10
+t11 Cities >                   4:39
+t12 Maze                      16:53 
+t13 Waste                      6:20
+                              -----
+                              79:06
+Disk3
+t01 crowd                      3:15
+t02 Encore: Bug                9:40 
+t03 crowd                       :46 
+
+
+FLAC Fingerprints
+
+ph2003-12-02d1t01.flac:ca29bea14328252deb266782d5bd4d0c
+ph2003-12-02d1t02.flac:6274a4706f0c25c89ad9a63dc367e8f4
+ph2003-12-02d1t03.flac:cc9815c8bd715bab0a771f5da090e7cd
+ph2003-12-02d1t04.flac:d7c558c846c9e999e8cd81ffd6fb0857
+ph2003-12-02d1t05.flac:163fd52331b43677c523aa850c6d365c
+ph2003-12-02d1t06.flac:2a36a2ea2d63c8c2fa6cb85575daaab5
+ph2003-12-02d1t07.flac:1b70df3ce77612d95e18a2a92ff83178
+ph2003-12-02d1t08.flac:c1f5e41afb602e697fba15b1a079d536
+ph2003-12-02d1t09.flac:71f414cda7d54bef98fd31f69b0bc655
+ph2003-12-02d1t10.flac:883224256d11a92a9806d1a71f9a6808
+ph2003-12-02d2t01.flac:9f1e0e3536f73b759da39c0f9ef5488f
+ph2003-12-02d2t02.flac:a020291ed6c57ea43d20f1e858c720f4
+ph2003-12-02d2t03.flac:62904d7e8a47b45c64b73647eaa4c291
+ph2003-12-02d2t04.flac:11956a679efe4a513f0fd241642b7105
+ph2003-12-02d2t05.flac:647f944391a25f88aec62a47e332d7ff
+ph2003-12-02d2t06.flac:d0e158461a8aea589a9d38efec8df4f8
+ph2003-12-02d2t07.flac:c539158a6f8b113d8750698df7a712a5
+ph2003-12-02d2t08.flac:9553e740ac3dba4fdbd05b257eec9fc3
+ph2003-12-02d2t09.flac:d23c33782a45a94ff2335b38e8c4e5fa
+ph2003-12-02d2t10.flac:2a5ddd25be7cbbdb7592c2fdc62bd596
+ph2003-12-02d2t11.flac:126166f6db6a17903d163f8949af28b0
+ph2003-12-02d2t12.flac:6cff3c94b2fe70f698450bbc1ac381dd
+ph2003-12-02d2t13.flac:43cc02a9e125f84dcab6f5c00a46caef
+ph2003-12-02d3t01.flac:7c2e6c7d0af8a9332bc32050f89edbe9
+ph2003-12-02d3t02.flac:dd3500034112c5731b41a0e1bb9a6ba2
+

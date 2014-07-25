@@ -1,0 +1,93 @@
+Phish
+10-30-90
+El Dorado Cafe, Crested Butte, CO
+
+
+--------------------------------------------------------------------------------------------
+Source:         Separate from Soundboard 16 track Mix (see notes below) > DAT@44.1
+
+Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                Soundforge 5.0e (48KHz->44.1KHz at highest setting [4 of 4],
+                with anti-alias filter)-> CD Wave 1.62-> mkwACT v0.97
+                **No DAE at all**
+
+Minor Edits:	Fades in/out at cassette flip, as well as the start/end of set.
+
+"Sbd/Aud mixes: The following shows were recorded to DAT from a separate
+recording board at the shows. They are some of the highest quality 
+Phish tapes in existence: 4/22/90, 10/30/90, 10/31/90, 11/2/90, 
+11/3/90, 11/4/90, 3/13/91, 3/15/91, 3/16/91, 3/17/91, 3/22/91, 
+3/23/91, 4/5/92. 
+
+Except for the 4/5/92 tape, they have all been fairly widely circulated.
+They were done on a large recording console (not EQ) and mixed completely
+separately from the board mix, rumoredly done in a truck outside the venue. The engineer used 2 audience mics to mix in crowd/hall ambience (on most of them). See also, PA info."
+
+Quoted from: http://www.phish.net/PhishFAQ/tquality.html
+
+Info From Kevin Shapiro: "11/3/90 and the other tapes of the era (10/30-11/4) were all done by Mike Grace through a separate 16 track mixer and run direct to 2 track DAT.  He basically used the same setup in Spring 1991 too."
+
+----------------
+Transferred by Dan Marquardt <danmarq@msn.com>, please contact me with questions/comments.
+There are also 48KHz shn's of this seed for archival.
+--------------------------------------------------------------------------------------------
+_______________________________________________________________
+
+*Dankseed Certification received 2002-03-30*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph1990-10-30.sbd/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+_______________________________________________________________
+
+CD/Set 1#:					[53:58]
+01. The Landlady->				[4:13]
+02. Bouncing Around the Room			[3:57]
+03. 'Sound Problems'*				[5:28]
+04. Donna Lee					[3:58]
+05. 'More Sound Issues'				[4:10]
+06. The Asse Festival->				[2:01]
+07. Suzy Greenberg				[5:11]
+08. Uncle Pen					[4:25]
+09. Cavern					[5:15]
+10. The Squirming Coil				[6:02]
+11. Possum					[9:18]
+
+CD 2/Set 2a:					[1:11:18]
+01. Mike's Song->				[6:24]
+02. I Am Hydrogen->				[2:35]
+03. Weekapaug Groove				[5:44]
+04. Magilla					[5:33]
+05. Foam					[8:22]
+06. Reba->					[10:55]
+07. Llama					[5:21]
+08. The Ballad of Curtis Loew			[5:01]
+09. Fluffhead					[14:44]
+10. HYHU-> Terrapin-> HYHU			[6:39]
+
+CD 3/Set 2b:					[49:13]
+01. Buried Alive->				[2:54]
+02. David Bowie					[12:44]
+03. Crowd Noise/Stage Chatter			[2:47]
+
+CD/Set 3:
+04. Paul and Silas->				[3:15]
+05. Lizards					[9:59]
+06. Good Times Bad Times			[5:04]
+07. Contact					[6:56]
+08. AC/DC Bag$					[5:43]<--
+
+--------------------------------------------------------------------------------------------
+
+-Venue uncertain.
+#During the first set, there are 'noise' artifacts from the Soundboard, they are NOT on the DAT (like 12/8/94).
+*2 drop outs due to the fact that the stage crew was correcting the sound problem, therefore the tape is stopped.
+$Many dropouts throughout the song, almost unlistenable. If a better seed can be provided, contact me @ danmarq@msn.com

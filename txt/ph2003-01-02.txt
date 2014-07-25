@@ -1,0 +1,49 @@
+Phish
+January 2, 2003
+Hampton Coliseum
+Hampton, VA
+
+source:
+(FOB) Schoeps mk4 > kc5 > cmc6 > Apogee AD-1000 > Sony D100 (@ 44.1 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > WaveLab 5.01b (fades) > CD Wave v1.95.1 > FLAC v1.1.4 (Level 8)
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded March 27, 2007
+
+notes:
+Big thanks to Dave for letting me borrow the master DATs!
+This was recorded FOB on a stand, the same stand as Mikey K.'s mk21 source.
+
+Disc 1 - [77:14]
+Set I
+01 - [14:38] - Chalkdust Torture
+02 - [17:21] - Bathtub Gin
+03 - [07:59] - It's Ice
+04 - [11:58] - Back on the Train
+05 - [06:09] - Round Room *
+06 - [01:04] - The Horse >
+07 - [05:01] - Silent in the Morning
+08 - [13:04] - Stash
+
+Disc 2 - [51:47]
+Set I continued
+01 - [05:26] - Water in the Sky
+02 - [08:05] - Character Zero
+Set II
+03 - [20:58] - 46 Days ->
+04 - [10:28] - Simple ->
+05 - [06:50] - My Friend My Friend
+
+Disc 3 - [42:51]
+Set II continued
+01 - [10:02] - Limb by Limb
+02 - [07:02] - Thunderhead *
+03 - [12:10] - Run Like an Antelope
+04 - [04:38] - Cavern
+05 - [03:44] - encore break
+06 - [05:14] - Mexican Cousin *
+
+* first time played

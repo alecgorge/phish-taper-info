@@ -1,0 +1,66 @@
+PHiSH ~ 8/16/98
+The Lemonwheel, Day 2
+Loring Airforce Base, Limestone, ME
+
+Source: FM-SBD > DAT
+Xfer: DA-30 MKII > EMU Proteus-X @ Bunker 8 Digital Labs
+Mastering: recorded in Cubase SX3, mastered with Wavelab 5.00a, tracked in CD-WAV
+Patch Source: FOB Schoeps CMC6/MK21 > Sonosax SX-M2 > Apogee AD-1000 (db.etree.org shnid = 12494)
+
+DISC ONE
+set Ia: 
+01. Ginseng Sullivan (FOB AUD)
+02. Bathtub Gin (FOB AUD)
+03. Bathtub Gin (cont) (FM-SBD starts)
+04. Rift
+05. Punch You In The Eye
+06. Lawn Boy
+07. Yamar
+08. AC/DC Bag
+09. Frankie Sez
+10. Birds of a Feather
+
+DISC TWO
+Set Ib:
+01. "the ugly pig"
+02. Guyute
+03. Possum
+Set II:
+04. Down with Disease >
+05. Piper
+
+DISC THREE
+Set IIb:
+01. Ghost
+02. Fluffhead
+03. When The Circus Comes
+04. Wading In The Velvet Sea
+05. HYHU >
+06. Sexual Healing > HYHU
+07. Run Like An Antelope (very minor digi-noise in spots)
+
+DISC FOUR
+Set IIIa:
+01. Sabotage >
+02. 2001
+03. Wilson
+04. The Mango Song
+05. Character Zero
+06. Bittersweet Motel
+
+DISC FIVE
+Set IIIb:
+01. While My Guitar Gently Weeps
+Encore:
+02. Harry Hood > "Fuse Jam" >
+03. The Baby Elephant Walk
+
+NOTES:
+- Due to the nature of FM-sourced SBDs and DAT tapes there are some small anomolies throughout.  
+If your FLACs verify, it's probably on the master copy I made.  Sorry.
+
+- The first 12 minutes or so of Set 1 had many flaws and was replaced with one of the circulating FOB AUD sources.
+
+- There was sporadic digital noise in Bathtub Gin after the patch point, some of which was "fixed" 
+when I created small dropouts.  I felt the dropouts sounded better than a patch with the FOB and 
+obviously better than the digital noise/interference.

@@ -1,0 +1,94 @@
+Phish
+Asheville Civic Center
+Asheville, NC 
+2009-06-09
+
+source: Schoeps mk41v(AB) > kc5 > m222 > nt222 + mk21(nos) > kcy > vms5u > 744t + Neumann ak40(xy) > lc3 > km100 > v3 > 722 {C-Link} (24/48)
+location: fob/dfc
+dsp: 744t > wavelab5 > cdwave > wavelab5 > flac(8)
+recorded: Charles Fox & Jamie Scott, thanks to Kelly for the data discs! 
+transferred & seeded: Charles Fox
+
+set one
+01 Intro
+02 Kill Devil Falls
+03 Moma Dance >
+04 Sample In A Jar
+05 Stash
+06 Dog Faced Boy
+07 Gumbo
+08 Tube
+09 Lengthwise
+10 Divided Sky
+11 When The Cactus Is In Bloom *
+12 Axis: Bold As Love
+
+set two
+01 Intro
+02 Backwards Down The Number Line >
+03 Ghost >
+04 Fast Enough For You
+05 Halley's Comet >
+06 Maze
+07 Alaska
+08 Theme From The Bottom
+09 Golgi Apparatus 
+10 Possum
+encore:
+11 Loving Cup
+
+* First Time Played
+
+set 2 disc split after track 8
+
+ffp
+phish2009-06-09s1t01.flac:e225cfc377fa64333c6de7cbef04242e
+phish2009-06-09s1t02.flac:c9d7d9dc5ba7a769ce47eca71bb064e5
+phish2009-06-09s1t03.flac:69284fe89bfc8de24427d34c1fcf15b6
+phish2009-06-09s1t04.flac:ad90b9f8ea0ad9e004525b6128efef1e
+phish2009-06-09s1t05.flac:801f75ae107aaaf059c628eaab16f36b
+phish2009-06-09s1t06.flac:29f63ff16d3bbbe6af31398e6ea2ca8c
+phish2009-06-09s1t07.flac:78070a2be6b2cfb975d81bfe98fea3a4
+phish2009-06-09s1t08.flac:4125875da8bc74b3c8c1203222b1fb99
+phish2009-06-09s1t09.flac:1b914f19cefb4ef399c4ffb297f0dffc
+phish2009-06-09s1t10.flac:56cd08110c73dae81a28b4f22e3a991e
+phish2009-06-09s1t11.flac:761264dd2c03ee5f14eaca36348ba7f7
+phish2009-06-09s1t12.flac:15d4235ae43ce213d58abfe6631574f9
+phish2009-06-09s2t01.flac:dc5176886cd61e9e35afa651a4ea1cfb
+phish2009-06-09s2t02.flac:70cbe87003f06632aab6b71317891942
+phish2009-06-09s2t03.flac:fd777b7d656b7b0295ae669b44ca0472
+phish2009-06-09s2t04.flac:457289c9c0de5b9bd8a18092acba41ea
+phish2009-06-09s2t05.flac:0b9371fa94c4c1347f5ade82952a878e
+phish2009-06-09s2t06.flac:dc0a29c1e88dc481c3bbb4e4f8f5ccb2
+phish2009-06-09s2t07.flac:bd2c07f4be5c319b9068bdb1edf55330
+phish2009-06-09s2t08.flac:476cc2ed06cae6e870b5d3b6bf8e76bd
+phish2009-06-09s2t09.flac:aead575ae54af1cab4259f7d09afaa9c
+phish2009-06-09s2t10.flac:7ecfff6a262a78209ac434f195f224c4
+phish2009-06-09s2t11.flac:4e80fcdb154c6b76d08d94d869079b92
+
+shntool
+    length     expanded size   cdr  WAVE problems filename
+     1:18.11       13785116    ---   --   ---xx   phish2009-06-09s1t01.flac
+     8:54.14       94230572    ---   --   ---xx   phish2009-06-09s1t02.flac
+     7:28.36       79111916    ---   --   ---xx   phish2009-06-09s1t03.flac
+     6:22.36       67469516    ---   --   ---xx   phish2009-06-09s1t04.flac
+    14:11.71      150283436    ---   --   ---xx   phish2009-06-09s1t05.flac
+     3:11.35       33774764    ---   --   ---xx   phish2009-06-09s1t06.flac
+     4:53.54       51812252    ---   --   ---xx   phish2009-06-09s1t07.flac
+     6:58.56       73866956    ---   --   ---xx   phish2009-06-09s1t08.flac
+     1:09.38       12261020    ---   --   ---xx   phish2009-06-09s1t09.flac
+    14:46.47      156400988    ---   --   ---xx   phish2009-06-09s1t10.flac
+     3:18.18       34969580    ---   --   ---xx   phish2009-06-09s1t11.flac
+     5:49.04       61573052    ---   --   ---xx   phish2009-06-09s1t12.flac
+     1:33.49       16520492    ---   --   ---xx   phish2009-06-09s2t01.flac
+     8:54.64       94348172    ---   --   ---xx   phish2009-06-09s2t02.flac
+    15:15.19      161450732    ---   --   ---xx   phish2009-06-09s2t03.flac
+     8:13.01       86967596    ---   --   ---xx   phish2009-06-09s2t04.flac
+     6:12.56       65752556    ---   --   ---xx   phish2009-06-09s2t05.flac
+    11:27.39      121278572    ---   --   ---xx   phish2009-06-09s2t06.flac
+     9:50.69      104238332    ---   --   ---xx   phish2009-06-09s2t07.flac
+     8:23.60       88870364    ---   --   ---xx   phish2009-06-09s2t08.flac
+     4:44.09       50118812    ---   --   ---xx   phish2009-06-09s2t09.flac
+    12:03.41      127633676    ---   --   ---xx   phish2009-06-09s2t10.flac
+     7:53.37       83524268    ---   --   ---xx   phish2009-06-09s2t11.flac
+   172:55.39     1830242740 B                     (totals for 23 files, 0.5616 overall compression ratio)

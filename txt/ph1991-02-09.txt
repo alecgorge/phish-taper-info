@@ -1,0 +1,62 @@
+Phish
+Green Hall
+Smith College
+Northampton, MA
+02/09/91 
+
+TAPER: John Redmond
+SOURCE Nak 300s > D5 
+
+AUD MCass (Sony Metal-SR, 90 min)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +12dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)>
+Mastering (see notes)> SHN v3
+
+transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 09/28/2003
+Mastering done by M. Goldey and Marmar.
+
+-Mastering-
+Wavelab > Montage to reconstruct sets and correct volume changes > Waves x-noise > Waves10 Band EQ > BBE 0/2/0 > Waves L1+ > 16/44.1 via L1+ Mode1/Normal > Tracking > SHN v3
+
+Disc 1-
+Mango
+Sloth
+TMWSIY > Alvenu Malkenu > TMWSIY
+Runaway Jim
+Foam
+Guelah Papyrus > 
+Asse Festival >
+Guelah Papyrus
+My Sweet One
+Tweezer >
+Reba
+Chalkdust Torture.
+
+Set 2: 
+Intro
+Golgi
+Buried Alive >
+Fluffhead
+Landlady
+BATR
+Harry Hood
+Cavern
+Love You
+Squirming Coil
+Llama
+-Encore-
+Lawn Boy
+Suzy Greenberg
+-Encore 2-
+Contact
+Rocky Top
+
+Notes
+The taper made level adjustments throughout the show.  The most jarring of these have been normalized relative to each other, and the rest left as is.
+
+The master cassette was paused between Suzy Greenberg and Contact, suggesting that the band left stage and then returned for a second encore.  It was stopped again between Contact and Rocky Top, and started a few seconds late, which suggests that the taper was suprised when the band returned to stage a third time.  Trey comments during the show how much the band liked the venue, which may explain multiple encores and why, IMHO, they played so well this night.
+
+NO tracking/editing/alterations performed before archiving to 24-bit FLAC
+(except to trim silence from the ends).
+
+Seeded to FurthurNet (www.furthurnet.org) 

@@ -1,0 +1,45 @@
+Phish
+06-10-94
+Red Rocks Amphitheater, Morrison, CO 
+--------------------------------------------------------------------------------------------
+Source:         Nuemann TLM 170i>DAT
+		[Set 1: Sub-cariods; Set 2: Cariods)
+
+Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                Soundforge 5.0b (48KHz->44.1KHz at highest setting [4 of 4],
+                with anti-alias filter)-> CD Wave 1.62-> mkwACT v0.97
+                **No DAE at all**
+
+Minor Edits:	Fades in/out at begginning/end of sets.
+----------------
+Transferred by Dan Marquardt <danmarq@msn.com>, please contact me with questions/comments.
+There are also 48KHz shn's of this seed for archival.
+--------------------------------------------------------------------------------------------
+
+CD/Set 1:				60:15
+01. Runaway Jim				07:22
+02. Foam				09:11
+03. Sample in a Jar			04:52
+04. Nellie Cane				02:59
+05. Demand->				01:48
+06. David Bowie				11:22
+07. Lizards				11:51
+08. Cavern				04:12
+09. Julius				06:34
+
+CD/Set 2: (80min CD)			79:29
+01. Axilla [Part II]			04:10
+02. The Curtain				06:10
+03. Tweezer->				15:33
+04. Lifeboy				07:40
+05. Sparkle				03:45
+06. Possum				10:44
+07. HYHU-> I Wanna Be Like You-> HYHU	06:26
+08. Harry Hood				13:34
+09. Tweezer Reprise			02:58
+
+Enocre:
+10. Sleeping Monkey			05:21
+11. Rocky Top				03:03
+
+--------------------------------------------------------------------------------------------

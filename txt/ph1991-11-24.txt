@@ -1,0 +1,44 @@
+Phish
+Webster Hall - Dartmouth College 
+Hanover, NH
+11/24/91
+
+Source: Master Cassette Audience (unknown mics) > Sony D5
+Transfer: Aiwa AD-F850 3-Head > Apogee AD1000 > Tascam DA-302 > HHB CDR-850
+Conversion: EAC (Secure Mode) > WAV > ShnTool > FLAC (1.7.1)
+All tracks were extracted with 100% quality.
+
+Disc 1:
+Set I
+01. Sloth
+02. Paul and Silas
+03. Stash
+04. Squirming Coil
+05. Landlady
+06. Fluffhead
+07. Sparkle
+08. It's Ice
+09. I Didn't Know >
+10. David Bowie
+
+Disc 2:
+Set II
+01. Tube
+02. Divided Sky
+03. Cavern
+04. Mango Song
+05. Chalkdust Torture
+06. Take the A-Train
+07. You Enjoy Myself
+08. Golgi Apparatus
+
+Missing - Encores:
+Sweet Adeline
+Rocky Top
+
+
+Patched by Dan Chapman (Thanks for the tapes!!!)
+Transferred and converted by Chris Warren (hip_school_preppie@yahoo.com)
+Seeded to bt.etree.org 9/23/2004 by Mark (Mark@Kerchoff.com)
+
+Enjoy!

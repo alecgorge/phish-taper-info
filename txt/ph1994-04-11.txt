@@ -1,0 +1,64 @@
+Phish
+April 11, 1994
+Snively Arena, University of New Hampshire
+Durham, NH
+
+source:
+AKG 460B/ck61 > custom pre-amp > Teac DA-P20 (@ 48kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb > pc > WaveLab 5.01b (de-emphasis, fades, resample to 44.1 kHz) > CD Wave v1.95.1 > FLAC v1.1.3 (Level 8)
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded March 3, 2007
+
+notes:
+The original DAT recording was made with pre-emphasis.
+The Waves Q10 Paragraphic EQ v5.0 plug-in was used to de-emphasize the recording.
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+Big thanks to Dave for letting me borrow the master DAT tape!
+
+Disc 1 - [75:17]
+Set I
+01 - [07:04] - Caravan
+02 - [02:18] - Poor Heart
+03 - [10:06] - Foam
+04 - [06:01] - Fast Enough for You
+05 - [04:03] - Magilla
+06 - [07:27] - Julius
+07 - [04:13] - Glide
+08 - [14:06] - The Divided Sky
+09 - [04:30] - Cavern
+Set II
+10 - [04:30] - 2001 >
+11 - [10:59] - Maze
+
+Disc 2 - [75:28]
+Set II continued
+03 - [12:03] - Colonel Forbin's Ascent >
+04 - [06:14] - The Famous Mockingbird
+05 - [04:04] - Uncle Pen
+06 - [05:11] - Sample in a Jar
+07 - [02:27] - Big Ball Jam
+08 - [23:45] - You Enjoy Myself *
+09 - [01:43] - Amazing Grace
+10 - [01:45] - The Oh Kee Pa Ceremony >
+11 - [05:30] - Suzy Greenberg
+12 - [01:43] - encore break
+13 - [11:03] - Possum
+
+* included a vocal jam based on "My Soul"
+
+more notes:
+Dave's source has been in circulation before this transfer.  This is a new transfer from Dave's master DATs.
+I chose to re-transfer this show, because the previously circulating version did nothing about the pre-emphasis.
+The Teac DA-P20 always applied pre-emphasis to the DATs (if you used the analog inputs).
+As a result of the pre-emphasis, the circulated copy sounded a bit harsh, with the higher frequencies louder 
+than they should have been (it's very noticeable on the cymbals).  This version has been de-emphasized, 
+so it sounds more natural and is a better representation of how the show actually sounded.
+
+In "You Enjoy Myself" at [22:52], there is a very small amount of digi-noise (at least, that's what it sounds like).
+This noise also appeared on the previously circulating version, and is present on the master DAT.
+It's very minor, but without another source to patch this small segment, I just left it the way it is.
+It comes right at the very end of the vocal jam, and is hardly noticeable.

@@ -1,0 +1,93 @@
+Phish
+Madison Square Garden
+New York City, New York
+12/29/2011
+
+Source: Schoeps CCM4V'S(din)>Lunatec V2>Benchmark AD2K>
+Sound Devices 722 (24/48)
+OTS/BOB/DFC/KFC/ZFC/AARP Section 2, Row 4, Seat 12, 8' High
+DSP: Sound Devices 722>Sound Forge 9.0>CD Wave>flac(16)
+Recorded By: Z-Man
+Seeded By: Z-Man
+
+Disc I 1st Set
+
+01 The Sloth
+02 You Enjoy Myself
+03 Back On The Train
+04 The Moma Dance
+05 Funky Bitch
+06 Maze
+07 Roses Are Free
+08 Halley's Comet >
+09 Run Like An Antelope
+
+Disc II 2nd Set 
+
+01 Crosseyed And Painless >
+02 Simple >
+03 Lifeboy
+04 Guyute
+
+Disc III 2nd Set Con't
+
+01 Mike's Song >
+02 Chalkdust Torture >
+03 I Am Hydrogen >
+04 Weekapaug Groove 
+05 Show Of Life >
+06 Character Zero
+Encore:
+07 Loving Cup
+
+Flac Fingerprint 
+
+phish2011-12-29d01t01.flac:468de525ab8582862938a947ddea6bb2
+phish2011-12-29d01t02.flac:cdd71ed38c21e4edeeb31930e57fd888
+phish2011-12-29d01t03.flac:c8c99edd3ded2bf43befd3edcd7c8026
+phish2011-12-29d01t04.flac:24dfc31198acecd9438bd9ef57bafc9c
+phish2011-12-29d01t05.flac:d22efe8056b4fd23519e605462622248
+phish2011-12-29d01t06.flac:ca8cf56bac54e9e68727683649d20b4f
+phish2011-12-29d01t07.flac:50533d469f8641eaddcd7e1bdf9f928e
+phish2011-12-29d01t08.flac:8c5872491c1e1ad4db8566ff37e5daa0
+phish2011-12-29d01t09.flac:b6b1e64115c30a9efbadcbb07ce31263
+phish2011-12-29d02t01.flac:272144d11f2fd115c671ceb0b028e4c7
+phish2011-12-29d02t02.flac:01b9327a8135efdcebeb81408dbd1fbf
+phish2011-12-29d02t03.flac:a3bab70bb184356bfcd7ac5fb66f3dac
+phish2011-12-29d02t04.flac:79f503c20dff28b4d8946a9ad458859a
+phish2011-12-29d03t01.flac:529878aba6cf42f25f98dcc6c463d673
+phish2011-12-29d03t02.flac:ede5d3b6eae8a990f53fdd23adfafd4c
+phish2011-12-29d03t03.flac:442868cef8c62cfcd213af4489221304
+phish2011-12-29d03t04.flac:9c1d41c8fc48157bdc4563f2b4ba53f2
+phish2011-12-29d03t05.flac:20d6c472412ae6db01004eb88681cbcb
+phish2011-12-29d03t06.flac:869bdc408d62b680dbfc83a4afc022fb
+phish2011-12-29d03t07.flac:abb44374d9eb5fb89b2285d041bc6a25
+
+Shntool 
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     4:29.19       47496332 B   ---   --   ---xx   flac  0.4702  phish2011-12-29d01t01.flac
+    19:05.39      202069772 B   ---   --   ---xx   flac  0.4482  phish2011-12-29d01t02.flac
+     6:31.67       69130028 B   ---   --   ---xx   flac  0.4581  phish2011-12-29d01t03.flac
+     7:04.04       74803052 B   ---   --   ---xx   flac  0.4705  phish2011-12-29d01t04.flac
+     7:11.33       76106060 B   ---   --   ---xx   flac  0.5006  phish2011-12-29d01t05.flac
+    10:02.06      106206956 B   ---   --   ---xx   flac  0.4870  phish2011-12-29d01t06.flac
+     5:27.10       57706364 B   ---   --   ---xx   flac  0.4946  phish2011-12-29d01t07.flac
+     7:11.62       76174268 B   ---   --   ---xx   flac  0.4784  phish2011-12-29d01t08.flac
+    10:48.22      114358988 B   ---   --   ---xx   flac  0.4879  phish2011-12-29d01t09.flac
+    10:11.06      107794556 B   ---   --   ---xx   flac  0.4861  phish2011-12-29d02t01.flac
+     8:39.22       91603388 B   ---   --   ---xx   flac  0.4788  phish2011-12-29d02t02.flac
+     7:48.33       82632860 B   ---   --   ---xx   flac  0.3833  phish2011-12-29d02t03.flac
+    11:02.26      116837996 B   ---   --   ---xx   flac  0.4475  phish2011-12-29d02t04.flac
+     7:55.38       83879420 B   ---   --   ---xx   flac  0.5073  phish2011-12-29d03t01.flac
+     5:55.21       62671436 B   ---   --   ---xx   flac  0.5114  phish2011-12-29d03t02.flac
+     2:39.40       28141724 B   ---   --   ---xx   flac  0.4714  phish2011-12-29d03t03.flac
+    10:15.36      108570716 B   ---   --   ---xx   flac  0.5017  phish2011-12-29d03t04.flac
+     6:30.47       68906588 B   ---   --   ---xx   flac  0.4581  phish2011-12-29d03t05.flac
+     7:37.16       80652476 B   ---   --   ---xx   flac  0.5187  phish2011-12-29d03t06.flac
+     7:02.10       74464364 B   ---   --   ---xx   flac  0.4801  phish2011-12-29d03t07.flac
+   163:28.32     1730207344 B                            0.4751  (20 files)
+
+
+
+ 

@@ -1,0 +1,51 @@
+Phish
+02-26-88
+Living and Learning Center, University of Vermont - Burlington, VT
+
+Source: SBD > Cass/2 
+Transfer: Nak deck > HD > CDWav > SF XP 4.5 > mkwACT > SHN > CoolEdit NR > SHN
+
+Seed, fixes, and encoding to SHN by Brendan Komala (yamar3@hotmail.com)
+Hiss Reduction by Ben Mohr (bmohr@udel.edu)
+
+----------------------------------------------------------------
+ Disc 1:                              			(62:20)
+----------------------------------------------------------------
+-Set 1-
+1. //The Curtain > 					(06:32)
+2. Suzie Greenberg					(05:45)
+3. You Enjoy Myself					(14:42)
+4. The Man Who Stepped Into Yesterday >			(03:08)
+5. Avenu Malkenu >					(03:12)
+6. The Man Who Stepped Into Yesterday >			(01:09)
+7. AC/DC Bag 						(06:23)
+8. Possum 				        	(05:25)
+9. Phase Dance						(08:20)
+10. Good Times Bad Times				(07:44)
+
+----------------------------------------------------------------
+ Disc 2:                                      	 	(28:54)
+----------------------------------------------------------------
+-Set 2p-
+1. Fluffhead						(15:12)
+2. I Didn’t Know					(03:33)
+3. Golgi Apparatus >					(04:30)
+4. Lizards//      					(05:39)
+
+Notes:
+-d1t01 comes in a few seconds late
+-d2t01 2:00 splice?
+-d2t02 3:28 splice?
+-d2t03 0:00 splice?
+-Tape Flips
+    d1t08 4:36 (45:26)
+    d2t04 5:40 (45:27)
+-Vocals a bit muffled in L channel
+-Though the Phish Companion puts the set break after Golgi, it is pretty 
+  obvious when listening that there is no break due to the segue.  Also, I 
+  believe the set break is after GTBT since Trey states that they are going 
+  to take a short break and be right back.
+
+Fixes:
+-Applied Cool Edit hiss reduction based on noise floor sample at 
+  end of d2t04 (after cut-pure hiss, no music or background noise)

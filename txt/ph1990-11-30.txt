@@ -1,0 +1,61 @@
+Phish
+Colonial Theater
+Keene, NH
+11/30/90 
+
+TAPER: John Redmond
+SOURCE Nak 300s > D5 
+
+AUD MCass (Maxell MX 90 min)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +12dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC > Mastering > SHN
+
+transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 11/16/2003
+Mastering , editing and WAV > SHN were performed on Doomtooth by shakedown@furthurnet.org (12/13/2003 - 6 years of bringing the dude)
+**24/48 Masters do exist at the unedited/pre-processed level**
+
+Mastering info:
+24bit/48kHz FLAC's > Wavelab 4.01b on Doomtooth (patch/edits/crossfades) > Waves C4 > BBE > Blue Tubes LM2S > 48kHz>44.1 via 192kHz Stereo Resampler and 24bit > 16bit dither UV22HR > Tracking in CD-WAV > SHNv3 appended
+
+DISC ONE
+set I:
+01. //The Landlady
+02. Mike's Song->
+03. I Am Hydrogen->
+04. Weekapaug Groove
+05. Esther >
+06. Dinner and a Movie >
+07. Bouncing Around the Room
+08. Tweezer
+09. My Sweet One
+10. Llama
+11. Possum 
+set II:
+12. //The Asse Festival
+13. The Squirming Coil >
+14. Runaway Jim
+
+DISC TWO
+set II(cont):
+01. Stash
+02. Lizards
+03. Gum/bo
+04. Divided Sky
+05. I Didn't Know
+06. The Sloth
+07. Run Like an Antelope 
+encore: 
+08. Caravan
+09. Oh/Kee Pa Ceremony->
+10. Suzy Greenberg 
+
+Notes
+NO tracking/editing/alterations performed before archiving to 24-bit FLAC
+(except to trim silence from the ends).
+
+This is the final show of the 3 month Fall/Winter '90 tour.
+
+Anomolies:
+There is a quick patch of the left channel with the right in during the fade-in to Landlady.  It sounds like John stopped the tape at a false-start ending in Gumbo and quickly hit REC again - thankfully he did, because we get to hear the David Bowie-style ending to a very oldschool Gumbo.
+
+Seeded to FurthurNet (www.furthurnet.org)

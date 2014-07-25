@@ -1,0 +1,46 @@
+Phish
+11/21/2009
+Cincinnati, Ohio  US Bank Arena
+
+Source: Schoeps mk22> KCY> Schoeps VMS02IB> Apogee Mini-Me> SD 722 (@24bit/96kHz)
+Location: FOB, Section 1, Row P, Seats 8 & 9, ORTF
+
+Transfer: SD 722> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44)
+Taped, Transferred & Seeded by: taylorc (11/22/2009)
+
+
+Set I
+t01 [04:45] Wilson >
+t02 [05:09] NICU
+t03 [09:21] Wolfman's Brother
+t04 [09:54] Ocelot
+t05 [07:46] Torn and Frayed
+t06 [03:01] Strange Design
+t07 [02:59] Ginseng Sullivan
+t08 [04:25] Albuquerque
+t09 [13:38] Split Open and Melt
+t10 [04:30] Dirt
+t11 [06:52] Limb by Limb
+t12 [09:34] Run Like an Antelope
+
+Set II
+t13 [16:42] Rock and Roll >
+t14 [10:38] Ghost >
+t15 [07:50] If I Could
+t16 [06:14] Backwards Down the Number Line >
+t17 [07:09] Prince Caspian
+t18 [06:07] Suzy Greenberg >
+t19 [06:00] Also Sprach Zarathustra >
+t20 [09:15] The Squirming Coil
+t21 [02:35] crowd
+
+Encore
+t22 [05:00] Sleeping Monkey
+t23 [01:31] crowd/banter
+t24 [03:50] Axilla
+
+
+Notes:
+Albuquerque, last played 09/14/2000 (115 shows)
+Ginseng Sullivan, last played 04/17/2004 (49 shows)
+Set I [1:21:54] Set II [1:12:30] Encore [10:21]

@@ -1,0 +1,46 @@
+Phish
+07/01/2010
+Raleigh, North Carolina  Music Pavilion at Walnut Creek
+
+Source: Schoeps mk41> KC5> M222> NT222> EAA PSP-2> SD 722 (@24bit/96kHz)
+Location: OTS, Section 6, Row J, Seat 32, DIN
+
+Transfer: SD 722> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (07/02/2010)
+
+
+Set I
+t01 [04:29] Llama
+t02 [05:15] Roses Are Free
+t03 [09:30] Kill Devil Falls
+t04 [05:51] Time Loves a Hero
+t05 [09:35] Alaska
+t06 [03:28] Water in the Sky
+t07 [07:46] Runaway Jim >
+t08 [07:57] The Moma Dance >
+t09 [16:10] The Divided Sky
+t10 [04:38] Cavern
+
+Set II
+t11 [09:01] Backwards Down the Number Line >
+t12 [05:53] Halley's Comet >
+t13 [13:47] Light >
+t14 [14:59] Fluffhead >
+t15 [04:13] Have Mercy
+t16 [07:52] Light Up or Leave Me Alone >
+t17 [07:00] Free >
+t18 [06:36] Wading in the Velvet Sea
+t10 [078:51] The Squirming Coil >
+t20 [05:58] Suzy Greenberg
+t21 [02:03] crowd
+
+Encore
+t22 [10:01] Boogie On Reggae Woman
+
+
+Notes:
+Time Loves a Hero, last played 12/31/2002 (127 shows)
+Have Mercy, last played 12/10/1999 (189 shows)
+Light Up or Leave Me Alone, last played 12/30/1999 (181 shows)
+Thanks to Jason Lonchar for the Schoeps tubes & Jeff Brock for the PSP-2
+Set I [1:14:39] Set II [1:25:13] Encore [10:01]

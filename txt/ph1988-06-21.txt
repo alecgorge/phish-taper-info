@@ -1,0 +1,88 @@
+PHiSH
+06-21-88
+Nectar's - Burlington, VT
+
+Source: SBD > Cass/0 
+Transfer: Nakamichi tape deck > Monster RCA cable >
+HD > CDWav > Soundforge XP 4.5 > mkwACT > SHN
+
+Seed provided by James Dineen
+Transferred, fixes, and encoding to SHN by 
+Brendan Komala (yamar3@hotmail.com)
+
+--------------------------------------------------------
+ Disc 1:   					(68:02)
+--------------------------------------------------------
+-Set 1-
+1. /Fluffhead			  		(14:38)
+2. tuning/banter				(01:24)   
+3. Rocky Top				   	(02:45)
+4. tuning/banter   				(00:55)
+5. Mustang Sally				(07:34)
+6. tuning/banter				(00:43)
+7. Suzie Greenberg >				(05:21)  
+8. The Curtain >   				(06:23)
+9. Lizards/ (cut) 				(07:24)
+10. /Lizards (cont)				(03:32)
+11. Famous Mockingbird (aborted)		(00:24)
+12. Famous Mockingbird 				(07:08)
+13. Fire					(09:51)
+
+--------------------------------------------------------
+ Disc 2:   					(52:55)
+--------------------------------------------------------
+-Set II-
+1. AC/DC Bag					(08:00)	
+2. Flat Fee					(02:03)
+3. Alumni Blues >				(03:41)
+4. Letter to Jimmy Page >			(01:25)
+5. Alumni Blues					(00:46)
+6. tuning/banter				(00:46)
+7. Jesus Left Chicago/ (cut)			(09:45)
+8. /Jesus Left Chicago (cont)			(01:52)
+9. Good Times Bad Times^			(08:08)
+10. banter/tuning				(01:13)
+11. Contact					(06:53)
+13. Peaches en Regalia				(03:16)
+14. Golgi Apparatus%				(05:07)
+
+--------------------------------------------------------
+ Disc 3:  					(46:47)
+--------------------------------------------------------
+-Set III-
+1. "All good songs begin with..."		(00:39)  
+2. Harpua >	  				(02:12)
+3. Jimmy's Story >				(06:02)
+4. Harpua	  				(04:15)
+5. Dedication to Fish 				(02:34)
+6. I Didn't Know*				(05:19)
+7. Whipping Post/ (cut)				(00:03)
+8. /Whipping Post (cont)			(25:43)
+
+^ dedicated to Don Drive and the East Coast Printers
+% with intro segment
+* with Fishman on Trombone.  Also includes a false version at start, 
+continuing the teasing of Fish before the song.
+
+Notes:
+-Tape Flips
+  -between d1t09+10 (Lizards)
+  -between d2t07+08 (Jesus Left Chicago)
+  -between d3t07+08 (Whipping Post)
+
+-Fluffhead (d1t01) missing opening bars, but begins before first verse.
+-Left channel of d1t01 was missing from 00:00.00-00:02.856 so the clean 
+right channel has been copied over the silence. 
+-Eliminated flux in right channel of d2t08 (JJLC) @ 01:10.733
+-Some static in d2t12 (Peaches) @ ~01:45-02:15.
+-Some static in d2t13 (Golgi) @ ~03:40-03:50.
+	
+Personal comments:
+I've gotta say that the JJLC is much more bluesy than normal includes
+great Trey and Page segments -- really wish this was intact.  The jam in
+Whipping Post also hints that maybe someone(s) didn't want this three night
+segment @ Nectar's to end...  This effort should be considered for 
+greatness alongside the epic performance from a month prior (5.25.88).
+
+Hope you enjoy!
+-Brendan

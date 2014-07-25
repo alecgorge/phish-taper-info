@@ -1,0 +1,54 @@
+Phish
+December 5, 1995
+The Mullins Center
+University of Massachusetts
+Amherst, MA
+
+source:
+AKG 460B/ck61 > custom pre-amp > Teac DA-P20 (@ 48kHz)
+
+transfer:
+Sony PCM-R500 > Tascam HD-P2 > CF Card > usb > pc > WaveLab 5.01b (de-emphasis, fades, resample to 44.1kHz) > CD Wave v1.94.7 > FLAC v1.1.2 (Level 8)
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded May 1, 2006
+
+notes:
+The original DAT recording was made with pre-emphasis. The Waves 5.0 Paragraphic EQ plug-in was used to de-emphasize the recording.
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+
+Disc 1 - [68:28]
+Set I
+01 - [04:03] - Horn
+02 - [07:12] - Chalk Dust Torture
+03 - [08:14] - Taste That Surrounds
+04 - [10:24] - The Lizards
+05 - [09:57] - Free
+06 - [08:52] - Esther
+07 - [16:52] - David Bowie
+08 - [02:33] - I'm Blue I'm Lonesome
+
+Disc 2 - [55:40]
+Set II
+01 - [01:12] - chess move intro
+02 - [02:18] - Poor Heart
+03 - [23:35] - Bathtub Gin ->
+04 - [04:24] - Keyboard Cavalry
+05 - [13:50] - Scent of a Mule ->
+06 - [01:34] - jam ->
+07 - [08:48] - Lifeboy
+
+Disc 3 - [37:38]
+01 - [17:18] - Harry Hood
+02 - [04:36] - Cavern
+03 - [03:36] - encore break
+04 - [10:13] - Theme From the Bottom
+05 - [01:56] - Sweet Adeline
+
+Show Notes: Lizards was dedicated to college basketball commentator Dick Vitale. 
+I'm Blue I'm Lonesome was performed acoustic. 
+
+note:
+The chess move intro for Set II was faded in on the master DAT.
+I have included everything that was on the DAT.

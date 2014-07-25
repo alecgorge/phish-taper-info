@@ -1,0 +1,50 @@
+Phish
+2-7-89 
+The Front
+Burlington, VT
+
+Source: Set I MCS > Dat; Set II & III CS1 > Dat
+Transfer: Tascam DA-302 > HHB CDR-850
+Encoding: CD > EAC (Secure Mode) > WAV > ShnTool > Flac (1.1.0)
+
+Disc 1
+Set I
+01. Esther
+02. McGrupp >
+03. Foam
+04. Sloth >
+05. Possum
+06. Mike's Song -> 
+07. Hydrogen -> 
+08. Weekapaug Groobe
+ 
+
+Disc 2
+01. Golgi Apparatus
+Set II:
+02. Makisupa Policeman
+03. Dinner and a Movie
+04. Ac/DC Bag
+05. Lizards
+06. Timber
+07. Contact
+08. Alumni Blues > Letter to Jimmy Page > Alumni Blues*
+09. Fee
+10. Run Like an Antelope
+
+Disc 3
+Set III
+01. Sanity**
+02. Fluffhead
+03. Suzie Greenburg
+04. Slave to the Traffic Light
+05. Bike ->
+06. Whipping Post
+Encore
+07. Fire
+
+* With alternative lyrics
+** Sped up version.
+
+Transferred by Chris Warren (hip_school_preppie@yahoo.com)
+Flac'd by Mark Kerchoff (mark@kerchoff.com)

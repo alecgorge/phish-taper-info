@@ -1,0 +1,52 @@
+Phish
+August 9, 1997
+Alpine Valley
+East Troy, WI
+
+source:
+(FOB) Neumann km140 > Sonosax SX-M2 > Tascam DA-P1 (@ 44.1 kHz)
+
+transfer:
+Sony PCM-R500 > Tascam HD-P2 > CF card > usb > pc > WaveLab 5.01b (fades) > CD Wave v1.95 > FLAC v1.1.2 (Level 8)
+
+recorded by Jim Cowan
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded November 26, 2006
+
+note:
+Clones from the master DATs were used in this transfer.
+Thanks to Jim for making a great recording, and thanks to Dave Flaschner for letting me borrow the DATs.
+
+Disc 1 - [74:07]
+Set I
+01 - [10:56] - Theme From the Bottom
+02 - [08:42] - Punch You in the Eye
+03 - [15:39] - Ghost ->
+04 - [10:53] - Taste
+05 - [04:38] - Dogs Stole Things
+06 - [15:32] - Reba
+07 - [02:41] - Lawn Boy
+08 - [05:05] - Crossroads
+
+Disc 2 - [59:39]
+Set II
+01 - [05:21] - Wilson >
+02 - [11:59] - Foam
+03 - [13:43] - Mike's Song ->
+04 - [05:18] - Ain't Love Funny ->
+05 - [09:08] - Simple ->
+06 - [01:08] - Swept Away >
+07 - [01:46] - Steep >
+08 - [11:18] - Scent of a Mule
+
+Disc 3 - [33:39]
+Set II continued
+01 - [13:23] - Slave to the Traffic Light >
+02 - [11:52] - Weekapaug Groove
+03 - [00:36] - encore break
+04 - [05:09] - When the Circus Comes
+05 - [02:41] - Rocky Top
+
+note:
+not all of the encore break was on the DAT tape.
+I cross-faded the two sections of crowd noise so that it would appear seamless.

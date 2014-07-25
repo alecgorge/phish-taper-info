@@ -1,0 +1,47 @@
+Phish 2/11/93 
+Haas Center for the Arts - Bloomsburg, PA
+
+Sony PZMs > D3 > CD
+CD > EAC (secure mode) > shntool > flac16
+- no edits performed -
+
+cd > flac transfer by otto
+thanks to Scott B. for the discs
+
+the discs could possibly be copies of this transfer: 
+PZM Mics -> Sony D3 .. Sony PCM-2600 > Coaxial out > Turtle Beach Fiji @48kHz > 
+Hard Drive via Soundforge. Conversion to 44.1 kHz with CoolEdit Pro by 
+Craig Hillwig of Philadelphia, PA
+
+Disc 1
+-set 1-
+01 Suzy Greenberg
+02 Buried Alive >
+03 Poor Heart
+04 Stash
+05 Fee
+06 Rift
+07 Fluffhead >
+08 Llama
+09 Lawn Boy
+10 David Bowie
+
+Disc 2
+-set 2-
+01 The Landlady
+02 Wilson >
+03 Uncle Pen
+04 Mike's Song >
+05 I am Hydrogen >
+06 Weekapaug Groove
+07 Mound >
+08 Big Ball Jam
+09 Bouncing Around the Room
+10 HYHU >
+11 Love You >
+12 HYHU
+13 Lizards
+14 Cavern
+-Encore-
+15 Bold as Love
+16 Amazing Grace

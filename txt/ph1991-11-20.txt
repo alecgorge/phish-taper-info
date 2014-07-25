@@ -1,0 +1,76 @@
+Phish
+Campus Club, Providence, RI
+November 20, 1991
+
+Source: Unknown Aud>Tascam 4 Track>Cass0>Sony TC-WE305>Acoustic Research AP031 RCAs>CDWav>CoolEdit Pro>FLAC
+
+Taped, transferred, edited, encoded, and seeded by james_dineen@yahoo.com
+
+original FLACs were 48 khz
+fix by shnfamily: FLAC > WAV > WaveLab 5.01a > Batch Processor > 192kHz Stereo Resampler to 44.1kHz > FLAC @ Level 8
+
+
+Disc One (64:05)
+Set One:
+
+01. Buried Alive! >
+02. Possum
+03. Colonel Forbin's Ascent->
+04. Famous Mockingbird
+05. Sparkle
+06. Stash
+07. Paul & Silas
+08. Bathtub Gin
+09. The Squirming Coil
+10. Llama
+
+Disc Two (79:31)
+Set One Cont'd:
+01. You Enjoy Myself
+
+Set Two:
+02. Golgi Apparatus
+03. It's Ice
+04. My Sweet One
+05. Run Like an Antelope
+06. Tela
+07. The Landlady
+08. /Hold Your Head Up > (tape flip: only missed one note)
+09. Bike >
+10. Hold Your Head Up
+11. Cavern *
+12. (Encore Break)
+
+E: 
+13. Magilla *
+14. Brother *
+
+* With Carl "Gears" Gearhardt on trumpet
+
+FINGERPRINT
+Ph1991-11-20D1T01.flac:3d1f697826d728801059ce8136851598
+Ph1991-11-20D1T02.flac:310da8084ea25f14ed25992ba630fb84
+Ph1991-11-20D1T03.flac:8a0ef067fa3406a8338e4e2a9d08f6a3
+Ph1991-11-20D1T04.flac:bf8308de4bb3e6a8d4324b504f06258b
+Ph1991-11-20D1T05.flac:df9436ff363e36a29a5f5c8a4063aaf8
+Ph1991-11-20D1T06.flac:813ff1101d82b228bbaa954df35367d9
+Ph1991-11-20D1T07.flac:8e361c228044adb24dac28f1240122d2
+Ph1991-11-20D1T08.flac:1f3809d402dcbd633d609f148c3bbb7c
+Ph1991-11-20D1T09.flac:b318d8ee5c01af51c31ae4dd3a1c285c
+Ph1991-11-20D1T10.flac:41497c749340dbbbf93b4fe5375ede8e
+Ph1991-11-20D2T01.flac:272e591210cb33455284f846153c5400
+Ph1991-11-20D2T02.flac:6f262a7c79fb4d8042b64c7fe8494d89
+Ph1991-11-20D2T03.flac:e49088374d2ebfc413efaf26fb2a4ea3
+Ph1991-11-20D2T04.flac:e2a18169e40ee9885889f1ed485556da
+Ph1991-11-20D2T05.flac:94686b5dc379cfae892d8de4cfa6ae39
+Ph1991-11-20D2T06.flac:328dac9125908f1d51b4e1f09632e427
+Ph1991-11-20D2T07.flac:909e1ecbe5825a5a21a7b5a54ff0987e
+Ph1991-11-20D2T08.flac:48ae1c81cc34f445f12b63fe6a57964a
+Ph1991-11-20D2T09.flac:ea3e8fc5b67d6099f36b64c5126e26d8
+Ph1991-11-20D2T10.flac:f5dc245dce88eddd35223359d122197b
+Ph1991-11-20D2T11.flac:aebfb12f51ecb43c7391aae9779e3e1c
+Ph1991-11-20D2T12.flac:5f29e435a8345e43df992f5f2d015219
+Ph1991-11-20D2T13.flac:0046dd6d4d3431ae30ad80b1104dbb5e
+Ph1991-11-20D2T14.flac:20e082b14ebdd2e6aa90664fd9b60bed
+
+

@@ -1,0 +1,52 @@
+Phish
+November 11, 1998
+Van Andel Arena
+Grand Rapids, MI
+
+source:
+(OTS)DFC Neumann skm-184s (AB, aimed at clusters, 10' high)>
+Horizon custom XLRs > Mackie 1202vlz > Straightwire Chorus gold RCA/1/8"> 
+Sony D8 @ 48kHz, Kao Gold master
+powered by Galaxy Audio Far-Outlet 240
+
+transfer:
+Kao Gold master > Tascam DA-30 Mk II > SPDIF > Digidesign Digi002 Rack >
+Pro Tools LE 6.4 (bounced at Tweak Head (highest) conversion rate to 44.1, with fades) >
+CDwav > FLAC
+
+taped and transferred by Dave Schall, with help at the show from
+Steve Newton, Mark Hutchinson, Jen, and Fran
+transferred 8/17/2005
+
+Disc 1 -  
+Set 1:
+1.  Punch You in the Eye
+2.  GUMBO
+3.  If You Need a Fool
+4.  Sleep
+5.  Tela
+6.  Birds of a Feather
+7.  Theme From the Bottom
+8.  Julius
+
+Disc 2 - 
+Set 2:
+1.  Halley's Comet >
+2.  Simple >
+3.  Walk Away
+4.  Limb by Limb
+5.  When the Circus Comes
+6.  GHOST
+
+Encores
+Disc 3:
+1.  Contact >
+2.  Rocky Top >
+3.  Funky Bitch
+
+notes: 
+PYITE has some level adjustments near the beginning, otherwise the rig ran untouched.
+In my opinion, this has one of the best Gumbos EVER.  Ghost is pretty slick too.
+Don't let the lack of an external AD conv. fool you...this one turned out amazing.  
+If only all OTSs had the sound of Van Andel on this night.  
+traders@umich represent!

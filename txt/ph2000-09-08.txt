@@ -1,0 +1,69 @@
+Phish 
+9/08/00
+Pepsi Arena
+Albany, NY
+
+Source: Schoeps CMC6/MK4V > Grace Lunatec V2 > Apogee AD1000
+Transfer: Tascam DA-20 MKII > M-Audiophile USB > CDWave version 1.94.5
+
+Source DATs provided by Peter Arcoma 
+Transfer by: PG
+
+Disc 1
+
+01 Mellow Mood
+02 Limb By Limb
+03 Ghost
+04 Bouncing Around the Room 
+05 Horse >
+06 Silent in The Morning
+07 Saw It Again
+08 NICU
+09 Glide
+10 Axilla
+11 Taste
+12 Golgi Apparatus
+
+Disc 2
+
+01 Birds of a Feather
+02 Windora Bug
+03 David Bowie
+04 Back at the Chicken Shack
+05 Bathtub Gin >
+06 Jam >
+07 Character Zero
+------
+08 Fire
+
+Show Notes: The jam out of the end of Gin featured Fishman on vaccum and Trey on 
+drums. Windora Bug made its concert debut (though it had been played at "Carreystock" 
+in the summer of 1999. Fire was played for the first time since July 23, 1999 (76 shows)
+
+Transfer Notes:
+*Approximately 3 minutes of crowd noise removed from the encore break to allow this to 
+fit on 2 discs.
+*All edits and downsampling done with Adobe Audition.
+
+
+
+ph2000-09-080106.flac:44d3a739c8ced1bb6db66d0d0e9539f6
+ph2000-09-080107.flac:cedd8b1c78e715288545a68a4a4a5ec4
+ph2000-09-080108.flac:8d01a38d823bc1184bdaee9a42f113c4
+ph2000-09-080109.flac:a00fae98fc277a89c785bddd93ad1786
+ph2000-09-080110.flac:288805f4b9b17ca41e7e266b0bb5c74e
+ph2000-09-080111.flac:068d27a41f8240720cd44bca08c62123
+ph2000-09-080112.flac:03efac1a12092eb1bf1bd023b139c1a9
+ph2000-09-080201.flac:cd0ee6bcfb4d522b64b22b848ddae2c8
+ph2000-09-080202.flac:65143e52c8dc536c0da04de4fa6512c0
+ph2000-09-080203.flac:22ed3f175e5698adadea8e99a771413e
+ph2000-09-080204.flac:87a4be271fce8161db574a4bf268f762
+ph2000-09-080205.flac:0fb93b6843a123c7355dab3799a5887d
+ph2000-09-080206.flac:6b92d8c2ebf1a6a846cb51052faae96a
+ph2000-09-080207.flac:2ad1e27bfe3e2b0c6b71d99d6c1f749f
+ph2000-09-080208.flac:d9ff70ce7d3ffbc6a1724d9419dc43bb
+ph2000-09-080101.flac:353bcb217701782bf88d4c6cbc0d380b
+ph2000-09-080102.flac:1ddd946472cdf65886993936f930e014
+ph2000-09-080103.flac:d8d7a7efd2059cd54e8dd3457dd9c334
+ph2000-09-080104.flac:7378c888c658b4c8a72fa180ff49c5c2
+ph2000-09-080105.flac:6f5f671ebcd81d93aca1417251f188d4

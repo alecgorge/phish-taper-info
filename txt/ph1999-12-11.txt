@@ -1,0 +1,40 @@
+Phish
+12-11-99 
+Corestates Spectrum 
+Philadelphia, PA
+
+Source: Neumann U89 (hypercard setting, DFC TS) > Apogee AD-1000 @ 44.1kHz
+Transfer: DA20mkII > Audio Magic Presto II > ZA2 > Soundforge XP 4.5 > CDWAV > SHN
+Transfer and encoding by Eric McRoberts
+
+Disk 1
+	Set I:
+1. Harry Hood >				           	
+2. Mike's Song >			
+3. Simple >			
+4. I Am Hydrogen >		
+5. Weekapaug Groove			
+6. When The Circus Comes to Town
+7. Scent Of A Mule		
+8. Cavern				
+Total Time:	73:59
+
+Disk 2 
+	Set II:
+1. Boogie On Reggae Woman
+2. Sneakin Sally Through the Alley >
+3. Ghost >
+4. 2001 >
+5. Down With Disease
+	Encore:
+6. Possum
+Total Time:	78:04
+
+Show Notes: This show included the first known Hood opener since October 30, 1985. 
+Sneakin' Sally began with an AC/DC Bag tease. Possum included an All Fall Down signal. 
+Mule was played for the first time since November 28, 1998 (61 shows).
+
+SHN > WAV > (files renamed to etree standards) > Trader's Little Helper (SBE fixes) > FLAC
+
+By:  The SHNfamily May 11, 2009
+

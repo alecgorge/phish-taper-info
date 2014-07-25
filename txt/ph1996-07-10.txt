@@ -1,0 +1,40 @@
+Phish, 07-10-96 Le Zenith, Paris, France
+
+Source: FOB Schoeps MK4V (ORTF, 8' stand, 50' back, center) --> KC5 --> CMC6 --> Sonosax SX-M2 --> Tascam DA-P1 @ 48K
+
+Tranfer: Sony PCM-2600 (One off master) > Dio MAudio 2448 > Cool Edit Pro 2
+(add fades, resample, 999 setting) > CD WAV > .shn via MKW .97 by Bill Gardner
+bgard@speakeasy.net
+
+**ALL**
+T01: Crowd/Tuning		[00:49.74]
+T02: Chalk Dust Torture		[06:56.14]
+T03: Ya Mar			[09:10.21]
+T04: Split Open and Melt	[10:22.19]
+T05: Waste			[05:56.06]
+T06: David Bowie		[14:35.45]
+T07: Hello My Baby		[01:51.21]
+T08: Good Times Bad Times	[06:31.28]
+
+Total:				[56:13.03]
+
+Opened for Santana
+Levels were adjusted (during actual mastering) for Hello My Baby
+
+___________________________________________________________________________
+
+*Dankseed Certification received 2002-08-26*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph1996-07-10/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+Passes SHNTool- OK
+
+negative criteria met:
+DAE- NO
+Unecessary resampling- NO
+Diginoise- NO
+___________________________________________________________________________

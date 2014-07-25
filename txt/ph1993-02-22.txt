@@ -1,0 +1,73 @@
+Phish
+02-22-93
+The Moon
+Tallahassee, FL
+
+Source: aud/48khz-Schoeps CMC44>Oade M148>Oade MOD Panasonic 
+SV-250 (Doug Oade's rig)
+Transfer: Sony PCM R500>Opcode DatPort>SF4.5>CD Wave>FLAC                                     
+
+Taper: Scott Pridgeon
+Seed: Kevin Shapiro
+DAT>FLAC Transfer by Chris Moore
+Tracking by Chris Moore
+
+------------------------------------
+soundcheck source: cSBD > DAT (44.1)
+transfer: Casio DA-R100 > M-Audio 24/96 via Coax SPDIF > Wavelab > CD-WAV > SHNv3
+
+
+01. "Hey-Hey" soundchecking
+02. Guy Forget
+03. Cactus solo'd
+04. Guy Forget
+05. "does Paul like it when there's feedback from the bass drum?"
+06. learning Nellie Cane
+07. Nellie Cane
+08. more Kick drum
+09. Nellie Cane harmonies
+10. Sample in a Jar (first try)
+11. Paul fixes the problem
+12. Sample in a Jar
+
+------------------------------------
+ Disc 1:                    (77:48)
+------------------------------------
+-Set 1-
+1. //Rift           	    (00:42)
+2. Guelah Papyrus*     	    (07:31)
+3. Poor Heart    	    (02:43)
+4. Maze  		    (09:43)
+5. Fee >      	    	    (05:06)
+6. Sparkle 	    	    (04:00)
+7. Foam  		    (08:07)
+8. Cavern       	    (04:25)
+9. I Didn't Know    	    (03:37)
+10. David Bowie   	    (12:36)
+-Set II-
+11. //Runaway Jim	    (07:19)
+12. It's Ice		    (07:51)
+13. Uncle Pen		    (04:02)
+
+-----------------------------------
+Disc 2:			    (74:58)
+-----------------------------------
+-Set 2 cont'd-
+1. Tweezer	    	    (11:11)
+2. Glide    	            (04:26)
+3. YEM	    	    	    (21:25)
+4. The Oh Kee Pa Ceremony>  (01:42)
+5. Llama     	    	    (05:03)
+6. HYHU>Love You>HYHU	    (10:49)
+7. The Squirming Coil	    (08:30)
+8. Tweezer Reprise	    (03:00)
+-Encore-
+9. crowd	   	    (01:11)
+10. Amazing Grace#	    (03:04)
+11. Fire	    	    (04:31)
+
+
+
+*-w/ language instructions
+#-acapella
+

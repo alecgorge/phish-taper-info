@@ -1,0 +1,54 @@
+PHiSH
+06-30-89 
+Pearl St. - Northampton, MA 
+
+Source: SBD > Sony D6 > Cass/0 > DAT
+Taper: Kevin Greene
+Transfer: Tascam DA20 mkII > ZA2 > SF4.5 > CDWav > SHN
+
+Transferred by Jimmy Sellers (pjimmy@delanet.com)
+Fixes by Ben Mohr (bmohr@udel.edu)
+Seed provided by Daniel Ritchey
+
+--------------------------------------
+ Disc 1:		      (64:55)       
+--------------------------------------
+-Set 1-
+1. Funky Bitch		      (06:05)
+2. You Enjoy Myself           (14:25)
+3. McGrupp 		      (08:10)
+4. Possum		      (08:40)
+5. Donna Lee*		      (03:47)
+6. Fluffhead 		      (13:36)
+7. Run Like an Antelope       (10:12)
+
+--------------------------------------
+ Disc 2: 		      (45:05)
+--------------------------------------
+-Set 2-
+1. Walk Away		      (04:27)
+2. AC/DC Bag 		      (05:52)
+3. The Curtain 		      (06:23)
+4. Slave to the Traffic Light (08:11)
+5. Bathtub Gin 		      (05:21)
+6. Mike's Song ->	      (06:45)
+7. I Am Hydrogen >            (02:20)
+8. Weekapaug Groove 	      (05:46)
+
+* Charlie Parker cover
+
+Notes:
+-For most of the first set, this recording has a channel separation where most 
+  instrumentals are in the left channel and most vocals are in the right channel.  
+  The second set is better in terms of mixing. To preserve the original content, 
+  I left the channels this way instead of mixing them together.
+-Dropouts (all <0.050 sec)
+  d1t01 1:26
+  d1t04 7:47
+-Tape Flips
+  d1t06 3:34 (44:41)
+
+Fixes:
+-Removed digi-burst d1t05 8:48 (<0.001 sec)
+-Removed skip in d1t06 8:35 (0.138 sec)
+-Removed diginoise d2t04 6:25 using pencil tool to smooth bursts

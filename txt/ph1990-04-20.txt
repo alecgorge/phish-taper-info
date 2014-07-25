@@ -1,0 +1,90 @@
+Phish
+04-20-1990
+Ramskellar, Colorado State University, Ft. Collins, CO
+
+
+Source: SBD > Cass/x
+
+Transfer: CDR > EAC > FLAC
+
+
+Disc One:
+
+ Set I:
+01. Take the 'A' Train 				4:25
+02. Divided Sky 				11:31
+03. Alumni > Jimmy Page > Alumni		6:23
+04. Ya Mar					6:27
+05. Cavern					5:20
+06. Dinner and a Movie				3:35
+07. Bouncing Around the Room			5:19
+08. Colonel Forbin's Ascent # > 		6:20
+09. The Famous Mockingbird			6:21
+10. Possum					8:04
+
+Disc Two:
+
+ Set II:
+01. Caravan					7:38
+02. Mike's Song > 				6:50
+03. I Am Hydrogen > 				2:34
+04. Weekapaug Groove				7:21
+05. La Grange					4:54
+06. Rift					5:38
+07. Fee						5:17
+08. The Oh Kee Pa Ceremony > 			1:44
+09. AC/DC Bag ##				5:37
+10. Jesus Just Left Chicago			9:50
+11. You Enjoy Myself				17:28
+
+
+#  Taple Flip (2:47)
+## Tape Flip (3:49)
+
+
+shntoot Output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     4:25.12       46774268 B   ---   --   -----    wav  1.0000  c:\shows\ph1990
+-04-20.shnf\ph90-04-20d1t01.wav
+    11:31.69      122054732 B   ---   --   -----    wav  1.0000  c:\shows\ph1990
+-04-20.shnf\ph90-04-20d1t02.wav
+     6:23.57       67695308 B   ---   --   -----    wav  1.0000  c:\shows\ph1990
+-04-20.shnf\ph90-04-20d1t03.wav
+     6:27.72       68436188 B   ---   --   -----    wav  1.0000  c:\shows\ph1990
+-04-20.shnf\ph90-04-20d1t04.wav
+     5:20.23       56502140 B   ---   --   -----    wav  1.0000  c:\shows\ph1990
+-04-20.shnf\ph90-04-20d1t05.wav
+     3:35.34       38006012 B   ---   --   -----    wav  1.0000  c:\shows\ph1990
+-04-20.shnf\ph90-04-20d1t06.wav
+     5:19.49       56386892 B   ---   --   -----    wav  1.0000  c:\shows\ph1990
+-04-20.shnf\ph90-04-20d1t07.wav
+     6:20.19       67076732 B   ---   --   -----    wav  1.0000  c:\shows\ph1990
+-04-20.shnf\ph90-04-20d1t08.wav
+     6:21.09       67229612 B   ---   --   -----    wav  1.0000  c:\shows\ph1990
+-04-20.shnf\ph90-04-20d1t09.wav
+     8:04.60       85518764 B   ---   --   -----    wav  1.0000  c:\shows\ph1990
+-04-20.shnf\ph90-04-20d1t10.wav
+     7:38.40       80885324 B   ---   --   -----    wav  1.0000  c:\shows\ph1990
+-04-20.shnf\ph90-04-20d2t01.wav
+     6:50.38       72413420 B   ---   --   -----    wav  1.0000  c:\shows\ph1990
+-04-20.shnf\ph90-04-20d2t02.wav
+     2:34.37       27252668 B   ---   --   -----    wav  1.0000  c:\shows\ph1990
+-04-20.shnf\ph90-04-20d2t03.wav
+     7:21.46       77900636 B   ---   --   -----    wav  1.0000  c:\shows\ph1990
+-04-20.shnf\ph90-04-20d2t04.wav
+     4:54.29       51929852 B   ---   --   -----    wav  1.0000  c:\shows\ph1990
+-04-20.shnf\ph90-04-20d2t05.wav
+     5:38.00       59623244 B   ---   --   -----    wav  1.0000  c:\shows\ph1990
+-04-20.shnf\ph90-04-20d2t06.wav
+     5:17.60       56059964 B   ---   --   -----    wav  1.0000  c:\shows\ph1990
+-04-20.shnf\ph90-04-20d2t07.wav
+     1:44.10       18369164 B   ---   --   -----    wav  1.0000  c:\shows\ph1990
+-04-20.shnf\ph90-04-20d2t08.wav
+     5:37.23       59500940 B   ---   --   -----    wav  1.0000  c:\shows\ph1990
+-04-20.shnf\ph90-04-20d2t09.wav
+     9:50.02      104080748 B   ---   --   -----    wav  1.0000  c:\shows\ph1990
+-04-20.shnf\ph90-04-20d2t10.wav
+    17:28.30      184937804 B   ---   --   -----    wav  1.0000  c:\shows\ph1990
+-04-20.shnf\ph90-04-20d2t11.wav
+   138:45.44     1468634412 B                            1.0000  (21 files)

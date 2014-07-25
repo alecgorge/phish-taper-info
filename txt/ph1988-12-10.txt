@@ -1,0 +1,66 @@
+Phish
+12-10-88 
+Red Barn, Hampshire College - Amherst, MA 
+
+Set 1: SBD > Cass/x > DAT > CDR > EAC > SHN
+Set 2: SBD > Cass/3 > Technics RS-BR465 > DA-P1
+       Sony D7 > Zoltrix > SF 4.5c > CDWav > SF 4.5c > shntool > FLAC
+
+Set 1 SHN conversion by Ben Mohr (benjamin.mohr@ce.gatech.edu, 01-23-00)
+Set 1 fixes (see notes) by Mike Wren (mikew@etree.org, 02-01-00)
+Set 2 A>D transfer by John Bower
+Set 1 SHN>FLAC and Set 2 DAT>FLAC transfer and fixes by Ben Mohr (benjamin.mohr@ce.gatech.edu)
+
+Note: The Set 1 source is the same as was previously released on 1-23-00/2-1-00.  Set 2 was added on 12/2/02 along with converting Set 1 to FLAC.  
+
+I highly suggest that anyone having the original Set 1 acquire this complete show!
+
+--------------------------------------
+ Disc 1:                      (68:38)
+--------------------------------------  
+-Set 1-    
+1. I Didn't Know              	(03:56)
+2. Golgi Apparatus            	(05:14)
+3. David Bowie                	(13:36)
+4. Lizards                   	(11:36)
+5. Foam                       	(07:28)
+6. Fee (tape flip)            	(05:09)
+7. Mike's Song ->             	(05:31)
+8. I Am Hydrogen ->           	(02:15)
+9. //Weekapaug Groove         	(09:05)
+10. Wilson                    	(04:45)
+
+--------------------------------------
+ Disc 2:                      (77:18)
+--------------------------------------
+-Set 1 cont.-
+1. Colonel Forbin's Ascent -> (06:29)
+2. Famous Mockingbird         	(06:49)
+-Set 2-
+3. //Alumni Blues (LtJP)       	(05:23)
+4. You Enjoy Myself           	(15:54)
+5. Contact                    	(07:25)
+6. The Sloth                  	(05:23)
+7. AC/DC Bag ->              	(05:15)
+8. Possum                     	(09:26)
+9. Good Times Bad Times       	(06:31)
+-Encore-
+10. Run Like an Antelope      	(08:39)
+
+Notes:
+-d2t03 fades in a beginning
+-This is the best (and only) Set 2 that I (Ben) have found to be circulating with a known cassette generation.
+-some tape warbling at beginning of Set 2
+-very small skip d2t03 9:46 (no missing samples), d2t04 6:08 (no missing samples)
+-Trey teases Ballad of Curtis Lowe at end of d2t05
+-Tape flip: d2t07 1:19.644 (fade out/in from Cass/3 source)
+-dropout d2t07 6:49.297
+
+Set 1 fixes by Mike Wren on 2/1/00 with Cool Edit Pro v1.2:
+-Normalized each disc to 98%
+-Fixed the pitch (increased exactly one-half step)
+-Retracked both discs using CDWav
+
+Fixes (12/2002):
+-Split Col. Forbin and Mockingbird into 2 tracks
+-Pitch shift of +32.8 cents to exactly match the Set 2 track timings to Set 1 with SF4.5c.

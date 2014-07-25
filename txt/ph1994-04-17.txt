@@ -1,0 +1,46 @@
+Phish
+04-17-94
+Patriot Center, Fairfax, VA 
+--------------------------------------------------------------------------------------------
+This show is included in the 1994 Phish Project.
+http://people.atl.mediaone.net/danmarq/1994_phish_project.html
+----------------
+Source: SBD>?>DAT (Earphones Mix; digi-noise in various places throughout the 
+tape)
+Conversion: Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+Soundforge 5.0b (48KHz->44.1KHz at highest setting [4 of 4], with anti-alias 
+filter)->
+CD Wave 1.61-> mkwACT v0.97   **No DAE at all**
+Minor Edits: Fades (in/out at beginning/end of sets)
+----------------
+Transferred by Dan Marquardt <danmarq@msn.com>, please contact me with 
+questions/comments.
+There are also 48KHz shn's of this seed for archival.
+--------------------------------------------------------------------------------------------
+
+CD/Set 1:			59:17
+01. Loving Cup >		06:33
+02. Foam			09:02
+03. I Didn't Know >		03:34
+04. The Divded Sky		13:01
+05. Mound			05:46
+06. Down With Disease >		07:07
+07. If I Could >		06:48
+08. My Sweet One >		03:02
+09. Cavern			04:24
+
+CD/Set 2: 80min CD		79:19
+01. David Bowie			13:43
+02. Wolfman's Brother >		08:52
+03. Uncle Pen			03:58
+04. The Sloth			17:40
+05. Reba			
+06. Big Ball Jam->		02:21
+07. Maze			10:23
+08. Contact >			05:01
+09. Golgi Apparatus		07:27
+
+Encore:
+10. Cracklin' Rosie->		02:51
+11. HYHU			01:05
+12. Bold As Love		05:46

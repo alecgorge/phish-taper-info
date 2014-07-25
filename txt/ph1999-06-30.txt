@@ -1,0 +1,121 @@
+Phish
+1999-06-30
+Sandstone Amphitheater
+Bonner Springs, Kansas
+
+Source:
+Schoeps MK4v/M222 > Lunatec V2 > Apogee AD1000 > HHB PDR1000  
+OTS, Recorded @ 48kHz
+Taper: Scott Reid
+
+Transfer:
+Tascam DA20 mkII > s/pdif > Tascam FW-1804 > firewire > .wav 16bit 48kHz
+Minor Edits (fades at beginning/end of sets) performed in Wavelab.
+Resample > 44.1kHz via r8brain
+Tracking & conversion to FLAC level 8 via CDWave
+Transferred by rowjimmy rowjimmyATgmailDOTcom
+
+Seeded to bt.etree.org 2009-02-02
+
+
+Disc One:
+-Set One-
+01. Bathtub Gin
+02. Farmhouse
+03. Tube
+04. Horn
+05. Back On The Train
+06. Maze
+07. Limb by Limb
+08. Golgi Apparatus
+
+Disc Two:
+-Set Two-
+01. The Squirming Coil >
+02. Free
+03. Birds of a Feather >
+04. Simple > 
+05. Swept Away > 
+06. Steep >
+07. Piper
+
+Disc Three:
+01. Bug > 
+02. My Left Toe
+03. Stash 
+04. crowd
+
+-Encore-
+05. Bouncing Around the Room
+06. Sample in a Jar 
+
+Show Notes: This was the first show in the new stage setup. Maze included Gin teases. Back on the 
+Train, Bug, and My Left Toe made their Phish debuts, although Trey played them on his May, 1999, solo 
+tour. Also, Bug had been played by Amfibian since they debuted the song on November 4, 1998, albeit 
+with slightly different lyrics. Swept Away and Steep were played for the first time since June 30, 1998 (62 shows).
+
+Additional notes about this source:
+Mark Nutter kindly allowed Scott to run this rig throughout the Summer tour. 
+A 15ft digital line from Scott's PDR1000 was connected to a digital patchbay 
+from which a great many tapes were recorded, including some of the previously 
+circulating sources. After the tour, all of the master DATs were cloned for 
+Mark Nutter. Subsequent clones from Mark Nutter's copies have also been seeded 
+over the years. This series is the first transfer of the master dats at the head 
+of this chain.
+
+Thanks to Mark for the gear. Thanks to Scott for running it and 
+thanks again to Scott for lending me the masters to transfer.
+
+Enjoy.
+-rj
+
+
+
+ffp:
+ph1999-06-30d1t01.flac:5e9e6a99deed0d19233b0bafe0ff5830
+ph1999-06-30d1t02.flac:b8780b9423056c05b24d55b8776c3385
+ph1999-06-30d1t03.flac:0eddea4ec4bb720069ca40b2a1d6736b
+ph1999-06-30d1t04.flac:998ccb50e2c12b10c25ad00e907c9fcb
+ph1999-06-30d1t05.flac:933cbc7888c94114379f1b0622c6cba8
+ph1999-06-30d1t06.flac:77255f907a5e188480617ffea698bcd0
+ph1999-06-30d1t07.flac:aa2abbf76646b4825a6b73337ab3fd96
+ph1999-06-30d1t08.flac:0738c524054dcd1c80b27fc08460d54b
+ph1999-06-30d2t01.flac:832d685f7b9f4493c1e80f1045471b9d
+ph1999-06-30d2t02.flac:65b5cdd8f6b41b9c08c9ef8722d95581
+ph1999-06-30d2t03.flac:b4539b5d2a82f50aada2876746bc136c
+ph1999-06-30d2t04.flac:3250daef046ecebcfafa5e2b507b2d91
+ph1999-06-30d2t05.flac:fa5cc48d48e8f2eda75c15ce9e49e3c5
+ph1999-06-30d2t06.flac:5e5ffba4b9667c4a05b91d03b888a130
+ph1999-06-30d2t07.flac:71b71e04b8a0a3bde57c1552a6dd5fd4
+ph1999-06-30d3t01.flac:f463fae3829f68fbf85729ee1ef47dc2
+ph1999-06-30d3t02.flac:838859d1a8cd23ac9b8e610bf4b304a4
+ph1999-06-30d3t03.flac:c907a48d102e14a00acb737b1b9fcbf7
+ph1999-06-30d3t04.flac:b83db306a281dd6f2787e1e1ee56c6d5
+ph1999-06-30d3t05.flac:fcf9cedf175e14fb0ea0cc62ceacafc1
+ph1999-06-30d3t06.flac:3f584cc68173b809f2229b35dd83d2e0
+
+
+shntool output:
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+    19:51.01      210094796 B   ---   --   ---xx   flac  0.5020  ph1999-06-30d1t01.flac
+     5:53.09       62290412 B   ---   --   ---xx   flac  0.5294  ph1999-06-30d1t02.flac
+     4:38.45       49145084 B   ---   --   ---xx   flac  0.5295  ph1999-06-30d1t03.flac
+     4:32.65       48133724 B   ---   --   ---xx   flac  0.4809  ph1999-06-30d1t04.flac
+     6:00.31       63576956 B   ---   --   ---xx   flac  0.4789  ph1999-06-30d1t05.flac
+    14:50.21      157045436 B   ---   --   ---xx   flac  0.5189  ph1999-06-30d1t06.flac
+    11:33.61      122388716 B   ---   --   ---xx   flac  0.4992  ph1999-06-30d1t07.flac
+     5:08.12       54359468 B   ---   --   ---xx   flac  0.5307  ph1999-06-30d1t08.flac
+    10:19.62      109337468 B   ---   --   ---xx   flac  0.4827  ph1999-06-30d2t01.flac
+    15:06.24      159874892 B   ---   --   ---xx   flac  0.5045  ph1999-06-30d2t02.flac
+     9:28.42      100294028 B   ---   --   ---xx   flac  0.5341  ph1999-06-30d2t03.flac
+     8:23.51       88849196 B   ---   --   ---xx   flac  0.5087  ph1999-06-30d2t04.flac
+     1:25.67       15151628 B   ---   --   ---xx   flac  0.4108  ph1999-06-30d2t05.flac
+     2:21.32       24947708 B   ---   --   ---xx   flac  0.4429  ph1999-06-30d2t06.flac
+     8:23.35       88811564 B   ---   --   ---xx   flac  0.5011  ph1999-06-30d2t07.flac
+     9:47.67      103704428 B   ---   --   ---xx   flac  0.5210  ph1999-06-30d3t01.flac
+     9:13.26       97610396 B   ---   --   ---xx   flac  0.5038  ph1999-06-30d3t02.flac
+    13:57.44      147750332 B   ---   --   ---xx   flac  0.4662  ph1999-06-30d3t03.flac
+     2:51.62       30310268 B   ---   --   ---xx   flac  0.4319  ph1999-06-30d3t04.flac
+     3:52.32       41000108 B   ---   --   ---xx   flac  0.4906  ph1999-06-30d3t05.flac
+     6:12.06       65634956 B   ---   --   ---xx   flac  0.5191  ph1999-06-30d3t06.flac
+   173:52.45     1840311564 B                            0.5015  (21 files)

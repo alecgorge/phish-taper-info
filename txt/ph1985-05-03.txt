@@ -1,0 +1,31 @@
+Phish
+5/3/85
+Wilkes\Davis\Wing Dorm BBQ, UVM
+Burlington, VT
+
+Source: CS1 > DAT > CD
+Transfer: Tascam DA-302 > HHB CDR-850
+Encoding: CD > EAC (secure Mode) > WAV > SHNTool > Flac (1.1.0)
+
+Disc 1
+Set 1
+01. Mike's Song 
+02. Dave's Enegry Guide
+Set 3
+03. Scarlet Begonias >
+04. Eyes of the World->
+05. Whipping Post >
+
+Disc 2 
+Set 3 cont'd
+01. McGrupp >
+02. Makisupa Policeman 
+03. Run Like an Antelope >	
+04. The Other One
+Encore
+05. Anarchy
+
+
+Transferred by Chris Warren (hip_school_preppie@yahoo.com)
+Shn'd by Mark Kerchoff (Mark@Kerchoff.com)
+

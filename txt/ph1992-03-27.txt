@@ -1,0 +1,61 @@
+Phish - March 27, 1992
+13x13 Club - Charlotte, NC
+
+Recording Info: aud/cas/m>D (probably Nak300 cp1 (cardioids) @ 90deg xy>marantz pmd 430>D6)
+
+Transfer Info:
+Sony PCM R500>Opcode DatPort>SoundForge4.5>CD Wave>FLAC  
+    
+Taper: Bryon Sosinski
+Seed: Kevin Shapiro
+Transfer/Tracking: Chris Moore
+
+Notes:
+- tape flip during Guelah Papyrus
+- tape flip between Bathtub Gin and Dinner and a Movie was crossfaded
+- omit s2t14 in order to burn the second set to a single 80min CD
+
+-------------------------------------------------------------------------
+April 15, 2008 fixes, by Jason Sobel
+On the original seed, for some reason, the two channels were out of phase with each other.
+To fix this, first I merged all the files into one long file.
+Then I inverted the right channel in Samplitude SE v9.1.1, to be in phase relative to the left channel.
+Then I split the tracks at the same points as the original seed, 
+based on a .cue file I had created from the original split tracks.
+When SHNtool re-split the tracks, it also took care of the several SBE's that were present on the original seed.
+The resulting files were then compressed with FLAC v1.2.1, and re-tagged with metaflac v1.2.1
+-------------------------------------------------------------------------
+
+Disc 1:
+s1t01 - Llama
+s1t02 - Reba
+s1t03 - Paul and Silas
+s1t04 - The Sloth
+s1t05 - Divided Sky
+s1t06 - Guelah Papyrus
+s1t07 - Maze
+s1t08 - Glide
+s1t09 - Bouncing Around The Room
+s1t10 - Run Like An Antelope
+
+Disc 2:
+s2t01 - Mike's Song>
+s2t02 - I Am Hydrogen>
+s2t03 - Weekapaug Groove
+s2t04 - The Horse>
+s2t05 - Silent In The Morning
+s2t06 - My Sweet One
+s2t07 - Rift
+s2t08 - Bathtub Gin
+
+Disc 3:
+s2t09 - Dinner and a Movie
+s2t10 - Magilla
+s2t11 - Harry Hood
+s2t12 - Cold As Ice>Love You > Cold as Ice
+s2t13 - Golgi Apparatus
+
+Encore:
+s2t14 - crowd
+s2t15 - Memories
+s2t16 - Sweet Adeline

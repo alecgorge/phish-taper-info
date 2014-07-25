@@ -1,0 +1,65 @@
+Phish
+April 5, 1993
+HUB Ballroom
+Seattle, WA
+
+source:
+(FOB) Neumann km140 > Sonosax SX-M2 > Sony D-10 II pro (@48 kHz)
+
+transfer:
+Sony PCM-R500 > M-Audio MicroTrack > CF Card > usb > pc > WaveLab 5.01b (de-emphasis, fades, resample to 44.1kHz) > CD Wave v1.94.7 > FLAC v1.1.2 (Level 8)
+
+recorded by Jim Cowan
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded March 5, 2006
+
+notes:
+The original DAT recording was made with pre-emphasis. The Waves 5.0 Paragraphic EQ plug-in was used to de-emphasize the recording.
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+
+Disc 1 - [42:59]
+Set I
+01 - [00:47] - intro
+02 - [04:32] - Llama
+03 - [08:03] - It's Ice
+04 - [05:29] - Fee (see notes below)
+05 - [10:15] - Maze
+06 - [13:53] - Fluffhead
+
+Disc 2 - [50:00]
+Set I continued
+01 - [03:27] - Paul and Silas
+02 - [14:09] - Stash
+03 - [13:02] - Colonel Forbin's Ascent >
+04 - [06:13] - The Famous Mockingbird
+05 - [13:09] - David Bowie
+
+Disc 2 - [74:52]
+Set II
+01 - [03:50] - Axilla
+02 - [02:24] - Poor Heart (see notes below)
+03 - [07:23] - Caravan
+04 - [07:10] - Punch You in the Eye
+05 - [11:25] - Tweezer
+06 - [04:17] - Glide
+07 - [21:32] - You Enjoy Myself
+08 - [01:33] - HYHU >
+09 - [02:44] - Cracklin' Rosie >
+10 - [00:48] - HYHU
+11 - [08:60] - Twezer Reprise
+12 - [02:10] - encore break
+13 - [02:12] - Carolina (a capella)
+14 - [04:34] - Fire *
+
+* dedicated to "Dudley" who was the other guitar player in Trey's high school band, Space Antelope
+
+show notes:
+Caravan was played for the first time since September 25, 1991 (214 shows)
+
+notes:
+approx 9 seconds into Fee, there is an approx 4 second drop-out.
+I silenced the loud digital "clicks" at the start and end of this drop-out.  This drop-out is on the DAT.
+It's actually not too disruptive, please don't let that keep you away from this otherwise wonderful sounding source.
+Not to mention, at this point in time, this is the only source available for this show...
+
+I also minimized three very short spots of digi-noide in Poor Heart, at 1:49.4, 1:49.7, and at 2:13.7.  These spots were also on the DAT.  I've made it better and less noticeable, but it's not perfect.

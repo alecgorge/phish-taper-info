@@ -1,0 +1,91 @@
+Phish
+December 16, 1995
+Olympic Center
+Lake Placid, NY
+
+source:
+B+K 4011 > custom pre-amp > Teac DAP-20 (@48kHz)
+
+transfer:
+Sony D8 > M-Audio MicroTrack > CF Card > Samplitude SE v9.1.1 (de-emphasis, fades) > r8brain v1.9 (resample to 44.1 kHz) > CD Wave v1.97 > FLAC v1.2.1 (Level 8)
+
+FLAC tags added with metaflac v1.2.1
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded May 2, 2008
+
+notes:
+The original DAT recording was made with pre-emphasis.  The pre-emphasis has been removed with Samplitude.
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+Big thanks to Dave for letting me borrow the master DAT!
+
+Disc 1 - [70:19]
+Set I
+01 - [02:40] - Buried Alive
+02 - [08:20] - AC/DC Bag
+03 - [07:39] - Taste That Surrounds
+04 - [08:39] - Ya Mar
+05 - [03:43] - The Sloth
+06 - [16:48] - The Divided Sky
+07 - [02:23] - Dog Faced Boy
+08 - [07:51] - Julius
+09 - [06:19] - Suzy Greenberg
+Set II
+10 - [01:01] - intro
+11 - [04:57] - Sample in a Jar
+
+Disc 2 - [77:22]
+Set II continued
+01 - [13:42] - Reba
+02 - [12:16] - Scent of a Mule
+03 - [04:09] - Cavern
+04 - [08:44] - Mike's Song ->
+05 - [07:03] - Simple ->
+06 - [13:48] - Weekapaug Groove
+07 - [10:32] - The Squirming Coil
+08 - [02:41] - encore break
+09 - [04:26] - Fire
+
+alternate tracking note:
+If you really want to fit Set II onto one 80 minute CD, you can do it.
+If you remove the "intro" track to Set II and the "encore break" track, Set II will be 79:37, which should fit onto a CD.
+The downside of that option is you won't get to hear the chess move at the start of Set II.  bummer.
+
+Note:
+The primary difference between this seed and the original seed of Dave's source is the pre-emphasis.
+For reference, I originally seeded Dave's source of this show on 12/25/05.
+Detailed information regarding that seed is available here: http://db.etree.org/shn/32874
+At the time that I originally seeded Dave's source, I was just learning about pre-emphasis.
+As such, there were a few of my seeds from around that time that have not been de-emphasized.
+For this seed, I went back to the 48 kHz files from the original DAT transfer to remove the pre-emphasis.
+This new seed sounds less harsh, more natural, and is a better representation of the sound at the venue.
+Other (relatively minor) differences include:
+A different program for resampling to 44.1kHz, a newer version of FLAC compression, and FLAC tags on this new seed.
+
+----------------------------------------------------------------------------------------------------
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     2:40.09          26.94 MB  ---   --   ---xx   flac  0.4310  ph1995-12-16d1t01.flac
+     8:19.57          84.07 MB  ---   --   ---xx   flac  0.4806  ph1995-12-16d1t02.flac
+     7:39.20          77.26 MB  ---   --   ---xx   flac  0.4652  ph1995-12-16d1t03.flac
+     8:38.41          87.23 MB  ---   --   ---xx   flac  0.4419  ph1995-12-16d1t04.flac
+     3:43.26          37.57 MB  ---   --   ---xx   flac  0.5018  ph1995-12-16d1t05.flac
+    16:47.50         169.52 MB  ---   --   ---xx   flac  0.4485  ph1995-12-16d1t06.flac
+     2:23.00          24.06 MB  ---   --   ---xx   flac  0.3331  ph1995-12-16d1t07.flac
+     7:50.56          79.19 MB  ---   --   ---xx   flac  0.4864  ph1995-12-16d1t08.flac
+     6:18.41          63.68 MB  ---   --   ---xx   flac  0.4978  ph1995-12-16d1t09.flac
+     1:00.58          10.22 MB  ---   --   ---xx   flac  0.3479  ph1995-12-16d1t10.flac
+     4:56.54          49.92 MB  ---   --   ---xx   flac  0.5151  ph1995-12-16d1t11.flac
+    13:42.33         138.36 MB  ---   --   ---xx   flac  0.4780  ph1995-12-16d2t01.flac
+    12:16.26         123.87 MB  ---   --   ---xx   flac  0.4011  ph1995-12-16d2t02.flac
+     4:09.03          41.90 MB  ---   --   ---xx   flac  0.5240  ph1995-12-16d2t03.flac
+     8:44.35          88.23 MB  ---   --   ---xx   flac  0.5273  ph1995-12-16d2t04.flac
+     7:02.67          71.14 MB  ---   --   ---xx   flac  0.5129  ph1995-12-16d2t05.flac
+    13:47.64         139.27 MB  ---   --   ---xx   flac  0.4704  ph1995-12-16d2t06.flac
+    10:31.61         106.29 MB  ---   --   ---xx   flac  0.3909  ph1995-12-16d2t07.flac
+     2:40.61          27.05 MB  ---   --   ---xx   flac  0.3915  ph1995-12-16d2t08.flac
+     4:25.63          44.72 MB  ---   --   ---xx   flac  0.5271  ph1995-12-16d2t09.flac
+   147:40.00        1490.50 MB                           0.4635  (20 files)

@@ -1,0 +1,86 @@
+Phish
+June 26th, 2010
+Merriweather Post Pavilion
+Columbia, MD
+
+Taper: Timothy Brown (timothydavidbrown@gmail.com)
+Source: AKG C460Bs/CK 63-ULS (DINa, OTS, ROC, on stand ~6')->Kind Kables->Naiant LittleBox->Segue Dogstar Silver-Clad Interconnect->Edirol R-09HR (24 bit/96 kHz)
+Transfer: SDHC -> PC
+Processing: Fade in, fade out, dithered to 16 bit, resampled to 44.1 kHz & tracking using SoundForge 9.0.
+Conversion: FLAC frontend 1.7.1 used to align on sector boundaries and for Flac16 Conversion @ level 8
+Tagging: Band name, Venue and Song Title in Foobar2000
+
+*****************************************************************
+********* PLEASE SPREAD, BUT PLEASE INCLUDE SOURCE INFO *********
+****** DO NOT SELL OR DISTRIBUTE FOR A PROFIT BY ANY MEANS ******
+*****************************************************************
+
+Set I
+01. Crowd Control
+02. Kill Devil Falls
+03. AC/DC Bag
+04. Sugar Shack
+05. Tube
+06. In The Aeroplane Over The Sea ~
+07. Stash
+08. Backwards Down The Number Line
+09. NICU >
+10. 46 Days
+11. Suzy Greenberg
+
+Set II
+12. Rock & Roll >
+13. Free
+14. Fast Enough For You
+15. Sparkle ->
+16. Tweezer
+17. The Horse ->
+18. Silent In The Morning >
+19. Wolfman's Brother ->
+20. Slave To The Traffic Light >
+21. Tweezer Reprise
+22. Encore Break
+23. Show Of Life
+24. Good Times Bad Times 
+
+Notes:
+~ Live debut, Neutral Milk Hotel cover
+Thanks to Dave & Tim P. for the ticket.
+Thanks to Chris & Taylor for the clamp space.
+Thanks to Erin for being the best concert buddy ever.
+Shout outs to Jenn, Dusty, Amanda, Ryan, Jeff, Josh, Koko, Mike & Eric.
+
+A 24 bit/96 kHz version exists.
+
+*****************************************
+****Please support artists and venues****
+************that allow taping************
+*****************************************
+
+phish.com
+timothydavidbrown.blogspot.com
+
+phish2010-06-26t01.flac:7fa95703c94dad6b2ff37afa35cc6100
+phish2010-06-26t02.flac:2c466aae03d008d6bfedb4cc6d3d0d8c
+phish2010-06-26t03.flac:44f6f184de6574f540f2895d93458776
+phish2010-06-26t04.flac:250ae9d7a98418789d16725beb8c9d74
+phish2010-06-26t05.flac:c6202fe39f89797279ff3ca6e875e537
+phish2010-06-26t06.flac:dd57bb768904248e946e69f98fb26516
+phish2010-06-26t07.flac:caae020437ed8ec49409a6ae0b14aa2d
+phish2010-06-26t08.flac:e6f54b9a3b1b8af7afe1050b30cd5628
+phish2010-06-26t09.flac:9a4398080b2ab45ac1767b29c8337ffa
+phish2010-06-26t10.flac:de18921f08c7b6d39f8e8e20d0dffa09
+phish2010-06-26t11.flac:a034d3b78771c1e2b5ccad8baa24c9ed
+phish2010-06-26t12.flac:d564d64c431fdc71e45bea7737922a45
+phish2010-06-26t13.flac:264dd1fb4e429036bc548e65cfb6adee
+phish2010-06-26t14.flac:47935d27ad3b742f498c7bb965c9955a
+phish2010-06-26t15.flac:fd48a5b8317674b31f2b23a9ba2dcc61
+phish2010-06-26t16.flac:4ec2a903ada8a1766be9726d86d37444
+phish2010-06-26t17.flac:bfe07fb90fccd92cfdfdb5d28203422e
+phish2010-06-26t18.flac:e0ed5ce7bfb5a6782ec6564ef941e5de
+phish2010-06-26t19.flac:745562010b29f21d41608d1beaf77ed8
+phish2010-06-26t20.flac:5cf9997945ebdfe532793e565674dedd
+phish2010-06-26t21.flac:45774d55af82143248bbf6f274038188
+phish2010-06-26t22.flac:8ac78b244cfa7b16586511cad460b177
+phish2010-06-26t23.flac:53194468e940eb5b151e219494fa7171
+phish2010-06-26t24.flac:f167fbbf3f04496cf43bc8d4ca258b54

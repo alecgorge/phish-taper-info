@@ -1,0 +1,129 @@
+Phish
+July 3, 1999
+Lakewood Ampitheater, Atlanta, GA
+
+Source:
+Schoeps MK4v/M222 > Lunatec V2 > Apogee AD1000 > HHB PDR1000  
+OTS, Recorded @ 48kHz
+Taper: Scott Reid
+
+Transfer:
+Tascam DA20 mkII > s/pdif > Tascam FW-1804 > firewire > .wav 16bit 48kHz
+Minor Edits (fades at beginning/end of sets) performed in Wavelab.
+Resample > 44.1kHz via r8brain
+Tracking & conversion to FLAC level 8 via CDWave
+Transferred by rowjimmy (rowjimmyATgmailDOTcom)
+Seeded to etree on 
+
+
+Disc One:
+-Set I-
+01. Chalk Dust Torture,
+02. Gumbo
+03. Sparkle >
+04. Cavern
+05. Taste
+06. When the Circus Comes
+07. Tube >
+08. Funky Bitch 
+09. NICU
+10. Waste
+
+Disc Two:
+01. Meatstick
+
+-Set II- 
+02. Twist >
+03. Piper
+04. Moma Dance
+05. Mountains in the Mist*
+06. Run Like an Antelope >
+07. Contact >
+08. Little Drummer Boy
+09. Crowd
+
+Disc Three:
+-Encore-
+1. Little Drummer Boy**
+2. Bill Bailey Won't You Please Come Home***
+
+-Encore 2-
+3. Harry Hood
+
+* First Time Played
+** Performed by Fishman, solo on the snare drum, with alternate lyrics.
+*** w/ Page's father, Dr. Jack McConnell, on vocals and kazoo.
+
+Show Notes: Mist debuted at this show, though it was played on Trey's tour. The Little 
+Drummer Boy encore was performed by Fishman, solo on the snare drum, with alternate 
+lyrics. Bill Bailey featured Page's father, Dr. Jack McConnell, on vocals and kazoo. 
+Meatstick was played for the first time since June 25, 1997 (123 shows).
+
+Additional notes about this source:
+257ms dropout in the final seconds of Antelope removed (audible but not painfully)
+
+Mark Nutter kindly allowed Scott to run this rig throughout the Summer tour. 
+A 15ft digital line from Scott's PDR1000 was connected to a digital patchbay 
+from which a great many tapes were recorded, including some of the previously 
+circulating sources. After the tour, all of the master DATs were cloned for 
+Mark Nutter. Subsequent clones from Mark Nutter's copies have also been seeded 
+over the years. This series is the first transfer of the master dats at the head 
+of this chain.
+
+Thanks to Mark for the gear. Thanks to Scott for running it and 
+thanks again to Scott for lending me the masters to transfer.
+
+Enjoy
+-rj
+
+
+ffp:
+ph1999-07-03d1t01.flac:2f9b09556c56ac6be8ee5f5dfc4dc853
+ph1999-07-03d1t02.flac:6a4d8b7e5fc876d1b83e3d3a37535f51
+ph1999-07-03d1t03.flac:7650fa177f8bb72c7c23a450755cc1ac
+ph1999-07-03d1t04.flac:eaf6472d91a7abed05aa4811013ec86b
+ph1999-07-03d1t05.flac:fdc52b64fed2136e46c294da20b236b0
+ph1999-07-03d1t06.flac:700df6ffed32d052350c26a8b14d01b1
+ph1999-07-03d1t07.flac:3571934e8468f5028e3615492e57be26
+ph1999-07-03d1t08.flac:d58f200e5435f77f5a1bfd066cf0c1e2
+ph1999-07-03d1t09.flac:6aafb0e87826d142157b036730e5a6bd
+ph1999-07-03d2t01.flac:f6033ec7d25f3da13440a9c6d208c72d
+ph1999-07-03d2t02.flac:a9a0bf087ad9742609c2e608805c49e6
+ph1999-07-03d2t03.flac:5586f8d21522ff5ed38bae9f42b60cce
+ph1999-07-03d2t04.flac:a66cd66320c5b302dc305d746d36d246
+ph1999-07-03d2t05.flac:a2457037fcb8566c8f12aca4089ef174
+ph1999-07-03d2t06.flac:0a76016f4816d3e643bfc39578c9daf2
+ph1999-07-03d2t07.flac:c16686fbaba12cc980e5641e138f76bc
+ph1999-07-03d2t08.flac:71dacb1ba254082e34988f6fd353f201
+ph1999-07-03d2t09.flac:bd3e5155741399bd4ec29deef580500a
+ph1999-07-03d3t01.flac:c5c442518401a67a88ca92d47439b03a
+ph1999-07-03d3t02.flac:06c80b54e46406963d2936cf57cbf99a
+ph1999-07-03d3t03.flac:b0b970455d88e55ad031ccd2225f7466
+
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     7:52.63       83409020 B   ---   --   ---xx   flac  0.5546  ph1999-07-03d1t01.flac
+    11:11.71      118531436 B   ---   --   ---xx   flac  0.5000  ph1999-07-03d1t02.flac
+     4:06.02       43399148 B   ---   --   ---xx   flac  0.5344  ph1999-07-03d1t03.flac
+     4:38.60       49180364 B   ---   --   ---xx   flac  0.5772  ph1999-07-03d1t04.flac
+    10:57.02      115899548 B   ---   --   ---xx   flac  0.5289  ph1999-07-03d1t05.flac
+     6:31.30       69043004 B   ---   --   ---xx   flac  0.4616  ph1999-07-03d1t06.flac
+     7:57.39       84234572 B   ---   --   ---xx   flac  0.5120  ph1999-07-03d1t07.flac
+     6:31.68       69132380 B   ---   --   ---xx   flac  0.5585  ph1999-07-03d1t08.flac
+     5:43.23       60559340 B   ---   --   ---xx   flac  0.5179  ph1999-07-03d1t09.flac
+     6:44.28       71331500 B   ---   --   ---xx   flac  0.4700  ph1999-07-03d1t10.flac
+     9:02.67       95766428 B   ---   --   ---xx   flac  0.5251  ph1999-07-03d2t01.flac
+    10:56.34      115798412 B   ---   --   ---xx   flac  0.5209  ph1999-07-03d2t02.flac
+     9:27.59      100157612 B   ---   --   ---xx   flac  0.5342  ph1999-07-03d2t03.flac
+    10:02.72      106362188 B   ---   --   ---xx   flac  0.5148  ph1999-07-03d2t04.flac
+     7:30.57       79514108 B   ---   --   ---xx   flac  0.4517  ph1999-07-03d2t05.flac
+    14:37.45      154808684 B   ---   --   ---xx   flac  0.5258  ph1999-07-03d2t06.flac
+     6:34.26       69562796 B   ---   --   ---xx   flac  0.4744  ph1999-07-03d2t07.flac
+     2:32.18       26855180 B   ---   --   ---xx   flac  0.5615  ph1999-07-03d2t08.flac
+     2:24.74       25575692 B   ---   --   ---xx   flac  0.4659  ph1999-07-03d2t09.flac
+     2:31.31       26709356 B   ---   --   ---xx   flac  0.4601  ph1999-07-03d3t01.flac
+     6:13.09       65818412 B   ---   --   ---xx   flac  0.5111  ph1999-07-03d3t02.flac
+    15:05.38      159731420 B   ---   --   ---xx   flac  0.5047  ph1999-07-03d3t03.flac
+   169:15.16     1791380600 B                            0.5134  (22 files)
+
+No errors occured.

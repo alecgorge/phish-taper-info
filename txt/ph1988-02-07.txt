@@ -1,0 +1,56 @@
+Phish
+Nectar's
+Burlington, VT 
+2/7/88 
+
+Transfer: AUD Cass/x (Maxell XLII 90 min)> Sony TC-WE805S > Art DI/O (48Khz, Input gain +12dB, No "Tube Warmth")> Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)
+Transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 3/14/2004
+Thanks to Josh Porter for the cassettes.
+Editing, mastering, and FLAC16 by: Marmar- imthemarmar@gmail.com
+
+NO tracking/editing/alterations performed before archiving to 24-bit FLAC except to trim silence from the ends.
+
+Set 1:
+01. Fire
+02. McGrupp and the Watchful Hosemasters
+03. Shaggy Dog
+04. Golgi Apparatus
+05. Alumni Blues>
+06. Letter to Jimmy Paige>
+07. Alumni Blues
+08. Peaches en Regalia
+09. Phase Dance
+10. Dear Mrs. Reagan
+11. I Didn't Know
+12. /David Bowie 
+
+Set 2:
+01. Happy Birthday
+02. AC/DC Bag
+03. Timber (Jerry)/
+04. /Flat Fee
+05. Fee
+06. Possum/
+07. Lizards/
+08. Famous Mockingbird
+09. Whipping Post
+
+Set 3: 
+01. /Jam
+02. Suzy Greenberg
+03. TMWSIY >
+04. Avenu Malkenu >
+05. TMWSIY
+06. Clod >
+07. Bundle of Joy
+08. /The Curtain With
+09. The Ballad of Curtis Loew
+10. /Good Times Bad Times
+
+Show Notes:
+- Mockingbird made its debut at this show and was played without Forbin's.
+
+Tech Notes:
+- All tape flips/pauses in set 1 were patched with http://db.etree.org/shninfo_detail.php?shnid=2602 which was manually pitch corrected to match the Josh Porter source. The only pause that couldn't be corrected is noted.
+- The tape flip/pauses in sets 2 and 3 are only missing crowd noise. The ones that needed attention and could be fixed were.
+- Set 3 cuts out about 2/3 of the way through Good Times Bad Times. This was patched with a Cass/x provided by Todd Ahrens.

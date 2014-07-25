@@ -1,0 +1,50 @@
+Phish
+December 15, 1999
+The MCI Center
+Washington, DC
+
+source:
+Microtech Gefell m210 > Apogee AD-1000 > Sony D100 (@ 44.1 kHz)
+
+transfer:
+Sony PCM-R500 > Tascam HD-P2 > CF card > usb > pc > WaveLab 5.01b (fades) > CD Wave v1.95 > FLAC v1.1.2 (Level 8)
+
+recorded by Beau Colburn
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded October 8, 2006
+
+note:
+Beau borrowed the Apogee and D100 deck from Dave Flaschner to record this show.
+The master DATs were used in this transfer.
+Thanks to Beau for making a great recording, and thanks to Dave for letting me borrow the DATs.
+
+Disc 1 - [63:39]
+Set I
+01 - [16:23] - Down with Disease
+02 - [05:37] - Farmhouse
+03 - [17:14] - Bathtub Gin
+04 - [11:02] - Wolfman's Brother
+05 - [10:29] - Guyute
+06 - [02:54] - Train Song
+
+Disc 2 - [58:38]
+Set I continued
+01 - [19:55] - You Enjoy Myself
+Set II
+02 - [05:43] - Sample in a Jar
+03 - [12:15] - Maze
+04 - [16:11] - Free >
+05 - [04:34] - Dirt
+
+Disc 3 - [41:32]
+Set II continued
+01 - [16:27] - Reba
+02 - [05:42] - Halley's Comet >
+03 - [07:49] - Suzy Greenberg
+04 - [02:55] - encore break
+05 - [04:50] - Frankenstein >
+06 - [03:48] - Rocky Top *
+
+* included Frankenstein teases in the ending
+
+Show Notes: Rocky Top included Frankenstein teases in the ending. 

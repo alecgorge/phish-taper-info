@@ -1,0 +1,39 @@
+PHiSH
+03/01/97
+Markthalle  
+Hamburg, Germany  
+
+Soundcheck Source: SBD > ? > CDR > EAC (secure)* > WAV's > 
+Flac Frontend (level 8, verify, sector align) > FLAC16
+
+Show Source: SBD > Pre-FM Feed > DAT > SHN v3 (seekable)
+
+Soundhceck:
+Attack on the Bass
+
+Disc 1:
+Cities 
+Oh Kee Pa Ceremony 
+Down with Disease 
+Weigh 
+Beauty of My Dreams 
+Wolfman's Brother -> 
+Jesus Just Left Chicago
+Reba 
+Hello My Baby (aud)
+Possum
+
+Carini 
+Dinner and a Movie  
+Mike's Song -> 
+Lawn Boy -> 
+Weekapaug Groove 
+The Mango Song 
+Billy Breathes 
+Theme From the Bottom 
+E: Taste 
+Sweet Adeline (aud)
+
+
+
+Seeded by Mr. Marmar

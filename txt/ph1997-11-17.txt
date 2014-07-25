@@ -1,0 +1,46 @@
+Phish
+11.17.97
+McNichols Arena
+Denver, Co
+
+Source:
+Schoeps Cmc6/Mk41's > Sx Mx > Da-P1x 2
+
+Transfer: (8.31.08)
+Fostex D5 > SoundWave 24/96 > Wavelab 5.01 @ 48k >
+Resampled to 44.1/Fades > Cd Wave > TLH > FLAC
+
+*Brought To You By Gotfob*
+
+Set I/Disc I
+01. Tweezer
+02. Reba
+03. Train Song
+04. Ghost >
+05. Fire
+
+Set IIa/Disc II
+01. Down With Disease >
+02. Oblivious Fool >
+03. Johnny Be Goode >
+04. Jesus Left Chicago >
+05. Circus Comes To Town
+06. YEM
+
+Set IIb/Disc 3
+-Encore-
+01. Character Zero
+
+
+ph1997-11-17d1t01.flac:4efdc35bc65d49d7b455a806ab57b0c3
+ph1997-11-17d1t02.flac:c53c7c5cdc6356ca4b7b7ad57ed97a6e
+ph1997-11-17d1t03.flac:9f0fcb8ccefc3da363f9d3c63e67db1f
+ph1997-11-17d1t04.flac:0fc054a6711a41de3ef4023b166436b6
+ph1997-11-17d1t05.flac:d507932fbb9c09012500c8fc319e4c7d
+ph1997-11-17d2t01.flac:0baa0515a9a147db7bf5a2ae9644ea79
+ph1997-11-17d2t02.flac:7c98cc3ab0d8cd58b10be5e88254e4b1
+ph1997-11-17d2t03.flac:38fce68dc6e37164c86a7ac38c9ce5ef
+ph1997-11-17d2t04.flac:0dcfb79992bcbd8828bf0224c5348b7c
+ph1997-11-17d2t05.flac:f4b0c22e7bcda144faa9f807f7c5ef28
+ph1997-11-17d2t06.flac:9093d0269c29db9bc17cc86de6ab3a31
+ph1997-11-17d3t01.flac:c5745c1acedc988ae4f2a35d2814d302

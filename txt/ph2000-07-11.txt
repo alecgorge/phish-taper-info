@@ -1,0 +1,61 @@
+PHiSH 7/11/2000 
+Verizon Wireless Music Center (DEER CREEK!)
+Noblesville, IN
+
+FM-ALD SBD/AUD Hybrid
+
+FM-ALD source: In-House FM(ALD)->D7 @48khz
+AUD source: B&K 4011 > Lunatec V2 > Apogee AD-500e @48kHz
+
+DISC ONE:
+Set One -
+01. Ya Mar
+02. Moma Dance
+03. Uncle Pen
+04. Drowned >
+05. Chalkdust Torture Reprise >
+06. Chalkdust Torture
+07. Theme from the Bottom > 
+08. Cavern
+
+DISC TWO:
+Set Two -
+01. 2001 >
+02. Down with Disease > (Moby Dick) > Down with Disease Reprise
+03. Runaway Jim > (Moby Dick)
+04. Back On The Train > (Moby Dick) > Back on the Train
+05. Harry Hood > (Moby Dick)
+06. HYHU > Terrapin > HYHU > (Moby Dick) > HYHU
+07. Character Zero
+
+DISC THREE:
+Encore -
+01. First Tube >
+02. Moby Dick >
+03. Chalkdust Torture Reprise
+
+Show Notes: In keeping with the theme of the second set, Hood included a Moby Dick tease. 
+During Terrapin (first since July 8, 1999, or 82 shows), Fishman was introduced as actor 
+Russell Crowe. The Moby Dick inside of the HYHU jam featured Trey on drums and Fishman on 
+vacuum. The Chalkdust Reprise was akin to the version last played on 
+December 10, 1994 (387 shows), with the band singing the words "Chalk Dust Torture" over 
+varied music. At the end of the encore, Trey joked that, if anyone missed anything, they 
+should read the book or see the movie. Prior to this show, Moby Dick had not been played 
+since November 29, 1997 (168 shows).
+
+Edits and mix performed on DoomTooth by shakedown@furthurnet.org
+
+All edits and mixes were performed in Steinberg's WaveLab and Cubase SX.
+Various Waves plug-ins were also used.  Some FM-interference was removed 
+with Cool Edit Pro.
+
+Sections of 2001 on the ALD-FM contained almost no music, just FM-interference.
+The AUD source was used as a patch for these sections while maitaining the 
+same audio processing. There are other somewhat noticeable instances of FM 
+static, but nothing major, and not during signifigant sections of the music.
+
+I recieved the FM/ALD source in a trade almost a year ago, and only listened to
+sections of it as a result of the FM-interference, I hope you consider this copy
+worthy of listening all the way through.
+
+Seeded to FurthurNET by shakedown on 4/26/03.

@@ -1,0 +1,62 @@
+Phish
+Somerville Theater
+Somerville, MA
+9/21/90 
+
+TAPER: John Redmond
+SOURCE Nak 300s > D5 
+
+AUD MCass (Maxell MX 100 min)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +10dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)>
+Mastering (see notes) > SNHv3
+
+Mastering Notes:
+This a near flawless AUD, great sound, great performance.  The tapeflips were smoothed with crossfades (try and find the one in the YEM vocal jam!), there was also a small drop out fixed during the YEM vocal jam.  There was a level change in Highway to Hell which I fixed with vector-based volume control.  Tape was stopped between the last tune and encore, I smoothed this out with a long crossfade.  
+
+The 24/48 FLACs were converted to .WAV and opened in the Wavelab Audio Montage, all edits were performed at the 24/48 stage.
+
+The following mastering processes were used: Waves REQ 2-band, rolloff at 42Hz, Blue Tubes FA770 compression, BBE Sonic Maximizer and the Waves L2.  The audio was downsampled to 44.1 with the 192KHz Stereo Resampler, and rendered to 16-bits with UVHR22 dithering.  The resulting .WAVs were tracked in CD-WAV and converted to SHNv3 (seektables appended).
+
+transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 10/19/2003
+All edits and mastering were peformed on Doomtooth by shakedown@furthurnet.org on 11/01/03.
+
+
+DISC ONE
+Set I:
+01. tuning / stage banter
+02. Reba
+03. Paul & Silas
+04. Asse Festival
+05. Dinner and a Movie
+06. Foam
+07. Esther
+08. Landlady
+09. Mikes//Song >
+10. I Am Hydrogen >
+11. Weekapaug Groove
+12. Eliza
+13. La Grange
+
+DISC TWO
+Set II:
+01. Golgi Apparatus
+02. Magilla
+03. Stash
+04. Col. Forbin > Fly Famous Mockingbird
+05. You Enjoy // Myself
+06. Highway to Hell
+encore:
+07. Whipping Post
+
+Notes
+
+// indicates cassette flips
+
+The taper ran two D5s from two different mic sources for this night and 9/20/90. The mics both nights were Nak 300s and Sony ECM-MS5s. For 9/21/90, the sources were labeled on the tapes and tape cover as to which mics were used.
+
+WOW!  This is my favorite tape from the Oldschool batch so far - the second set is epic.
+
+NO tracking/editing/alterations performed before archiving to 24-bit FLAC (except to trim silence from the ends).
+
+Seeded to FurthurNet (www.furthurnet.org)

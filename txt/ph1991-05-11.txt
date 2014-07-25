@@ -1,0 +1,55 @@
+Phish
+05-11-1991
+The Front
+Burlington, VT
+
+Set I Source: Schoeps CMC4/MK4->ORTF->Oade Cap Coupled Supply->Panasonic SV255 Source Dat->Cass/0
+Taped by: Todd Ahrens using Dan O'Neil's Rig 
+
+Transfer: Cass/0 > Sony TC-KA3ES (azimuth corrected) > DSP24 (24/48) > Wavelab 
+Mastered to 16bit/44.1kHz by: Marmar
+
+Set II Source: cass2 SBD > HHB > CD > FLAC
+
+Set 1:
+The Landlady
+Llama
+The Squirming Coil
+Cavern
+Divided Sky
+Guelah Papyrus
+My Sweet One
+Foam
+Tweezer
+Golgi Apparatus
+
+Set Two (the last non-all-ages set at the Front)
+
+Disc 1: 
+1. Chalk Dust Torture
+2. You Enjoy Myself (with Tom Baggott on harmonica)
+3. Poor Heart >
+4. Reba >
+5. Oh Kee Pah >
+6. Suzy Greenberg >
+7. Tweezer Reprise
+8. Love You (E1)
+9. BBFCFM (E2) [PARENTAL ADVISORY. EXPLICIT CONTENT.]
+
+Set II FLAWS:  While this is a low gen sbd (my jcard suggests that I got my tape from Tom Baggott, whose copy was either mastered at the show or is a copy of a master), this recording still wouldn't merit more than a B+/A- on most (now ancient) "tape lists." It's got hiss and is a touch muddy. There's also an abrupt level drop towards the end of CDT's jam segment, and the levels are then adjusted. [Sigh] There's brief wow and flutter in Reba's composed section. And there's a good measure or two of Oh Kee Pah's opening composed section cut out as a result of a tape flip.
+
+OF HISTORICAL INTEREST: This is the second set of the penultimate show at the Front. (The last show at the Front was on May 12, 1991.) As Trey notes during banter after CDT, this set is the last non-All-Ages set at the Front. This may explain, at least in part, Trey's brief use of vulgar language during the must-hear BBFCFM -- which also features Eddie Van Anastasio. During the banter between CDT and YEM, Trey bemoans the Bruins' loss to the Penguins earlier in the evening (the Penguins then went on to win the Cup). Although Trey screws up YEM's opening section badly, this is an unusual version with Tom Baggott on harmonica. 
+
+Show Notes: 
+*YEM featured Tom Baggott on harmonica. 
+**Fishman called Trey "Eddie Van Anastasio" after his inspired guitar solo in this fantastic BBFCFM.
+
+Set I Source Flaws:
+Landlady: 1:40 left channel dropout, 3:05 left channel dropout
+Slight tape shift at times over the course of the show...not very bothersome.
+
+NOTE:
+The Mockingbird lists this show as a partial (set 2 only), with extra songs that aren't present on this source: 
+Donna Lee, Mike's Song > I Am Hydrogen > Weekapaug Groove, Tela
+
+There was very little material missing after the tape flip in Set 2, and what was missing was a portion of the whistle section of Reba (which was crossfaded). Since these tapes came directly from the taper, I am inclined to believe that these songs are in fact not missing, and the above setlists are correct.

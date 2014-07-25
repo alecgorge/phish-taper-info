@@ -1,0 +1,44 @@
+Phish 07-28-1998 Sandstone Amphitheater  Bonner Springs, KS
+
+Source:			B+K 4011->Lunatec V2->Apogee AD-1000 @48kHz
+			Recorded by Marc Nutter, Joe Morrison's DA-P1
+			patch master used in below transfer
+
+Transfer:		R500->Audio Magic Presto II->ZA2->
+			Soundforge 4.5(48->44.1 resmpling using
+			highest quality setting w/ anti alias 
+			filter)->CDWav->.shn by Eric McRoberts
+
+
+Big thanks to Joe Morrison for allowing me to transfer his patch master of this show.
+
+Disk 1
+	Set I:
+1.  Introduction
+2.  Emotional Rescue->
+3.  Down With Disease >
+4.  Moma Dance >
+5.  Tela
+6.  Sneakin' Sally
+7.  It's Ice ->
+8.  Lengthwise ->
+9.  It's Ice >
+10. Sparkle >
+11. Funky Bitch
+
+Disk 2
+	Set II:
+1.  Wedge
+2.  Poor Heart
+3.  Mango Song
+4.  Brother
+5.  Contact
+6.  Maze
+
+Disk 3
+	Set II(Cont'd):
+1.  Prince Caspian ->
+2.  You Enjoy Myself
+	Encore:
+3.  Camel Walk
+4.  Squirming Coil

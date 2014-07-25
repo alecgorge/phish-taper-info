@@ -1,0 +1,51 @@
+Phish 
+4-20-93
+Newport Music Hall
+Columbus, OH
+
+Source: Radio Shack PZM's (1st row balcony) > MC(?) > ? > DAT @44.1
+Transfer: DA-20 mkii> Delta Dio 2496 > Soundforge 4.5 > CDWAV > SHN
+Transfer by: Brandon Johnston
+
+Disc 1:
+Set I:
+1.//Runaway Jim
+2.Weigh
+3.Sparkle
+4.Stash
+5.Bouncing Around the Room
+6.It's Ice
+7.Glide
+8.Uncle Pen
+9.//Lawn Boy
+10.//David Bowie
+
+Disc 2:
+Set II:
+1.Chalk Dust Torture
+2.Fluffhead
+3.Sample in a Jar
+4.Big Ball Jam
+5.T.M.W.S.I.Y.->
+6.Avenu Malkenu->
+7.T.M.W.S.I.Y.
+8.My Friend My Friend
+9.Llama
+10.You Enjoy Myself//
+
+Disc III:
+1.H.Y.H.U.->Whipping Post
+2.Golgi Apparatus
+3.E: Funky Bitch
+4.Amazing Grace
+
+
+Show Notes: Amazing Grace was performed without microphones. Whipping Post was 
+played for the first time since December 5, 1992 (66 shows).
+
+
+Notes: Runaway Jim is clipped.  Glitch was removed at 29:04.967 of set 1 (betwwen songs, after bouncin') w/ soundforge.
+Cassette flip after Uncle Pen (Lawn boy starts a tad abrubt). Music fades out after Lawn boy but comes back for bowie. 
+Another Glitch was removed at 49:54.783 of set 1. There are also brief drops in my friend my friend at 34:49 and 35:56 of set II.
+These were left the way they were on the DAT.  Music fades out after my friend my friend but comes back for llama. 
+There is a Cassette flip at the end of YEM. Crowd noise was missing between 2nd set and encore on the dat.

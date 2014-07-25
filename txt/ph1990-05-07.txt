@@ -1,0 +1,28 @@
+Phish
+May 7th, 1990
+The Haunt, Ithaca, NY
+
+-Source is a Denon DX4/90 Analog Cassette
+-Source is Audience Master recording by Parker H.
+-A>D via Nakamichi Dragon>Korg MR1000>Korg Audio Gate>WAV @ 24/96
+-96khz > 44khz sample rate conversion via iZotope SRC 64 bit SRC 
+-24bit > 16bit bit depth conversion via iZotope MBIT+ Dither 
+-Tracking performed in Adobe Audition 3.0
+-FLAC conversion via Trader's Little Helper
+-Thanks to Parker (@TMWSIY) for the source tape.
+
+All transfers by ifthir@hotmail.com (3.8.2011)
+
+Set 1
+
+1. Reba [12:21]
+2. Dinner And A Movie [3:39]
+3. Bouncing Around The Room [3:51]
+4. Tweezer [10:29]
+5. Bathtub Gin [6:54]
+6. Uncle Pen [5:16]
+7. Split Open And Melt [8:19]
+8. Divided Sky [12:35]
+9. Sweet Adeline [2:37]
+
+Total Time [1:06:01]

@@ -1,0 +1,78 @@
+ph89.05.13.txt
+
+Phish
+05-13-89
+Hungry Charlie's - Syracuse, NY
+
+Source: DSBD > Cass4 
+
+Transfer: Nakamichi tape deck > Soundforge XP 4.5 > CDWav > wav > SHN
+
+Seed provided by Paul Cox (gratefuldawg5204@aol.com)
+Fixes and transfer by Brendan Komala (yamar3@hotmail.com)
+
+---------------------------------------------------------------------
+ Disc 1:                              			(71:30)
+---------------------------------------------------------------------
+1. AC/DC Bag						(05:18)
+2. Alumni Blues >					(03:20)
+3. Letter to Jimmy Page >				(01:01)
+4. Alumni Blues						(00:43)
+5. stage banter						(00:40)
+6. You Enjoy Myself					(16:44)
+7. Golgi Apparatus					(04:34)
+8. LaGrange						(04:48)
+9. Fluffhead (cut)					(09:29)
+10. Fluffhead (cont - Clod, Bundle of Joy, Arrival)	(05:03)
+11. Possum						(08:50)
+12. Foam						(07:08)
+13. Walk Away						(03:52)
+
+---------------------------------------------------------------------
+ Disc 2:                              			(58:23)
+---------------------------------------------------------------------
+1. Take the A-Train					(06:24)
+2. Split Open and Melt >				(07:59)
+3. David Bowie (cut)					(06:56)
+4. David Bowie (continued)				(04:46)
+Set II:
+5. /Suzie Greenberg+ >					(03:46)
+6. Bold As Love						(05:45)
+7. Lizards						(10:19)
+8. Harry Hood						(12:28)
+
+---------------------------------------------------------------------
+ Disc 3:                              			(31:36)
+---------------------------------------------------------------------
+1. Fishman's Hometown Intro >				(00:37)
+2. If I Only Had a Brain				(04:50)
+3. Contact						(06:38)
+4. Fire							(04:53)
+5. crowd noise						(01:29)
+Encore:
+6. Whipping Post					(13:09)
+
++opening few seconds are cut.
+
+Notes:
+
+Tape Flips:
+ -Between d1t09 and d1t10.  Hard to tell how much of Fluffhead was
+lost during the flip - probably not much though.
+ -Between d2t03 and d2t04.  Again, hard to tell how much was lost.
+ -Between d3t01 and d3t02.  No music loss, though fade out at the 
+end of d3t01.
+
+-There is a quick dropout in d2t06 (Bold as Love) at 00:0268.
+
+-Possible (probable) tape stretch in LaGrange and Lizards.  
+Speculation comes from slowness in parts of each song.
+
+Fixes:
+ -Complete loss (no sound on original except sporadic static) of 
+right channel on d1t01.  For this track only, copied left channel 
+and overlayed onto right channel.  Remainder of show was fine.
+ -Edited out dropout at 00:01.73 of d1t07.
+
+Enjoy 
+-BK

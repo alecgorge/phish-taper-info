@@ -1,0 +1,44 @@
+Phish
+09/03/2011
+Commerce City, Colorado  Dick's Sporting Goods Park
+
+Source: Schoeps mk5> KCY> VST62IU> EAA PSP-2> SD 744t (@24bit/96kHz)
+Location: FOB, DFC, 6' Stand, cardioid/ORTF
+
+Transfer: SD 744t> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred/Seeded by: taylorc (09/04/2011)
+
+
+Set I
+t01 [09:48] Possum
+t02 [07:47] The Moma Dance>
+t03 [07:57] The Wedge
+t04 [09:22] Ocelot>
+t05 [15:40] The Divided Sky
+t06 [07:12] Funky Bitch
+t07 [03:26] Axilla>
+t08 [05:18] Llama
+t09 [07:11] Fast Enough for You
+t10 [11:58] Wolfman's Brother
+
+Set II
+t11 [11:34] Down with Disease>
+t12 [14:21] Tweezer>
+t13 [07:24] Golden Age>
+t14 [07:37] Limb by Limb
+t15 [11:00] Kill Devil Falls>
+t16 [06:13] Also Sprach Zarathustra>
+t17 [09:54] Light>
+t18 [07:24] Julius>
+t19 [04:21] Cavern>
+t20 [09:53] Run Like an Antelope
+t21 [02:39] crowd
+
+Encore
+t22 [04:37] Sleeping Monkey>
+t23 [03:43] Tweezer Reprise
+
+
+Notes:
+Thanks to Jason Lonchar for the mk5 caps
+Set I [1:25:43] Set II [1:32:20] Encore [8:20]

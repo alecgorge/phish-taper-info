@@ -1,0 +1,44 @@
+Phish
+Cumberland County Civic Center
+Portland, ME 
+7/9/92 
+
+TAPER: John Redmond
+SOURCE Nak 300s > D5 
+
+Notes with the master cassette: Nak 300's > D-5. Front center of SBD. 150 yds off stage.
+
+AUD/FOB MCass (Maxell MX 110 min)> Sony TC-WE805S > Art DI/O (48Khz, Input gain +12dB, No "Tube Warmth")>Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)>Mastering (See notes)> FLAC (16-bit, v1.1.0)
+
+NO tracking/editing/alterations performed before archiving to 24-bit FLAC
+(except to trim silence from the ends).
+
+Transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 2/1/2004
+Mastering>16bit FLAC files by Marmar - imthemarmar@gmail.com on 01/2005
+
+01. Intro
+02. Glide
+03. Oh Kee Pa Ceremony->
+04. Suzy Greenberg >
+05. The Landlady
+06. Sparkle
+07. Stash
+08. The Squirming Coil
+09. Runaway Jim
+10. Guelah Papyrus\
+11. /David Bowie > Vacuum Solo > David Bowie
+12. Glide
+ENCORE: 
+13. Rocky Top 
+
+
+Notes:
+H.O.R.D.E. Festival
+
+**Mastering**
+Wavelab 5.01a > Montage (Reconstructed set, faded tape flip and start/end of set) > Waves Q10 (split mode/50%) > Waves RBass @ 35Hz +3db (split mode/75%) > BBE (2/4/0) > Q1 (used to balance output from split mode plugins, -2db L/-1.3db R @ input, -0.4db L/-0.1db R @ output) > Waves L3 UltraMaximizer (-2.5db Threshold/-0.1db Output Limit, 24bit/no dithering) > 192kHz Stereo Resampler (48kHz>44.1kHz) > Waves L3 MultiMaximizer (-0.5db Threshold/-0.1db Output Limit, Selective Sub-band limiting, ARC, 16bit/Mode 1/Ultra Dithering Engine) > Tracking > FLAC
+
+Seeded 01/2005 to: 
+FurthurNet (www.furthurnet.org)
+eTree (bt.etree.org)
+SHNshare (www.shnshare.org)

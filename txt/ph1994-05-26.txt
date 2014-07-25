@@ -1,0 +1,73 @@
+Phish
+05-26-94
+Warfield Theater, San Francisco, CA
+--------------------------------------------------------------------------------------------
+This show is included in the 1994 Phish Project.
+http://people.atl.mediaone.net/danmarq/1994_phish_project.html
+----------------
+
+Source:         [DFOB; Master DAT]
+                Schoeps CMC5/Mk21 (ORTF)-> Sonosax SX-M2-> Apogee AD-500E->
+Sony D-10 @ 48KHz
+
+Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                Soundforge 5.0b (48KHz->44.1KHz at highest setting [4 of 4],
+                with anti-alias filter)-> CD Wave 1.61-> mkwACT v0.97
+                **No DAE at all**
+
+Minor Edits: Fades (in/out at beginning/end of sets)
+----------------
+Transferred by Dan Marquardt , please contact me with questions/comments.
+There are also 48KHz shn's of this seed for archival.
+--------------------------------------------------------------------------------------------
+
+CD 1/Set 1: 56:34.13
+01. Buried Alive-> 02:33.27
+02. Poor Heart-> 02:22.56
+03. Cavern 04:20.33
+04. Demand 01:52.53
+05. Split Open and Melt 11:38.17
+06. Sparkle > 03:46.35
+07. It's Ice-> 08:53.56
+08. Catapult > 00:42.69
+09. The Divided Sky 14:10.09
+10. Sample in a Jar 06:13.33
+
+----------------------------------------
+
+CD 2/Set 2a: 73:04.52
+01. Also Sprach Zarathustra-> 04:20.34
+02. Run Like an Antelope 10:57.05
+03. Fluffhead 14:25.58
+04. Down With Disease-> 07:16.60
+05. Mound 06:59.08
+06. Ginseng Sullivan* 04:07.37
+07. Dog Faced Boy* 02:39.61
+08. You Enjoy Myself 22.18.14
+
+CD 3/Set 2b: 10:07.71
+01. Amazing Grace 03:18.13
+
+Encore:
+02. Good Times Bad Times 06:49.58
+
+--------------------------------------------------------------------------------------------
+
+*Acoustic and without mics.
+
+____________________________________________________________________________
+
+*Dankseed Certification received 01-07-27*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph94-05-26/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________

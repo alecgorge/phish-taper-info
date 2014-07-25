@@ -1,0 +1,58 @@
+Phish
+Nectar's
+Burlington, VT
+May 21, 1988
+
+
+Source: AUD Cass/0 > DAT (unknown DAT stages)
+Transfer: vDAT > 16bit/48kHz .wav by Jack Riley
+Mastering: Wavelab 6 > FLAC by Art H.
+
+
+Set 1:
+Crowd
+Funky Bitch
+Sneakin' Sally Through the Alley
+Alumni Blues > Letter to Jimmy Page > Alumni Blues
+You Enjoy Myself
+St. Thomas
+Golgi Apparatus
+Fire
+
+Set 2:
+intro
+La Grange
+"Mike Appreciation Night"
+Possum
+Tuning/Banter
+Lizards
+Timber Ho!
+Tela (Gamehenge Version)
+Happy Birthday
+Fluffhead
+Moses Introduction
+Bike
+Good Times, Bad Times
+
+Set 3: 
+intro
+Big Leg Emma 
+Rocky Top
+Cities
+Take the 'A' Train
+The Curtain >
+Suzy Greenberg
+
+Notes:
+-Prior to Letter to Jimmy Page, Trey announced that per "Del's" request, they were going to play Letter to Jimmy Page as a band, and then Fish would play it by himself (telling the crowd that Fish didn't know it)
+-YEM was dedicated to Del
+-This show included the first known Phish performance of St. Thomas. 
+-La Grange was dedicated to Mike. 
+-Note that Trey refers to Tela as a debut at this show, though it actually debuted on 3/12/88. 
+-Note the jam in this Tela sounds an aweful lot like Split Open and Melt.
+-Big Leg Emma was played for the first time since May 3, 1985 (100 shows).
+
+*Caveat Emptor*
+- Source info is questionable. This is what was on the DAT.
+- The show is riddled with cuts. I crossfaded most all of them. Some were left as-is. 
+- Set 3 is loaded with digital errors. I ran a couple of de-click and de-crackle plugins to lessen the harshness of the errors. This is by no means perfect, but here it is at long last.

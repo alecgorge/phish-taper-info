@@ -1,0 +1,42 @@
+Phish
+August 12th 2011
+Polo Fields, Golden Gate Park
+Outside Lands Festival
+San Francisco, CA
+
+Source: Church Audio STC-11 Cards (DFC, PAS, BOB ~100', Stick ~6') > CA 9100 > iRiver 
+Lineage: Adobe Audition (Fades, tracking, overall 50Hz HPF, spot 80Hz HPF for wind and incidentals, normalize to -.1dB) > xACT (SBE fix, flac level 8, tagged)
+Recorded by taper420
+
+Set 1:
+1. Kill Devil Falls >
+2. Wilson
+3. Funky Bitch >
+4. The Moma Dance >
+5. Peaches en Regalia >
+6. Sample in a Jar >
+7. Possum
+8. Tweezer >
+9. Mound
+10. Suzy Greenberg >
+11. Axilla >
+12. Mike's Song >
+13. I am Hydrogen >
+14. Weekapaug Groove
+
+Set 2:
+15. Rock and Roll >
+16. Steam >
+17. Piper >
+18. Roses are Free
+19. Julius
+20. Life on Mars
+21. Birds of a Feather >
+22. Fluffhead >
+23. Backwards Down the Number Line >
+24. Also Sprach Zarathustra >
+25. Chalkdust Torture
+
+Encore:
+26. Cavern >
+27. Tweezer Reprise

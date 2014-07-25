@@ -1,0 +1,42 @@
+Phish
+7/11/14
+Randall's Island 
+New York, NY
+
+
+Field: AKG C414xls Hypercardioid > Edirol R4Pro ( Oade preamp mod ) @ 24/88.2
+FOB recording, centered, approximately 90 feet from the stage (35 feet from the SBD)
+Microphones aimed directly at the top of the PA Array. 
+
+Path: R4Pro > WaveBurner ( track on sector boundaries, fades, SRC, BDC ) > xACT ( to flac, and for tagging and checksums )
+
+Recorded, processed and let loose by Mike Kutik ( padelimike at mac d0t c0m )
+At bt.etree.org 2014-07-12
+
+Fade tracks included for smooth CDR burning.
+
+
+Set the First:
+crowd in
+The Moma Dance
+Kill Devil Falls
+Ya Mar
+Bathtub Gin
+555 >
+Rift >
+Sample In A Jar >
+The Wedge
+Waiting All Night
+Stash
+
+Set the Second:
+crowd in
+Steam >
+Down With Disease > 
+Golden Age  >
+Limb By Limb >
+Fuego >
+David Bowie
+Cavern
+encore break
+Character Zero

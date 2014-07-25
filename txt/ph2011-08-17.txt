@@ -1,0 +1,53 @@
+Phish
+UIC Pavilion
+Chicago, IL
+2011-08-17
+
+
+Taper:  Jeff Abbs
+Source:  Busman BSC1-K31 > Naiant Littlebox > Edirol R-09HR (24-Bit/96kHz)
+Transfer:  SDHC Card > Audacity > .wav (16-Bit/44.1kHz) > CD Wave Editor > .flac (Level 8)
+
+
+Set I:
+
+01. Colonel Forbin's Ascent >
+02. Fly Famous Mockingbird
+03. Gumbo >
+04. Possum
+05. Weigh >
+06. The Divided Sky
+07. Alaska
+08. Bathtub Gin
+09. Maze
+10. Cavern >
+11. First Tube
+
+Set II:
+
+12. Crosseyed And Painless >
+13. No Quarter >
+14. Timber (Jerry) >
+15. Tweezer >
+16. Prince Caspian >
+17. Piper >
+18. Ghost >
+19. Makisupa Policeman >
+20. Sleep >
+21. Buffalo Bill
+22. Golgi Apparatus >
+23. Character Zero >
+24. Run Like An Antelope
+
+Encore I:
+
+25. Funky Bitch
+26. Show Of Life >
+27. Tweezer Reprise
+
+
+Notes:
+
+DIN Configuration, OTS/DFC, 10' High.
+
+Big thanks to taperj for hooking me up with a ticket!

@@ -1,0 +1,47 @@
+Phish
+December 1, 1994
+Salem Armory
+Salem, OR
+
+source:
+AKG 460B/ck61 > custom pre-amp > Sony D7 (@ 48kHz)
+
+transfer:
+Sony PCM-R500 > M-Audio MicroTrack > CF Card > usb > pc > WaveLab 5.01b (fades, resample to 44.1 kHz) > CD Wave v1.94.7 > FLAC (level 8)
+
+recorded by Jim Bento with Dave Flashner's recording gear
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded January 14, 2006
+
+48kHz files from the original DAT transfer have been archived and are available upon request
+
+Disc 1 - [67:31]
+Set I
+01 - [05:25] - Sample in a Jar
+02 - [03:59] - Uncle Pen
+03 - [06:38] - Fast Enough for You >
+04 - [11:53] - Maze
+05 - [10:03] - Guyute
+06 - [03:32] - I Didn't Know
+07 - [14:45] - Split Open and Melt
+08 - [01:45] - Sweet Adeline *
+Set II
+09 - [03:30] - Peaches en Regalia
+10 - [06:01] - Mound
+
+Disc 2 - [76:22]
+Set II continued
+01 - [22:23] - Tweezer ** ->
+02 - [03:27] - Big Black Furry Creature From Mars ->
+03 - [03:00] - Makisupa Policeman ->
+04 - [05:37] - NICU >
+05 - [01:39] - Tweezer jam ->
+06 - [11:07] - Jesus Just Left Chicago ->
+07 - [13:47] - Harry Hood
+08 - [04:29] - Golgi Apparatus
+09 - [02:03] - encore break
+10 - [05:24] - Sleeping Monkey ->
+11 - [03:26] - Tweezer Reprise
+
+* very quiet, performed without mics
+** with "Norwegian Wood" jam

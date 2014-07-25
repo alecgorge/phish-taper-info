@@ -1,0 +1,63 @@
+Phish
+5-13-90
+The Front - Burlington, VT
+
+Source: SBD > Cass/1 > DAT (master)  
+A>D Transfer: Denon 3-head deck > Fostex D5 @44.1kHz                                      
+SHN Transfer: CTD8000H-S > DAT2WAV > SHN > CDWav > SF 4.5 > SHN
+
+A>D Transfer by Jon Epstein
+DAT>SHN Transfer by Robert Brown
+Tracking and Fixes by Ben Mohr (benjamin.mohr@ce.gatech.edu)
+
+------------------------------------
+ Disc 1:                    (64:16)
+------------------------------------
+-Set 1-
+1. //Bathtub Gin            (06:50)
+2. Oh Kee Pah Ceremony >    (01:40) 
+3. AC/DC Bag                (06:26) 
+4. Dinner and a Movie       (03:31) 
+5. Bouncing Around the Room (03:50) 
+6. Runaway Jim              (07:34) 
+7. Uncle Pen                (04:11) 
+8. Divided Sky              (12:59) 
+9. Lawn Boy >               (02:25)
+10. David Bowie             (14:46)
+
+------------------------------------
+ Disc 2:                    (79:58)
+------------------------------------
+-Set 2-
+1. intro                    (00:18)
+2. Mike's Song >            (06:11) 
+3. I am Hydrogen >          (02:30) 
+4. Weekapaug Groove         (06:37) 
+5. Foam                     (08:46) 
+6. Donna Lee                (03:55) 
+7. Tweezer                  (12:21) 
+8. My Sweet One             (02:08)
+9. Reba                     (12:22)
+10. Funky Bitch             (06:30)
+11. Sweet Adeline           (01:53)
+12. Possum                  (11:08)
+13. La Grange               (05:12)
+
+
+Notes:
+-This is the first time this show is known to circulate digitally, let alone with a known   cassette generation!
+-Some SBD saturation, especially vocals
+-Noticeable SBD channel separation
+-d1t01 amplitude gently increases through 0:25 from start
+-Amplitude drop d2t01 R channel 00:39
+-Tape flips:
+  d1t08 7:07.383 (39:54) -- no gap, just appears as a skip
+  d2t07 12:20 (40:37)
+  d2t09 4:15 (47:01) -- probably from Cass/1 generation
+
+
+Fixes:
+-d1t01 0:00-0:04.030 Replaced non-existant R channel by applying L channel @100%
+-d1t06 6:42.851 (0.002s) Removed pop
+-d1t08 7:18.633-7:18.663 Removed R channel static by applying L channel @100%
+-d1t08 7:18.692-7:18.754 Removed L channel static by applying R channel @100%

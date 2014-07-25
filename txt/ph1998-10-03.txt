@@ -1,0 +1,39 @@
+PHiSH
+World Music Theater, Farm Aid
+Tinley Park, IL
+October 3, 1998 (Sat)
+
+------------------------------------------------------------
+SBD(broadcast)/AUD Matrix
+[SBD+AUD > Wavelab 5.01 > CD Wave 1.94.5 > Flac 16 (level 8)]
+Mixed by Ross P October 2008
+
+------------------------------------------------------------
+AUD (shnid=85373):
+Schoeps MK4's>Nbox>Aiwa HDS200 (@44.1khz)
+DAT clone from master>Sony TCD-D10proII>Edirol R-4>WL5>CDWAV>FLAC
+Recorded from Section 103 Row QQ by Pepper and ?
+
+SBD (shnid=770):
+CMT DSS Broadcast > Tbfiji > Soundforge > CD
+------------------------------------------------------------
+One Set:
+
+d1t01 Birds of a Feather
+d1t02 Farmhouse
+d1t03 Moma Dance
+d1t04 Runaway Jim* > Arc* >
+d1t05 Down by the River*
+d1t06 Moonlight in Vermont#
+d1t07 Will the Circle be Unbroken^#
+d1t08 Amazing Grace#
+d1t09 Uncloudy Day#
+
+
+* with Neil Young
+# with Willie Nelson & Paul Schaffer
+^Joined by 4 native Americans
+
+------------------------------------------------------------
+Source notes:
+The Broadcast has many omissions and includes DJ banter. I removed the banter but as for the omissions you will notice the sbd dropping out for some significant stretches of time. All in all I think this is a slight improvement to either individual source on its own. I realized doing this how bad this TV source is but it does add something to the vocals.

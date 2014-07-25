@@ -1,0 +1,46 @@
+PHISH
+
+October 30, 1985
+Hunt's, Burlington, VT
+
+Source:  Page's Master > cass > cass
+
+Transfer:  Cass, 2nd gen > HHB > CDR > Flac
+
+Disc One
+ 
+01. Harry Hood
+02. Dog Log >
+03. Possum
+04. Slave to the Traffic Light
+05. Sneakin' Sally
+06. I Wish
+07. Revival
+08. Alumni Blues >
+09. Letter to Jimmy Page >
+10. Alumni Blues
+11. Prep School Hippie
+
+Disc Two
+
+01. Skippy the Wondermouse 
+
+
+I got a tape of this show from Richard Wright,  aka "Nancy," and his copy was made from Page's master. I don't know if this is a SBD or AUD, but given the AUD noise, my guess is that it was just recorded using mics near the stage -- and is an AUD. 
+
+This is an upgrade of the version of this show on the online Spreadsheet.
+
+Shownotes from the current (2009-09-06) version of the Mockingbird Foundation/Phish Companion setlists file: This show contained the first known versions of Dog Log, Harry Hood, Possum, I Wish, and Revival. Trey remarked during the intro to Hood that "this one is a story of the man who lives directly across the street from us right now."(The house on King Street where Trey, Fish, and Brian Long lived was across the street from the Hood factory.) Slave was dedicated to “Brickle.” Trey’s humorous comments about being “back on Planet Earth” were in reference to the events at Goddard on October 26. This setlist is likely incomplete.
+
+ph1985.10.30d1t1.flac:a9aabc243c3be6ab7f44a34b03087cb6
+ph1985.10.30d1t10.flac:6c301a00e6cfd88256307658954a33a6
+ph1985.10.30d1t11.flac:2d5d6d9edbe212f48c49839c87448e6f
+ph1985.10.30d1t2.flac:2a36357f4dd214ef1eeb4e596cd7cd6d
+ph1985.10.30d1t3.flac:d45b70dcf94307ee4cf006e7de8bb556
+ph1985.10.30d1t4.flac:70c18a0407f7ec5474e67406f513eb7d
+ph1985.10.30d1t5.flac:24c4400b5d46ab45e461fe47a9d2e526
+ph1985.10.30d1t6.flac:04b750b8cb2e9180c3ac4413e82da21b
+ph1985.10.30d1t7.flac:e4e204a55c4b34044497a479c2ac9013
+ph1985.10.30d1t8.flac:d9a3a4b572b85affe7b47673f0569532
+ph1985.10.30d1t9.flac:3a94b68cd430e261b42e766ecfb15465
+ph1985.10.30d2t1.flac:a116f0d15001be9f649f781f8c65f6bc

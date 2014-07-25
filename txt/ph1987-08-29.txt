@@ -1,0 +1,66 @@
+Phish
+8-29-87
+The Mead Ranch
+Shelburne, VT
+
+Set I and II Source: MCS > Dat > CD
+Transfer: Tascam DA-302 > HHB CDR-850
+Encoding: CD > EAC (secure Mode) > WAV > SHNTool > Flac (1.1.0)
+
+Set III SOURCE: SBD > Cass/0 > DAT @ 48kHz
+TRANSFER: Python DDS > dDeck > Wavelab (mastering) > FLAC16
+
+Thanks to Ryan Mann for the DAT used for the transfer.
+
+Disc 1
+Set II
+01. Alumni Blues ->
+02. Letter to Jimmy Page ->
+03. Alumni Blues
+04. Curtis Lowe
+05. Sneaking Sally
+06. Makisupa Policeman
+07. B.B.F.C.F.M.
+08. Flat Fee
+09. Lushington
+10. Suzy Greenberg
+11. Mustang Sally
+12. Ya Mar
+
+Disc 2
+01. T.M.W.S.I.Y. ->
+02. Avenu Malkenu ->
+03. T.M.W.S.I.Y. 
+Set I
+04. Clod
+05. Slave to the Traffic Light
+06. Swing Low
+07. Curtain With
+08. McGrupp 
+09. Possum
+
+Disc 3
+01. Harry Hood
+02. Timber Ho
+03. AC/DC Bag
+04. Divided Sky
+05. Harpua ->
+06. Bundle of Joy ->
+07. Harpua
+
+Set III:
+La Grange*
+Corrina
+Mike's Song >
+I Am Hydrogen >
+Jam >
+Who Do? We Do!
+Shaggy Dog
+David Bowie > 
+Jesus Just Left Chicago*/
+/She Caught the Katy//
+
+Setlist changed to reflect actual show set order, show had set's labeled backwards when I recieved.
+
+Transferred by Chris Warren (hip_school_preppie@yahoo.com)
+Shn'd by Mark Kerchoff (Mark@Kerchoff.com)

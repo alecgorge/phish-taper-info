@@ -1,0 +1,95 @@
+Phish
+06/30/98 
+The Grey Hall - Freetown Christiana
+Copenhagen, Denmark 
+
+:::::SOURCE:  
+AKG 480 > Oade M248 > SBM-1 > Master DAT (unknown taper)
+
+SOURCE NOTES:
+There are 3 sources for this show in circulation to my knowledge.  Two are from the OTS:
+* Neumann U89i > ? (probably > Sonosax > SBM-1 > DAT)
+* This AKG480 > Oade M248 > SBM-1 > DAT source
+
+And one was run FOB:
+* Schoeps MK4V (FOB; in hat) > VMS IO2b > KCY > DA P1 (Taped by Derek G)
+
+This AKG480 source sounds much better than the Neumann U89i source (thanks Mike F!).  As the Schoeps MK4V show is a FOB, and this is from the OTS, the two are not comparable according to Dankseeds regulations (rather, both OTS and FOBs should be danked).
+
+:::::LINEAGE:
+Master DAT > 2 DAP1's > Aldo Torre's First Gen Clone > Fostex D5 + Tascam DA20mkII > Alf's Second Gen Clone 
+
+:::::TRANSFER:
+Alf's DAT (Second Gen Clone) > Fostex D5 > optical cable > HOSA ODL-276 > coax cable > Waveterminal 2496 with hardware downsampling to 44.1k > CoolEdit 2000 (fades) + 
+CDWave 1.6 > WAV > mkwACT 0.97b1 > SHN v3
+
+:::::CREDITS:
+Transferred, tracked, initially critiqued, and seeded thru Dankseeds by Jeff Ishaq <jeff.ishaq@uvm.edu>.  Thanks to Alf & Aldo for the DAT!  Thanks also to Matt Vernon for fixing up fades.
+
+:::::NOTES:
+Sound check not included, anybody have it?  Sound Check = The Moma Dance, Frankie Says, Ha Ha Ha, Birds of a Feather, Water in the Sky* 
+
+:::::TRACKING
+Disc One: [66:17]
+Set I:
+01.  [09:31] Limb by Limb#
+02.  [14:13] Ghost*
+03.  [04:09] Water in the Sky*
+04.  [04:56] Bouncing Around the Room
+05.  [04:35] Tube
+06.  [13:23] Stash -> 
+07.  [08:48] Cities
+08.  [06:42] Roggae**
+
+Disc Two: [56:22]
+01.  [09:49] Guyute
+02.  [03:35] Beauty of my Dreams
+03.  [08:11] Funky Bitch
+04.  [03:19] Train Song
+05.  [12:58] David Bowie 
+Set II:
+06.  [12:44] The Moma Dance^
+07.  [05:46] Birds of a Feather
+
+
+Disc Three: [70:07]
+01.  [11:45] Wolfman's Brother -> 
+02.  [07:55] Frankie Says >
+03.  [11:49] Run Like an Antelope^^
+04.  [02:50] Lawn Boy
+05.  [09:50] Ya Mar
+06.  [02:12] Ha Ha Ha
+07.  [11:05] Mike's Song > 
+08.  [01:09] Swept Away > 
+09.  [01:42] Steep >
+10.  [06:18] Weekapaug Groove 
+Encore:
+11.  [03:32] Brian and Robert+ 
+
+*New arrangements (as on the album "The Story of the Ghost").
+#Opened Monday night's rehearsal. 
+**First time played (original). 
+^First time played (original); music is similar to "Black-Eyed Katy", but with lyrics; Trey taught people the "Moma Dance" which involved tapping the right foot at a certain spot).
+^^With "Dark Star" (Grateful Dead) tease by Page during intro.
++First time played (original); opened Monday night's rehearsal.
+
+---
+Jeff Ishaq 11/12/01
+Burlington, VT
+
+____________________________________________________________________________
+
+*Dankseed Certification received 2002-03-13*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph98-06-30_AKG480/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________

@@ -1,0 +1,68 @@
+Phish
+11-28-95
+Civic Coliseum
+Knoxville, TN
+
+Source: Audio Technica 4031 -> DA-P1
+
+Transfer: DA-20mkII->Delta Dio 2496->Soundforge 6.0 (resampled 48>44.1 on highest accuracy setting w/anti alias filter)->CDWAV->shntool->shn
+Transfer by: Brandon Johnston -- http://db.etree.org/bisq
+
+
+Disc 1: 
+-Set I-
+1.Stash
+2.Dinner and a Movie ->
+3.Bouncing Around the Room
+4.Foam
+5.I Didn't Know
+6.Divided Sky
+7.Guyute
+8.Hello My Baby
+9.Sample in a Jar
+
+Disc 2:
+-Set II-
+1.chess move
+2.Also Sprach Zarathustra >
+3.Maze
+4.Suzy Greenberg
+5.Uncle Pen
+6.Free
+7.HYHU > Wind Beneath My Wings > HYHU
+8.Run Like an Antelope
+9.Contact
+10.Big Black Furry Creature from Mars
+11.Funky Bitch
+12.crowd noise
+13.Encore: The Squirming Coil
+
+Show Notes: '25 or 6 to 4' tease during Suzy Greenberg. The band debuted Wind Beneath My Wings; it was sung by Fishman and dedicated to Colonel Bruce Hampton, who sat on stage reading a newspaper during the song.
+
+Tech Notes: Fades were added in soundforge 6.0. There was crowd noise missing between the second set and encore on my dat. I used a crossfade in soundforge to make the shift less abrubt.
+
+Shntool Output:
+    length     expanded size   cdr  WAVE  probs   filename
+    13:04.21     138347036     ---   --    ---    ph1995-11-28d1t01.wav
+     3:24.47      36096188     ---   --    ---    ph1995-11-28d1t02.wav
+     3:26.44      36441932     ---   --    ---    ph1995-11-28d1t03.wav
+     9:50.45     104181884     ---   --    ---    ph1995-11-28d1t04.wav
+     3:19.16      35141276     ---   --    ---    ph1995-11-28d1t05.wav
+    16:53.60     178834364     ---   --    ---    ph1995-11-28d1t06.wav
+    11:06.06     117496556     ---   --    ---    ph1995-11-28d1t07.wav
+     1:27.29      15415052     ---   --    ---    ph1995-11-28d1t08.wav
+     5:02.21      53322236     ---   --    ---    ph1995-11-28d1t09.wav
+     0:49.30       8714204     ---   --    ---    ph1995-11-28d2t01.wav
+     5:09.05      54519404     ---   --    ---    ph1995-11-28d2t02.wav
+    11:04.60     117270764     ---   --    ---    ph1995-11-28d2t03.wav
+     6:11.11      65470316     ---   --    ---    ph1995-11-28d2t04.wav
+     4:12.14      44485772     ---   --    ---    ph1995-11-28d2t05.wav
+     8:56.08      94569260     ---   --    ---    ph1995-11-28d2t06.wav
+     6:54.62      73175468     ---   --    ---    ph1995-11-28d2t07.wav
+    10:05.58     106858460     ---   --    ---    ph1995-11-28d2t08.wav
+     5:20.41      56544476     ---   --    ---    ph1995-11-28d2t09.wav
+     4:15.60      45123164     ---   --    ---    ph1995-11-28d2t10.wav
+     5:42.15      60364124     ---   --    ---    ph1995-11-28d2t11.wav
+     0:15.08       2664860     ---   --    ---    ph1995-11-28d2t12.wav
+    11:00.07     116440508     ---   --    ---    ph1995-11-28d2t13.wav
+   147:31.68    1561477304 B                      (totals for 22 files)

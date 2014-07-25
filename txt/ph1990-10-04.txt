@@ -1,0 +1,53 @@
+Phish
+Field House
+University of New Hampshire
+Durham, NH
+10/04/90 
+
+TAPER: John Redmond
+SOURCE SBD > D5 
+
+SBD MCass (Maxell MX 90 min)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +~10dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)> Mastering (see notes)> SHNv3
+**24/48 Masters do exist at the unedited/pre-processed level**
+
+*Disc 1*
+Set 1:
+01.//Golgi Aparatus
+02.The Landlady
+03.Esther
+04.Possum
+05.The Squirming Coil
+06.Lizards
+07.Destiny Unbound
+08.The Sloth
+09.Uncle Pen
+10.David Bowie 
+
+*Disc 2*
+Set 2:
+01.Reba >
+02.Bouncing Around the Room >
+03.Foam
+04.Fee
+05.Tweezer
+06.//Magilla
+07.Cavern
+
+*Disc 3*
+Set 2 Con't:
+01.crew introduction
+02.You Enjoy Myself 
+03.E:The Divided Sky 
+
+**Mastering**
+24bit 48kHz FLAC > wav > Montage to reconstruct sets and add fades over flips > Internal 24bit rendering (no dither) > Q10-ParagraphicEQ (top secret settings) > BBE @ 4/4/-4 > Waves X-Noise > Waves C4 (multi-opto mastering with tweaks) > L1 Ultramaximizer > Internal 24bit renerding (no dither) > Rendered 24/48 wav files > montage to adjust volume to make it continuous...4 envelope points @ +1.275db > Waves L2 (24bit, no dither, +2.5 gain make-up) > 48kHz>44.1/High and 24bit>16bit/Mode 1/Normal via tc electronic Finalizer 96k > Tracking in Wavelab > SHNv3
+
+transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 10/26/2003
+Mastering, editing and WAV > SHN were performed on REBA by Arty- imthemarmar@stny.rr.com (on 11/2003)
+
+*Notes*
+Faded the start of the cut opener and crossfaded the tape flip at the end of Tweezer/Magilla. Durring The Landlady, there is a dropout that was x-faded and there is some noise that can not be edited. In Destiny Unbound, there were a few pops from the instruments that were edited out. There is also what appears to be a very sudden pause in the tape durring Uncle Pen. Other than that, this show is absolutely amazing in sound quality. It still has some of the "tape" characteristics to it, but it just wouldn't sound right otherwise. 
+
+Seeded to FurthurNet (www.furthurnet.org) by Marmar

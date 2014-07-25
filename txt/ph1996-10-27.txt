@@ -1,0 +1,91 @@
+Phish
+October 27, 1996
+North Charleston Coliseum
+North Charleston, SC
+
+source:
+Neumann km184 > Tascam DA-P1 (@ 48 kHz)
+
+transfer:
+Tascam DA-20mkII > Marantz PMD-661 > SDHC card > usb 2.0 > pc > Samplitude SE v9.1.1 (fades, level adjustments, resample to 44.1 kHz, track splits) > FLAC v1.2.1 (Level 8)
+
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded August 15, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+I raised the volume of "Talk" by +4dB
+I raised the volume of "Carolina" by +9dB
+Big thanks to Lenny Stubbe for letting me borrow his DATs!
+The original 48 kHz files from the DAT transfer have been archived and are available upon request.
+
+Disc 1 - [75:28]
+Set I
+01 - [01:00] - set 1 intro
+02 - [07:46] - Runaway Jim
+03 - [08:22] - Punch You in the Eye
+04 - [09:05] - AC/DC Bag
+05 - [05:11] - Fee
+06 - [07:05] - Scent of a Mule ->
+07 - [02:37] - Catapult ->
+08 - [02:55] - Scent of a Mule
+09 - [13:52] - Split Open and Melt
+10 - [03:16] - Talk
+11 - [07:31] - Taste
+12 - [06:46] - Suzy Greenberg
+
+Disc 2 - [75:56]
+Set II
+01 - [00:28] - set 2 intro
+02 - [06:12] - Chalk Dust Torture
+03 - [09:41] - Bathtub Gin
+04 - [05:32] - Rift
+05 - [07:15] - Prince Caspian
+06 - [09:26] - Ya Mar
+07 - [13:57] - Tweezer
+08 - [15:13] - Fluffhead
+09 - [03:13] - Life on Mars?
+10 - [03:01] - Tweezer Reprise
+11 - [01:59] - encore break
+
+Disc 3 - [13:18]
+Set II continued
+12 - [11:53] - Possum
+13 - [01:25] - Carolina
+
+Show Notes: Catapult (first since December 1, 1995, or 57 shows) was performed twice 
+during the Mule Duel; first by Mike, and then by Page solo on the theremin. Taste 
+included a Norwegian Wood tease. Carolina was played for the first time since 
+November 21, 1995 (64 shows).
+
+-------------------------------------------------------------
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     1:00.27          10.15 MB  ---   --   ---xx   flac  0.4889  ph1996-10-27d1t01.flac
+     7:45.60          78.36 MB  ---   --   ---xx   flac  0.5489  ph1996-10-27d1t02.flac
+     8:22.36          84.53 MB  ---   --   ---xx   flac  0.5274  ph1996-10-27d1t03.flac
+     9:04.47          91.62 MB  ---   --   ---xx   flac  0.5491  ph1996-10-27d1t04.flac
+     5:11.33          52.39 MB  ---   --   ---xx   flac  0.5062  ph1996-10-27d1t05.flac
+     7:05.21          71.54 MB  ---   --   ---xx   flac  0.4679  ph1996-10-27d1t06.flac
+     2:36.56          26.37 MB  ---   --   ---xx   flac  0.5244  ph1996-10-27d1t07.flac
+     2:54.55          29.40 MB  ---   --   ---xx   flac  0.5161  ph1996-10-27d1t08.flac
+    13:52.32         140.04 MB  ---   --   ---xx   flac  0.5402  ph1996-10-27d1t09.flac
+     3:16.36          33.05 MB  ---   --   ---xx   flac  0.4614  ph1996-10-27d1t10.flac
+     7:31.21          75.92 MB  ---   --   ---xx   flac  0.5333  ph1996-10-27d1t11.flac
+     6:46.26          68.36 MB  ---   --   ---xx   flac  0.5717  ph1996-10-27d1t12.flac
+     0:27.53           4.66 MB  ---   --   ---xx   flac  0.4396  ph1996-10-27d2t01.flac
+     6:11.46          62.52 MB  ---   --   ---xx   flac  0.5708  ph1996-10-27d2t02.flac
+     9:40.68          97.72 MB  ---   --   ---xx   flac  0.5262  ph1996-10-27d2t03.flac
+     5:31.51          55.80 MB  ---   --   ---xx   flac  0.5473  ph1996-10-27d2t04.flac
+     7:15.24          73.23 MB  ---   --   ---xx   flac  0.5456  ph1996-10-27d2t05.flac
+     9:25.70          95.21 MB  ---   --   ---xx   flac  0.5258  ph1996-10-27d2t06.flac
+    13:56.58         140.77 MB  ---   --   ---xx   flac  0.5592  ph1996-10-27d2t07.flac
+    15:13.20         153.64 MB  ---   --   ---xx   flac  0.5246  ph1996-10-27d2t08.flac
+     3:13.12          32.49 MB  ---   --   ---xx   flac  0.5157  ph1996-10-27d2t09.flac
+     3:00.49          30.39 MB  ---   --   ---xx   flac  0.5681  ph1996-10-27d2t10.flac
+     1:58.49          19.96 MB  ---   --   ---xx   flac  0.5303  ph1996-10-27d2t11.flac
+    11:53.35         120.03 MB  ---   --   ---xx   flac  0.5325  ph1996-10-27d3t01.flac
+     1:24.65          14.28 MB  ---   --   ---xx   flac  0.5444  ph1996-10-27d3t02.flac
+   164:42.00        1662.43 MB                           0.5340  (25 files)

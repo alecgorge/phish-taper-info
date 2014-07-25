@@ -1,0 +1,93 @@
+Phish 08/02/1993 The Ritz Theater - Tampa, Florida 
+
+Source:		AKG 460 + CK61 (FOB) > Oade 48vt PS > Pana SV-255 > Master DAT
+
+Mic Info:	FOB 18th row center, on a stand, with AKG460 mics with the CK61
+		cardiods (ORTF) 
+
+Lineage:	Joe Volpe's Master > Michael Schuncke's Clone #1 > Jim Raras'
+		Clone #2 > Alek's Clone #3 > Jeff Ishaq's (my) 4th-gen clone
+
+Conversion:	Fostex D5 > optical cable > HOSA ODL-276 > coax cable > WaveTerminal
+		2496 with hardware downsampling to 44.1KHz > CoolEdit 2000 > WAV >
+		mkwACT 0.97b1 > SHN v3
+
+Credits:	Taped by Joe Volpe.  "The Ritz" tree administered by Jim Raras
+		04/1996.  Conversion and upload 05/21/01 by Jeff Ishaq <jishaq@
+		earthlink.net>.  Originally seeded to Pete Rocco's dankseeds site.
+
+Notes:		d2t16 Amazing Grace is a capella and thus is hard to hear
+
+		d2t14 02:18 cut in audience noise between end of Set II and
+		beginning of Encore to reduce track time.  This is not an
+		unnoticed drop-out nor a skip or anything bad like that!
+__________________________________________________________________________
+
+*Dankseed Certification received 2001-06-28*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph93-08-02/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________
+
+Tracking:
+
+Disc One: [58:38]
+01.  [06:49] Chalk Dust Torture
+02.  [06:09] Guelah Papyrus
+03.  [02:21] Poor Heart
+04.  [05:02] Brother
+05.  [01:40] Oh Kee Pa Ceremony >
+06.  [05:35] Suzy Greenberg
+07.  [02:43] All Things Reconsidered
+08.  [11:02] Bathtub Gin ->
+09.  [04:30] Makisupa Policeman ->
+10.  [02:52] My Mind's Got a Mind of its Own >
+11.  [04:20] Dog Log -> 
+12.  [05:35] La Grange 
+
+Disc Two: [70:05]
+Set II:
+01.  [03:42] Also Sprach Zarathustra -> 
+02.  [05:12] Mike's Song -> 
+03.  [03:22] Heavy Metal Jam* -> 
+04.  [02:20] Sparks -> 
+05.  [05:02] The Ballad of Curtis Loew
+06.  [05:48] Rift
+07.  [09:17] The Squirming Coil
+08.  [04:54] Weekapaug Groove -> 
+09.  [02:29] HYHU > 
+10.  [05:26] Bike ->
+11.  [00:46] HYHU
+12.  [07:28] Run Like an Antelope -> 
+13.  [02:01] Makisupa Policeman (reprise) -> 
+14.  [03:13] Run Like an Antelope 
+Encore:
+15.  [07:16] Sleeping Monkey
+16.  [01:49] Amazing Grace 
+
+*With Joe Rooney of First Born on vocals. 
+Setlist provided by www.phish.net.  Jams-intos and segues interpreted by me!
+
+Show Notes: Sweet Virginia was teased during Bathtub Gin. Brother made its first known 
+appearance since the May 5, 1993 soundcheck and its first stage performance since 
+July 14, 1992 (142 shows). Other breakouts included Dog Gone Dog (dedicated to Paul, 
+and first since May 4, 1991, or 278 shows), La Grange (first since March 17, 1991, 
+or 302 shows) and Sparks (first since September 13, 1990, or 358 shows). Guelah 
+Papyrus contained a Simpsons Signal. The jam out of Mike's featured Joe Rooney of 
+the band First Born on vocals. There was a Makisupa tease and a When the Saints Go 
+Marching In tease in Antelope, along with the lyric "Marco Policeman-dolas." Amazing 
+Grace was performed without microphones. The Bike intro featured a Moonshadow tease 
+from Mike.
+
+-Jeff Ishaq
+05/21/01 
+Burlington, VT

@@ -1,0 +1,76 @@
+Phish
+4/16/93 
+Macauley Theater - Louisville, KY
+[Attend. 1,439; CAP. 1,439] 
+[TIX $16.50-$17.50]
+
+Source: AKG 460b/ck8 > Casio DA-7
+Transfer: Tascam DA-30 > HHb 850 > CDR > EAC > SHN
+
+Taped by Ricky Supan and Sam Holt
+DAT Seed provided by Kevin Shapiro
+DAT > CDR Transfer by Franklin Malemud
+SHN conversion by Ben Mohr (bmohr@udel.edu)
+
+
+---------------------------------
+ Disc 1:	      	 (70:17)
+---------------------------------
+-Set 1-
+1. waiting for Fish      (00:49)
+2. Chalkdust Torture     (06:29)
+3. Guelah Papyrus        (05:41)
+4. Sparkle >	         (03:48)
+5. Split Open and Melt	 (10:11)
+6. Esther 	       	 (08:36)
+7. Llama 	       	 (04:23)
+8. Sample in a Jar       (05:04) 
+9. Rift 	         (06:05)
+10. Harry Hood 	         (12:12)
+11. Cavern	         (04:20)
+
+---------------------------------
+ Disc 2:	         (68:55)
+---------------------------------
+-Set 2-
+1. Axilla		 (03:51)
+2. The Curtain ->        (06:06)
+3. Maze		         (10:04)
+4. Lizards 	         (11:07)
+5. Mike's Song* > 	 (10:42)
+6. I am Hydrogen >       (03:00)
+7. Weekapaug Groove      (10:21)
+8. The Horse > 	         (02:21)
+9. Silent in the Morning (05:02)
+10. Uncle Pen 	 	 (03:56)
+11. Big Ball Jam >	 (02:25)
+
+---------------------------------
+ Disc 3:	      	 (64:40)
+---------------------------------
+1. HYHU >                (02:15)
+2. Bike > 		 (05:24)
+3. HYHU 		 (01:41)
+4. Highway to Hell**	 (03:36)
+-Encore-
+5. crowd noise		 (01:04)
+6. Gumbo 		 (06:07)
+7. Amazing Grace	 (02:12)
+
+
+* with Simple teases
+** dedicated to Terry, the band eqipment driver
+
+Notes:
+-This is the only circulating source known to exist!
+-Hot levels d1t01 0:13-0:14, d3t07 1:30-1:32
+-Lead analog deck tape flips:
+  d1t08 5:02 (44:59)
+  d2t07 4:46 (49:36)
+
+Fixes:
+-Retracked show so beginning of song starts at beginning of track.
+-Removed dropout in d1t03 2:47 (1.147s) (slight missed beat)
+-Removed dropout in d1t07 4:18 (0.018s)
+-Removed dropout in d1t09 4:44 (0.013s)
+-Removed dropout in d1t11 3:59 (1.163s) (slight missed beat)

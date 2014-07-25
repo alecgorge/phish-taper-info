@@ -1,0 +1,39 @@
+Phish - 12/07/89
+8x10 Club - Baltimore, Maryland
+ph89-12-07
+
+Source: SBD/Matrix Mix (unknown mics) > Cass0 > Tascam DA-P1
+Conversion: DA-P1 > S/PDIF Coax > Zefiro ZA2 (44.1k) > 
+Sound Forge XP > CDRWIN > HP6020i > CDR
+Encoding: CDR > EAC (perfect extraction) > WAV > MKW Audio 
+Compression > SHN
+Encoding by Julia Mordaunt (FahtHarpua@aol.com)
+
+Disc 1
+ (Set I)
+01. I Didn't Know
+02. You Enjoy Myself
+03. A-Train
+04. AC/DC Bag
+05. Fee
+06. Mike's Song >
+07. Hydrogen >
+08. Weekapaug
+09. Alumni Blues >
+10. Jimmy Page > Alumni Blues
+11. Rhombus Narration > Divided Sky
+
+Disc 2
+ (Set II)
+01. oh Kee Pah >
+02. Suzie Greenburg
+03. Rocky Top
+04. Ya Mar
+05. Walk Away
+06. Lizards
+07. Antelope
+08. Lawnboy
+09. Possum
+10. Undun
+ (Encore)
+11. Golgi Apparatus

@@ -1,0 +1,84 @@
+Phish 
+08-01-1998
+Alpine Valley Music Center - East Troy, WI
+
+Source:     Schoeps MK41>KC5>CMC6>SX-M2>AD1000>DAP1 @ 48kHz (FOB/BTP/DFC/ORTF)
+	    (Taped by  mikey unidecker@mediaone.net)
+       
+Conversion: Sony PCM-R500 > Audio Magic Presto II > Delta Di0 2496 >
+	    Soundforge 4.5 (48>44.1) > cdwav > MKWact (SHNv3)
+	    (edlhubermj18@mail.uww.edu)
+
+Updated .shns: (see note below)
+
+Disc I
+~Set I~
+1. Ramble On* >
+2. Mike's Song >
+3. Esther > 
+4. Weekapaug Groove
+5. Guyute
+6. Fikus
+7. Birds of a Feather
+8. Lawn Boy >
+9. Funky Bitch
+	Total: 71:40
+
+Disc II
+~Set II~
+1. Piper
+2. Wilson >
+3. Also Sprach Zarathustra >
+4. Magilla >
+5. Also Sprach Zarathrustra >
+6. Tweezer
+7. Fluffhead
+8. Brian and Robert
+9. Albequerque >
+	Total: 69:24
+
+Disc III
+1. Chalk Dust Torture
+2. Frankenstein 
+~Encore~
+3. Been Caught Stealin'* >
+4. Tweezer Reprise
+	Total: 21:38
+
+*debut
+
+
+Notes: Fade In/Out done in Soundforge.  I also added a bit of leader
+from another source to piper(the start of set 2) because a couple notes 
+of piper were missed on the master.  So @ 52 seconds into piper you hear 
+the splice.  The notes are correct but you hear the difference from being 
+way back in the tapers section to fob.  So the spliced source for the first 52 
+seconds of crowd noise before piper is Schoeps MK41/CMC6>SX-M2>DAP1 
+(in tapers section).  Thanks to mikey for the smokin tapes.
+enjoy~
+
+Compiled 6-18-01 (edlhubermj18@mail.uww.edu)
+
+=========================================================
+
+NOTE: I received these .shns from the person who converted them originally (edlhubermj18@mail.uww.edu), and found, using shntool, that 3 tracks were not cut on sector boundaries. They were:
+d1t09
+d2t01
+d3t04
+
+d2t01 definitely had to be fixed, as it caused a nasty click during the transition from d2t01 to d2t02 when listening to the audio on a CDR burned in DAO mode. d1t09 and d3t04 were fixed for good measure as well; whenever shows start to be put on new media (DVD-R?) and are subject to new tracking, this show can be sequenced in any way desired without any problems.
+
+Original sector boundary errors found using:
+SHNTOOL version 1.01
+Copyright 2001 Jason Jordan (shnutils@freeshell.org)
+.shn utilities page:  http://shnutils.freeshell.org/
+
+After sector boundaries were fixed, I converted back to SHNv3 from .wav using MKWact, and renamed all files back to their original filenames, removing the '-fixed' appended to each file by shntool, and redid the .md5s to match the new files (this is the only set of .shns from this show *from this new DAT source* that is available, so having the '-fixed' indicator wasn't necessary; the .shns with errors were never circulated before being fixed).
+
+Log info from shntool output is provided in the file ph98-08-01fob_sector_issues.txt.
+
+RECORDING COMMENTS: Aside from what is written above about the lead-in source spliced  for Piper (d2t01; a very minor portion was missing from this FOB source), there is only one questionable noise I can hear on this show after about 4 listens. At 1:39 of d2t08 (Brian and Robert), there is a pop in the left channel. I am 99.9% sure it is a balloon pop, and not a digital error.
+What does that mean? This show is clean! Please circulate if you enjoy this new FOB source of this great show over any others already out there!
+
+
+Compiled 7-18-01 (jriordan35@aol.com)

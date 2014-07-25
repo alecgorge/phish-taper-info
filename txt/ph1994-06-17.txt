@@ -1,0 +1,106 @@
+Phish
+06/17/1994
+Eagles Auditorium
+Milwaukee, WI
+
+
+Set I Source:    [DAUD/OTS] AKG 460b/ck61 > AKG B-18 Phantom Power >
+           Sony D-10 Pro II @ 48khz
+           taped by Jeff Jordan
+Transfer:  Master DAT from D-10 > Sony DTC-690 > Audioquest
+           Optilink 1 > SEK'D Prodif Plus > Samplitude v5.5 > 
+           WAV > Soundforge xp 4.5 (resample @ 4/4 with anti
+           alias filter,fades)> Cdwav 1.71 > FLAC
+           transfered by Chris Ace
+
+Edits:     Five second fade in/out of sets
+------------------------
+Set II Source:         SBD>C0>DAT @ 48KHz (Unknown DAT generations)
+
+Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                Soundforge 5.0b (48KHz->44.1KHz at highest setting [4 of 4],
+                with anti-alias filter)-> CD Wave 1.61-> mkwACT v0.97
+                **No DAE at all**
+
+Minor Edits: Fades (in/out at beginning/end of sets and crossfades at cassette flips)
+
+
+DISC 1                                        68:16
+  SET I
+01 Runaway Jim                                07:53
+02 Foam                                       09:05
+03 Glide                                      05:06
+04 Split Open and Melt >                      11:17
+05 If I Could                                 06:06
+06 Punch You in the Eye >                     07:06
+07 Bathtub Gin >                              09:40
+08 Scent of a Mule                            07:05
+09 Cavern                                     04:58
+
+
+DISC 2                                        79:38
+  SET II
+01. Also Sprach Zarathustra-> 04:06
+02. Sample in a Jar 04:56
+03. Poor Heart 02:11
+04. Mike's Song-> 07:48
+05. Simple-> 03:43
+06. Mike's Song-> 01:54
+07. I Am Hydrogen intro-> 00:12
+08. Simple-> 01:04
+09. I Am Hydrogen-> 02:06
+10. Weekapaug Groove 07:02
+11. Harpua-> 02:12
+12. Kung-> 00:19
+13. Harpua-> 02:52
+14. Simple-> 00:11
+15. Harpua% 12:13
+16. Sparkle 03:50
+17. Big Ball Jam 02:45
+18. Julius-> 06:47
+19. Frankenstein 04:53
+
+Encore:
+20. Sleeping Monkey 05:27
+21. Rocky Top 02:36
+
+
+* intro only
+
+
+Show Notes:
+Run, OJ, Run!!!
+This is the OJ Show!
+
+___________________________________________________________
+
+FLAC Fingerprints:
+ph1994-06-17d1t01.flac:895a92996d1baa76c6c294e5b30c05c1
+ph1994-06-17d1t02.flac:4ed0c24318186d8e720f4e6ef49a70a4
+ph1994-06-17d1t03.flac:1f4c8b1f6016942fa9c2422dcc984292
+ph1994-06-17d1t04.flac:0b7b21eb3205836dee53571243fe069e
+ph1994-06-17d1t05.flac:1d7dd4ccd51174c290c06bc0e734e10d
+ph1994-06-17d1t06.flac:750023e1cf28be661e23b2f40ffd81b7
+ph1994-06-17d1t07.flac:70f3519f9357190a9530f8156447b13d
+ph1994-06-17d1t08.flac:e6b42a7efb3a8970732eebe835a62d02
+ph1994-06-17d1t09.flac:1d8c5596a314d009154cf767798221e4
+ph1994-06-17d2t01.flac:06493473a82befa7e540988b68e4d0fc
+ph1994-06-17d2t02.flac:3ab2e9ff44f5004a6668376bdc07e86b
+ph1994-06-17d2t03.flac:5b936278e395dc70dc2c2d748147f559
+ph1994-06-17d2t04.flac:21d15c4ecf7fa678f62e58766964accb
+ph1994-06-17d2t05.flac:570d7e2c9ed9d2ffbde1700d5775a630
+ph1994-06-17d2t06.flac:c7c635b3888e30cb4422e0e5f7534b4b
+ph1994-06-17d2t07.flac:4ab52cbf72674078ef6682543e4ca4c6
+ph1994-06-17d2t08.flac:78021d4e009755c5c7bdf58685755670
+ph1994-06-17d2t09.flac:88e1e17e08f89f8875e2e6c64d98c4ac
+ph1994-06-17d2t10.flac:9a25947f1c6dc3ba8c12a6e0e189df7b
+ph1994-06-17d2t11.flac:126bd75670bd89555233322ab47231ee
+ph1994-06-17d2t12.flac:bdd414e71d0dd2ffc800a1b6f78187c5
+ph1994-06-17d2t13.flac:54a6007c0c21688792f1fad09e7f52d8
+ph1994-06-17d2t14.flac:4353975f998206363f80bcbfdc564ff2
+ph1994-06-17d2t15.flac:1cfa28dedf684ebabf1c382d634cb4c4
+ph1994-06-17d2t16.flac:b1c2409f6545b5650af0906eb50f5bad
+ph1994-06-17d2t17.flac:fde128bca3d53a3fa7b647ff5f7a0962
+ph1994-06-17d2t18.flac:5e6602634c26f94c4d3576a4b3b14a3c
+ph1994-06-17d2t19.flac:fee614c6ec5c3738bd3c8d8150c5d4a1
+ph1994-06-17d2t20.flac:1bf8546fc75cb9a64a21da01823c35fa

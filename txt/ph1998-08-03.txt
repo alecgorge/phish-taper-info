@@ -1,0 +1,79 @@
+Phish
+August 3, 1998
+Deer Creek Music Theatre
+Noblesville, IN
+
+source:
+Schoeps cmc6/mk41 > Sonosax SX-M2 > Apogee AD-1000 > Tascam DA-P1 (@ 48 kHz)
+
+transfer:
+Tascam DA-20mkII > Marantz PMD-661 > SDHC card > usb 2.0 > pc > r8brain v1.9 (resample to 44.1 kHz) > CD Wave v1.98 (track splits) > Samplitude SE v9.1.1 (fades) > FLAC v1.2.1 (Level 8)
+
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded July 21, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+The original 48 kHz files from the DAT transfer have been archived and are available upon request.
+
+Disc 1 - [63:52]
+Set I
+01 - [07:36] - Rhinoceros *
+02 - [20:13] - Halley's Comet >
+03 - [03:40] - I Didn't Know
+04 - [05:29] - Ride Captain Ride
+05 - [05:26] - Cars Trucks Buses
+06 - [10:47] - The Moma Dance
+07 - [03:09] - Strange Design
+08 - [07:31] - Character Zero
+
+Disc 2 - [76:06]
+Set II
+01 - [01:09] - set 2 intro
+02 - [16:54] - Gumbo
+03 - [04:26] - Axilla >
+04 - [11:43] - Limb by Limb
+05 - [04:32] - Meat >
+06 - [01:01] - HYHU >
+07 - [04:37] - Bike >
+08 - [02:11] - HYHU
+09 - [05:30] - Tube
+10 - [05:26] - The Wedge
+11 - [01:57] - encore break
+12 - [04:56] - When the Circus Comes
+13 - [11:45] - Run Like an Antelope
+
+Show Notes: This show marked the debut of Rhinoceros and the triumphant return of fan 
+favorite Ride Captain Ride, which had not been played since December 30, 1992 (490 shows). 
+Bike was played for the first time since November 7, 1996 (129 shows). The Halley's jam 
+included A Love Supreme teases from Page. Gumbo included Manteca teases.
+
+* debut (Smashing Pumpkins cover)
+
+----------------------------------------------------------------------
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     7:35.66          76.69 MB  ---   --   ---xx   flac  0.5068  ph1998-08-03d1t01.flac
+    20:13.07         204.08 MB  ---   --   ---xx   flac  0.5209  ph1998-08-03d1t02.flac
+     3:39.45          36.94 MB  ---   --   ---xx   flac  0.5132  ph1998-08-03d1t03.flac
+     5:29.32          55.42 MB  ---   --   ---xx   flac  0.5473  ph1998-08-03d1t04.flac
+     5:26.32          54.91 MB  ---   --   ---xx   flac  0.5369  ph1998-08-03d1t05.flac
+    10:47.30         108.91 MB  ---   --   ---xx   flac  0.5489  ph1998-08-03d1t06.flac
+     3:09.11          31.82 MB  ---   --   ---xx   flac  0.4763  ph1998-08-03d1t07.flac
+     7:31.02          75.88 MB  ---   --   ---xx   flac  0.5632  ph1998-08-03d1t08.flac
+     1:08.70          11.60 MB  ---   --   ---xx   flac  0.4130  ph1998-08-03d2t01.flac
+    16:53.62         170.55 MB  ---   --   ---xx   flac  0.4984  ph1998-08-03d2t02.flac
+     4:25.64          44.72 MB  ---   --   ---xx   flac  0.5581  ph1998-08-03d2t03.flac
+    11:42.39         118.18 MB  ---   --   ---xx   flac  0.5133  ph1998-08-03d2t04.flac
+     4:31.43          45.69 MB  ---   --   ---xx   flac  0.4834  ph1998-08-03d2t05.flac
+     1:00.70          10.25 MB  ---   --   ---xx   flac  0.4832  ph1998-08-03d2t06.flac
+     4:37.32          46.67 MB  ---   --   ---xx   flac  0.4640  ph1998-08-03d2t07.flac
+     2:10.64          22.01 MB  ---   --   ---xx   flac  0.5049  ph1998-08-03d2t08.flac
+     5:30.33          55.59 MB  ---   --   ---xx   flac  0.5329  ph1998-08-03d2t09.flac
+     5:26.25          54.90 MB  ---   --   ---xx   flac  0.5449  ph1998-08-03d2t10.flac
+     1:56.53          19.63 MB  ---   --   ---xx   flac  0.4715  ph1998-08-03d2t11.flac
+     4:55.67          49.78 MB  ---   --   ---xx   flac  0.4723  ph1998-08-03d2t12.flac
+    11:44.53         118.55 MB  ---   --   ---xx   flac  0.5470  ph1998-08-03d2t13.flac
+   139:58.00        1412.78 MB                           0.5195  (21 files)

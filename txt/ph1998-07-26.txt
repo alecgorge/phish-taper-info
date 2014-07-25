@@ -1,0 +1,64 @@
+Phish
+7-26-98
+Starplex Amphitheatre
+Dallas, TX
+
+MATRIX SOURCES:
+1. ALD SBD>D8 taped by texaskaje
+2. Schoeps CMC641->Lunated V2->DA-P1(from http://bt.etree.org/details.php?id=503353) taped by unknown. seeded by discocape.
+
+Transfer: 
+1. ALD SBD MASTER DAT>M-Audio Transit (7pin to Lightpipe)>Mac G4 (Audiohijack)
+2. AUD:DA-20->Delta Dio 2496->Soundforge 4.5 (48>44.1 resampling on highest accuracy setting with anti alias filter)->CDWAV->SHN>Mac G4 from download.
+
+Mixed on a G4 Mac in Audacity for Punishment Gluttons and seeded by texaskaje 2/07.
+
+Disc 1:
+Set I:
+1.Birds of A Feather-6:51
+2.You Better Believe It Baby-8:37
+3.David Bowie-13:57
+4.Frankie Says >- 5:57
+5.Reba-14:36
+6.Funky Bitch-6:40
+7.Good Times Bad Times-6:53
+
+Disc 2:
+Set II:
+1.La Grange-10:23
+2.You Enjoy Myself-29:36
+3.Albuquerque -> 4:04
+4.Simple-> 9:44
+5.Bold As Love-6:39
+6.Sample in a Jar-4:57
+
+Disc 3:
+Encores:
+1.E: Punch You in the Eye >-8:16
+2.Bittersweet Motel-4:18
+
+
+FLAC FINGERPRINT————————————————————————
+PH1998-07-26MATRIXd01t01.flac:2304dbc592f3fcbd7831392250852cdb
+PH1998-07-26MATRIXd01t02.flac:c2ff2687dbb2c7d2abfea452b5d7e513
+PH1998-07-26MATRIXd01t03.flac:23a6ce7c9b86c5ff65a63b5e248c965b
+PH1998-07-26MATRIXd01t04.flac:b230a11338fa89546191fe7cba72a05b
+PH1998-07-26MATRIXd01t05.flac:408a13e2258f52bdc90068f822361df3
+PH1998-07-26MATRIXd01t06.flac:13510df9fceb4365e65c68c50e4b05e8
+PH1998-07-26MATRIXd01t07.flac:b3fc5a3998d91975839770a91a8625b8
+PH1998-07-26MATRIXd02t01.flac:b4abd42ea29bd10a94686fe1db582824
+PH1998-07-26MATRIXd02t02.flac:992fd71660151c35febd3ac45c85a32c
+PH1998-07-26MATRIXd02t03.flac:1b362b162ba4f23da9e5d8ae326ef24a
+PH1998-07-26MATRIXd02t04.flac:3516fa251f86bf4b982841c2a2014233
+PH1998-07-26MATRIXd02t05.flac:863a24a83d1d34cdf9b3f3b929562a0b
+PH1998-07-26MATRIXd02t06.flac:d30b89c0e870fe6c926963149d3719cd
+PH1998-07-26MATRIXd03t01.flac:bb1513a0b32f0844b73f9fe0256170f4
+PH1998-07-26MATRIXd03t02.flac:9541139d4a0a6ab1e75c737adfe03eb9
+
+notes on matrix:
+There is some on and off FM noise up through david bowie. There are also some dropouts in Birds and at the very beginning of TMOE. The longest of which is about 2 minutes. I call that the McNally Gap for reasons known to him. Times for the obvious SBD d/o's are
+1:50-1:51
+2:36-2:38
+2:46-4:27
+There is no crowd noise between Sample and PYITE. There is crowd noise and house music at the end of Bittersweet. The crowd music is the BeeGees Night Fever.
+This matrix, to me, is much better than the Houston gig. For starters, I went back the original ALD DAT which gave me much more accurate time alignment, not to mention was a much better remaster than what was circulated just as the ALD board before this. The Schoeps AUD source also complimented any lack in the ALD nicely. I plan to remaster Houston w/ the Schoeps AUD when it becomes available.

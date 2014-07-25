@@ -1,0 +1,29 @@
+Phish
+July 12th, 1992
+H.O.R.D.E. Festival
+Jones Beach Amphitheater, Wantagh, NY
+
+Master:Neumann RSM-191-S (110 degrees XY) handheld>D10-Pro, FOB
+by Bryon Sosinski
+DAT>CD by Kevin Shapiro, transfer unknown
+Conversion:CD>xACT 1.4d19 (cdparanoia)>AIFF>xACT 1.4d19>FLAC by Dave Mallick [greenone@bluestraveler.net]
+
+Disc 1: [70:26.27] (minutes:seconds.frames)
+01. Sweet Adeline            [02:50.44]
+02. Chalk Dust Torture       [05:49.68]
+03. Bouncing Around the Room [03:43.71]
+04. Divided Sky              [13:04.68]
+05. Fluffhead                [14:39.08]
+06. Uncle Pen                [04:08.05]
+07. Maze                     [08:37.70]
+08. Glide* >                 [05:22.11]
+09. Possum                   [12:09.57]
+
+Show Notes: This show was part of the HORDE tour. Unlike other HORDE shows, though, 
+Phish headlined. The band took the stage wearing papier mache costume masks, which they 
+threw into the crowd after Adeline. Glide was dedicated to David Ullrich, a fan who had 
+recently died of leukemia. Possum featured the secret language, including the Simpsons, 
+All Fall Down, and Oom Pa Pa Signals.
+
+* with vacuum solo
+Notes:- All tracks extracted at 100% in cdparanoia with no errors; the fixes marked below were on the master discs. Tracks were left exactly as marked by Kevin.- Zap at 4:02 of t02 (on disc), right channel copied over left to minimize noise.- Left-channel diginoise at 0:57 of Maze removed by copying right channelover left.- Zap at 7:00 of Possum, unable to remove.

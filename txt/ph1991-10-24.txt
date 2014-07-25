@@ -1,0 +1,53 @@
+Phish 
+10-24-91 
+Prescott College 
+Prescott, AZ 
+
+Source: Sbd>CassM>DATx2 
+
+Transfer: Tascam DA20mkii> Zoltrix Nightengale> Soundforge> CDwav >Mkwact 
+Seed: Zach Andersson-Zandersson@aol.com 
+Covers can be found at: http://www.phish102491.50megs.com 
+
+DISC 1: 
+01. Oh Kee Pa Ceremony-> 
+02. Suzy Greenberg 
+03. Foam 
+04. Poor Heart 
+05. Stash 
+06. Ya Mar 
+07. The Divided Sky 
+08. I Didn't Know 
+09. TMWSIY-> 
+10. Avenu Malkenu-> 
+11. TMWSIY > 
+12. David Bowie 
+
+DISC 2: 
+01. Mike's Song-> 
+02. I Am Hydrogen-> 
+03. Weekapaug Groove 
+04. Lizards 
+05. Uncle Pen 
+06. Tube 
+07. Slave to the Traffic Light 
+08. Dinner and a Movie 
+09. Bouncing Around the Room 
+10. HYHU-> 
+11. Terrapin-> 
+12. HYHU 
+13. Possum 
+ENCORE: 
+(Memories, Sweet Adeline) 
+14. Rocky Top 
+
+Notes: 
+Diginoise on DAT in Foam @ 2:35 & 2:40....fixed by deletion of the offending samples. 
+Fixed dropout in left channel in Bouncing @ 45:35....copied to mono for .10 seconds. 
+Tape flip @1:41 in Divided Sky.....very fast and barely noticeable flip!! 
+Micro-digizap @ 3:29 in Weekapaug....fixed!! 
+Micro-digizap @ 6:40 in Possum.... 
+I removed Memories & Adeline, as they were performed at the edge of the stage 
+w/o mics. I was not able to boost the levels cleanly to preserve the music and remove 
+the SBD buzz at the same time, so I chose to let them be something you had to be 
+at the show to hear :-) 

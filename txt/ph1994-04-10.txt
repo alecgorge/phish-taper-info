@@ -1,0 +1,72 @@
+PHISH             4-10-94
+ALUMNI ARENA, AMHERST, NY
+
+=========================================================|
+
+SOURCE: 2 AKG460b/ck61 Front row of tapers section, 
+with mics split 20-25ft aimed directly at repeaters 
+from close range (3-5ft) > DAT (Teac DA-P20)
+
+
+CONVERSION: CTD8000H-S > DAT2WAV > SOUNDFORGE 5.0 
+(Resampling from 48kHz to 44.1kHz, level 4 w/anti
+alias filtering) > CD WAVE  (track splits)  > SHN
+
+=========================================================|
+
+DISC 1:
+
+SET 1:
+01. RUNAWAY JIM
+02. IT'S ICE
+03. SPARKLE
+04. SPLIT OPEN AND MELT
+05. ESTHER
+06. CHALK DUST TORTURE
+07. I DIDN'T KNOW
+08. SCENT OF A MULE
+09. DOWN WITH DISEASE
+
+
+DISC 2:
+
+SET 2:
+01. MY FRIEND, MY FRIEND >
+02. RIGHT BACK INSIDE MY HEART JAM *
+03. YA MAR
+04. RUN LIKE AN ANTELOPE
+05. FLUFFHEAD
+06. GINSENG SULLIVAN
+07. I WANNA BE LIKE YOU >
+08. HYHU
+
+
+DISC 3:
+
+01. HARRY HOOD
+ENCORE:
+02. BOUNCING AROUND THE ROOM
+03. GOLGI APPARATUS
+
+
+
+* Song by Julie Cruise. Trey sang a few lines and stopped. 
+
+
+=========================================================|
+
+Trey broke his ankle during the soundcheck when he fell
+into a hole in the stage floor. He played the show in a
+temporary cast, sitting through most of the performance.
+
+
+Seeded 4/01 by Robert Brown
+
+
+
+
+
+
+
+
+

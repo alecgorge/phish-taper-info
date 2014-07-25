@@ -1,0 +1,52 @@
+Phish
+09/02/2011
+Commerce City, Colorado  Dick's Sporting Goods Park
+
+Source: Schoeps mk5> KCY> VST62IU> EAA PSP-2> SD 744t (@24bit/96kHz)
+Location: FOB, DFC, 6' Stand, cardioid/ORTF
+
+Transfer: SD 744t> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred/Seeded by: taylorc (09/03/2011)
+
+
+Set I
+t01 [05:31] Sample in a Jar
+t02 [04:10] Sparkle
+t03 [04:32] The Sloth
+t04 [05:54] Sweet Virginia
+t05 [07:06] Suskind Hotel
+t06 [03:30] Strange Design
+t07 [11:46] Stash
+t08 [08:49] Sneakin' Sally through the Alley>
+t09 [02:45] Sparks>
+t10 [07:16] Scent of a Mule
+t11 [06:48] Stealing Time from the Faulty Plan
+t12 [06:37] Shine a Light
+t13 [10:29] Split Open and Melt
+t14 [08:24] The Squirming Coil
+
+Set II
+t15 [11:44] Sand>
+t16 [10:23] Simple>
+t17 [10:30] Steam>
+t18 [04:52] Soul Shakedown Party>
+t19 [10:27] Seven Below>
+t20 [06:10] Suzy Greenberg>
+t21 [09:00] Scents and Subtle Sounds>
+t22 [09:55] Slave to the Traffic Light>
+t23 [04:43] Silent in the Morning>
+t24 [05:51] Sanity
+t25 [01:46] Sweet Adeline
+t26 [02:37] crowd
+
+Encore
+t27 [03:18] Sabotage
+
+
+Notes:
+Sparks, last played 11/29/1996 (463 shows)
+Sweet Adeline, last played 08/01/1999 (285 shows)
+Sabotage, last played 11/21/1998 (318 shows)
+Thanks to Jason Lonchar for the mk5 caps
+Patch t01 00:39-1:11 (Schoeps mk4v> SX-M2/LS> Mytek> R44, Chris King)
+Set I [1:33:48] Set II [1:27:58] Encore [3:18]

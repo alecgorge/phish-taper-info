@@ -1,0 +1,53 @@
+Phish
+Barre Memorial Auditorium 
+Barre, VT
+11/23/91
+
+Source: Master Cassette Audience (unknown mics) > Sony D5
+Transfer: Aiwa AD-F850 3-Head > Apogee AD1000 > Tascam DA-302 > HHB CDR-850
+Conversion: EAC (Secure Mode) > WAV > ShnTool > FLAC (1.7.1)
+All tracks were extracted with 100% quality.
+
+Disc 1:
+Set I
+01. Llama
+02. Reba
+03. Foam
+04. Runaway Jim
+05. Guelah Papyrus
+06. Sparkle
+07. Chalkdust Torture*
+08. Uncle Pen
+09. Brother
+10. Bouncing Around the Room
+11. Golgi Apparatus
+
+Disc 2:
+Set II
+01. Curtain
+02. Mike's Song >
+03. I am Hydrogen >
+04. Weekapaug Groove
+05. Horn
+06. Poor Heart
+07. Tweezer
+08. Eliza
+09. Landlady
+10. Fee >
+11. H.Y.H.U. > Love You > H.Y.H.U.
+12. My Sweet One
+13. Tweezer Reprise
+Encore:
+14. Jesus Left Chicago**
+15. Big Black Furry Creatures From Mars**
+
+* - Crew Acknowledgements
+** - w/ Dave Grippo
+
+
+Patched by Dan Chapman (Thanks for the tapes!!!)
+Transferred and converted by Chris Warren (hip_school_preppie@yahoo.com)
+Seeded to be.etree.org 9/24/2004 bt Mark (Mark@Kerchoff.com)
+
+Enjoy!
+

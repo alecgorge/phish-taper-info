@@ -1,0 +1,59 @@
+Phish
+4-22-88 
+Billings Hall, University of Vermont - 
+Burlington, VT
+Earth Day Festival
+
+source: (set 1) AUD > Cass/x > CDR > EAC (secure) > SF4.5c > shntool > FLAC
+           (set 2) Aud > Cass/x >Sony TC-WE305>Acoustic Research AP031 RCAs>Tascam US 122>CDWav @44.1Khz>FLAC
+
+transfer:      set one FLAC Conversion by benjamin.mohr@ce.gatech.edu
+                  set two transfer and compiled by james_dineen@yahoo.com
+
+Disc 1 (45:14)
+-set 1-
+01. intro                      	  (00:39)
+02. //I Didn't Know        	  (02:47)
+03. Golgi Apparatus       	  (05:11)
+04. Lizards                  	  (10:32)
+05. Fee                      	  (06:17)
+06. Shaggy Dog            	  (03:32)
+07. BBFCFM                            (02:53)
+08. You Enjoy Myself               (13:23)
+
+Disc 2 (42:16)
+-set 1 cont'd-
+01. Suzy Greenberg                 (06:05)
+02. Yamar                               (06:38)
+03. AC/DC Bag ->                     (05:00)
+04. Possum                              (06:39
+05. The Ballad of Curtis Lowe    (05:44)
+06. David Bowie                       (12:10)
+
+
+Disc 3 (77:36)
+-set 2-
+01. Colonel Forbin's Ascent->       (07:03)
+02. Famous Mockingbird	     (06:51)
+03. Fire		                   (06:39)
+04. banter                     (00:32)
+05. Alumni Blues (LtJP)	                    (03:58)
+06. Run Like An Antelope            (10:46)
+07. Fluffhead                             (15:06)
+08. Dinner And A Movie              (04:11)
+09. Harry Hood                           (12:18)
+10. Harpua                                 (09:54)
+
+Notes:
+-corrected the set order (from that which was in the Phish Companion) and second set added by james_dineen@yahoo.com
+
+-The tape was paused between several songs and started up again after the next 
+song had already begun in many instances. D1T02, D1T03, D1T07, D3T03, D3T08, D3T10 all suffer 
+from this problem.
+ 
+-There are several splices between tracks throughout the show
+
+-Tape flips: d1t08 13:23 (45:14), d2t02 12:10 (42:16)
+
+Fixes:
+-Removed high pitch sound [d1t09 (4:59.074) - d2t02 (end)] using Samplitude 6.0 FFT filter/analyzer centered at 15,750Hz by ~-40dB and adjusted slightly for each track.

@@ -1,0 +1,48 @@
+Phish
+07-19-98
+Shoreline Amphitheatre, Mountain View, CA 
+--------------------------------------------------------------------------------------------
+Source:         DFOB: Neumann KM140>E.A.A.>Sony SBM-1>Sony D-100
+
+Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                Soundforge 5.0b (48KHz->44.1KHz at highest setting [4 of 4],
+                with anti-alias filter)-> CD Wave 1.62-> mkwACT v0.97
+                **No DAE at all**
+
+Minor Edits:	5 second fades in/out at the start/end of set.
+----------------
+Transferred by Dan Marquardt <danmarq@msn.com>, please contact me with questions/comments.
+There are also 48KHz shn's of this seed for archival.
+--------------------------------------------------------------------------------------------
+
+CD1 /Set 1a:					69:04
+01. The Moma Dance				12:37
+02. Beauty of My Dreams				03:01
+03. Sample in a Jar				05:48
+04. Guyute					11:00
+05. Ghost					17:26
+06. Limb by Limb				10:50
+07. Roggae					08:22
+
+CD 2/Set 1b:					68:56
+01. You Enjoy Myself				22:12
+
+CD 2/Set 2a:					46:47
+02. Llama%					07:50
+03. Wolfman's Brother->				10:17
+04. Piper					07:06
+05. Tweezer->					10:03
+06. Jesus Just Left Chicago			11:28
+
+CD 3/Set 2b:					45:12
+01. McGrupp and the Watchful Hosemasters->	15:32
+02. Down with Disease				13:08
+03. Crowd Noise					02:50
+
+Encore:
+04. Possum					10:09
+05. Tweezer Reprise				03:33
+
+--------------------------------------------------------------------------------------------
+
+%Level adjustments at the start of Llama.

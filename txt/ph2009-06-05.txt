@@ -1,0 +1,62 @@
+Phish
+06/05/09
+Jones Beach Amphitheatre
+Wantagh, NY
+
+Source: {16 bit} TELEFUNKEN Ela m260 tubes (cards, 30cm, 90 degrees, 7') > Lunatec V3 > Sonic AD2K+ > wav @ 24/44.1
+Lineage: CF > Sound Studio (fades, EQ -2.5db @ 160Hz, normalize) > xAct (align on sector boundaries, encode flac16 level 8, tag, fingerprint)
+Recorded by Jesse Hurlburt
+
+Set I:
+01 -crowd-
+02 Wilson
+03 Buried Alive
+04 Kill Devil Falls
+05 AC/DC Bag
+06 I Didn't Know
+07 My Friend My Friend
+08 Ya Mar
+09 Theme from the Bottom
+10 Boogie On Reggae Woman
+11 Split Open and Melt
+
+Set II:
+01 -crowd-
+02 Down With Disease >
+03 Twist (1)
+04 Piper >
+05 Backwards Down The Number Line
+06 Free
+07 Twenty Years Later (2)
+08 Also Sprach Zarathustra
+09 Slave to the Traffic Light
+10 -encore break-
+11 A Day in the Life
+
+1 'Oye Como Va' jam
+2 First Time Played
+
+length expanded size cdr WAVE problems fmt ratio filename
+0:28.51 5059196 B --- -- ---xx phish2009-06-05.m260.d1t01.flac
+5:15.00 55566044 B --- -- ---xx phish2009-06-05.m260.d1t02.flac
+2:17.27 24230348 B --- -- ---xx phish2009-06-05.m260.d1t03.flac
+7:46.57 82336508 B --- -- ---xx phish2009-06-05.m260.d1t04.flac
+7:11.62 76174268 B --- -- ---xx phish2009-06-05.m260.d1t05.flac
+3:53.70 41265884 B --- -- ---xx phish2009-06-05.m260.d1t06.flac
+6:03.25 64092044 B --- -- ---xx phish2009-06-05.m260.d1t07.flac
+6:57.11 73584716 B --- -- ---xx phish2009-06-05.m260.d1t08.flac
+9:05.01 96140396 B --- -- ---xx phish2009-06-05.m260.d1t09.flac
+7:29.56 79335356 B --- -- ---xx phish2009-06-05.m260.d1t10.flac
+12:53.31 136430156 B --- -- ---xx phish2009-06-05.m260.d1t11.flac
+1:30.54 16003052 B --- -- ---xx phish2009-06-05.m260.d2t01.flac
+10:39.45 112825484 B --- -- ---xx phish2009-06-05.m260.d2t02.flac
+8:28.18 89653580 B --- -- ---xx phish2009-06-05.m260.d2t03.flac
+7:46.68 82362380 B --- -- ---xx phish2009-06-05.m260.d2t04.flac
+6:59.34 73991612 B --- -- ---xx phish2009-06-05.m260.d2t05.flac
+7:48.63 82703420 B --- -- ---xx phish2009-06-05.m260.d2t06.flac
+6:36.32 69929708 B --- -- ---xx phish2009-06-05.m260.d2t07.flac
+8:19.46 88131836 B --- -- ---xx phish2009-06-05.m260.d2t08.flac
+10:32.30 111555404 B --- -- ---xx phish2009-06-05.m260.d2t09.flac
+2:54.35 30775964 B --- -- ---xx phish2009-06-05.m260.d2t10.flac
+6:08.04 64924652 B --- -- ---xx phish2009-06-05.m260.d2t11.flac
+147:06.70 1557072008 B 0.5568 (22 files)

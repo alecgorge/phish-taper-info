@@ -1,0 +1,70 @@
+Phish
+Thursday, May 14, 1992
+Capitol Theater
+Port Chester, NY
+
+Source: SBD->cass/1>DAT@48khz->Tascam DA-20 MK-II->Event Gina>PC. 
+
+Mastering:  By Jamie Treworgy (jamie@treworgy.com) Adobe Audition 1.5. All processing 
+done at highest quality setting. 
+
+Resampled to 44.1 after all mastering, 48 khz archives available.
+
+A few patches made from 'unknown' audience source. Some selective amplification and equalization 
+was applied to the patches to try to create a better sonic balance with the soundboard. 
+
+
+Set 1 (74:22)
+
+01. Suzy Greenburg
+02. All Things Reconsidered
+03. The Sloth
+04. Sparkle
+05. Maze
+06. Horn
+07. Reba
+08. Poor Heart
+09. My Friend My Friend
+10. Bouncing Around the Room
+11. Run Like an Antelope*
+
+
+Set 2 (97:48)
+
+01. Glide
+02. Cavern 
+03. Rift
+04. Fluffhead
+05. Eliza
+06. Mike's Song >
+07. I Am Hydrogen >
+08. Weekapaug Groove** > Wait > Weekapaug Groove
+09. McGrupp and the Watchful Horsemasters
+10. Stash
+11. Cold As Ice > 
+12. Cracklin' Rosie >HYHU
+13. Possum
+
+Encore: 
+
+14. Sleeping Monkey
+15. Rocky Top
+
+* with Complete Language Lesson (Homer Simpson, Turn Around, Random Note, Fall Down)
+  Debut of new signal (Aww, Fuck!) and Spiderman Jam
+** with "Wait"
+
+Mastering Notes:
+
+SET I
+
+1) Crossfaded 0.5s at end of Reba into beginning of Poor Heart, probably at cassette flip
+2) 1.3s dropout at beginning of Bouncing corrected by duplicating the next bar and mixing in some audience noise.
+
+SET II
+
+1) Lowered pitch by 25 cents
+2) Corrected dropout (no missing data - must be DAT->Cass cassette flip) around 46:00(weekapaug)
+3) Patched 9 second dropout at 51:36 (Weekapaug), probably at cassette flip
+4) Patched 1 second dropout at 00:07 in HYHU
+5) Patched 2 second dropout at 8:53 in Possum

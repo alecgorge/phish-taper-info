@@ -1,0 +1,77 @@
+Phish /12/92 
+St. Lawrence University, Canton, NY 
+
+Set I Source: Aud(unknown mics)> Cass/x (recorded 12/93)
+
+Transfer: Dennon DRW-840> Sony PCM-r500 at 44.1> Audiophile 2496> WAV> CD Wave Editor to track> FLAC on 10/7/04 by EEE
+---------------------------------------
+Set II Source:	SBD>Cass1>DAT
+Xfer:	ARCHIVE Python>vDAT>WaveLab4>CDWave>Flac/CDR
+
+Transferred, tracked and seeded by rusty@ontheflyrecording.com
+
+
+
+DISC 1 / Set 1: 70:59
+My Sweet One+
+Reba
+All Things Reconsidered
+The Sloth
+Possum
+It's Ice
+Dinner and a Movie\
+[missing] - Bouncing Around the Room
+Buried Alive
+Uncle Pen
+Horn
+David Bowie 
+
+Set II
+
+01	Crowd/Intro				(01:24)
+02	The Landlady				(04:16)
+03	Bathtub Gin				(07:50)
+04	You Enjoy // Myself #			(21:53)
+05	Guelah Papyrus				(05:47)
+06	Chalk Dust Torture &			(05:56)
+07	Cold As Ice >				(01:30)
+08	Terrapin > HYHU				(06:36)
+09	Poor Heart				(02:36)
+10	Llama					(04:22)
+11	Cavern					(06:07)
+
+Encore
+12	Runaway Jim				(07:28)
+
+
+
+There are a couple PA drop outs during this show; during Possum and It's Ice were two I noticed. This is a outside show, listen for the dog (Marley?) barking at the beginning of Possum. I also have no idea why Bouncing would be missing from set I, but Dinner is cut and BA starts abruptly, so it’s possible.
+
+Shntool output:
+
+    length     expanded size   cdr  WAVE problems filename
+     3:52.69       41087132    ---   --   -----   ph1992-05-12d1t01.wav
+    12:35.40      133276124    ---   --   -----   ph1992-05-12d1t02.wav
+     3:04.67       32615228    ---   --   -----   ph1992-05-12d1t03.wav
+     3:40.46       38916236    ---   --   -----   ph1992-05-12d1t04.wav
+    11:44.68      124345580    ---   --   -----   ph1992-05-12d1t05.wav
+    10:20.73      109539740    ---   --   -----   ph1992-05-12d1t06.wav
+     2:07.37       22489868    ---   --   -----   ph1992-05-12d1t07.wav
+     2:00.24       21224492    ---   --   -----   ph1992-05-12d1t08.wav
+     4:13.25       44688044    ---   --   -----   ph1992-05-12d1t09.wav
+     4:06.35       43476764    ---   --   -----   ph1992-05-12d1t10.wav
+    13:10.38      139445420    ---   --   -----   ph1992-05-12d1t11.wav
+     5:31.71       58555436    ---   --   -----   ph1992-05-12d2t01.wav
+     7:53.15       83472524    ---   --   -----   ph1992-05-12d2t02.wav
+    21:52.17      231476828    ---   --   -----   ph1992-05-12d2t03.wav
+     5:48.58       61523660    ---   --   -----   ph1992-05-12d2t04.wav
+     5:53.40       62363324    ---   --   -----   ph1992-05-12d2t05.wav
+     8:11.49       86727692    ---   --   -----   ph1992-05-12d2t06.wav
+     2:39.57       28181708    ---   --   -----   ph1992-05-12d2t07.wav
+     4:27.02       47103548    ---   --   -----   ph1992-05-12d2t08.wav
+     4:53.38       51774620    ---   --   -----   ph1992-05-12d2t09.wav
+     1:19.46       14043836    ---   --   -----   ph1992-05-12d2t10.wav
+     7:26.34       78754412    ---   --   -----   ph1992-05-12d2t11.wav
+   146:55.49     1555082216 B                     (totals for 22 files, 1.0000 o
+verall compression ratio)
+

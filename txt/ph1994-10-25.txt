@@ -1,0 +1,48 @@
+Phish
+10-25-94
+Civic Center
+Atlanta, GA
+
+Source: (from dat with unknown generations)
+	Set One: Schoeps mk4>SV255
+	Set Two: Neumann KM184
+
+Conversion: dat>mit terminator s/pdif> m-audio delta dio 24/96>
+	cool edit 2000>cd wav>mkw v0.97
+	by: Jered Haddad (funktopu@midsouth.rr.com)
+
+Original SHN files resampled from 48 > 44.1 kHz and shntool -fix'ed
+
+Disc 1:
+1. Fee
+2. Llama
+3. Horn
+4. Julius
+5. The Horse >
+6. Silent in the Morning
+7. Split Open & Melt
+8. The Lizards
+9. Sample in a Jar
+
+Disc 2:
+1. Mike's Song >
+2. Simple >
+3. The Mango Song >
+4. Weekapaug Groove! >
+5  City of Gold >
+6. Glide
+7. Axilla Pt. II
+8. Jesus Left Chicago >
+9. BBJ 
+10. HYHU > If I Only Had a Brain > HYHU
+
+Disc 3: 
+1. Possum
+encore
+2. Foreplay/Longtime
+3. Golgi Apparatus
+
+
+Notes from converter:  these are both good sources! Do not pass up 
+this Weekapaug
+		

@@ -1,0 +1,76 @@
+Phish
+July 23, 1999
+Polaris Amphitheatre
+Columbus, OH
+
+source:
+B+K 4011 > EAA PSP-2 > Apogee AD-1000 > HHb PDR-1000 (@ 44.1 kHz)
+
+transfer:
+Tascam DA-20mkII > Marantz PMD-661 > SDHC card > usb 2.0 > pc > Samplitude SE v9.1.1 (fades, track splits) > FLAC v1.2.1 (Level 8)
+
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded July 18, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+
+Disc 1 - [68:42]
+Set I
+01 - [00:25] - set 1 intro
+02 - [11:22] - Ya Mar
+03 - [05:27] - NICU
+04 - [07:49] - Back at the Chicken Shack >
+05 - [10:34] - Punch You in the Eye
+06 - [08:59] - Fast Enough for You
+07 - [05:52] - Back on the Train
+08 - [15:01] - David Bowie
+09 - [03:13] - Strange Design
+
+Disc 2 - [77:41]
+Set I continued
+01 - [12:26] - Possum
+Set II
+02 - [00:31] - set 2 intro
+03 - [16:52] - Ghost ->
+04 - [12:52] - Free >
+05 - [25:23] - Birds of a Feather >
+06 - [09:36] - Meatstick
+
+Disc 3 - [13:44]
+Set II continued
+01 - [04:46] - Fire
+02 - [02:07] - encore break
+03 - [04:04] - Bouncing Around the Room
+04 - [02:47] - Rocky Top
+
+Show Notes: Trey played keys for part of PYITE. During Meatstick, Trey talked about the band's 
+desire to teach fans the Meatstick Dance and break the world record. He then informed the crowd 
+that the New Year's Eve concert would be played in Florida. Fire was played for the first time 
+since NYE 1997 (89 shows).
+
+------------------------------------------------------------------------------
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:25.24           4.26 MB  ---   --   ---xx   flac  0.4892  ph1999-07-23d1t01.flac
+    11:22.19         114.77 MB  ---   --   ---xx   flac  0.5333  ph1999-07-23d1t02.flac
+     5:26.64          54.99 MB  ---   --   ---xx   flac  0.5667  ph1999-07-23d1t03.flac
+     7:48.47          78.84 MB  ---   --   ---xx   flac  0.5269  ph1999-07-23d1t04.flac
+    10:33.56         106.61 MB  ---   --   ---xx   flac  0.5605  ph1999-07-23d1t05.flac
+     8:59.25          90.73 MB  ---   --   ---xx   flac  0.5076  ph1999-07-23d1t06.flac
+     5:52.17          59.25 MB  ---   --   ---xx   flac  0.5043  ph1999-07-23d1t07.flac
+    15:01.04         151.58 MB  ---   --   ---xx   flac  0.5563  ph1999-07-23d1t08.flac
+     3:12.48          32.41 MB  ---   --   ---xx   flac  0.4806  ph1999-07-23d1t09.flac
+    12:26.32         125.57 MB  ---   --   ---xx   flac  0.5739  ph1999-07-23d2t01.flac
+     0:30.74           5.21 MB  ---   --   ---xx   flac  0.4547  ph1999-07-23d2t02.flac
+    16:51.70         170.24 MB  ---   --   ---xx   flac  0.5613  ph1999-07-23d2t03.flac
+    12:52.28         129.93 MB  ---   --   ---xx   flac  0.5725  ph1999-07-23d2t04.flac
+    25:23.31         256.28 MB  ---   --   ---xx   flac  0.5677  ph1999-07-23d2t05.flac
+     9:36.03          96.91 MB  ---   --   ---xx   flac  0.5652  ph1999-07-23d2t06.flac
+     4:45.60          48.08 MB  ---   --   ---xx   flac  0.5924  ph1999-07-23d3t01.flac
+     2:07.13          21.39 MB  ---   --   ---xx   flac  0.5015  ph1999-07-23d3t02.flac
+     4:03.42          40.97 MB  ---   --   ---xx   flac  0.5351  ph1999-07-23d3t03.flac
+     2:47.18          28.13 MB  ---   --   ---xx   flac  0.5770  ph1999-07-23d3t04.flac
+   160:07.00        1616.17 MB                           0.5529  (19 files)

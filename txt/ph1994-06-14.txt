@@ -1,0 +1,88 @@
+Phish
+06/14/94
+Des Moines Civic Center
+Des Moines, IA
+
+Set I Source: DAUD/OTS>AKG 460b ck61>AKG B-18 Phantom Power>Sony D-10
+Pro II(@ 48khz)
+
+Transfer: Master Dat from D-10>Sony DTC-690> Audioquest
+Optilink 1> SEK'D Prodif Plus> Samplitude v5.5> Soundforge xp
+4.5 (resample @ 4/4 with anti alias filter)> Cdwav 1.6>
+Mkw act 0.97b1
+
+
+Edits: Five second fade in/out of sets. 
+
+Flaws: There is some PA distortion in d2t10 & d3t01.
+
+
+Notes: Disc One,Tracks 4 & 13 were performed acoustic with no 
+amplification and thus are very hard to hear.You will have to
+turn up the volume. 
+
+Taped by: Jeff Jordan
+Transfered by: Chris "sparki" Ace .
+
+Big thanks to Jeff and Lauren Jordan for sending me the dats for transfer.
+
+48k archive shns available.
+
+___________________________________________________________________________
+
+*Dankseed Certification received 2002-03-30*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph1994-06-14
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________
+
+Set II Source: 5th gen SBD cassette (pitch adjusted in Marantz PMD510) > Korg MR-1 (16/44.1)
+
+Transfer: MR-1 HD > Spark XL (phase reverse right channel, edit in aud patch in YEM, tracking) > xACT (flac 8 w/ SBA & tags)
+
+Transferred by taperjoe.
+-----------------------------------------------------------------------------
+
+
+Disc 1 / Set I [58:38]
+1. Crowd/Tuning [00:25] 
+2. Llama [03:44]
+3. Guelah Papyrus > [05:12]
+4. Adeline > [01:49]
+5. Digital Delay Loop Jam > [01:19]
+6. Guelah Papyrus [01:16]
+7. Rift [06:01]
+8. Down with Disease > [07:15]
+9. Fee > [05:38]
+10. My Friend [06:28]
+11. Uncle Penn [04:00]
+12. I Didn't Know > [02:04]
+13. My Sweet One > [02:16]
+14. I Didn't Know [01:32]
+15. Split Open and Melt [09:39]
+
+Set 2:
+1. Frankenstein
+2. Demand >
+3. David Bowie
+4. If I Could
+5. It's Ice
+6. Sparkle
+7. You Enjoy Myself > (about 1:53 of aud patch in middle)
+8. HYHU >
+9. Bike >
+10. HYHU
+11. Possum
+Encore:
+12. Sample In A Jar
+
+YEM aud patch came from shnid=8851, this was where the tape flip was on the SBD.  It seems that somewhere in the dubbing line this went from a 100 minute to a 90 minute cassette, since YEM started over on side B then had a cut in the middle of it.  Side B sounds a bit duller than side A.  Enjoy!!

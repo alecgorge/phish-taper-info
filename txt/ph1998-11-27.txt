@@ -1,0 +1,52 @@
+Phish - 11/27/1998
+Worcester Centrum - Worcester, MA
+
+	Set I
+
+		01	Funky Bitch
+		02	Ya Mar
+		03	Carini
+		04	Runaway Jim
+		05	Meat >
+		06	Reba
+		07	The Old Home Place
+		08	Dogs Stole Things
+
+		01	Vultures
+		02	When the Circus Comes to Town
+		03	Birds of a Feather
+
+	Set II
+		04	Crowd
+		05	Buried Alive
+		06	Wipeout
+		07	Chalk Dust Torture * ->
+		08	Mirror in the Bathroom ->
+		09	Chalk Dust Torture ->
+		10	Dog Log ->
+		11	Chalk Dust Torture ->
+		12	Sanity
+
+		01	Buffalo Bill >
+		02	Mike's Song ->
+		03	I am Hydrogen ->
+		04	Weekapaug Groove ->
+		05	Wipeout ->
+		06	Weekapaug Groove >
+		07	Run Like An Antelope
+
+	Encore
+		08	Wading in the Velvet Sea
+		09	Golgi Apparatus >
+		10	Wipeout
+
+
+	Notes:	
+		* w/ Wipeout teases
+		
+
+Source:	Schoeps CMC6/Mk4 > V2 > ADC-20 > DA-P1
+XFer:	DAT > ARCHIVE Python > vDAT > WaveLab4 > CDWave > Flac
+
+
+

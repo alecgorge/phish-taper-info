@@ -1,0 +1,172 @@
+Phish
+Madison Square Garden
+New York, NY
+December 29, 1998
+
+SBD + AUD Matrix 3 Source Mix 
+(60%-SBD/25%-AUD1/15%-AUD2) 
+
+Disc 1
+
+01 [07:23] Rock and Roll >
+02 [06:24] Funky Bitch
+03 [08:36] Punch You in the Eye
+04 [04:27] Horn
+05 [04:09] Ginseng Sullivan
+06 [11:16] Split Open and Melt
+07 [04:17] Brian and Robert
+08 [10:38] Guyute
+09 [08:03] My Soul
+10 [04:19] Freebird
+  Set 2
+11 [10:19] Free
+TT [79.50]
+
+Disc 2 
+
+01 [09:52] Limb by Limb
+02 [17:24] 2001 >
+03 [06:27] Boogie On Reggae Woman
+04 [23:33] You Enjoy Myself
+05 [03:08] Encore Break
+06 [16:25] The Divided Sky
+TT [76.53]
+
+---------------------------------------------------------
+
+Source Info
+
+SBD (ShnID = 23953) 
+Source: SBD > Cass/0 > DAT > CD-R
+Transfer: EAC > Cool Edit Pro (fixed pitch) > CD Wave > SHN v3
+By Mike Wren, pitch corrected by Matt Vernon 
+
+AUD1 (ShnID = 89662)
+Source: (FOB) Schoeps mk4 > Sonosax SX-M2 > Teac DA-P20 (@ 48 kHz)
+Recorded by Boris and Brian
+Transfer: Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > 
+pc > WaveLab 5.01b (de-emphasis, fades, resample to 44.1 kHz) > 
+CD Wave v1.95.1 > FLAC v1.2.1 (Level 8)
+Transferred by Jason Sobel (jasonsobel@gmail.com)
+
+AUD2 (ShnID = 84944)
+Source: (FOB) Schoeps mk4 > kcy > vms021b >  SBM-1 > DA-P20 (44.1 kHz)
+Recorded FOB, section 3, row S, seat 11
+Mics were in a hat with caps on Schoeps ORTF bar and fully exposed
+Transfer: Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > 
+WaveLab 5.01b (fades) > CD Wave v1.95.1 > FLAC v1.1.4 (Level 8)
+Transferred by Jason Sobel (jasonsobel@gmail.com)
+
+---------------------------------------------------------
+
+Tech Notes
+
+FLAC/SHNs decoded and Wavemerge was used to reassemble the entire 
+show back to 1 long wave.  CEP2.0 was used to align & synch all 
+of the sources.  CEP2.0 was used for the multitrack mixdown.  
+This is a 60%-SBD, 25%-AUD1, 15%-AUD2 mix.       
+- Mixed by dan@am-dig.com
+- FLAC conversion done 26-OCT-2008 (3 source mix)
+- SHN conversion done 11-MAR-2005 (2 source mix)
+- Artwork at 300dpi by dan@am-dig.com 
+- For best results print at the highest resolution onto glossy 
+photo paper.  Design for use in a 2CD clear, slim CD case. 
+
+---------------------------------------------------------
+
+Multitrack Mixdown Settings
+				
+Stereo Matrix  
+SBD -1.5db	
+AUD1 -7db
+AUD2 -12db						
+
+---------------------------------------------------------
+
+Notes
+
+Entire show is seamless.
+
+d1t01 "Rock and Roll" the SBD source started very abruptly.  This
+was fixed with a lead in patch from the AUD sources and a crossfade
+to the SBD source.
+
+d1t07 "Brian and Robert" tape flip on the SBD source after the song.  
+Patched and crossfaded with the AUD sources and is no longer inaudible.
+
+d1t11 "Free" the SBD source started very abruptly.  This was fixed 
+with a lead in patch from the AUD sources and a crossfade to the SBD 
+source.
+
+d2t03 "Boogie On Reggae Woman" tape flip on the SBD source after the 
+song.  Patched and crossfaded with the AUD sources and is no longer 
+inaudible.
+
+d2t05 "Encore Break" the SBD source was missing a minute or so of the
+crowd cheer prior to the encore.  Fixed with a patch from the AUD 
+sources and a crossfade to the SBD source.
+
+---------------------------------------------------------
+
+Lineup
+
+Trey Anastasio (guitar, vocals)
+Mike Gordon (bass, vocals)
+Page McConnell (keyboards, vocals)
+Jon Fishman (drums, percussions)
+
+---------------------------------------------------------
+
+Additional Formats
+
+This show is available in the following formats:
+
+1. The SBD and both AUD sources listed above at 16/44
+2. CD-Audio Stereo SBD+AUD Matrix Mix at 16/44 
+3. CD-Audio 5.1 Surround Sound DTS-Audio-CD at 16/44 
+4. DVD-Audio Stereo SBD+AUD1+AUD2 Matrix Mix at 24/44
+5. DVD-Audio 5.1 Surround Sound at 24/44 (6 channel x 24/44)  
+
+---------------------------------------------------------
+
+FLAC fingerprint
+
+phish1998-12-29-haugh-mtx-d1t01.flac:59e2cdefd0f8e1f02f27457a580e86dd
+phish1998-12-29-haugh-mtx-d1t02.flac:8157ef013ae270348abb53fe3285cfe3
+phish1998-12-29-haugh-mtx-d1t03.flac:73b4a5ad339b4a4e58093de9f737e4e6
+phish1998-12-29-haugh-mtx-d1t04.flac:28d29814505a9973f5cd9073ccad8333
+phish1998-12-29-haugh-mtx-d1t05.flac:e36ff2f73d9cf5845799d611c4dbd7ff
+phish1998-12-29-haugh-mtx-d1t06.flac:a98b1843cb65befd0d42b447bb3fdf13
+phish1998-12-29-haugh-mtx-d1t07.flac:6f41db52c34926e912bc7845c4d0f445
+phish1998-12-29-haugh-mtx-d1t08.flac:62f53bbf21005ce2d8a11b05fd9b2be6
+phish1998-12-29-haugh-mtx-d1t09.flac:8b5f763fbf1fcf9391ee4cf6d82ca607
+phish1998-12-29-haugh-mtx-d1t10.flac:db824dba55ac0fe7145743f265049ec9
+phish1998-12-29-haugh-mtx-d1t11.flac:1cba2486ecb1704b5e42c94eb42bb368
+phish1998-12-29-haugh-mtx-d2t01.flac:e92a00cca4a98e0a2cb4c53dc6d22150
+phish1998-12-29-haugh-mtx-d2t02.flac:b1a1a054f17d733a7a0aba3cdc0144c5
+phish1998-12-29-haugh-mtx-d2t03.flac:381fdee27577bec1463e80190025ba7f
+phish1998-12-29-haugh-mtx-d2t04.flac:aca571e9185f5c3c0a9235535ddf1b88
+phish1998-12-29-haugh-mtx-d2t05.flac:788d440c5b1d9ab686b3d7e831a2ec04
+phish1998-12-29-haugh-mtx-d2t06.flac:df8460bd09370ba927c6fba4622d3193
+
+---------------------------------------------------------
+
+MD5
+
+dea56d99d9dc7178e834337ed62eaa0b *phish1998-12-29-haugh-mtx-d1t01.flac
+ddc9c7857c5f0e548083d4938fc72cc6 *phish1998-12-29-haugh-mtx-d1t02.flac
+afe0b389150106de80d7c73bb283ac2b *phish1998-12-29-haugh-mtx-d1t03.flac
+c6f8a7e9170352f4c23576696ff67202 *phish1998-12-29-haugh-mtx-d1t04.flac
+375d072fd9fcab39784d7bee98ba9bc7 *phish1998-12-29-haugh-mtx-d1t05.flac
+469bad84d3aa9a236be52761ea219826 *phish1998-12-29-haugh-mtx-d1t06.flac
+00c91921388762934c8cb9b4e7776849 *phish1998-12-29-haugh-mtx-d1t07.flac
+a07d9875d08643d4e5d1f7549f46eeb9 *phish1998-12-29-haugh-mtx-d1t08.flac
+7688fac23ca507d6093784ab999314c2 *phish1998-12-29-haugh-mtx-d1t09.flac
+5deeaa75a7658c4d64ead964e0a4d80d *phish1998-12-29-haugh-mtx-d1t10.flac
+7f66f881ee69e88b1185b8e14370ff0f *phish1998-12-29-haugh-mtx-d1t11.flac
+e9a8f18ee1de2a72748dc4b00642da9d *phish1998-12-29-haugh-mtx-d2t01.flac
+1f2ebfafee494a393cd5deb34a44dd9b *phish1998-12-29-haugh-mtx-d2t02.flac
+035c3e3f99c07afd84fee594121b7c3e *phish1998-12-29-haugh-mtx-d2t03.flac
+2479c4cf97289f0f0cfad9c70920d4e1 *phish1998-12-29-haugh-mtx-d2t04.flac
+248ccbaab3fbeff5e6589ea93a86f6b0 *phish1998-12-29-haugh-mtx-d2t05.flac
+0cdeac2848ea59c7ca11d98088a37fdc *phish1998-12-29-haugh-mtx-d2t06.flac

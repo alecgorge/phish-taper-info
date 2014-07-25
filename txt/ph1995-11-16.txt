@@ -1,0 +1,74 @@
+Phish
+11-16-95
+The Auditorium
+West Palm Beach, FL
+
+Source: AKG C1000s (no other info given)
+
+Transfer: DA-20mkii->Delta Dio 2496->Soundforge 6.0 (resampled 48>44.1 on highest accuracy setting w/anti alias filter)->CDWAV->shntool->shn
+
+Transfer by: Brandon Johnston -- http://db.etree.org/bisq
+
+
+Disc 1: 
+-Set I-
+1.Cars Trucks Buses
+2.Runaway Jim
+3.Chess Jam
+4.Horn
+5.Mound
+6.Ya Mar
+7.Simple ->
+8.Timber (Jerry) >
+9.Guyute
+10.Funky Bitch
+
+Disc 2:
+-Set II-
+1.A Day in the Life >
+2.David Bowie
+3.Lifeboy
+4.Uncle Pen
+5.Ha Ha Ha >
+6.Harry Hood
+7.HYHU > If I Only Had a Brain > HYHU
+8.Amazing Grace
+9.Possum
+10.crowd noise
+11.Encore: Brown Eyed Girl
+
+
+Show Notes: A new band/audience chess match started at this show. Timber included a 
+brief Mind Left Body tease. Possum featured Butch Trucks of The Allman Brothers 
+Band on drums, while Fishman played trombone and Trey's percussion rack. Possum 
+also included a One Way Out jam. Brown Eyed Girl, which featured Jimmy Buffett 
+on vocals, made its debut. Brain was played for the first time since 
+October 25, 1994 ( 90 shows).
+
+
+Tech Notes: I removed a small piece of diginoise at 7:22.257 of Set I during Runaway Jim. There are two level adjustments on the dat during Cars Trucks and Busses.The first few seconds of the show, before the first adjustment, are clipped because the levels are too high. The first adjustment was very major so I applied volume control in soundforge to make it less abrupt. The second one I left as is. Fades were added in soundforge 6.0. 
+
+Shntool output:
+    length     expanded size   cdr  WAVE  probs   filename
+     4:03.69      43027532     ---   --    ---    ph1995-11-16d1t01.wav
+     8:32.55      90446204     ---   --    ---    ph1995-11-16d1t02.wav
+     3:02.01      32107196     ---   --    ---    ph1995-11-16d1t03.wav
+     3:39.23      38685740     ---   --    ---    ph1995-11-16d1t04.wav
+     5:39.58      59936060     ---   --    ---    ph1995-11-16d1t05.wav
+     8:25.11      89107916     ---   --    ---    ph1995-11-16d1t06.wav
+     6:02.61      64000316     ---   --    ---    ph1995-11-16d1t07.wav
+     7:00.21      74137436     ---   --    ---    ph1995-11-16d1t08.wav
+    10:15.01     108488396     ---   --    ---    ph1995-11-16d1t09.wav
+     5:41.60      60293564     ---   --    ---    ph1995-11-16d1t10.wav
+     5:27.44      57786332     ---   --    ---    ph1995-11-16d2t01.wav
+    16:43.46     177037436     ---   --    ---    ph1995-11-16d2t02.wav
+     8:33.03      90500300     ---   --    ---    ph1995-11-16d2t03.wav
+     4:13.74      44803292     ---   --    ---    ph1995-11-16d2t04.wav
+     1:32.17      16268828     ---   --    ---    ph1995-11-16d2t05.wav
+    15:18.74     162109292     ---   --    ---    ph1995-11-16d2t06.wav
+     5:42.72      60498188     ---   --    ---    ph1995-11-16d2t07.wav
+     1:48.59      19190012     ---   --    ---    ph1995-11-16d2t08.wav
+     8:14.70      87306284     ---   --    ---    ph1995-11-16d2t09.wav
+     3:11.74      33866492     ---   --    ---    ph1995-11-16d2t10.wav
+     4:53.46      51793436     ---   --    ---    ph1995-11-16d2t11.wav
+   138:04.39    1461390252 B                      (totals for 21 files)

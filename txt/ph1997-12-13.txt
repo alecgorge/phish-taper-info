@@ -1,0 +1,50 @@
+Phish
+
+12-13-1997
+Knickerbocker Arena
+Albany, NY
+
+source: Neumann U-89is > Sonosax SX-M2 > SBM-1 > DA-P1 @ 48k
+(I believe this was taped by Dan Estrin)
+
+transfer: DA-30 mk II->Digi002 rack->Pro Tools LE 6.4 
+(fades, resampled at Tweak Head-highest setting)>
+CDwav->FLAC w/ md5summer checksums
+
+transfer by Dave Schall 12/20/05
+
+Disc 1
+Set 1:
+1.  Yamar >
+2.  Yamajr jam >
+3.  Axilla >
+4.  Theme From the Bottom
+5.  Ginseng Sullivan
+6.  Strange Design
+7.  Sample in a Jar
+8.  Vultures
+9.  Tube
+10. Good Times, Bad Times
+
+Disc 2
+Set 2:
+1.  NICU
+2.  Punch You in the Eye 
+3.  Ghost 
+4.  Mike's Song (Bring the Dude Jam) >
+5.  Llama
+6.  When the Circus Comes
+7.  Weekapaug Groove >
+8.  Catapult >
+9.  Weekapaug Groove
+
+Disc 3:
+1.  Harry Hood
+2.  E: My Soul
+3.  Squirming Coil
+
+Show Notes: Ya Mar was much longer than usual and was unfinished. This unusual Mike's Song featured 
+some memorable vocal interplay from the band that included a chant to "Bring the Dude." It also 
+included Foxy Lady quotes from Fishman and a Funky Town tease. During Hood, Trey asked Chris Kuroda 
+to turn off the lights for a Blackout Jam, and the audience responded with a shower of green glow 
+sticks. Catapult was played for the first time since March 2, 1997 (60 shows).

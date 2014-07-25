@@ -1,0 +1,63 @@
+Phish 11/2/2013
+Boardwalk Hall - Atlantic City, NJ
+
+Source: DPA 4022(NOS/DFC/FOB@6')->V2->M10(24/96)->UV22HR(16/44.1)->CDWave->FLAC
+
+Recorded and transferred by Scott Schneider
+
+Disc 1 (70:55):
+1. Wilson >
+2. Rift
+3. Ocelot
+4. Water in the Sky
+5. Sample in a Jar
+6. Funky Bitch
+7. 46 Days
+8. Theme From the Bottom
+9. Yarmouth Road >
+10. Limb By Limb
+
+Disc 2 (51:04):
+1. Mike's Song >
+2. I Am Hydrogen >
+3. Weekapaug Groove
+--Set 2--
+4. Down With Disease >
+5. Piper >
+6. Roggae >
+
+Disc 3 (56:26):
+1. Waves >
+2. Tweezer >
+3. Julius >
+4. Backwards Down the Number Line >
+5. Character Zero
+6. Encore break
+7. (E)Sleeping Monkey >
+8. (E)Tweezer Reprise
+
+ph2013-11-02dpa4022-d1t01.flac:e1bb38697f87a3c98daafa32145a3fd3
+ph2013-11-02dpa4022-d1t02.flac:0299292930d8f8b8be6321cc9ed68262
+ph2013-11-02dpa4022-d1t03.flac:391a6a946c6965277663837e0fe56a24
+ph2013-11-02dpa4022-d1t04.flac:bf4ee83380347a2b5b5e7abc853e0bc6
+ph2013-11-02dpa4022-d1t05.flac:04e1d31ba079e26f21794c65651960eb
+ph2013-11-02dpa4022-d1t06.flac:8453b3931611c4f7c34fac0d8c51a48f
+ph2013-11-02dpa4022-d1t07.flac:0a2a316b8d89f828bafcb4a7c52d1d35
+ph2013-11-02dpa4022-d1t08.flac:796002ce401e3ea17ba60af3b3c21ba4
+ph2013-11-02dpa4022-d1t09.flac:97f3e3e812cfe5e4525ad7ad93ee0408
+ph2013-11-02dpa4022-d1t10.flac:db33377d290df694fbf27ac84ad09631
+ph2013-11-02dpa4022-d2t01.flac:715a2c76f3279112b56fef400821a6cd
+ph2013-11-02dpa4022-d2t02.flac:1cda65130c7c6046ed78822c63b3b528
+ph2013-11-02dpa4022-d2t03.flac:5991c7e5b3aec3df3fba1fd87bd44764
+ph2013-11-02dpa4022-d2t04.flac:836388cd222050c6b4e427a7253f7156
+ph2013-11-02dpa4022-d2t05.flac:f99e23c4b7d82a61b0cada013086062a
+ph2013-11-02dpa4022-d2t06.flac:25b1f5dd3dd680f36bdc820e8deba652
+ph2013-11-02dpa4022-d3t01.flac:70322b0267947ca6220b201bfa299ec6
+ph2013-11-02dpa4022-d3t02.flac:e556105341c757bbebafb18f50ad1b36
+ph2013-11-02dpa4022-d3t03.flac:4a35b1f21fb78dd42edaabc26a35cc0f
+ph2013-11-02dpa4022-d3t04.flac:6b718cbf34e97d66a6c3a31f31032cc6
+ph2013-11-02dpa4022-d3t05.flac:500fe6b66f40af1fded21ac5367aa3eb
+ph2013-11-02dpa4022-d3t06.flac:f387005bf27d14c3685b07be70e24420
+ph2013-11-02dpa4022-d3t07.flac:73ada10e1014e31c782940ead98619d4
+ph2013-11-02dpa4022-d3t08.flac:f01fdab3b00cc2884149b807dda16c4d
+  

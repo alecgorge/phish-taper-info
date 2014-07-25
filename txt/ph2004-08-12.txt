@@ -1,0 +1,40 @@
+Phish
+08/12/04
+The Tweeter Center
+Camden, NJ
+
+24-Bit, 48kHz
+
+Source: ak43>lc3ka>km100>V3>PDAudioCF>VaioU3 (24/48)
+
+Mic Config.: ORTF@6'
+
+SF6.0(fades, patch)> CDWave> FlacFrontend
+
+Taped/ Transfered by: Dr.FOB
+
+SetI:
+1. Audience
+2. Wilson
+3. YEM ->
+4. Ghost >
+5. Maze -> Catapult -> Maze
+6. The Moma Dance
+7. Horn
+8. Pebbles and Marbles
+
+SetII:
+1. Piper ->
+2. Sneakin' Sally
+3. Cavern ->
+4. Limb By Limb
+5. Julius 
+6. Rock & Roll
+7. Scents and Subtle Sounds
+
+Encore
+8. Lawn Boy
+9. Frankenstien
+10. Trey Announcement
+
+Lappy hangup required patch in II01 from FOB CMCXY4V (resampled & bit expanded)

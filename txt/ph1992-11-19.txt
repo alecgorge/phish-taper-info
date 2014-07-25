@@ -1,0 +1,73 @@
+Phish - 11/19/1992
+Ross Sports Center - Colchester, VT
+
+	Set I
+		01	Maze
+		02	Fee >
+		03	Foam
+		04	Glide
+		05	Split Open and Melt
+		06	Mound
+		07	Divided Sky
+		08	Esther
+		09	Axilla
+		10	The Horse > %
+		11	% Silent in the Morning
+
+		01	Run Like An Antelope
+
+	Set II
+		02	Mike's Song ->
+		03	I Am Hydrogen ->
+		04	Weekapaug Groove
+
+		01	Bouncin' Around the Room
+		02	It's Ice
+		03	I Walk The Line
+		04	Tweezer -> BBFCFM > Tweezer > Big Ball Jam
+		05	Poor Heart ^
+		06	Fast Enough For You ^
+		07	Llama ^
+		08	HYHU > Lengthwise -> HYHU
+		09	Cavern
+
+	Encore
+		10	Bold As Love
+
+
+	% Cut/Tape Flip
+	^ w/ Gordon Stone on pedal steel guitar
+
+Source:	SBD > C1 > Dat	
+Xfer:	Archive Python->vDat->WaveLab4->CDWave->Flac
+
+This is a new transfer of http://db.etree.org/shninfo_detail.php?shnid=27589
+
+48khz flacs of the source DAT are archived. Let me know if you'd like them.
+- rusty@ontheflyrecording.com
+
+ph1992-11-19d1t02.flac:31a04b7fe401e923d0337ea091f75517
+ph1992-11-19d1t01.flac:f9ccdfac156e2f5a0ae345a60e5750eb
+ph1992-11-19d1t03.flac:85a273319ee31ff7a44699e49fef3374
+ph1992-11-19d1t04.flac:2a69644a116baa66dcece951ccf5afa8
+ph1992-11-19d1t05.flac:a405e443cce342f62ec398a6a114d6aa
+ph1992-11-19d1t06.flac:2975875c63651eeaf429dec9e78535f4
+ph1992-11-19d1t07.flac:07afa5597db946305a11d4ee825d4b42
+ph1992-11-19d1t08.flac:859884c2e3c972e7cdb6b33d32c51e91
+ph1992-11-19d1t09.flac:39d2e545e2241d7e8a700f23d2a27ffc
+ph1992-11-19d1t10.flac:00940bbe821e62f9217eb72fa2759d0a
+ph1992-11-19d1t11.flac:c4fcfa1ef45a4cb18313321225dfaaf2
+ph1992-11-19d2t01.flac:38f7c778839bbf9760edbb6497acf363
+ph1992-11-19d2t02.flac:a71d476a3cb4e4d40fd3ff7831ca21e0
+ph1992-11-19d2t03.flac:797976c41850f42444242b823d61aff4
+ph1992-11-19d2t04.flac:2d5a440d2c5792c95949a9ab8f995c61
+ph1992-11-19d3t01.flac:0b9f4271d62791a7d48f0c0cd6e6cac1
+ph1992-11-19d3t02.flac:c4e923df81368812cdd5f04641979630
+ph1992-11-19d3t03.flac:15ddfa3f57134dca2e3ea5655f6fdc10
+ph1992-11-19d3t04.flac:3978841ce2afed8c5cc0df3d33b8941a
+ph1992-11-19d3t05.flac:4409cbcfca0bc1050684b53c6fd5fd47
+ph1992-11-19d3t06.flac:175ed735116a6c7b049502c5f7e26f78
+ph1992-11-19d3t07.flac:5209c43f03dadb324d8ec0b6b64fe236
+ph1992-11-19d3t08.flac:f5a4ca6c52f5fc5f3e780f3a10b13393
+ph1992-11-19d3t09.flac:6a48f405c2e49639d362ad5038dea31d
+ph1992-11-19d3t10.flac:2eddfc932878dfbad04f6c697e8b56f1

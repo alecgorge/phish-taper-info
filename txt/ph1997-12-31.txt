@@ -1,0 +1,77 @@
+Phish 12/31/97 - Madison Square Garden, NY, NY
+
+Schoeps CMC641 (90 deg. NOS) > Sonosax SX-M2 > Tascam DA-P1 @ 44.1kHz
+Front row/center OTS, by Craig Hillwig
+
+DAT Master; Sony PCM-2600 > Audioquest coax > Turtlebeach Fiji > 
+Soundforge 4.5 > mkwAct 0.97b (seek tables appended); cue sheets
+by CDWave by Craig Hillwig
+
+No DAE.  Fades added to beginning and end of each set.
+
+Cue sheet applied, show named, and md5sums created by George Lanum <glanum@longwood.lwc.edu>
+
+___________________________________________________________________________
+
+*Dankseed Certification received 2002-03-13*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph1997-12-31
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________
+
+
+Disc 1
+Set 1 
+1. Emotional Rescue 
+2. Ya Mar* 
+3. My Sweet One 
+4. Beauty of My Dreams 
+5. Wolfman's Brother 
+6. Limb By Limb 
+7. The Horse-> 
+8. Silent in the Morning 
+9. The Sloth 
+10. Fire 
+
+Disc 2
+Set 2 
+1. Timber (Jerry) 
+2. Mike's Song >
+3. Piper-> 
+4. When the Circus Comes-> 
+5. Roses Are Free > 
+6. Weekapaug Groove 
+
+Disc 3
+Set 3 
+1. Also Sprach Zarathustra#-> 
+2. Auld Lang Syne >
+3. Tweezer-> 
+4. Maze^-> 
+5. Prince Caspian 
+6. Loving Cup 
+
+Encore: 
+
+7. New York New York$-> 
+8. Tweezer Reprise 
+
+There was a strange white canvas ball hanging from the ceiling, 
+on which various images were projected during the show. 
+*With "Auld Lang Syne" tease(s). 
+#During the song, fried eggs, udder balls, and olive loaves were 
+projected on the canvas (in reference/relating to last night's narration). 
+This was followed by the countdown and a balloon drop at midnight. 
+The balloons broke both Page's and Mike's mics. 
+^With a "Birdland" (Weather Report) tease. 
+$Page sang this Frank Sinatra cover (first time played).
+

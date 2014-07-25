@@ -1,0 +1,54 @@
+Phish
+05-17-94
+Arlington Theater, Santa Barbara, CA 
+--------------------------------------------------------------------------------------------
+This show is included in the 1994 Phish Project.
+http://94project.webhop.net
+----------------
+
+Source:         [DAUD]
+                AKG 461 > DAT
+
+Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                Soundforge 7a (48KHz->44.1KHz at highest setting [4 of 4],
+                with anti-alias filter)-> CD Wave 1.93-> mkwACT v0.97
+                **No DAE**
+
+Minor Edits:	Fades (in/out at beginning/end of sets and encore)
+--------------------------------------------------------------------------------------------
+
+CD/Set 1:				62:34
+01. Suzy Greenberg			05:29
+02. Maze				11:39
+03. Mound				06:01
+04. If I Could >			06:10
+05. Scent of a Mule			08:50
+06. Ginseng Sullivan*			04:16
+07. Dog Faced Boy*			02:44
+08. Split Open and Melt			10:22
+09. The Squirming Coil**		07:03
+
+CD/Set 2:				64:55
+01. Runaway Jim				08:33
+02. Glide >				05:25
+03. Tweezer-> Earache My Eye > Tweezer> 11:20
+04. Lifeboy				08:36
+05. Uncle Pen				04:00
+06. Big Ball Jam >			02:30
+07. Sample in a Jar			04:55
+08. HYHU-> Love You-> HYHU		06:50
+09. Slave to the Traffic Light		08:48
+
+Encore:
+10. Highway to Hell			03:58
+
+TOTAL RUNNING TIME:			2:07:29
+--------------------------------------------------------------------------------------------
+*Acoustic and without mics.
+**Trey brings Page a birthday cake one minute into the piano solo.
+--------------------------------------------------------------------------------------------
+NOTES: Normalized the crowd noise in the acoustic songs.
+----------------
+DAT provided by: Aldo Torre
+Transferred by: Dan Marquardt
+--------------------------------------------------------------------------------------------

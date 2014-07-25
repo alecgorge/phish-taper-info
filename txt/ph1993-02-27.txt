@@ -1,0 +1,52 @@
+Phish - 2/27/93
+Florida Theater - Gainesville, FL
+
+	Set I
+	 (disk 1)
+		01	Intro
+		02	Golgi Apparatus
+		03	Rift
+		04	Guelah Papyrus
+		05	Maze
+		06	Bouncin' Around the Room
+		07	It's Ice
+		08	Sparkle
+		09	Punch You In the Eye ^ 
+		10	Lawn Boy
+		11	Run Like an Antelope
+
+	Set II
+	 (disk 2)
+		01	Intro
+		02	The Curtain
+		03	Stash
+		04	Poor Heart
+		05	Sample in a Jar
+		06	Big Ball Jam
+		07	Yamar
+		08	Mike's Song ->
+		09	I am Hyrdogen ->
+		10	Weekapaug Groove
+		11	HYHU -> Terrapin -> HYHU
+		12	Fee
+		13	Llama
+
+	Encore
+		14	Sleeping Monkey
+                15	Amazing Grace (48khz-Schoeps)
+                16	Rocky Top (48khz-Schoeps)
+
+
+Notes:
+	Amazing Grace and Rocky Top were also played during the encore and were not on this tape.
+
+	^ Analog tape flip done at the end of PYITE, although no music is missing
+
+	There was digi-noise in both Sparkle and Sample present on my DAT.  In Sparkle I was able to copy the right channel over the digi-noise in the left channel.  Sample was quite a bit more nasty.  Through a combination of channel copying individual samples, WaveLab's pencil tool and a few sample deletions I was able to get the track into it's present form.  It's still not perfect (you can expect some problems from about 2:57 to 3:10), but it's a pretty good improvement and much more listenable especially in comparison to the original.  If you're curious how the track was before I worked on it, check out http://www.ontheflyrecording.com/samples/ph1993-02-2d2t05.mp3
+
+
+Source:	DSBD > C1 > DAT
+Xfer:	d100 > zoltrix > WaveLab4 > CDWave > Flac/CDR
+
+Transferred and seeded by Rusty Gray (rusty@ontheflyrecording.com)
+

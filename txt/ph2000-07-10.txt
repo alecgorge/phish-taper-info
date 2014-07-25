@@ -1,0 +1,52 @@
+Phish
+Deer Creek
+7-10-00 & soundcheck
+
+Source:SBD/AUD Matrix>DAT(@48Khz)>HD>CD>EAC>Edit>FLAC16
+EAC done using PLextor PXW2410A in secure mode, offset corrected. 
+All extraction done with 100% track quality.
+Patch source: OTS Schoeps CMC6/mk41 (Split 20') > Apogee AD-1000 > DA-P1 > D8
+Patch Conversion: D8 > CMI8738 SPDIF (44.1k) > WAV > CDWAV > SHN (no DAE)
+
+POST-CONVERSION EDITING
+SHN > WAV > Soundforge 8.0 Graphic Equalizer > WAV > FLAC level 8 (Mike Kerfeld, kerph32@yahoo.com)
+
+Edit: Jibboo starts 04:25 into the song on the SBD version. The patch source
+was added and cross-faded using Vegas 3.0. Cross-fade occurs from 04:25-04:35.
+
+Soudcheck:
+01 Ginseng Sullivan
+02 My Soul
+03 Too Much Of Everything
+
+Disc 1
+Set 1
+01. Cars Trucks Buses-> 
+02. Wilson-> 
+03. It's Ice >
+04. Bathtub Gin 
+05. Buffalo Bill* 
+06. My Mind's Got A Mind Of It's Own
+07. Split Open And Melt 
+08. Sparkle->
+09. Funky Bitch 
+10. David Bowie 
+
+Disc 2 
+Set 2
+01. Gotta Jibboo** > 
+02. Sand*** 
+03. Twist# 
+04. Fee-> 
+05. What's The Use 
+06. Limb By Limb > 
+07. Loving Cup 
+
+Disc 3
+Encore:
+01. Run Like An Antelope 
+
+* - Marshmallow War
+** - Glowstick War
+*** - Trey on Keys
+# - Original Arrangment

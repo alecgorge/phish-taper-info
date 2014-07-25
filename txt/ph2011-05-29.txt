@@ -1,0 +1,46 @@
+Phish
+05/29/2011
+Bethel, New York  Bethel Woods Center for the Arts
+
+Source: Schoeps mk4v> KC5> M222> NT222> Aeta PSP-3> SD 744t (@24bit/96kHz)
+Location: Section 100, Row H, Seat 16, DFC, ORTF, 7' Stand
+
+Transfer: SD 744t> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (05/30/2011)
+
+
+Set I
+t01 [01:04] Intro
+t02 [06:56] AC/DC Bag
+t03 [05:00] Sample in a Jar
+t04 [06:44] Rift
+t05 [09:20] Ocelot
+t06 [07:31] Ya Mar
+t07 [06:46] Timber>
+t08 [01:45] The Oh Kee Pa Ceremony>
+t09 [06:23] Suzy Greenberg>
+t10 [08:07] 46 Days>
+t11 [07:57] Twenty Years Later
+t12 [04:55] The Ballad of Curtis Loew
+t13 [10:17] Run Like an Antelope
+
+Set II
+t14 [09:38] Mike's Song>
+t15 [10:58] Simple>
+t16 [05:10] Weekapaug Groove
+t17 [06:47] Meatstick>
+t18 [14:31] Fluffhead>
+t19 [05:39] Joy
+t20 [07:16] Also Sprach Zarathustra>
+t21 [09:27] Light>
+t22 [10:59] Slave to the Traffic Light
+t23 [02:22] crowd
+
+Encore
+t24 [05:25] Loving Cup>
+t25 [03:56] Tweezer Reprise
+
+
+Notes:
+Thanks to Jason Lonchar for the Schoeps tubes
+Set I [1:22:53] Set II [1:22:53] Encore [9:21]

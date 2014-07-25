@@ -1,0 +1,64 @@
+Phish - 11/20/1992
+Palace Theater - Albany, NY
+
+	Set I
+		01	Axilla
+		02	All Things Reconsidered
+		03	Suzy Greenberg >
+		04	Rift
+		05	The Sloth
+		06	Reba
+		07	Sparkle
+		08	Stash
+		09	Lizards
+			(Memories missing)
+		10	I Walk The Line
+		11	David Bowie
+	
+	Set II
+		01	Chalk Dust Torture
+		02	Fluffhead
+		03	Tube
+		04	You Enjoy Myself
+
+		01	Fast Enough For You
+		02	Dinner and a Movie >
+		03	Harry Hood
+		04	Terrapin -> Lengthwise
+		05	Self *
+
+Notes:
+	Memories during the first set was not on the tape.
+	The encore was also not on the tape.
+	
+	* w/ the Dude of Life
+	
+Source:	sbd>c1>DAT
+Xfer:	ARCHIVE Python>vDAT>CDWave>Flac
+
+This is a re-transfer of the same tape used for http://db.etree.org/shninfo_detail.php?shnid=26752
+
+Transfer and tracking was done on 11/29/2005.
+Tags were added with Foobar2K on 2/23/2007.
+- rusty@ontheflyrecording.com
+
+ph1992-11-20d3t01.flac:6e025495cefc36720597ee75f1f03a2d
+ph1992-11-20d1t02.flac:ebeeda2fa40eca9fac6b4f3826883a47
+ph1992-11-20d1t03.flac:8fd421af6df5b0f94a027f720fb36875
+ph1992-11-20d1t04.flac:4daf82667ba4f5cb68585a2fe8ad506c
+ph1992-11-20d1t05.flac:5acd88f458f62f5ec8227879166f6d89
+ph1992-11-20d1t06.flac:96bed3be6ca7bb393de5cd1272374cae
+ph1992-11-20d1t07.flac:60f63ab2878afda30b1e88692a514f78
+ph1992-11-20d1t08.flac:8d0550b909a2a7a36879c174743ad432
+ph1992-11-20d1t09.flac:c9b07f7c076660f1ad0febb8412ff999
+ph1992-11-20d1t10.flac:e614e39a4d8432bee0108e0961ae7c9c
+ph1992-11-20d1t11.flac:11e97948fc43353f7c923daf955efa83
+ph1992-11-20d2t01.flac:d8b6cca6eb77dab79ec5e4fa0c2b912c
+ph1992-11-20d2t02.flac:0975c4697bd54e4661b5ee4632f7b0bf
+ph1992-11-20d2t03.flac:5d01ba391514563bcc7b2a04c6d31d61
+ph1992-11-20d2t04.flac:431d512b681d1cdc6f87e7aa3bb77c6a
+ph1992-11-20d1t01.flac:4476cf9e0c050e8769279c0443cddae8
+ph1992-11-20d3t02.flac:bdd02a35a3db77be3deb2610b24cd839
+ph1992-11-20d3t03.flac:1cf55aaddba0a1541cd8e523f932fe16
+ph1992-11-20d3t04.flac:420ab1fd43507c6b3de26dc0c7e5b638
+ph1992-11-20d3t05.flac:16dfd5b272ca595568c79dde77ef7d28

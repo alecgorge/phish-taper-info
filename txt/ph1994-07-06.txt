@@ -1,0 +1,55 @@
+Phish 
+7-6-94 : Theatre St-Denis - Montreal, QC. Canada
+
+Show fits on 2 80min discs.
+
+SET I
+Source: Sennheiser 442>Marantz PMD430 Tape Deck>Cass 1>Sony WA9ES Tape Deck>Tascam DA302
+Transfer: Tascam DA302>MAudio Dio 24/48>CDWave>SoundForge (editing)>SHN
+
+Taped by Pierre Perault
+Analog>Dat/Dat>SHN by Blane Harvey
+
+Fixed:
+Patch at 14:14 of Reba (tape was flipped right after the music stopped). Patched ~20 seconds
+of crowd noise from the shoddy mp3 source that has circulated lightly for this set, just to
+maintain the flow of the song.
+
+Known Flaws:
+Level adjustments and mic attenuator switch before Carolina on master analog tape.  I didn't
+make any changes to these adjustments on the SHN file. 
+
+01. Intro
+02. Llama
+03. Fluffhead
+04. Julius
+05. Bouncing Around the Room
+06. Reba
+07. Axilla II
+08. My Mind's Got a Mind of Its Own
+09. Carolina
+10. David Bowie
+
+SET II
+
+Source: AKG 460/CK61> Custom Pre-amp> Teac DAP20
+Transfer: DAT>CDR>EAC>SHN
+SHNed by Phil Joubert
+
+01. The Landlady > 
+02. Poor Heart 
+03. Tweezer > 
+04. Lawn Boy 
+05. Chalkdust Torture > 
+06. Big Black Furry Creature From Mars >
+07. Sample in a Jar > 
+08. Big Black Furry Creature From Mars
+09. Harry Hood
+10. Tweezer Reprise
+ Enc: 
+11.The Old Home Place* 
+12.Nellie Cane*
+13.Memories*
+14.Funky Bitch 
+
+ * Acoustic and without mics.

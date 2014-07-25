@@ -1,0 +1,47 @@
+PHiSH
+7/7/12
+Saratoga Performing Arts Center
+Saratoga Springs NY
+
+
+Field: Sennheiser MD441U > Edirol R4Pro ( Oade preamp mod ) @ 24/88.2
+config: pointed at PA array, OTS centered, 12.5 feet high.
+
+Path: R4Pro > WaveBurner ( track on sector boundaries, fades, SRC, BDC ) > xACT ( to flac, and for tagging and checksums )
+
+Recorded, processed and let loose by Mike Kutik ( padelimike at mac d0t c0m )
+At bt.etree.org 2012-07-08
+
+Set the First
+01. crowd in
+02. Grind
+03. Possum >
+04. Golgi Apparatus
+05. Moma Dance
+06. Torn and Frayed
+07. Rift
+08. Cities >
+09. Maze
+10. Lawn Boy
+11. Peaches En Regalia >
+12. Bathtub Gin
+13. Good Times, Bad Times
+
+Set the Second
+01. crowd in
+02. Down With Disease >
+03. Blister In The Sun >
+04. Down With Disease >
+05. Boogie On Reggae Woman >
+06. Golden Age >
+07. Also Sprach Zarathustra >
+08. Backwards Down The Numberline >
+09. Prince Caspian >
+10. Scent of a Mule >
+11. Blister in the Sun >
+12. Scent of a Mule >
+13. Mike's Song >
+14. Contact >
+15. Weekapaug Groove
+16. encore break
+17. Sabotage 

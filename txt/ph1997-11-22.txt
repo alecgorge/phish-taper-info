@@ -1,0 +1,67 @@
+Phish
+November 21, 1997
+Hampton Coliseum
+Hampton, VA
+
+source:
+(FOB) Schoeps mk4 > kc5 > cmc5 > Sonosax SX-M2 > Sony D3 (@ 48 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > WaveLab 5.01b (fades) > r8brain v1.9 (resample to 44.1 kHz) > CD Wave v1.96.1 > FLAC v1.2.1 (Level 8)
+
+FLAC tags added with metaflac v1.2.1
+
+recorded by Dan, Boris, and Brian
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded January 27, 2008
+
+notes:
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+Big thanks to Eliot Byron for letting me borrow his DATs!
+
+Disc 1 - [74:41]
+Set I
+01 - [16:33] - Mike's Song ->
+02 - [04:34] - I Am Hydrogen >
+03 - [14:56] - Weekapaug Groove
+04 - [18:02] - Harry Hood
+05 - [03:08] - Train Song
+06 - [07:03] - Billy Breathes
+07 - [04:48] - Frankenstein
+08 - [05:36] - Izabella
+
+Disc 2 - [75:02]
+Set II
+01 - [01:51] - intro
+02 - [24:17] - Halley's Comet 
+03 - [11:40] - Tweezer ->
+04 - [06:58] - Black-Eyed Katy 
+05 - [07:53] - Piper
+06 - [12:34] - Run Like An Antelope
+07 - [02:13] - encore break
+08 - [03:50] - Bouncing Around the Room
+09 - [03:46] - Tweezer Reprise
+
+---------------------------------------------------------------------------------
+
+SHNtool output:
+
+    length     expanded size   cdr  WAVE problems filename
+    16:32.70      175153484    ---   --   ---xx   ph1997-11-22d1t01.flac
+     4:34.30       48404204    ---   --   ---xx   ph1997-11-22d1t02.flac
+    14:56.28      158120300    ---   --   ---xx   ph1997-11-22d1t03.flac
+    18:01.56      190820156    ---   --   ---xx   ph1997-11-22d1t04.flac
+     3:08.35       33245564    ---   --   ---xx   ph1997-11-22d1t05.flac
+     7:02.61       74584316    ---   --   ---xx   ph1997-11-22d1t06.flac
+     4:48.16       50840876    ---   --   ---xx   ph1997-11-22d1t07.flac
+     5:36.04       59279852    ---   --   ---xx   ph1997-11-22d1t08.flac
+     1:50.49       19519292    ---   --   ---xx   ph1997-11-22d2t01.flac
+    24:16.41      256934876    ---   --   ---xx   ph1997-11-22d2t02.flac
+    11:39.46      123411836    ---   --   ---xx   ph1997-11-22d2t03.flac
+     6:58.24       73791692    ---   --   ---xx   ph1997-11-22d2t04.flac
+     7:53.08       83456060    ---   --   ---xx   ph1997-11-22d2t05.flac
+    12:34.33      133083260    ---   --   ---xx   ph1997-11-22d2t06.flac
+     2:12.71       23451836    ---   --   ---xx   ph1997-11-22d2t07.flac
+     3:50.28       40637900    ---   --   ---xx   ph1997-11-22d2t08.flac
+     3:46.00       39866444    ---   --   ---xx   ph1997-11-22d2t09.flac
+   149:43.00     1584601948 B                     (totals for 17 files, 0.5117 overall compression ratio)

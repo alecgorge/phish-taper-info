@@ -1,0 +1,46 @@
+Phish
+05-05-89
+'Hamilton SpringFest'
+Sigma Phi Fraternity, Hamilton University - Clinton, NY
+
+Source: SBD > Cass/2 > DAT
+Transfer: Sony D7 > Zoltrix > SF4.5c > CDWav > shntool > FLAC
+
+Transferred by Ben Mohr (benjamin.mohr@ce.gatech.edu)
+
+--------------------------------------------------
+ Disc 1:                                  (48:18)
+--------------------------------------------------
+1. intro ("Fish taking a hit")            (00:27)
+2. Golgi Apparatus                        (05:21)
+3. You Enjoy Myself                       (15:52)
+4. Ya Mar                                 (03:55)
+5. Fluffhead                              (13:36)
+6. Alumni Blues > LTJP > Alumni Blues     (05:12)
+7. Donna Lee                              (03:55)
+
+--------------------------------------------------
+ Disc 2:                                  (39:02)
+--------------------------------------------------
+1. Fee                                    (04:37)
+2. Run Like an Antelope                   (08:43)
+3. I Didn't Know*                         (04:42)
+4. Take the A-Train                       (06:26)
+5. Good Times Bad Times                   (04:53)
+6. McGrupp and the Watchful Hosemasters** (09:41)
+
+* with vacuum solo
+** with Fish on trombone
+
+Notes:
+- Cuts exist between each song, except between d1t02/t03, d1t05/t06, d2t01/t02 (all track breaks now fall over cuts). Thus, the order of the songs may be wrong and the setlist may be incomplete.  
+- Tape flips/cuts: d1t04 03:08, d1t06 4:16, d2t01 1:43, d2t05 3:10 
+- The cuts between songs and the 4 tape flips over 90 minutes lead to the possibility that this is a mix of several shows from this period.  However, there is no difference in the spectrum analyses of the separate tracks and this is the setlist as listed in the Phish Companion.  
+- The Phish Companion lists this show as a two set show. However, Set 2 (I Didn't Know > McGrupp) is only 25 minutes, making it unlikely to be a complete set. It seems more logical, baring a incomplete Set 2 recording, that this was a one set show for approximately 90 minutes.
+-This recording is mono (versus stereo); hence, definitely a SBD
+
+Fixes:
+- Normalized show to 98.0%
+- Replaced non-existant L channel with R channel d1t02 0:00.000-2:20.957
+- Replaced L channel static with R channel d1t02 02:21.229-02:21.339 (0.110s)
+- Replaced R channel diginoise with R channel d1t03 02:56.245-2:56.300 (0.054s)

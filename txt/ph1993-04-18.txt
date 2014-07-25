@@ -1,0 +1,71 @@
+PHiSH
+04-18-93 
+Michigan Theater - Ann Arbor, MI 
+
+Source: SBD > Cass/0 > DAT
+Transfer: Tascam da20 mkII > ZA2 > SF 4.5 > CDWav > SHN
+
+Transferred by Jimmy Sellers (pjimmy@delanet.com)
+Seeded by Ben Mohr (bmohr@udel.edu)
+
+---------------------------------
+ Disc 1:                 (69:32)
+---------------------------------
+-Set 1-
+1) Rift			 (6:00)
+2) Guelah Papyrus	 (5:24)
+3) Split Open and Melt	 (8:59)
+4) Sparkle		 (3:52)
+5) The Divided Sky	 (13:24)
+6) Fee -> 		 (5:04)
+7) Maze			 (9:11)
+8) Horn 		 (3:15)
+9) I Didn't Know*	 (9:53)
+10) Cavern 		 (4:30)
+
+-----------------------------------
+ Disc 2 (80-min):	   (76:55)
+-----------------------------------
+-Set 2-
+1) Poor Heart >		   (2:26)
+2) Tweezer		   (11:53)
+3) The Horse ->		   (3:24)
+4) Silent in the Morning   (5:06)
+5) Possum		   (10:59)
+6) Mound		   (5:47)
+7) Big Ball Jam		   (3:31)
+8) Mike's Song ->	   (8:14)
+9) Ya Mar		   (6:50)
+10) Walk Away		   (4:00)
+11) HYHU-> Love You-> HYHU (9:16)
+12) Tweezer Reprise 	   (2:53)
+-Encore-
+13) Amazing Grace (Schoeps MK21/CMC5)
+14) Rocky Top 		   (2:36)
+
+*Instead of the usual vac or trombone solo, Page leads an inquiry into the 
+ previous night's encore ("BBFCFM") for about five minutes.  He calls up a 
+ few people to tell what they thought about it, and then asks Mike and Trey to 
+ figure out what went wrong.  Then they finish "I Didn't Know". 
+
+
+Show Notes: During the section of I Didn't Know where Fishman usually does some 
+sort of solo, Page asked everyone who had been there the night before how they 
+liked the encore. Trey and Mike put their microphones in the same position as 
+they were for BBFCFM, and Page brought people on stage to give testimonials about 
+how they felt about it. Special guests included Brad Sands and Chris Kuroda. 
+Trey admitted his guilt in the mishap and the song continued. Horse included an 
+extended intro section. Mike's song included a melodic Low Rider jam before 
+segueing into Ya Mar.
+
+
+Notes:
+-Amazing Grace is not included since it was done without mics. Therefore, no 
+ sound was coming through the soundboard and thus, only dead air was recorded.
+-Tape Flips (2-100 min cass masters):
+  1) very beginning of d1t8 (51:54)
+  2) d2t9 0:21 (51:41)
+
+Fixes:
+-Normalized each set to 98% in Soundforge 4.5.
+-Removed skips in d2t9 at 2:00 (2.1 sec) and 2:34 (0.4 sec)

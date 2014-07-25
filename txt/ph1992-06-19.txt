@@ -1,0 +1,23 @@
+Phish 6/19/92
+opened for Lou Reed and The Violent Femmes
+Stadtpark/Freilichtbuhn - Hamburg, Germany
+
+sbd > cass/x > cd
+cd > EAC(secure) > Sound Forge 7.0 > Flac16
+BBE enhancement and X-noise hiss reduction in SF7.0
+-no other edits performed-
+
+cd > Flac16 by car
+thanks to Wayne for the discs
+
+
+01 The Landlady
+02 Suzy Greenberg
+03 Stash
+04 The Squirming Coil
+05 Sparkle
+06 Cavern
+07 You Enjoy Myself
+
+note:
+First Phish show in Europe

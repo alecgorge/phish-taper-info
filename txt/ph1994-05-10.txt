@@ -1,0 +1,81 @@
+Phish
+May 10, 1994
+Paolo Soleri Amphitheater
+Santa Fe, NM
+
+source:
+unknown audience recording > cassette/x (Maxell XLII-S tapes)
+
+transfer:
+Nakamichi 600 > Apogee Mini-Me (S/PDIF output) > Edirol R-44 (@24bit/48kHz) > SDHC card > usb 2.0 > pc > Samplitude SE v9.1.1 (fades, level adjustments, track splits, resample to 44.1 kHz, dither to 16 bit) > FLAC v1.2.1 (Level 8)
+
+transferred by Rob Adler & Jason Sobel (jasonsobel@gmail.com)
+seeded April 14, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+Big thanks to Andrew Schultz for sending me his cassette tapes!
+The original 24 bit / 48 kHz files from the cassette transfer have been archived and are available upon request
+Each channel was normalized independently for each set (based on peak level in that channel).
+All cassette flips were cross-faded, Cassette tape flips between:
+"It's Ice" / "Split Open and Melt"
+"Wilson" / Reba"
+"Harry Hood" / "Dog Faced Boy"
+There was a drop-out during "Axilla (Part II)" on the cassettes used in the transfer.
+This drop-out is from [02:52] to [02:54], and was let as-is.
+
+Disc 1 - [68:11]
+Set I
+01 - [02:14] - Buried Alive >
+02 - [02:24] - Poor Heart
+03 - [04:52] - Sample in a Jar
+04 - [13:59] - The Divided Sky
+05 - [03:03] - Axilla (Part II)
+06 - [08:54] - It's Ice
+07 - [12:28] - Split Open and Melt
+08 - [05:31] - If I Could
+09 - [03:54] - Cavern
+Set II
+10 - [10:50] - Maze
+
+Disc 2 - [76:06]
+Set II continued
+01 - [05:12] - Wilson
+02 - [13:42] - Reba
+03 - [06:58] - Julius
+04 - [07:15] - Scent of a Mule
+05 - [13:22] - Harry Hood
+06 - [00:42] - talking
+07 - [02:39] - Dog Faced Boy *
+08 - [03:43] - Nellie Kane *
+09 - [11:38] - David Bowie
+(encore)
+10 - [10:56] - The Squirming Coil
+
+* performed acoustic
+________________________________________________________________
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     2:13.74          22.54 MB  ---   --   ---xx   flac  0.6349  ph1994-05-10d1t01.flac
+     2:24.37          24.31 MB  ---   --   ---xx   flac  0.6487  ph1994-05-10d1t02.flac
+     4:51.63          49.10 MB  ---   --   ---xx   flac  0.6669  ph1994-05-10d1t03.flac
+    13:58.53         141.09 MB  ---   --   ---xx   flac  0.6622  ph1994-05-10d1t04.flac
+     3:03.23          30.84 MB  ---   --   ---xx   flac  0.6943  ph1994-05-10d1t05.flac
+     8:54.35          89.91 MB  ---   --   ---xx   flac  0.6582  ph1994-05-10d1t06.flac
+    12:28.18         125.88 MB  ---   --   ---xx   flac  0.6717  ph1994-05-10d1t07.flac
+     5:31.15          55.72 MB  ---   --   ---xx   flac  0.6401  ph1994-05-10d1t08.flac
+     3:54.17          39.40 MB  ---   --   ---xx   flac  0.6774  ph1994-05-10d1t09.flac
+    10:50.07         109.36 MB  ---   --   ---xx   flac  0.6489  ph1994-05-10d1t10.flac
+     5:12.07          52.50 MB  ---   --   ---xx   flac  0.6586  ph1994-05-10d2t01.flac
+    13:42.02         138.29 MB  ---   --   ---xx   flac  0.6102  ph1994-05-10d2t02.flac
+     6:57.42          70.25 MB  ---   --   ---xx   flac  0.6406  ph1994-05-10d2t03.flac
+     7:15.22          73.23 MB  ---   --   ---xx   flac  0.6119  ph1994-05-10d2t04.flac
+    13:21.60         134.89 MB  ---   --   ---xx   flac  0.6156  ph1994-05-10d2t05.flac
+     0:42.02           7.07 MB  ---   --   ---xx   flac  0.6119  ph1994-05-10d2t06.flac
+     2:38.66          26.73 MB  ---   --   ---xx   flac  0.6160  ph1994-05-10d2t07.flac
+     3:42.61          37.48 MB  ---   --   ---xx   flac  0.6268  ph1994-05-10d2t08.flac
+    11:38.24         117.48 MB  ---   --   ---xx   flac  0.6713  ph1994-05-10d2t09.flac
+    10:55.51         110.30 MB  ---   --   ---xx   flac  0.6361  ph1994-05-10d2t10.flac
+   144:17.04        1456.36 MB                           0.6453  (20 files)

@@ -1,0 +1,42 @@
+Phish
+November 29, 1996
+Cow Palace
+San Francisco, CA
+
+Source: AKG C 568 EB's (OTS, aimed at the stacks)->Aerco Pre-Amp->MDAT (Sony D-8 record; Sony PCM-R500 for playback)->MCD-R (via coax->Tascam CD-RW700)
+
+Flac conversion info: MCD-R -> Plextor (PX708A) -> EAC -> CDWAVE -> Flac Frontend -> Flac
+ 
+Taped and transferred by Art Newberg & James Bartoli
+Flac'd and Seeded by James O'Brien
+
+Disc 1: (Set 1)
+01. Tuning
+02. Frankenstein
+03. NICU 
+04. Cars Trucks & Buses 
+05. Character Zero 
+06. Divided Sky
+07. Bathtub Gin
+08. Life on Mars
+09. Maze
+10. Suzie Greenberg
+
+
+Disc 2: (Set 2)
+01. tuning
+02. Wilson ->
+03. Simple ->
+04. Sparks ->
+05. Sparkle ->
+06. Taste 
+07. Swept Away -> Steep 
+08. You Enjoy Myself
+
+
+Disc 3: (Set 2 Cont'd)
+1. Waste 
+2. Harry Hood
+
+Encore:
+3. Sample In A Jar

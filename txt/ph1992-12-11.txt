@@ -1,0 +1,54 @@
+PHiSH
+December 11, 1992
+The Michigan Theater - Ann Arbor, MI
+
+Set I Source:  Schoeps cmc5/21 @ 100 deg./XY>D3 DAT
+Center at the SBD
+Recordist: Ian VanHuysen
+Set II Source: Neumann RSM-191-S @ 150 deg./XY>SV255 DAT
+Center at the SBD
+Recordist: Scott Pridgeon
+Transfer: DAT>Protools(gain boost, tracking)>CD>EAC(100% secure extraction)>FLAC
+Transfer, Edit and CD creation by Kevin Shapiro
+EAC>FLAC conversion and seeded by Brian Feller <brianfeller@gmail.com>
+Seeded September, 2004 via bt.etree.org
+
+Source notes: While it is not the norm to seed a show with different mic sources for each set, these were chosen by Kevin as the best sources for this show. Both sets do exist for each source in their entirety on DAT. We hope you enjoy these however as most likely the definitive AUD sources for this show. -Kevin and Brian
+
+Disc 1 - Set 1
+01. Runaway Jim
+02. It's Ice
+03. Uncle Pen
+04. Stash
+05. The Lizards
+06. Chalk Dust Torture
+07. Guelah Papyrus%
+08. Sparkle
+09. My Friend, My Friend
+10. Memories*
+
+Disc 2 - Set 1 Continued
+01. David Bowie#
+Set 2
+02. Dinner And A Movie
+03. Mike's Song>
+04. I Am Hydrogen>**
+05. Weekapaug Groove
+06. Esther
+07. Axilla I
+08. Bouncing Around The Room
+09. Paul And Silas >
+10. Big Ball Jam
+11. FAHT*
+
+Disc 3 - Set 2 Continued
+01. Possum
+Encore:
+02. Contact
+03. Good Times Bad Times
+
+Show notes:
+% During Guelah, Trey thanks the crowd for their support at the last American show of the year. He also thanks Mike and Dana from Greenpeace for their help on the tour and wishes Dana a happy birthday. Guelah also includes Fingerscrape and Simpsons Signals and Trey calls Page "Page 'The Savage' McConnell."
+** begins with the Vibration of Life (referred to by Trey as the "Theme Of Life"), then Trey and Mike lie down on the stage on their backs, heads draped over the edge of the stage, feet up in the air to perform Hydrogen- as seen on page 89 of "The Phish Book"
+# Swing Low (Sweet Chariot) and Davy Crockett teases and an All Fall Down Signal during the intro; first verse lyrics "Dana Marie"in honor of Dana at the Greenpeace table; Moby Dick jam at the end
+* a capella, no mics

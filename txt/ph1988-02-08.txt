@@ -1,0 +1,64 @@
+Phish
+02-08-88
+Nectar's, Burlington, VT
+Set 1 and start of Set 2
+
+
+Set I/IIp Source: SBD (?) > Cass/4
+transfered 11/07 by Jw603 (theinfamousjw@gmail.com)
+Maxell XL-II 90 > Aiwa AD-S750 > M-Audio Delta 44 > CD Wave Editor 1.95.1 >
+Adobe Audition (normalize, fades) > FLAC > tags added with Mp3Tag 2.38
+
+According to db.etree.org, the only circulating source contains the end of set 2 and all of set 3.  My (single) tape was obtained in a mail trade around 1994, and is labled as 4th generation.  Lizards and You Enjoy Myself were swapped, presumably to have all tracks fit on a 90 minute cassette without cuts.  I restored the order according to the HPB.  An unedited flac file has been archived, and is available upon request.
+-----------------------------------------------------------
+Set IIp/III Source: AUD Cass/x (Maxell XLII 90 min)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +16dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)
+Transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 3/14/2004
+Mastering, tracking, and FLAC16 by Marmar- imthemarmar@gmail.com 3/29/2005
+
+
+Disc 1 [50:43]
+01 Slave to the Traffic Light
+02 Funky Bitch
+03 Take the A-Train
+04 Golgi Apparatus
+05 Phase Dance (Pat Metheny cover)
+06 Fire
+07 You Enjoy Myself
+
+Disc 2 [41:29]
+01 set 2 introduction
+02 Fluffhead
+03 Wilson >
+04 Peaches en Regalia
+05 The Divided Sky
+06 Lizards
+
+Set 2:
+01. Antelope
+Set 3:
+02. The Sloth
+03. Flat Fee
+04. Dinner and a Movie
+05. Alumni Blues >Letter to Jimmy Paige > Alumni Blues
+06. Harry Hood
+07. Bike 
+08. Fee
+09. Jesus Just Left Chicago
+10. Big Black Furry Creature From Mars 
+
+
+ph1988-02-08d1t01.flac:690a9ef3eace379d01ed7e565ac92809
+ph1988-02-08d1t02.flac:9b5042c42d15154c83f3315ba81fd46f
+ph1988-02-08d1t03.flac:1336af51bda3fe9742b98f542ba6f6c9
+ph1988-02-08d1t04.flac:2f6b92bc69a42becaabcf2a41f7c0116
+ph1988-02-08d1t05.flac:a5d3d6d1aff93a9fbf6ea55094e6c81d
+ph1988-02-08d1t06.flac:fd11b5eb2c84b65d00a1db2ac501f774
+ph1988-02-08d1t07.flac:a52bb4d52e718ec177e69817d706dd02
+ph1988-02-08d2t01.flac:120bc1dfacfece89311a2c464f2aec94
+ph1988-02-08d2t02.flac:5339303a0d8ac755d55b75cfcbe4235a
+ph1988-02-08d2t03.flac:5ec8a95a3092a8138979eb005bb2e835
+ph1988-02-08d2t04.flac:a6074858d0180217187466662dd0a87d
+ph1988-02-08d2t05.flac:bdd8bce00a6197c40fcfb35c4a74ff20
+ph1988-02-08d2t06.flac:307f3aef7841af0e25c421cf3bfdfa5d

@@ -1,0 +1,66 @@
+Phish
+November 5, 1988
+Hamilton College
+Clinton, NY
+
+
+Source:		Master SBD Cass > Cass/2 > DAT
+
+Conversion:	Archive Python DDS/dat2wav > .wav; no soundcard
+		Soundforge for resampling (*no DAE at all)
+		Louie Rendek <ljr7@po.cwru.edu>
+
+		CDWAV used for tracking by Mike Woellert <dmbnum41@aol.com>
+
+WAV > SHN:	mkwACT > SHN: Mike Woellert <dmbnum41@aol.com>
+
+*********DO NOT CONVERT TO MP3****************
+
+
+Disc One:
+1. Slave to the Traffic Light				- 07:00.50
+2. Time Loves a Hero				- 03:57.00
+3. Fire						- 05:17.31
+4. You Enjoy Myself 				- 15:07.59
+5. Possum					- 06:44.27
+6. Take the A-Train				- 05:22.63
+7. Golgi Apparatus				- 05:00.66
+8. Walk Away 					- 03:51.18
+9. Fluffhead					- 15:15.17
+
+
+Disc Two:
+1. Alumni Blues (LtJP)				- 06:00.26
+2. David Bowie					- 12:34.46 
+-Set II-
+3. Wilson >					- 03:45.08
+4. Peaches en Regalia				- 03:25.38
+5. Bold as Love					- 07:02.49
+6. Lizards						- 10:54.58
+7. AC/DC Bag					- 05:59.59
+8. Fee						- 05:11.05
+
+Disc 3
+1. Mike's Song > 					- 05:23.37
+2. I am Hydrogen > 				- 02:18.35
+3. Weekapaug Groove				- 06:51.49
+4. I Didn't Know					- 04:29.36
+5. Good Times, Bad Times				- 05:38.02
+-Set III-
+6. Set III Intro					- 01:07.24
+7. Icculus					- 05:00.34
+8. Suzy Greenberg					- 05:44.04
+9. Sparks						- 02:36.43
+10. The Divided Sky				- 06:35.74
+
+Notes:
+----------
+*There's what sounds like a dropout during the crowd noise at the end of Alumni Blue
+*Dropout at 9:47 during David Bowie
+*Disc 3 begins begins right w/ Mike's...about a verse of the song was missing. Not on the DAT
+*Divided Sky just ends....DAT may have run out
+
+Also, at the end of some tracks, there are fades out, and fades at the beginning of the next track
+All in all, pretty sweet show in my opinion....a nice old show worth checking out	
+
+*  compiled by Mike Woellert <DMBnum41@aol.com> on October 28, 2001.

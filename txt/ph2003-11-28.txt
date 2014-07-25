@@ -1,0 +1,65 @@
+Phish
+2003-11-28
+Nassau Colliseum - Uniondale, NY
+
+
+Source: [DFC/OTS] Neumann u89i (caridioid/DIN)>Lunatec v3>Sonic AD2k+>RME Multiface>Vaio>WaveLab>wav @24bit/96kHz
+Transfer:  wav>WaveLab>UV22HR (Dither to 16bit/44.1kHz)>wav>CDWave>wav>FLAC
+Taped & Transfered by: Phil Lucks
+
+Set I					82:20
+Disk 1: 
+1:  Bouncing Around the Room		
+2:  Runaway Jim				
+3:  Ghost >				
+4:  What's the Use >			
+5:  AC/DC Bag > First Tube				
+6:  Frankie Says			
+
+Disk 2:
+1:  Bathtub Gin >			
+2:  Free				
+
+Set II					97:35
+3:  Waves >
+4:  Sample in a Jar
+5:  Down With Disease
+6:  Walls of the Cave
+7:  Two Versions of Me
+
+Disk 3:
+1:  Crowd Control (1)
+2:  Mike's Song >
+3:  I am Hydrogen >
+4:  Weekapaug Groove
+5:  crowd
+6:  Encore: Crimes of the Mind(2)
+
+
+Comments:
+1 First time played
+2 with The Dude of Life;not played since 7/10/94
+
+
+
+FLAC Fingerprint
+********************************************************************************************************************
+phish2003-11-28d1t01.flac:4b5b62e159f3aae0ed272c81b4b000ed
+phish2003-11-28d1t02.flac:56408e96aee614260a82336958d00b38
+phish2003-11-28d1t03.flac:7a3f7d5455de1a16c3453e91abe8fd48
+phish2003-11-28d1t04.flac:74cf8b2f4932ed416de4e83c5a6e70e7
+phish2003-11-28d1t05.flac:782463e1da93d1fc5d3ba3c53f5f5bb5
+phish2003-11-28d1t06.flac:f1dc51dbf0cffb4a1ec130c63bbf8f74
+phish2003-11-28d2t01.flac:ecea4b0c324b38ee31159833cb8e33f3
+phish2003-11-28d2t02.flac:e284f47b0e1a6a6080171c3576968165
+phish2003-11-28d2t03.flac:290d99dedab55e96c7b5b389b9ac89ef
+phish2003-11-28d2t04.flac:4c1d60b180e38d4043cab41993ba23b9
+phish2003-11-28d2t05.flac:5fe72c8f2aca0f540e624724682996ce
+phish2003-11-28d2t06.flac:58f8d4e974bfc27ee3f8c5a5b193468c
+phish2003-11-28d2t07.flac:0c96349095113c4e8b96f5fcf82543d4
+phish2003-11-28d3t01.flac:f50b7e6ffed11c517f5d8499c0546e2c
+phish2003-11-28d3t02.flac:6479d8a814eddfb534fab1ec2dbfc699
+phish2003-11-28d3t03.flac:733d447f1a47c4f7e03f7ac1866d6be1
+phish2003-11-28d3t04.flac:d2bcce0a7d0a7811e8b4da8317ddafdb
+phish2003-11-28d3t05.flac:df68f096a7eb902bcb98f22273c43f59
+phish2003-11-28d3t06.flac:dad13b9c498c32923abb2de38473064d

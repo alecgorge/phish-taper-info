@@ -1,0 +1,77 @@
+Phish
+April 2, 1998
+Nassau Coliseum
+Uniondale, NY
+
+source:
+(FOB) Schoeps mk4 > Sonosax SX-M2 > Teac DA-P20 (@ 48 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > Samplitude SE v9.1.1 (fades, de-emphasis, resample to 44.1 kHz) > CD Wave v1.97 (track splits) > FLAC v1.2.1 (Level 8)
+
+recorded by Boris and Brian
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded February 14, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+The original recording was made with pre-emphasis. Samplitude was used to de-emphasize the recording.
+The original 48 kHz files from the DAT transfer have been archived and are available upon request.
+Big thanks to Eliot Byron for letting me borrow his DATs!
+
+Disc 1 - [60:44]
+Set I
+01 - [08:03] - Tube
+02 - [02:39] - My Mind's Got a Mind of its Own
+03 - [03:54] - The Sloth
+04 - [06:24] - NICU
+05 - [19:26] - Stash >
+06 - [03:50] - Horn
+07 - [05:30] - Waste
+08 - [10:59] - Chalk Dust Torture
+
+Disc 2 - [58:16]
+Set II
+01 - [10:45] - Punch You in the Eye
+02 - [10:12] - Simple >
+03 - [09:21] - Birds of a Feather *
+04 - [01:27] - Trey talking
+05 - [08:33] - Wolfman's Brother ->
+06 - [11:21] - Sneakin' Sally Through the Alley ->
+07 - [06:37] - Frankie Says * >
+
+Disc 3 - [41:09]
+Set II continued
+01 - [18:33] - Twist >
+02 - [06:01] - Sleeping Monkey
+03 - [02:39] - Rocky Top
+04 - [03:23] - encore break
+05 - [10:35] - Guyute
+
+* first time played
+_______________________________________________________________________________________
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     8:03.11          81.28 MB  ---   --   ---xx   flac  0.5610  ph1998-04-02d1t01.flac
+     2:39.27          26.81 MB  ---   --   ---xx   flac  0.5449  ph1998-04-02d1t02.flac
+     3:53.71          39.36 MB  ---   --   ---xx   flac  0.5873  ph1998-04-02d1t03.flac
+     6:23.54          64.55 MB  ---   --   ---xx   flac  0.5467  ph1998-04-02d1t04.flac
+    19:25.65         196.13 MB  ---   --   ---xx   flac  0.5454  ph1998-04-02d1t05.flac
+     3:49.41          38.62 MB  ---   --   ---xx   flac  0.5446  ph1998-04-02d1t06.flac
+     5:29.53          55.47 MB  ---   --   ---xx   flac  0.5041  ph1998-04-02d1t07.flac
+    10:58.53         110.81 MB  ---   --   ---xx   flac  0.5879  ph1998-04-02d1t08.flac
+    10:44.49         108.45 MB  ---   --   ---xx   flac  0.5553  ph1998-04-02d2t01.flac
+    10:12.09         102.98 MB  ---   --   ---xx   flac  0.5776  ph1998-04-02d2t02.flac
+     9:20.50          94.32 MB  ---   --   ---xx   flac  0.5536  ph1998-04-02d2t03.flac
+     1:27.37          14.72 MB  ---   --   ---xx   flac  0.4988  ph1998-04-02d2t04.flac
+     8:32.57          86.26 MB  ---   --   ---xx   flac  0.5476  ph1998-04-02d2t05.flac
+    11:20.41         114.49 MB  ---   --   ---xx   flac  0.5427  ph1998-04-02d2t06.flac
+     6:37.20          66.83 MB  ---   --   ---xx   flac  0.5192  ph1998-04-02d2t07.flac
+    18:32.43         187.17 MB  ---   --   ---xx   flac  0.5441  ph1998-04-02d3t01.flac
+     6:00.45          60.66 MB  ---   --   ---xx   flac  0.5134  ph1998-04-02d3t02.flac
+     2:38.49          26.69 MB  ---   --   ---xx   flac  0.5749  ph1998-04-02d3t03.flac
+     3:23.08          34.17 MB  ---   --   ---xx   flac  0.5039  ph1998-04-02d3t04.flac
+    10:34.42         106.75 MB  ---   --   ---xx   flac  0.5337  ph1998-04-02d3t05.flac
+   160:09.00        1616.51 MB                           0.5478  (20 files)

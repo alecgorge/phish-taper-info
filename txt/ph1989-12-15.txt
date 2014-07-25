@@ -1,0 +1,78 @@
+Phish - 
+Ukranian National Home
+New York City, NY
+12/15/89
+
+
+Source: (set1) SBD > Cass/3 > WAV > Audacity 1.2.4 > CDWav (tracking) > FLAC16
+
+Source: (set2) SBD > Cass/? > WAV > Audacity 1.2.4 > CDWAV (tracking) > FLAC16
+
+Transfer By: Taperwayne (taperwayne@yahoo.com)
+
+Thanks to: Greg Ellison and Greg Peeler for unearthing set I !!
+           
+
+Set I - 
+
+01. Take The A-Train
+02. Golgi Apparatus
+03. Mike's Song >
+04. I Am Hydrogen >
+05. Weekapaug Groove
+06. Ya Mar
+07. Oh Kee Pah Ceremony >
+08. AC/DC Bag
+09. //You Enjoy Myself
+10. Good Times Bad Times
+
+
+Set II - 
+
+01. I Didn't Know
+02. Divided Sky
+03. Possum
+04. Lizards (tease) >
+05. Run Like An Antelope
+06. Banter
+07. Funky Bitch *
+08. Jesus Left Chicago *
+09. Contact
+10. David Bowie
+
+* with John Popper on harmonica
+
+Notes: Traded off sets with Blues Traveler.
+       Set II has some minor distortion issues that were on the original tapes, which I didn't
+       make any efforts to correct. They start happening right around when Popper comes
+       up to play harp on Funky Bitch. As you can hear from the banter, Paul did a mic
+       adjustment so Popper could play and the distortion creeps in at this point.
+       It just sounds like something is too "hot" in the mix.  Do not let it deter
+       you from grabbing the show however. It's minor and only mildly annoying.
+       Any questions, feel free to email me.
+       Enjoy!
+
+
+f21e8067abeebbc8260a32225e060c23 *ph1989-12-15d1t01.flac
+ff7c278c6f669b52a5991c581cfca87f *ph1989-12-15d1t02.flac
+5d8913625685a6e696255da69ef28088 *ph1989-12-15d1t03.flac
+fd027db345b2c84a2d9c3de7a014bfd8 *ph1989-12-15d1t04.flac
+4fd3974fa8745db40956662e1db9dfb2 *ph1989-12-15d1t05.flac
+029e3a0f5111008463fa953320d128a7 *ph1989-12-15d1t06.flac
+6586c105743290975b04f47613abb8ad *ph1989-12-15d1t07.flac
+9c74ac63743ec997abafe402c25ff75a *ph1989-12-15d1t08.flac
+b21a557c1b5e6d420671afd46f0a07ce *ph1989-12-15d1t09.flac
+cc0899773ee48d5a6e1930d6c47d5653 *ph1989-12-15d1t10.flac
+e0d673d7a6ca7d1a010fd33e060f9a62 *ph1989-12-15d2t01.flac
+af81252e0d041d69163936b972e037de *ph1989-12-15d2t02.flac
+e5c61dfab9b5425007f9c599c10dc069 *ph1989-12-15d2t03.flac
+f42942c303ad051a0b25abc05e4a473c *ph1989-12-15d2t04.flac
+e60058020db9ad45b816ed67e6681900 *ph1989-12-15d2t05.flac
+2d298ee74319c99b02fc560473da922d *ph1989-12-15d2t06.flac
+91d9fb8fe18f2fdcf51e137c02aeeb61 *ph1989-12-15d2t07.flac
+3dd67c4b6342cb642e529aef7f53497d *ph1989-12-15d2t08.flac
+800aedcb907a57fddfd8b54a3d3b75b7 *ph1989-12-15d2t09.flac
+8ee137f315bb6fe41986fbde8ee3ba2e *ph1989-12-15d2t10.flac
+
+
+             

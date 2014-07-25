@@ -1,0 +1,68 @@
+Phish
+October 11, 1991
+Backstage
+Seattle, WA
+
+source:
+soundboard > cassette > cass(1) > Nakamichi DR-1 > Sony PCM-R500 (w/ SBM-1 at 48 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > r8brain v1.9 (resample to 44.1 kHz) > Samplitude SE v9.1.1 (fades, tracking) > FLAC v1.2.1 (Level 8)
+
+FLAC tags added with metaflac v1.2.1
+
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded March 25, 2008
+
+notes:
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+These DATs were sent to me by Brett Stone, who received his DAT clones from Clay Ellwood.
+Big thanks to Brett for sending me his DATs to transfer!
+
+Disc 1 - [69:29]
+Set I
+01 - [02:12] - The Landlady
+02 - [02:16] - My Sweet One
+03 - [12:39] - The Divided Sky
+04 - [05:30] - Guelah Papyrus
+05 - [06:25] - Chalk Dust Torture
+06 - [16:54] - You Enjoy Myself
+07 - [08:26] - The Lizards
+08 - [04:19] - Llama
+09 - [03:47] - Bouncing Around the Room
+10 - [07:02] - Runaway Jim
+
+Disc 2 - [18:24]
+Set II (partial)
+01 - [11:45] - David Bowie
+02 - [06:39] - The Mango Song
+
+show notes:
+The start of "The Landlady" is cut.
+A short tape flip cut at the very beginning of "The Lizards"
+The end of "The Mango Song" is cut.
+
+Obviously, the majority of set 2 is missing.  What we have here is 90 minutes of music.
+It is clear that Bowie and Mango Song were included as filler, along with the complete first 
+set, on a single 90 minute cassette.  Hopefully the missing portions of set 2 will surface. 
+And hopefully it will sound this good when it does.  At the very least, it's a good thing 
+we have the complete "David Bowie", because it's a great Bowie!
+
+-------------------------------------------------------------------------------------------------
+
+SHNtool len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     2:12.23       23338940 B   ---   --   ---xx   flac  0.5838  ph1991-10-11d1t01.flac
+     2:15.49       23929292 B   ---   --   ---xx   flac  0.5891  ph1991-10-11d1t02.flac
+    12:38.58      133847660 B   ---   --   ---xx   flac  0.5900  ph1991-10-11d1t03.flac
+     5:30.23       58266140 B   ---   --   ---xx   flac  0.5964  ph1991-10-11d1t04.flac
+     6:24.46       67845836 B   ---   --   ---xx   flac  0.6112  ph1991-10-11d1t05.flac
+    16:53.46      178801436 B   ---   --   ---xx   flac  0.5683  ph1991-10-11d1t06.flac
+     8:25.73       89253740 B   ---   --   ---xx   flac  0.5696  ph1991-10-11d1t07.flac
+     4:19.27       45751148 B   ---   --   ---xx   flac  0.6287  ph1991-10-11d1t08.flac
+     3:46.43       39967580 B   ---   --   ---xx   flac  0.5767  ph1991-10-11d1t09.flac
+     7:02.13       74471420 B   ---   --   ---xx   flac  0.5935  ph1991-10-11d1t10.flac
+    11:44.66      124340876 B   ---   --   ---xx   flac  0.6120  ph1991-10-11d2t01.flac
+     6:39.25       70442444 B   ---   --   ---xx   flac  0.5760  ph1991-10-11d2t02.flac
+    87:53.42      930256512 B                            0.5891  (12 files)

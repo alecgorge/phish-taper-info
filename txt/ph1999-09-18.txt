@@ -1,0 +1,44 @@
+Phish
+9-18-99
+Coors Amphitheater
+Chula Vista, CA
+
+Source:Schoeps CMC6 + mk41->Oade m148->DA-P20
+Transfer: DA-20->Delta Dio 2496->Soundforge 4.5 (48>44.1 resampling on highest accuracy setting w/anti alias filter)->CDWAV->SHN
+Transfer by: Brandon Johnston (bisq1@yahoo.com)
+
+Disc 1:
+Set I:
+1.Tweezer
+2.Roses are Free >
+3.Wilson >
+4.Maze
+5.Brian and Robert
+6.Tube >
+7.Rocky Top
+
+Disc 2: (80 min. disc)
+Set II:
+1.Boogie on Reggae Woman
+2.Meatstick >
+3.Free >
+4.Bounicng Around The Room
+5.Harry Hood >
+6.Frankensetin >
+7.Cavern
+8.crowd noise
+
+Disc 3:
+Encores:
+1.Contact >
+2.Tweezer Reprise
+
+Notes: You may put the Encores on the end of disc I to fit the show on 2 discs.
+
+
+Show Notes: The Boogie On to open the second set was particularly strong. 
+
+
+SHN > WAV > (files renamed to etree standards) > Trader's Little Helper (SBE fixes) > FLAC
+
+By:  The SHNfamily May 10, 2009

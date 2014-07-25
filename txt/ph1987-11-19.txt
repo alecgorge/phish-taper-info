@@ -1,0 +1,53 @@
+Phish
+November 19, 1987
+Hunt's
+Burlington, VT
+
+Source: SBD > Cass/X
+Transfer: Yamaha KX-R470 > DSP24 > Wavelab > FLAC16
+Thanks to Todd Ahrens for the source tapes!
+Transfer, editing, mastering, and FLAC16 by: Marmar- imthemarmar@gmail.com
+
+Set I: 
+01. McGrupp and the Watchful Hosemasters/
+02. /Sparks
+03. Funky Bitch
+04. You Enjoy Myself
+05. Sneakin' Sally Through the Alley
+06. Harry//Hood
+07. Fire
+
+Set II: 
+01. Timber (Jerry)
+02. /Fluffhead
+03. I Didn't Know/
+04. Fee 
+05. /Corrine Corrina
+06. Alumni Blues (LtJP)
+
+Set III: 
+01. Jam
+02. Suzy Greenberg
+03. Possum
+04. Divided Sky > 
+05. Big Black Furry Creature from Mars
+06. Dinner and a Movie
+07. The Ballad of Curtis Loew
+08. Whipping Post
+09. Harpua
+10. Take the 'A' Train
+11. Camel Walk
+12. La Grange
+13. Bike
+14. Slave to the Traffic Light
+
+Show Notes: 
+- Divided Sky was botched badly, leading Trey to launch humorously into BBFCFM. 
+- First known Dinner and a Movie 
+- Mike announces A-Train as Fuck Your Face.
+- This was the last known show at Hunt's.
+
+Tech Notes:
+- Whipping post was patched with http://db.etree.org/shninfo_detail.php?shnid=29744
+- There are cuts and SBD "alterations" over the course of the entire show. These were left as-is.
+- These were not the best sounding tapes. No fancy restoration was performed. EQ was run to remove as much of the hiss as possible...

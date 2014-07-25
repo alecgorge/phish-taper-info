@@ -1,0 +1,55 @@
+Phish
+February 18, 1989
+Old Stone Church
+Newmarket, NH 
+
+- Source is a Maxell XLII Analog Cassette of unknown lineage
+- Source mics unknown
+- A>D via an old tape deck -> HHB 
+- Tracking performed in Audacity
+- FLAC conversion via Trader's Little Helper
+
+
+(The Sloth)
+(The Divided Sky)
+1. Forbin's >
+2. Mockingbird >
+3. Lizards
+4. Walk Away >
+5. Possum
+6. Good Times Bad Times (end set)
+7. Golgi
+8. Wilson > (tape flip)
+9. Peaches en Regalia
+10. You Enjoy Myself >
+11. La Grange
+(Slave to the Traffic Light)
+12. Contact
+13. David Bowie (end set)
+(Whipping Post)
+(Corrina)
+14. AC/DC Bag (fade out at start of jam (!))
+(Fire)
+
+Fwiw, the YEM and La Grange are quite good. I'd download this just to hear strong early versions of these tunes.
+
+Great thanks to MASON RIEDL who contacted Phish.net to inform Scott Marks, Steve Paolini and me about this tape, which he acquired from his cousin. As best I can tell, this material has never circulated well, until now. Thanks again, Mason!
+
+Typical of old analog cassettes, there are a lot of flaws with this recording, but the overall quality is such that I'd put it at 5th gen or so -- not too bad. I was able to goose the levels quite a bit. There is tape warbling during the GTBT from Side A and, therefore, also during the YEM tramps segment on side B. There are many cuts and some fade ins/outs on the original tape, which may be difficult to discern after this transfer to digital, but I want to make them clear: There is a cut after Lizards before Walk Away; a fade-in into Golgi; a tape flip and cut between Wilson and Peaches, but they clearly segue (and it sounds smooth after transfer, fortunately); a cut before Contact; a cut before, and a small cut during, Bowie; and also a cut after Bowie (after Page says that they'll be back for one more set). I think there is also a bit of tape warbling at one point during Bowie as well. And AC/DC Bag cuts just before the jam segment on the recording, but in making the A>D transfer, I turned that into a fade-out to make it a little less auricularly obnoxious.
+
+In light of this recording, and after consultation with Phish's archivist Kevin Shapiro and the other Phish.net setlist admins (Scott Marks and Steve Paolini), the setlist and show notes on Phish.net now read:
+
+Set One: Sloth, Divided Sky, Forbin's > Mockingbird > Lizards, Walk Away > Possum, Good Times Bad Times
+
+Set Two: Golgi, Wilson > Peaches en Regalia, You Enjoy Myself > La Grange, Slave, Contact, David Bowie
+
+Set Three: Whipping Post, Corinna, AC/DC Bag
+
+Encore: Fire
+
+Show Notes: This setlist is likely incomplete and out of order. David Bowie features "Fish's Birthday" lyrics, as well as a brief DEG tease from Trey and Page. (Fish's birthday is February 19.) During Bowie, Trey also shouts "A hundred push-ups!" Apparently, Fish did a number of "birthday push-ups" on stage after the Bowie. Only one partial recording of this show circulates, and there are cuts before several songs (e.g. Contact and Bowie), and other songs appearing in this setlist do not appear on the recording at all (e.g., Sloth, Divided, Slave, Fire). This setlist is therefore speculative, and is based on the only recording that circulates, song statistics, and the information that Phish.com and Phish.net have at the present time.
+
+
+I realize the above list is in conflict with the current Phish.com setlist, but like I said, we've consulted with Kevin, and since the info Kevin has is incomplete and somewhat unreliable as well, we're going with the above on Phish.net for now at least.  It is based on the only known recording that circulates (which you now can download here), and forensic setlist analysis using song stats and the info that Phish.com and Phish.net have available. 
+
+If you have info that suggests we're mistaken, please email me at charlie@phish.net or use the "Submit a Correction" button underneath the Phish.net setlist on Phish.net, at http://phish.net/setlists/?d=1989-02-18. Thank you.

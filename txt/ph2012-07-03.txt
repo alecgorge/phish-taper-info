@@ -1,0 +1,42 @@
+PHiSH
+7/3/12
+Nikon at Jones Beach Theater Wantagh, NY
+
+Field: Sennheiser MD441U > Edirol R4Pro ( Oade preamp mod ) @ 24/88.2
+config: pointed at PA array, OTS centered, 12.5 feet high.
+
+Path: R4Pro > WaveBurner ( track on sector boundaries, fades, SRC, BDC ) > xACT ( to flac, and for tagging and checksums )
+
+Recorded, processed and let loose by Mike Kutik ( padelimike at mac d0t c0m )
+At bt.etree.org 2012-07-04
+
+
+Set the First:
+01. crowd in
+02. Skin It Back
+03. Possum
+04. Tube
+05. Happiness is a Warm Gun
+06. Mike's Song >
+07. I am Hydrogen >
+08. Weekapaug Groove
+09. Halley's Comet >
+10. Axilla >
+11. Ya Mar
+12. Joy
+13. Jesus Just Left Chicago
+14. Backwards Down the Number Line >
+15. Golgi Apparatus
+
+Set the Second:
+01. Chalkdust Torture
+02. Sand >
+03. Golden Age
+04. Wolfman's Brother >
+05. Walk Away
+06. Bug >
+07. Fluffhead >
+08. The Wedge
+09. Run Like an Antelope
+10. encore break
+11. Character Zer0

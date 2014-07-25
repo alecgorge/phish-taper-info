@@ -1,0 +1,44 @@
+Phish
+7/15/14
+Constellation Brands-Marvin Sands Performing Arts Center
+Canandaigua, NY
+
+Field: AKG C414xls Hypercardioid > Edirol R4Pro ( Oade preamp mod ) @ 24/88.2
+config: pointed at PA array, behind SBD, centered, 10 feet high
+
+Path: R4Pro > WaveBurner ( track on sector boundaries, fades, SRC, BDC ) > xACT ( to flac, and for tagging and checksums )
+
+Recorded, processed and let loose by Mike Kutik ( padelimike at mac d0t c0m )
+At bt.etree.org 2014-07-17
+
+
+Set the First:
+crowd in
+Buried Alive >
+Twist
+Heavy Things
+555
+Halley's Comet > 
+Bathtub Gin
+WingSuit
+Divided Sky
+Wombat
+David Bowie
+
+
+Set the Second:
+crowd in
+Down With Disease >
+Back On The Train >
+NICU >
+Gotta Jibboo >
+Theme From The Bottom >
+Meatstick >
+Fuego >
+The Wedge >
+Run Like An Antelope
+encore break
+Character Zero
+
+
+Fade tracks included for smooth CDR-burning.

@@ -1,0 +1,59 @@
+Phish
+8/6/93
+Peacock Pavilion at the Cincinnati Zoo
+Cincinnati, OH
+
+Set I Source: FOB Schoeps cmc3/mk4 > Oade Custom > Panasonic SV-255
+Conversion: Tascam DA-P1 > TB Montego II Plus > Sound Forge XP 4.5 > CD Wave > shn
+
+DAT>HD conversion and tracking by John McLennand (mclennan@uiuc.edu).
+Shortening and distribution by Mike Chesnut (mdchesnu@uiuc.edu).
+
+Set II source: SBD> Cassette (master)> Cassette (1)> DAT @ 48k
+transfer: Fostex D-5> VX Pocket 440> Sound Studio (Rec, fades, tracking)> Spark XL (48>44 conv, track split)> xACT> SHN
+
+
+--------
+Disc One
+--------
+
+Set I:
+ 1. Split Open and Melt
+ 2. Poor Heart
+ 3. The Curtain >
+ 4. Sample in a Jar
+ 5. Rift
+ 6. Horn
+ 7. The Divided Sky
+ 8. Nellie Cane
+ 9. Chalkdust Torture
+10. Suzie Greenberg
+
+set 2
+01 Buried Alive >
+02 Tweezer
+03 Guelah Papyrus
+04 The Squirming Coil
+05 Uncle Pen
+06 You Enjoy Myself*>
+07 Halley's Comet>
+08 Slave To The Traffic Light
+09 HYHU > Cracklin Rosie > HYHU
+10 Tweezer Reprise
+
+disc 2 - encore
+01 Banter
+02 Amazing Grace
+
+*w/ Cocaine jam
+
+Show Notes: Listen for repeated Tequila teases in Suzy Greenberg, Tweezer, Guelah 
+Papyrus, and YEM, as well as a Simpsons Signal in Guelah Papyrus. The YEM vocal jam 
+was to the tune of Cocaine and included some Tweezer lyrics. Slave was played for 
+the first time since October 24, 1991 (237 shows).
+
+Notes:
+The 2nd set of this show is all that circulates in SBD form. 
+The right channel was boosted 3.5dB to match the left channel which was recorded slightly higher, 
+editing was done in Sound Studio. 
+There was a cassette flip just before YEM, dead space removed. 

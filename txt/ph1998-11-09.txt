@@ -1,0 +1,69 @@
+Phish
+11.9.98
+UIC Pavillion
+Chicago, IL
+
+Taped/Transferred/Seeded By;
+Greg Lance
+gotfob@hotmail.com
+
+
+Source: (Patched From Tom Kingston's Rig)
+B&K 4011's > Audio Magic Cables > *V2 > AD 1000 > Digi Splitter > M1
+*V2 @ 40db
+
+Transfer:
+Fostex D5 @ 48k > Vx Pocket 440 >Toshiba 3480ct > Wavelab 4.0 > 
+Fades/Resampled to 44.1 > Cd Wave > FLAC
+
+Disc I/Set I
+1. Llama
+2. Horn
+3. I Get A Kick Out Of You
+4. Divided Sky
+5. Frankie Says
+6. Dogs Stole Things
+7. Poor Heart
+8. Free
+9. NICU
+10.Bold As Love
+
+Disc II/Set IIa
+1. Bathtub Gin
+2. TMWSIY >
+3. Alvenu Malkenu >
+4. TMWSIY
+
+Disc III/Set IIb
+1. Moma Dance
+2. Slave To The Trafic Light >
+3. YEM *
+-Encore-
+4. Fake Light Tease**
+5. Frankenstein
+6. Freebird
+
+*Trey played the Rift To Divided Sky During Jam
+**Kuroda Briefly turned the house lights on right 
+before the encore, this prompted many, many boo's.
+
+ph1998-11-09d1t01.flac:9b495a887f25d5536ebdfff6aa6566e6
+ph1998-11-09d1t02.flac:d46464dfcc57425dc5186550dc9445f1
+ph1998-11-09d1t03.flac:9df2cdd0ef09591fa0ea808a1e69e6a2
+ph1998-11-09d1t04.flac:f24e6202927c27d210dc87dff3ba740a
+ph1998-11-09d1t05.flac:6942b9ffa820f771119acb2dfd05157f
+ph1998-11-09d1t06.flac:3a1233f628301be756204a2db96e5422
+ph1998-11-09d1t07.flac:0776efa9767f6a7de2516956971e9afb
+ph1998-11-09d1t08.flac:76e9c4cbbabd10f4141a8bcfb2075a92
+ph1998-11-09d1t09.flac:4435c538ad0427fb6b4dfd2bdab95d3d
+ph1998-11-09d1t10.flac:8b35e3eed37e09133a290d5fef693207
+ph1998-11-09d2t01.flac:68b90e144297cb35fd0a3fb024ef07ca
+ph1998-11-09d2t02.flac:2dee210d005e6b7250bde83fa1e03f61
+ph1998-11-09d2t03.flac:0b303b006818ded91a7ce5d27f21e5d7
+ph1998-11-09d2t04.flac:fb79dc070462d48e993e02938189300b
+ph1998-11-09d3t01.flac:74b38ea3ebd46ed1b667e6ffce6649bd
+ph1998-11-09d3t02.flac:333522827cd2d658d5839d821977964d
+ph1998-11-09d3t03.flac:3cef2704c82ac6e911743bc7d938f1ae
+ph1998-11-09d3t04.flac:8eb8ad9bd293b85f0df84eabbb994a55
+ph1998-11-09d3t05.flac:44d3a1fd97c352a5e56385335b9598fb
+ph1998-11-09d3t06.flac:ff246f57c49b750f84c17db98dbfc7e2

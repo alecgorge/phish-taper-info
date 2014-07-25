@@ -1,0 +1,53 @@
+Phish
+Alumni Hall
+Brown University
+Providence, RI
+2/1/91 
+
+TAPER: John Redmond
+SOURCE SBD > D5 
+
+SBD MCass (Sony Metal-SR 90 min)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +~10dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)>
+Mastering (see notes)> SHNv3
+
+Transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 11/19/2003
+Mastering , editing and WAV > SHN were performed on REBA by Arty- imthemarmar@stny.rr.com
+**24/48 Masters do exist at the unedited/pre-processed level**
+
+**DISC 1**
+Set 1: 
+01. My Sweet One
+02. Foam
+03. Tweezer
+04. Tweezer Reprise
+05. Magilla>
+06. Guelah Papyrus~
+07. Runaway Jim//
+[Split Open and Melt](recording messed up on master cassette)
+08. //Bouncing Round the Room 
+09. David Bowie 
+
+**DISC 2**
+Set 2:
+01. Chalkdust Torture~
+02. Reba
+03. Landlady >
+04. Mango Song
+05. Cavern^
+06. Announcement
+07. Alumni Blues > Letter > Alumni
+Encore:
+08. Watching out for the big hook
+09. Carolina
+
+*Notes*
+^Security interupts the band after Cavern and tells them they have to be done at midnight. So the 2nd set is cut short.
+~ 1st time played
+The cuts indicated with slashes have minimal music loss. These were crossfaded to smooth them out.
+
+**Mastering Notes**
+24bit/48kHz FLAC's > Wavelab 4.01b on REBA > Editing > Rendered to 24/48 wav > Q10Paramatric EQ (secret settings) > BBE 8/4/-8 > L1+ UltraMaximizer > Rendered to 24/48 wav > 48kHz>44.1 and 24bit>16bit w/level 2 TPDF Dither > Tracking in Wavelab > SHNv3 appended
+
+Seeded to FurthurNet (www.furthurnet.org)  

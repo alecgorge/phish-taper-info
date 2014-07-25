@@ -1,0 +1,52 @@
+Phish
+04-14-94
+The Beacon Theater, New York, NY
+This show is included in the 1994 Phish Project.
+http://people.atl.mediaone.net/danmarq/1994_phish_project.html
+
+Source:         [DFOB; Master DAT]  Schoeps CMC5/Mk4 (ORTF)-> Sonosax SX-M2-> Apogee AD-500E-> Sony D-10 @ 48KHz; Row 
+Conversion: Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->            Soundforge 5.0b (48KHz->44.1KHz at highest setting [4 of 4], with anti-alias filter)-> CD Wave 1.61-> mkwACT v0.97
+
+   **No DAE at all**
+Minor Edits: Fades (in/out at beginning/end of sets) Transferred by Dan Marquardt <danmarq@msn.com>, please contact me with questions/comments. There are also 48KHz shn's of this seed for archival.
+
+*Dankseed Certification received 01-06-14*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph94-04-14/
+Listening test performed by *5* danksters positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________
+
+
+
+CD/Set 1:                63:31.68
+01. Runaway Jim                09:37.20
+02. Foam                09:12.42
+03. Sparkle                03:50.10
+04. Down With Disease            07:38.66
+05. Glide                04:49.30
+06. Rift                06:02.18
+07. Demand->                01:52.48
+08. Split Open and Melt Jam           10:02.01
+09. The Squirming Coil            10:26.58
+
+------------------------------------------------
+
+CD/Set 2: (Requires 80min CD)        76:59.70
+01. Also Sprach Zarathustra >       03:57.48
+02. Run Like an Antelope        13:42.14
+03. The Horse->                01:27.71
+04. Silent in the Morning        05:08.05
+05. Scent of a Mule            06:56.26
+06. You Enjoy Myself            22:01.31
+07. Nellie Cane*            04:49.43
+08. Dog Faced Boy*#            03:36.3
+09. Slave to the Traffic Light
+
+10 E: Rocky Top

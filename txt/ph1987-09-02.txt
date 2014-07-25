@@ -1,0 +1,49 @@
+Phish
+Hunt's Bar
+Burlington VT
+9/2/87
+
+Source: SBD >Cass/3 > CDR > EAC > Audacity 1.1.0 > CDWAV > FLAC16
+Transfer by: Taperwayne (taperwayne@gmail.com)
+
+One Disc
+
+1. //AC/DC Bag
+2. Fluffhead
+3. Sneaking Sally Through The Alley
+4. Divided Sky
+5. Wilson
+   [Missing David Bowie]
+6. The Chase >
+7. Possum
+8. Big Black Furry Creature From Mars
+9. Makisupa Policeman
+10. Timber Ho!
+11. Shaggy Dog
+12. You Enjoy Myself//
+
+Notes: Interesting early soundboard. AC/DC cuts in and sounds muddy at first, then the
+sound clears up. Minimal hiss. Whoever is doing sound (Paul?) is "soloing" as he mixes and
+this is picked up in spots on the recording. (for example he solos Page, and all you can hear is
+piano, or he'll solo Mike, and all you can hear is bass.) This goes on throughout the entire recording.
+It was likely caused by the feed from the soundboard, and there was no way to correct it.
+Bowie is listed on setlists, but is missing from this recording, and YEM gets cut about 5 minutes in and the
+rest is missing to history.
+More of a gap filler than anything,  rare and kind of obscure.
+Enjoy!
+
+
+8b3149b811b84d49e676a45cead155d0 *Phish1987-09-02ffp.md5
+a497a4c159020b5c5c95d62e1dc3415e *Phish1987-09-02t01.flac
+83dbfea1e48d3fa0447368b2ed396273 *Phish1987-09-02t02.flac
+a69bfe1c3dee1753f6c6630469eb2cf0 *Phish1987-09-02t03.flac
+e10b715a73916a54c44d7f4f37c0d474 *Phish1987-09-02t04.flac
+d4862a584d3c11bf0d6d6d7ce21b8c49 *Phish1987-09-02t05.flac
+a75e318b88ddf53d3e9bc3bc5d3bce92 *Phish1987-09-02t06.flac
+27c9a59137ca5cea20b2ee614d60d260 *Phish1987-09-02t07.flac
+2f33f478bc07e7a3aed607650c9b5ec8 *Phish1987-09-02t08.flac
+4af2b88f3194dd8a4503749eb9597487 *Phish1987-09-02t09.flac
+567549e460b8373d9bed9103b954998f *Phish1987-09-02t10.flac
+00e0c870853009e6128bd4a15c330978 *Phish1987-09-02t11.flac
+1f5720f15488084dc8a838ebc4ced28b *Phish1987-09-02t12.flac
+

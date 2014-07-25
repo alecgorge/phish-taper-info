@@ -1,0 +1,36 @@
+Phish
+7-24-96
+The Music Hall
+Hannover, Germany
+
+Source: Unknown Daud > cass > cass
+Transfer: Onkyo TA-6510->Philips CDR 870->EAC->Soundforge 6.0->CDWAV->shntool->shn
+
+Transfer by: Brandon Johnston -- http://db.etree.org/bisq
+Mastered and FLAC16 by Marmar -- imthemarmar@gmail.com
+
+Disc 1: 
+-One Set-
+1.Chalk Dust Torture
+2.Ya Mar
+3.Julius
+4.You Enjoy Myself
+5.Golgi Apparatus
+
+Show Notes: This show was a one-set opener for Santana. 
+
+Tech Notes: Fades were added in soundforge 6.0.
+
+PLEASE NOTE: This seed is of subpar quality. I'm circulating this only because the show is very rare and it is the only souce I've found.
+
+Shntool Output:
+    length     expanded size   cdr  WAVE  probs   filename
+     6:46.13      71649020     ---   --    ---    ph1996-07-24t01.wav
+     6:40.34      70640012     ---   --    ---    ph1996-07-24t02.wav
+     7:37.69      80777132     ---   --    ---    ph1996-07-24t03.wav
+    15:39.30     165710204     ---   --    ---    ph1996-07-24t04.wav
+     5:04.14      53658572     ---   --    ---    ph1996-07-24t05.wav
+    41:48.10     442434940 B                      (totals for 5 files)
+
+**Mastering**
+Due to the large ammount of tape remnants, the high end was completely gone from this recording. The mids were also affected by the analog generations. I tried to balance this as best as possible given the source, without introducing too much noise.

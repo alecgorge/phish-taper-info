@@ -1,0 +1,19 @@
+Phish
+3/22/92 
+Mountain Stage Live 
+Cultural Center Auditorium, West Virginia
+
+reported: fm > cass/1 > cd-r > eac > wav secure
+
+01. Intro 
+02. Sparkle
+03. Intro >
+04. All Things Reconsidered
+05. Foam
+06. The Landlady 
+
+**Notes** 
+The source is how it was given to me....Judging on the fact that Trey mentions that All things Reconsidered was based on an NPR show, it's safe to say that this was on an NPR station in West Virginia. The show has some moments of what sounds like pops/clicks that are just radio static. The volume was raised +2db via the L2 Maximizer, and then dithered back to 16Bits...The show was also out of tune/running slow...this was corrected by doing a time stretch to bring it back into tune.
+
+Thanks to car for the seed files.
+Mastered, tracked and FLAC'd by Marmar- imthemarmar@gmail.com

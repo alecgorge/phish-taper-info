@@ -1,0 +1,67 @@
+Phish 11/03/94 The Mullins Center - Amherst, MA
+
+Source: 	DAUD/OTS AKG460B/ck61 > Custom Pre-amp > Teac DAP-20 @48kHz
+		Master (from DAP-20) > clone used in below transfer
+		
+Conversion: 	R500 > Canare Coax > Sek'd Prodif Plus > Soundforge 5.0 
+		(fade in/out/48>44.1 at highest setting[4of4]
+		with anti-alias filter) > CD Wave > mkwACT v0.97 
+		(shn files have seek tables appended) **No DAE at all** 		
+
+Detailed info:	N/A
+
+Minor Edits:	Fades in/out beg/end of sets--5 sec in all cases
+		
+Taper: Dave Flaschner
+Huge thanks to Dave who let Joe borrow his masters to clone and to Joe and Eric for
+supplying the DATs for this transfer!
+Transferred and uploaded by Jim Raras <jraras@yahoo.com> via Dankseeds
+Please contact me with questions etc.  There are also 48k shn's of this seed for archival.
+
+_______________________________________________________________________
+
+This seed is currently being reviewed by dankseeds. If you see this 
+statement, it's because the seed hasn't been certified yet or this is 
+just an old info file.
+ 
+Please check http://groups.yahoo.com/group/dankseeds/files/ph1994-11-03
+to find out the status of this seed and to download an updated info
+file.
+
+For more information about dankseeds, please visit
+http://groups.yahoo.com/group/dankseeds
+________________________________________________________________________
+
+
+Disc 1 / Set I 			                        	     01:02:27
+01. Intro/Crowd			                   			00:25
+02. Fee				                   			05:40 
+03. Divided Sky			                   			14:59 
+04. Wilson			                   			04:37 
+05. Peaches en Regalia		                   			03:10 
+06. Glide				                   		04:08 
+07. Split Open and Melt		                   			14:56 
+08. Dog Faced Boy		                   			02:13
+09. Sparkle					                   	03:49
+10. Down with Disease				                   	08:30
+
+Disc 2 / Set II 			                      	     01:07:50
+01. Intro/Crowd			                   			00:29
+02. 2001 >			                   			03:44 
+03. Simple >				                   		05:10
+04. Poor Heart >		                   			02:10 
+05. Julius			                   			08:10
+06. You Enjoy Myself->VoL->You Enjoy Myself->             		23:02 
+07. Big Black Furry Creature from Mars	                   		05:31 
+08. Harry Hood			                   			14:53
+09. Cavern				                   		04:41
+
+Disc 3 / Set II 			                      	     00:20:59
+01. Encore Break/Crowd			                   		03:09
+02. My Sweet One			                   		02:51
+03. Nellie Kane			                   			03:49
+04. Amazing Grace		                   			01:44
+05. Highway to Hell		                   			03:46
+06. Post Show Music		                   			02:55
+
+Setlist from "The Phish Companion" http://www.phish.net/mockingbird

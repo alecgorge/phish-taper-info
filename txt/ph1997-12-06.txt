@@ -1,0 +1,41 @@
+PHiSH - 12/06/97 
+Palace of Auburn Hills
+Auburn Hills, Michigan
+
+Taper: Jason Wilhelm
+Source:  Microtech Geffel 210 > OADE M248 > SBM -1 > DA-P1
+
+Transfer:  Panasonic SV-3700 > HHB CDR-800 > CD > HD(via EAC) > Pro Tools 5.0 > WAV > SHN
+Transfered by: Alsosprach & Mattstick
+
+
+**DO NOT ENCODE INTO MP3.......WHAT DID THIS SHOW EVER DO TO YOU**
+
+Disc One **needs 80 min disc** 
+Set I
+1) Golgi Apparatus
+2) Run Like an Antelope 
+3) Trainsong >
+4) Bathtub Gin > 
+5) Foam 
+6) Sample in a Jar 
+7) Fee >
+8) Maze 
+9) Cavern 
+
+(moving D1T9 to Disc 2 will split the show into two 74 min discs)
+
+Disc Two
+Set II
+1) Tweezer > 
+2) Izabella > 
+3) Twist Around > 
+4) Piper 
+5) Sleeping Monkey >
+6) Tweezer Reprise 
+Encore:
+7) Rocky Top 
+
+Thanks to westkoast and colin@loveboat.com for the DAT, big props to Harris for the gear...!
+
+Note: Sector Boundary Errors fixed with shntool 7/03

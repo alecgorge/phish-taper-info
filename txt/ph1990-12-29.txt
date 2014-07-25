@@ -1,0 +1,53 @@
+Phish 
+12.29.90 
+Campus Club, Providence, RI
+
+Set I Source: DSBD/DAUD Matrix
+
+Set II:
+-Source is a TDK SA90 Analog Cassette of unknown lineage
+-Source microphones unknown
+-A>D via Nakamichi Dragon>Korg MR1000>Korg Audio Gate>WAV
+-Tracking performed in Adobe Audition 3.0
+-FLAC conversion via Trader's Little Helper
+-Thanks to David "zzyzx!" Steinberg for the source tape.
+
+SetI: 
+
+I Didn't Know
+Llama
+You Enjoy Myself
+Esther
+David Bowie
+Lawn Boy 
+Rocky Top
+Horn
+Oh Kee Pa Ceremony-> 
+Suzy Greenberg 
+
+Set II
+
+1. Buried Alive > [4:04]
+2. Runaway Jim [6:39]
+3. The Lizards [10:30]
+4. Cavern [5:16]
+5. Stash [8:50]
+6. Jesus Just Left Chicago [9:22]
+7. \\Dinner and a Movie > [3:04]
+8. Bouncing Around the Room [4:14]
+9. Destiny Unbound [6:19]
+10. Run Like an Antelope [10:50]
+
+Encore: 
+
+1. Donna Lee [5:58]
+2. AC/DC Bag [6:17]
+
+Total Time [1:21:23]
+
+
+
+Known Flaws:
+
+Dinner and a Movie is cut and fades in.
+No mastering was performed on these tracks.

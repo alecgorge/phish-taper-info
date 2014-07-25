@@ -1,0 +1,45 @@
+Phish
+July 3, 2010
+Verizon Wireless at Encore Park
+Alpharetta, GA
+
+source: Schoeps mk41 (DINa) > kc5 > cmc6xt > Sonosax SX-M2 > Mytek Stereo 192 ADC > Tascam HD-P2 (24/96)
+transfer: CF > Audacity > Sound Studio > xACT > .flac (16/44)
+
+Disc 1 - Set 1
+01 Intro
+02 Character Zero
+03 Destiny Unbound >
+04 Rift
+05 McGrupp And The Watchful Hosemasters
+06 Bathtub Gin
+07 Mountains In The Mist
+08 NICU >
+09 Gumbo >
+10 My Sweet One
+11 Stealing Time From The Faulty Plan
+12 Strange Design
+
+Disc 2 - Set 1 cont.
+01 Sanity
+02 Run Like An Antelope
+--Set 2--
+03 Intro
+04 Rock & Roll ->
+05 Prince Caspian ->
+06 Tweezer ->
+07 Slave To The Traffic Light
+
+Disc 3 - Set 2 cont.
+01 Bouncing Around The Room
+02 Possum
+03 Backwards Down The Number Line >
+04 Harry Hood >
+05 Loving Cup
+06 Crowd
+Encore:
+07 Sleeping Monkey >
+08 Tweezer Reprise
+
+flac fingerprint:
+ph2010-07-03d1t01.flac:2781a3896fe9c5b0763ea0566eeaeb88ph2010-07-03d1t02.flac:2d3eba7cef1347df9280f2077fab146cph2010-07-03d1t03.flac:a0d8b2d8970c45fb60f33cf6166b3f97ph2010-07-03d1t04.flac:a2e52b320a0b8dfda4b66a0bf0e6343dph2010-07-03d1t05.flac:bb761096e115cc6a1c541289142f1c08ph2010-07-03d1t06.flac:d15c0f10b6c0851a4d8a6662e473a6c5ph2010-07-03d1t07.flac:1d9d0803f6f7696b74d50aa780f0e0f5ph2010-07-03d1t08.flac:26a17340fa3cbb8b13e14fd280129badph2010-07-03d1t09.flac:0477425faf2e284274c236251d2b28d5ph2010-07-03d1t10.flac:760c73a1a4746701dfec22bfb30362f7ph2010-07-03d1t11.flac:f6225a8e8636cc344f605c484705bc9cph2010-07-03d1t12.flac:ccaeb100d1d5ea6325fb04b7bc30a02aph2010-07-03d2t01.flac:fddddd53e9ecb7c0250fa8d2e038f675ph2010-07-03d2t02.flac:39619be495a753ecc366f8bff13ccaf2ph2010-07-03d2t03.flac:0416f959c9d6f8cc04c5d67805cc2bfeph2010-07-03d2t04.flac:92f2d63970a8b8eef2b36f495446a803ph2010-07-03d2t05.flac:49a2741d2857f027c8ad63a189f79cbcph2010-07-03d2t06.flac:a148df33428e99c260ed6b84799eb706ph2010-07-03d2t07.flac:1d53087566db2a5e426e38cb48485ad4ph2010-07-03d3t01.flac:48e9d94b13405f2e655102268c407db2ph2010-07-03d3t02.flac:964a32bcb4e7acd6fa7c0af468f907e3ph2010-07-03d3t03.flac:d78c10c93767750b9b8941e38a4c0226ph2010-07-03d3t04.flac:1df3c9064c0407f89c96b54d4caa795eph2010-07-03d3t05.flac:fcd3282d5a6068cfb463c7017248648fph2010-07-03d3t06.flac:84d5302dada6356c4a94ce1e6967f11cph2010-07-03d3t07.flac:1463a4e0d4500daa1306687511338a69ph2010-07-03d3t08.flac:c1c1ec792da65e84615d7dddb147dd06

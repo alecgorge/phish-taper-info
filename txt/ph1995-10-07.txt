@@ -1,0 +1,36 @@
+Phish
+10-7-95 
+Spokane Opera House
+Spokane, WA 
+
+Source: Neumann KM140 (No other source info given)
+Transfer: DA-20->Delta Dio 2496->Soundforge 4.5 (48>44.1 resampling on highest accuracy setting w/anti alias filter)->CDWAV->SHN
+Transfer by: Brandon Johnston (bisq1@yahoo.com)
+
+DISC 1
+Set 1: 
+1.Julius
+2.Gumbo >
+3.Fog That Surrounds
+4.Mound
+5.Possum
+6.The Mango Song
+7.Acoustic Army
+8.Wilson
+9.Run Like an Antelope 
+
+DISC 2 (80 minute disc)
+Set 2: 
+1.Makisupa Policeman
+2.Cars Trucks Buses
+3.Split Open and Melt
+4.Strange Design
+5.It's Ice >
+6.Contact
+7.Frankenstein
+8.Harry Hood
+9.Sweet Adeline 
+10.crowd noise
+11.E: Fire 
+
+Notes: I applied fades in and out of each set using soundforge 4.5. I also normalized the show to 98%.  Some of the crowd noise between the 2nd set and Encore was cut on my DAT.

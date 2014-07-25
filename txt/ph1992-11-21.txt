@@ -1,0 +1,108 @@
+Phish
+November 21, 1992
+Sports Complex, SUNY Stony Brook
+Stony Brook, NY
+
+source:
+NAK 300 > Sony TCD-D3 (@ 48 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > Samplitude SE v9.1.1 (fades, track splits, volumes adjustments, resample to 44.1 kHz) > FLAC v1.2.1 (Level 8)
+
+recorded by Eliot Byron
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded March 3, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+Eliot stopped the DAT during the encore break. I cross-faded the crowd noise to make it appear seamless.
+I smoothed out an ~5 dB level adjustment at [05:55] in "Runaway Jim".
+The volume of "Carolina" was increased by 21dB relative to the rest of set 2.
+I smoothed out a ~3.5 dB level adjustment at [02:33] in "The Curtain".
+Each set was normalized based on the peak level.
+The original 48 kHz files from the DAT transfer have been archived and are available upon request.
+Big thanks to Eliot for letting me borrow his master DATs!
+
+Disc 1 - [77:39]
+Set I
+01 - [00:25] - intro
+02 - [03:31] - The Landlady >
+03 - [07:10] - Runaway Jim
+04 - [08:27] - Foam
+05 - [04:59] - Glide
+06 - [02:48] - Poor Heart >
+07 - [07:56] - It's Ice >
+08 - [03:49] - Bouncing Around the Room
+09 - [08:37] - Maze
+10 - [12:46] - Colonel Forbin's Ascent >
+11 - [06:16] - The Famous Mockingbird
+12 - [10:54] - Possum
+
+Disc 2 - [52:27]
+Set II
+01 - [02:46] - Carolina
+02 - [06:19] - The Curtain >
+03 - [07:39] - Mike's Song >
+04 - [03:12] - I Am Hydrogen >
+05 - [06:17] - Weekapaug Groove
+06 - [01:23] - The Horse >
+07 - [05:15] - Silent in the Morning
+08 - [04:01] - Uncle Pen
+09 - [07:36] - Guelah Papyrus
+10 - [07:59] - The Squirming Coil
+
+Disc 3 - [30:16]
+Set II continued
+01 - [01:14] - HYHU >
+02 - [07:06] - Love You >
+03 - [00:53] - HYHU
+04 - [03:24] - Take the A-Train
+05 - [02:29] - Llama ->
+06 - [02:1] - Big Ball Jam ->
+07 - [01:26] - Llama
+08 - [02:59] - encore break
+09 - [02:30] - Buffalo Bill
+10 - [05:27] - Big Black Furry Creature from Mars
+11 - [00:48] - outro
+
+show notes:
+This show marked the debut of Buffalo Bill.
+________________________________________________________________________________
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:25.18           4.25 MB  ---   --   ---xx   flac  0.4433  ph1992-11-21d1t01.flac
+     3:30.61          35.46 MB  ---   --   ---xx   flac  0.5143  ph1992-11-21d1t02.flac
+     7:09.73          72.33 MB  ---   --   ---xx   flac  0.5245  ph1992-11-21d1t03.flac
+     8:27.13          85.32 MB  ---   --   ---xx   flac  0.4927  ph1992-11-21d1t04.flac
+     4:59.01          50.30 MB  ---   --   ---xx   flac  0.4929  ph1992-11-21d1t05.flac
+     2:48.26          28.32 MB  ---   --   ---xx   flac  0.5193  ph1992-11-21d1t06.flac
+     7:56.20          80.12 MB  ---   --   ---xx   flac  0.5127  ph1992-11-21d1t07.flac
+     3:49.31          38.59 MB  ---   --   ---xx   flac  0.5136  ph1992-11-21d1t08.flac
+     8:36.63          86.95 MB  ---   --   ---xx   flac  0.5497  ph1992-11-21d1t09.flac
+    12:45.70         128.85 MB  ---   --   ---xx   flac  0.5028  ph1992-11-21d1t10.flac
+     6:15.70          63.24 MB  ---   --   ---xx   flac  0.4965  ph1992-11-21d1t11.flac
+    10:54.05         110.03 MB  ---   --   ---xx   flac  0.5272  ph1992-11-21d1t12.flac
+     2:45.47          27.86 MB  ---   --   ---xx   flac  0.4763  ph1992-11-21d2t01.flac
+     6:19.34          63.83 MB  ---   --   ---xx   flac  0.5807  ph1992-11-21d2t02.flac
+     7:39.27          77.28 MB  ---   --   ---xx   flac  0.6005  ph1992-11-21d2t03.flac
+     3:12.00          32.30 MB  ---   --   ---xx   flac  0.5383  ph1992-11-21d2t04.flac
+     6:17.22          63.47 MB  ---   --   ---xx   flac  0.6026  ph1992-11-21d2t05.flac
+     1:23.04          13.97 MB  ---   --   ---xx   flac  0.4037  ph1992-11-21d2t06.flac
+     5:15.10          53.01 MB  ---   --   ---xx   flac  0.5224  ph1992-11-21d2t07.flac
+     4:00.43          40.47 MB  ---   --   ---xx   flac  0.5400  ph1992-11-21d2t08.flac
+     7:35.65          76.69 MB  ---   --   ---xx   flac  0.5183  ph1992-11-21d2t09.flac
+     7:59.08          80.60 MB  ---   --   ---xx   flac  0.5044  ph1992-11-21d2t10.flac
+     1:14.27          12.51 MB  ---   --   ---xx   flac  0.4679  ph1992-11-21d3t01.flac
+     7:06.35          71.74 MB  ---   --   ---xx   flac  0.4968  ph1992-11-21d3t02.flac
+     0:52.39           8.84 MB  ---   --   ---xx   flac  0.4676  ph1992-11-21d3t03.flac
+     3:23.72          34.31 MB  ---   --   ---xx   flac  0.4821  ph1992-11-21d3t04.flac
+     2:28.38          24.98 MB  ---   --   ---xx   flac  0.6107  ph1992-11-21d3t05.flac
+     2:00.47          20.29 MB  ---   --   ---xx   flac  0.5050  ph1992-11-21d3t06.flac
+     1:25.57          14.43 MB  ---   --   ---xx   flac  0.6239  ph1992-11-21d3t07.flac
+     2:58.39          30.03 MB  ---   --   ---xx   flac  0.4669  ph1992-11-21d3t08.flac
+     2:29.50          25.18 MB  ---   --   ---xx   flac  0.4801  ph1992-11-21d3t09.flac
+     5:27.37          55.09 MB  ---   --   ---xx   flac  0.5180  ph1992-11-21d3t10.flac
+     0:48.09           8.10 MB  ---   --   ---xx   flac  0.4671  ph1992-11-21d3t11.flac
+   160:22.36        1618.77 MB                           0.5223  (33 files)

@@ -1,0 +1,43 @@
+PHiSH
+10-15-98
+Fillmore Auditorium
+San Francisco, CA
+
+Source: AKG 414 (hyper)->Sonosax and AKG CK-61 caps->JK Labs DVC mixed into a Roland MX-5->SBM-1
+Transfer: DA-20->Delta Dio 2496->Soundforge 4.5 (48>44.1 resampling on highest accuracy setting with anti alias filter)->CDWAV->SHN
+
+Disc 1:
+Set I:
+1.Ghost >
+2.Water in the Sky
+3.Wolfman's Brother
+4.Gumbo
+5.David Bowie
+6.Brian and Robert
+
+Disc 2:
+Set I Continued:
+1.Reba >
+2.Character Zero
+Set II:
+3.My Soul >
+4.Chalkdust Torture
+5.Roggae
+6.The Moma Dance
+
+Disc 3:
+Set II Continued:
+1.Wading in the Velvet Sea
+2.Prince Caspian
+3.Frankie Says
+4.Birds of a Feather
+5.Lawn Boy
+6.Harry Hood%
+7.crowd noise
+8.E: Dirt
+9.Limb by Limb
+
+%With a tease of Aaron Copland's "Fanfare for the Common Man" in the intro. 
+
+
+Notes: I added fades at the beginning and end of each set using soundforge 4.5. 

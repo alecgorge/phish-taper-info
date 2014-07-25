@@ -1,0 +1,46 @@
+Phish
+November 26, 1997
+Hartford Civic Center
+Hartford, CT
+
+source:
+Neumann u87 (cardiod) > Sonosax SX-M2 > Tascam DA-P1 (@ 48 kHz)
+
+transfer:
+Sony PCM-R500 > M-Audio MicroTrack > CF Card > usb > pc > WaveLab 5.01b (fades, resample to 44.1kHz) > CD Wave v1.94.7 > FLAC v1.1.2 (Level 8)
+
+recorded by Dave Flaschner and Gary Fox
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded March 8, 2006
+
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request
+
+Disc 1 - [68:40]
+Set I
+01 - [18:19] - Tweezer >
+02 - [03:56] - Sparkle >
+03 - [12:08] - Gumbo
+04 - [07:00] - My Soul
+05 - [10:26] - McGrupp and the Watchful Hosemasters
+06 - [04:18] - Dirt
+07 - [12:34] - Split Open and Melt
+
+Disc 2 - [69:47]
+Set I continued
+01 - [01:18] - The Horse >
+02 - [05:24] - Silent in the Morning
+03 - [12:07] - Taste
+Set II
+04 - [21:09] - Character Zero ->
+05 - [14:23] - 2001 ->
+06 - [08:00] - Cities ->
+07 - [07:27] - Ya Mar >
+
+Disc 3 - [35:12]
+Set II continued
+01 - [08:27] - Punch You in the Eye >
+02 - [11:20] - Prince Caspian >
+03 - [02:15] - Poor Heart
+04 - [03:29] - Tweezer Reprise
+05 - [02:54] - encore break
+06 - [06:49] - Cavern

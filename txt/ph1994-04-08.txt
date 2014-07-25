@@ -1,0 +1,94 @@
+Phish
+April 8, 1994
+Recreation Hall, Penn State
+State College, PA
+
+source:
+(FOB) Nak 300 > DAT (@ 48 kHz)
+(the mics were in an ORTF configuration)
+
+transfer:
+Tascam DA-20mkII > Marantz PMD-661 > SDHC card > usb 2.0 > pc > r8brain v1.9 (resample to 44.1 kHz) > CD Wave v1.98 (track splits) > Samplitude SE v9.1.1 (fades, splice) > FLAC v1.2.1 (Level 8)
+
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded May 9, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+The original 48 kHz files from the DAT transfer have been archived and are available upon request.
+Big thanks to Eliot Byron for letting me borrow his DATs!
+
+Disc 1 - [66:29]
+Set I
+01 - [09:41] - Maze
+02 - [04:37] - Glide ->
+03 - [09:33] - Foam
+04 - [04:25] - I Didn't Know
+05 - [08:11] - Punch You in the Eye
+06 - [01:25] - The Horse >
+07 - [05:02] - Silent in the Morning
+08 - [07:45] - Down with Disease
+09 - [07:26] - If I Could
+10 - [03:42] - Lawn Boy
+11 - [04:42] - Llama
+
+Disc 2 - [55:41]
+Set II
+01 - [12:47] - Split Open and Melt
+02 - [11:31] - McGrupp and the Watchful Hosemasters
+03 - [14:47] - It's Ice
+04 - [04:06] - Sparkle
+05 - [12:31] - Harry Hood
+
+Disc 3 - [39:07]
+Set II continued
+01 - [03:47] - Bouncing Around the Room
+02 - [02:29] - Big Ball Jam
+03 - [11:14] - David Bowie
+04 - [05:52] - Suzy Greenberg
+05 - [02:26] - encore break
+06 - [06:27] - Contact
+07 - [06:53] - Big Black Furry Creature from Mars
+
+
+Show Notes: Suzy included an Owner of a Lonely Heart tease. I Didn't Know 
+included Mimi Fishman on cymbals. Mimi also counted off the break in BBFCFM. 
+
+
+technical notes:
+I removed a very short drop-out during the crowd noise after "Punch You in the Eye" (no music was affected).
+The end of "Big Black Furry Creature from Mars" was missing from the DAT.
+The missing portion was spliced in with the following source:
+Neumann RSM 190i > Neumann m/s Preamp > Teac DA-P20 > Sony D7
+http://db.etree.org/shn/6044
+The Neumann RSM 190i source was used for the following portion of "Big Black Furry Creature from Mars":
+[01:28] to [06:53]
+____________________________________________________________________________________________
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     9:40.68          97.72 MB  ---   --   ---xx   flac  0.5392  ph1994-04-08d1t01.flac
+     4:37.14          46.63 MB  ---   --   ---xx   flac  0.5087  ph1994-04-08d1t02.flac
+     9:32.73          96.39 MB  ---   --   ---xx   flac  0.4999  ph1994-04-08d1t03.flac
+     4:24.73          44.58 MB  ---   --   ---xx   flac  0.4834  ph1994-04-08d1t04.flac
+     8:10.71          82.59 MB  ---   --   ---xx   flac  0.5169  ph1994-04-08d1t05.flac
+     1:24.62          14.27 MB  ---   --   ---xx   flac  0.4083  ph1994-04-08d1t06.flac
+     5:02.05          50.82 MB  ---   --   ---xx   flac  0.5077  ph1994-04-08d1t07.flac
+     7:44.70          78.21 MB  ---   --   ---xx   flac  0.5544  ph1994-04-08d1t08.flac
+     7:25.50          74.97 MB  ---   --   ---xx   flac  0.4884  ph1994-04-08d1t09.flac
+     3:42.34          37.42 MB  ---   --   ---xx   flac  0.4412  ph1994-04-08d1t10.flac
+     4:41.70          47.43 MB  ---   --   ---xx   flac  0.5800  ph1994-04-08d1t11.flac
+    12:46.41         128.95 MB  ---   --   ---xx   flac  0.5121  ph1994-04-08d2t01.flac
+    11:30.48         116.19 MB  ---   --   ---xx   flac  0.4607  ph1994-04-08d2t02.flac
+    14:46.38         149.14 MB  ---   --   ---xx   flac  0.5089  ph1994-04-08d2t03.flac
+     4:06.31          41.45 MB  ---   --   ---xx   flac  0.5461  ph1994-04-08d2t04.flac
+    12:31.22         126.39 MB  ---   --   ---xx   flac  0.5010  ph1994-04-08d2t05.flac
+     3:46.40          38.11 MB  ---   --   ---xx   flac  0.5303  ph1994-04-08d3t01.flac
+     2:28.53          25.02 MB  ---   --   ---xx   flac  0.5242  ph1994-04-08d3t02.flac
+    11:13.47         113.32 MB  ---   --   ---xx   flac  0.5280  ph1994-04-08d3t03.flac
+     5:52.11          59.24 MB  ---   --   ---xx   flac  0.5579  ph1994-04-08d3t04.flac
+     2:26.29          24.63 MB  ---   --   ---xx   flac  0.5354  ph1994-04-08d3t05.flac
+     6:27.36          65.19 MB  ---   --   ---xx   flac  0.4820  ph1994-04-08d3t06.flac
+     6:52.46          69.41 MB  ---   --   ---xx   flac  0.4998  ph1994-04-08d3t07.flac
+   161:17.57        1628.07 MB                           0.5107  (23 files)

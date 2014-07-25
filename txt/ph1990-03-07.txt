@@ -1,0 +1,36 @@
+Phish
+March 7, 1990
+University of New Hampshire
+Durham, NH
+
+SOURCE: SBD > Cass4
+TRANSFER: Yamaha KX-R470 > DSP24 > Wavelab > FLAC16
+Thanks to Taperwayne for the source tape!
+Transfer, mastering and FLAC16 by: Marmar- imthemarmar@gmail.com
+
+Set I: 
+*Reba
+/Possum
+Esther
+Caravan
+The Lizards
+David Bowie
+
+Set II: 
+/The Oh Kee Pa Ceremony > AC/DC Bag
+The Squirming Coil
+Bathtub Gin
+Split Open and Melt
+Tela
+Mike's Song >
+I Am Hydrogen >
+Weekapaug Groove//
+Encore: 
+*Whipping Post 
+
+Tech Notes:
+- *Reba and *Whipping Post are missing from the source tape.
+- Drop out @ 0:02:55.07-0:02:55.17 in Possum.
+- 2 Drop outs at the start of Tela.
+- Possum and Oh Kee Pa fade in.
+- Weekapaug cuts about half way.

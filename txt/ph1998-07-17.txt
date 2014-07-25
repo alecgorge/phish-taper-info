@@ -1,0 +1,61 @@
+Phish
+
+July 17, 1998
+The Gorge Amphitheater
+
+This alternate version really reveals the beauty of B&K mics.  It's so
+snappy and warm I just want to get up and dance dance dance!  But I don't,
+I just listen more carefully.
+
+Info: B&K 4011 mics (front right corner of left taping section) -> Lunatec V2 -> 
+Apogee 2000 -> DA-P1 -> DAT 48k -> Turtle Beach Fiji Digi I/O -> AFsp 
+ResampAudio (>97 db cutoff) -> WAV 44.1k
+
+Encoding: EAC(secure) > Cool Edit Pro > shntool > mkwact > shn (seekable) by Matt Vernon 2/20/2004
+Audio disks supplied by Jimmy Sellers.
+
+Disc 1 (set I) [68:18]
+1. Makisupa >
+2. Yamar
+3. Gumbo
+4. Divided Sky
+5. Waste
+6. My Mind's Got a Mind Of It's Own
+7. My Soul
+
+Disc 2 (set II) [78:28]
+1. 2001 ->
+2. Mike's ->
+3. Weekapaug ->
+4. Character 0
+5. Crowd
+Encore
+6. PYITE >
+7. Rockytop
+
+Show Notes: Gumbo included a Manteca tease. This unfinished Weekapaug included 
+syncopated jamming and a tease akin to Who Knows. 
+
+Note added by Matt Vernon 2/20/2004
+This was an early circulating source when shns were not being archived.   I received these via Jimmy Sellers on audio disks.  I EAC'd them and fixed a few minor details so that each set is now continuous.  There are no flaws that remain worth noting. 
+
+    length     expanded size   cdr  WAVE  probs   filename
+     7:13.72      76550588     ---   --    ---    ph1998-07-17d1t01.wav
+    13:00.00     137592044     ---   --    ---    ph1998-07-17d1t02.wav
+    12:36.00     133358444     ---   --    ---    ph1998-07-17d1t03.wav
+    17:39.00     186807644     ---   --    ---    ph1998-07-17d1t04.wav
+     7:05.00      74970044     ---   --    ---    ph1998-07-17d1t05.wav
+     2:28.00      26107244     ---   --    ---    ph1998-07-17d1t06.wav
+     8:16.68      87654380     ---   --    ---    ph1998-07-17d1t07.wav
+    68:18.65     723040388 B                      (totals for 7 files)
+
+    length     expanded size   cdr  WAVE  probs   filename
+    24:13.00     256309244     ---   --    ---    ph1998-07-17d2t01.wav
+    18:39.00     197391644     ---   --    ---    ph1998-07-17d2t02.wav
+    13:23.00     141649244     ---   --    ---    ph1998-07-17d2t03.wav
+     8:17.00      87670844     ---   --    ---    ph1998-07-17d2t04.wav
+     3:04.74      32631692     ---   --    ---    ph1998-07-17d2t05.wav
+     8:14.00      87141644     ---   --    ---    ph1998-07-17d2t06.wav
+     2:37.01      27697196     ---   --    ---    ph1998-07-17d2t07.wav
+    78:28.00     830491508 B                      (totals for 7 files)
+

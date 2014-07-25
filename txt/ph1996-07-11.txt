@@ -1,0 +1,104 @@
+Phish
+July 11, 1996 
+Shepherds Bush Empire
+London, England 
+
+
+Source: DSBD
+Transfer: Tascam DA-20 > Delta DiO 2496 > Sound Forge 6.0 (48>44.1) > CDWave > flac16
+Transferred by: Daniel Shay <daniel_shay@hotmaildotcom>
+
+
+
+DISC 1					[59:10]
+Set I:
+01.  Runaway Jim				[07:51]
+02.  Cavern				[04:48]
+03.  Reba*				[11:53]
+04.  I Didn't Know				[03:12]
+05.  Sparkle				[03:46]
+06.  Stash				[10:57]
+07.  Scent of a Mule			[11:30]
+08.  Sample in a Jar 			[05:13]
+
+
+DISC 2					[77:51]
+Set II:
+01.  Harry Hood >				[12:37] 
+02.  Bouncing Around the Room >		[03:17]
+03.  Also Sprach Zarathustra > 		[04:27]
+04.  Maze					[11:12]
+05.  Lizards				[10:13]
+06.  HYHU > 				[01:14]
+07.  Terrapin > 				[04:27]
+08.  HYHU				[01:42]
+09.  You Enjoy Myself			[21:01]
+10.  Hello My Baby^ 			[02:33]
+Encore:
+11.  A Day in the Life 			[05:08]
+
+
+Show notes:
+* unfinished
+^ performed unamplified, barely audible
+
+
+Seed notes:
+- small spot of digi-noise @ 2:33 of d1t05 (Sparkle)
+- two small spots of digi-noise @ 6:30 of d2t04 (Maze) 
+- small spot of digi-noise @ 1:40 of d2t07 (Terrapin)
+- probably an unknown AUD source patched onto DAT
+      for d2t10 (Hello My Baby) and d2t11 (Day in the Life);
+      that is the way I got it so I don't really know for sure
+
+
+
+
+-------------------------------flac fingerprint-------------------------------
+
+ph1996-07-11d1t01.flac:890e9e2f659719968b02da190887e9bb
+ph1996-07-11d1t02.flac:28a1c28bd5721e3fc9ddfff0692ebf37
+ph1996-07-11d1t03.flac:bf12050b3d7a3a8c35b14e85345f6f54
+ph1996-07-11d1t04.flac:cc575b3033e0f72375f71d565f28d8b7
+ph1996-07-11d1t05.flac:c5c2377f5b944cf3a1b2a23be3fb82d6
+ph1996-07-11d1t06.flac:6acaf096dee28d491b602825b4ec4ec3
+ph1996-07-11d1t07.flac:a1d350752f7dfaff6648740fa20f5977
+ph1996-07-11d1t08.flac:e0b34ca01d44d9663efac829b51d8606
+ph1996-07-11d2t01.flac:ccc9bcb583f05434c1df29d82fb0462f
+ph1996-07-11d2t02.flac:221ebc5f7b8c1f94b3d9bb134518472d
+ph1996-07-11d2t03.flac:cb6514b944e5a5477e81b8b386b0b8ee
+ph1996-07-11d2t04.flac:ed07d91b9a9b60c8353eecaf376ec46a
+ph1996-07-11d2t05.flac:a3a4984a4ad6e2a10ede18bf6532d122
+ph1996-07-11d2t06.flac:eb9d48ae0c199565747785a627c401c3
+ph1996-07-11d2t07.flac:6d099d4ac33a21294d0ff5f97d62e734
+ph1996-07-11d2t08.flac:2292327e4e972f0ba004bf0bc5776e61
+ph1996-07-11d2t09.flac:07d0c7215c7721b02416fdffeafc5ea7
+ph1996-07-11d2t10.flac:31041c09c7ad9f562e9ff8d2a565e62c
+ph1996-07-11d2t11.flac:9503e0268bdfa1bdfae1de61400ddf5a
+
+
+-------------------------------shntool output-------------------------------
+
+    length     expanded size   cdr  WAVE  probs   filename
+     7:51.54      83211452     ---   --    ---    ph1996-07-11d1t01.wav
+     4:48.22      50854988     ---   --    ---    ph1996-07-11d1t02.wav
+    11:53.17     125813228     ---   --    ---    ph1996-07-11d1t03.wav
+     3:12.62      34014668     ---   --    ---    ph1996-07-11d1t04.wav
+     3:46.40      39960524     ---   --    ---    ph1996-07-11d1t05.wav
+    10:57.74     116068892     ---   --    ---    ph1996-07-11d1t06.wav
+    11:30.55     121845404     ---   --    ---    ph1996-07-11d1t07.wav
+     5:13.46      55321436     ---   --    ---    ph1996-07-11d1t08.wav
+    12:37.13     133565420     ---   --    ---    ph1996-07-11d2t01.wav
+     3:17.05      34762604     ---   --    ---    ph1996-07-11d2t02.wav
+     4:27.33      47176460     ---   --    ---    ph1996-07-11d2t03.wav
+    11:12.13     118571420     ---   --    ---    ph1996-07-11d2t04.wav
+    10:13.25     108192044     ---   --    ---    ph1996-07-11d2t05.wav
+     1:14.27      13117148     ---   --    ---    ph1996-07-11d2t06.wav
+     4:27.43      47199980     ---   --    ---    ph1996-07-11d2t07.wav
+     1:42.00      17992844     ---   --    ---    ph1996-07-11d2t08.wav
+    21:01.69     222602732     ---   --    ---    ph1996-07-11d2t09.wav
+     2:33.20      27036284     ---   --    ---    ph1996-07-11d2t10.wav
+     5:08.29      54399452     ---   --    ---    ph1996-07-11d2t11.wav
+   137:09.47    1451706980 B                      (totals for 19 files)
+
+

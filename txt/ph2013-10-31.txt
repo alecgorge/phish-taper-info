@@ -1,0 +1,98 @@
+Phish 10/31/2013
+Boardwalk Hall - Atlantic City, NJ
+
+Source: DPA 4022(DIN/DFC/OTS@11')->V2->M10(24/96)->UV22HR(16/44.1)->CDWave->FLAC
+
+Recorded and transferred by Scott Schneider
+
+Disc 1 (67:05):
+1. Crowd
+2. Heavy Things 
+3. The Moma Dance >
+4. Poor Heart >
+5. Back On the Train 
+6. Silent In the Morning 
+7. Kill Devil Falls
+8. Mound 
+9. Free >
+10. Camel Walk 
+11. Stash
+
+Disc 2 (14:56 + 54:54): 
+1. Golgi Apparatus 
+2. Bathtub Gin 
+--Set II--
+3. Crowd 
+4. Wingsuit(1)
+5. Fuego(1) 
+6. The Line(1) 
+7. Monica (1,2,3) 
+8. Waiting All Night(1) 
+9. Wombat(1,4) 
+10. Snow(1,2) 
+11. Devotion to a Dream(1) 
+
+Disc 3 (27:32 + ):
+1. 555(1) > 
+2. WinterQueen(1) 
+3. Banter
+4. Amidst the Peals of Laughter(1,5) 
+5. Banter
+6. You Never Know(1) 
+--Set III--
+7. Ghost > 
+8. Carini 
+
+Disc 4 (44:42):
+1. Birds of a Feather 
+2. Harry Hood 
+3. Bug 
+4. Run Like an Antelope 
+5. Encore break/banter
+6. (E)Quinn the Eskimo 
+
+
+(1) First Time Played
+(2) Acoustic
+(3) w/ Mike Gordon on Double Bass
+(4) Wombat(Abe Vigoda) and dancers onstage 
+(5) Page and Trey (Acoustic Guitar)
+
+Second set was the debut performance of Phish's next studio album (tentatively called "Wingsuit") which will be recorded following the conclusion of fall tour and released in 2014.
+
+ph2013-10-31dpa4022-d1t01.flac:55c3f6d8d6e198745ef5ce2fdfd111e4
+ph2013-10-31dpa4022-d1t02.flac:9078923d3876ebc797ec2c7342374bbf
+ph2013-10-31dpa4022-d1t03.flac:142f9c30092185ef886b340f06c60d09
+ph2013-10-31dpa4022-d1t04.flac:14dc0bced64fc3b4d1d238373c1e3fda
+ph2013-10-31dpa4022-d1t05.flac:40b9825d18c8e3d60d82804db0eecac5
+ph2013-10-31dpa4022-d1t06.flac:6667088a90453ff5475fa52835fb0e19
+ph2013-10-31dpa4022-d1t07.flac:612efdff46c608f720fd2c9492d897e8
+ph2013-10-31dpa4022-d1t08.flac:a921606032d4b747af592fd61874eb42
+ph2013-10-31dpa4022-d1t09.flac:217dcad153dd1c42b36d30917517499e
+ph2013-10-31dpa4022-d1t10.flac:ed56165b1e9f5c2d3a227b0207e0f607
+ph2013-10-31dpa4022-d1t11.flac:5247efc605232b99ca996ff7275923b6
+ph2013-10-31dpa4022-d2t01.flac:ef9e9a982b486a5fa21e7d05c1f4d9ba
+ph2013-10-31dpa4022-d2t02.flac:88d7be9120e1817cfcc142308c970388
+ph2013-10-31dpa4022-d2t03.flac:5b4ad4dfe25d6102fba426a9f1d0ed73
+ph2013-10-31dpa4022-d2t04.flac:ac28f2fb86f2c3ee7bc271dd9b68485d
+ph2013-10-31dpa4022-d2t05.flac:e2a94c516b6adf1cfad5c31350f4ccef
+ph2013-10-31dpa4022-d2t06.flac:04d7641aeaee517a0f8967b0473271c9
+ph2013-10-31dpa4022-d2t07.flac:f0993150f91498d73671bdf7b7618307
+ph2013-10-31dpa4022-d2t08.flac:ced66597b47d284108a821fc9db41516
+ph2013-10-31dpa4022-d2t09.flac:aeceeba455d3eb714ec459c75354272f
+ph2013-10-31dpa4022-d2t10.flac:bec781d7b9b27198a9eb5e121910f689
+ph2013-10-31dpa4022-d2t11.flac:8f12575e69f58a630210bfae54a9ea2a
+ph2013-10-31dpa4022-d3t01.flac:33febec7b8e65be4bc395614bbebee12
+ph2013-10-31dpa4022-d3t02.flac:1cd7f53d3cfa373864d6af031d5b163d
+ph2013-10-31dpa4022-d3t03.flac:803ca57798206a485727512571df0d65
+ph2013-10-31dpa4022-d3t04.flac:d107d0ed027385e09e229481c83edf61
+ph2013-10-31dpa4022-d3t05.flac:df1e7cf5b244d8919a7c83207e2c67c1
+ph2013-10-31dpa4022-d3t06.flac:af11f4e42c06899d544bbae61c65ec89
+ph2013-10-31dpa4022-d3t07.flac:017a6fc00b8203ebbb251a987577ec55
+ph2013-10-31dpa4022-d3t08.flac:941c733f81004b7ad44858a8056da0e9
+ph2013-10-31dpa4022-d4t01.flac:dbd1be121f90804d6a0c59c495439785
+ph2013-10-31dpa4022-d4t02.flac:5a80191930e0c05150780c78667188f7
+ph2013-10-31dpa4022-d4t03.flac:c05f64637172ce21d0b82994c04e7905
+ph2013-10-31dpa4022-d4t04.flac:eabc5000de0584410d78db764dac9932
+ph2013-10-31dpa4022-d4t05.flac:16e39e431db061dbab9d4bbcb4dae5ab
+ph2013-10-31dpa4022-d4t06.flac:f9d009ce614be3db9898d2988506735f

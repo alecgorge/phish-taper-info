@@ -1,0 +1,67 @@
+Phish 
+2-4-93  
+Providence Performing Arts Center, Providence, RI
+
+source: AKG 451 from tapers area, immediately behind soundboard in 
+open floor area of orchestra section (NOT under balcony overhang)
+(no further mic info available, patched with Sony D3)
+
+.shn transfer: DAT patch master->Tascam DA30mkII->Apogee WydeEye Coax 
+digital cable->Frontier Design Group WaveCenter PCI (SPDIF In)->Cool
+Edit Pro v1.2 (48 to 44.1, fades)->MKWACT->.shn
+
+Original Taper: Unknown
+Patch by: Jeffrey Frascona
+DAT->.shn transfer: Will Herrmann
+
+Known Flaws: Set 1, Track 1 (Axilla) cuts in shortly before vocals
+start.  I faded in the track to make the abrupt start a little more
+tolerable.  In addition, there is substantial level flux and 
+minor distortion during the first half of Axilla.  The levels start 
+out VERY high and the preamp and/or mics overload.  An attenuator is 
+subsequently switched on and the distortion ends.  Record level 
+fluctuations are also present as the taper and patcher adjust levels.
+
+Disc 1 (set 1, requires 80 minute disc):
+
+ 1.  Axilla Part 1
+ 2.  Foam
+ 3.  Bouncing 'Round the Room
+ 4.  Maze
+ 5.  Fast Enough For You
+ 6.  All Things Reconsidered
+ 7.  Stash
+ 8.  Lizards
+ 9.  Sample in a Jar*
+10.  Glide
+11.  Run Like an Antelope 
+
+Disc 2 (set 2, requires 80 minute disc):
+
+ 1.  Chalkdust Torture
+ 2.  The Wedge**
+ 3.  Mike's Song->
+ 4.  TMWSIY->
+ 5.  Avenue Malkenu->
+ 6.  TMWSIY->
+ 7.  Weekapaug Groove
+ 8.  Lawn Boy
+ 9.  Uncle Pen
+10.  Big Ball Jam
+11.  HYHU->
+12.  Lengthwise^->
+13.  HYHU
+14.  Harry Hood
+15.  Cavern
+
+Disc 3 (encore)
+
+ 1.  Amazing Grace (unmic'd)
+ 2.  Good Times Bad Times
+
+
+notes:
+
+* First Time Played
+** With early, jammed intro before lyrics
+^ Reggae version, one of three times ever performed reggae style

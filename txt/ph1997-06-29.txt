@@ -1,0 +1,50 @@
+Phish
+June 29, 1997
+Roskilde Festival
+Roskilde, Denmark
+
+source:
+Sony ECM-T140 > Denon DTR-80P (@ 48 kHz)
+
+transfer:
+Tascam DA-20mkII > Marantz PMD-661 > SDHC card > usb 2.0 > pc > Samplitude SE v9.1.1 (fades) > r8brain v1.9 (resample to 44.1 kHz) > CD Wave v1.98 (track splits) > FLAC v1.2.1 (Level 8)
+
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded July 16, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+The original 48 kHz files from the DAT transfer have been archived and are available upon request.
+
+total time - [74:50]
+01 - [00:49] - intro
+02 - [22:17] - You Enjoy Myself
+03 - [10:23] - Taste
+04 - [03:39] - Bouncing Around the Room
+05 - [02:59] - Beauty of My Dreams
+06 - [08:23] - Chalk Dust Torture
+07 - [00:49] - Trey talks
+08 - [09:08] - Theme From the Bottom
+09 - [07:40] - Character Zero
+10 - [02:05] - encore break
+11 - [05:49] - My Soul
+12 - [00:50] - outro
+
+--------------------------------------------------------
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:49.20           8.29 MB  ---   --   ---xx   flac  0.3272  ph1997-06-29t01.flac
+    22:17.32         224.99 MB  ---   --   ---xx   flac  0.4874  ph1997-06-29t02.flac
+    10:23.03         104.81 MB  ---   --   ---xx   flac  0.5062  ph1997-06-29t03.flac
+     3:38.40          36.76 MB  ---   --   ---xx   flac  0.4792  ph1997-06-29t04.flac
+     2:58.51          30.06 MB  ---   --   ---xx   flac  0.5176  ph1997-06-29t05.flac
+     8:22.45          84.55 MB  ---   --   ---xx   flac  0.5334  ph1997-06-29t06.flac
+     0:48.53           8.19 MB  ---   --   ---xx   flac  0.3728  ph1997-06-29t07.flac
+     9:07.54          92.14 MB  ---   --   ---xx   flac  0.5125  ph1997-06-29t08.flac
+     7:39.48          77.32 MB  ---   --   ---xx   flac  0.5483  ph1997-06-29t09.flac
+     2:05.03          21.04 MB  ---   --   ---xx   flac  0.4221  ph1997-06-29t10.flac
+     5:49.29          58.78 MB  ---   --   ---xx   flac  0.5457  ph1997-06-29t11.flac
+     0:49.72           8.40 MB  ---   --   ---xx   flac  0.4201  ph1997-06-29t12.flac
+    74:50.00         755.34 MB                           0.5042  (12 files)

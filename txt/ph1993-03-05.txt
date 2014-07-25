@@ -1,0 +1,68 @@
+Phish
+March 5, 1993
+Deep Ellum Lodge
+Dallas, TX
+
+
+Source:		Sonic Studios omnis > Sony D7
+
+Conversion:	Archive Python DDS/dat2wav > .wav; no soundcard
+		Soundforge for resampling (*no DAE at all)
+		Louie Rendek <ljr7@po.cwru.edu>
+		
+		CDWAV used for tracking by Mike Woellert <dmbnum41@aol.com>
+
+WAV > SHN:	mkwACT > SHN:  Mike Woellert <dmbnum41@aol.com>
+
+
+Disc One:
+
+1. Buried Alive >				- 02:18.25
+2. Poor Heart >				- 02:30.70
+3. Cavern				- 04:16.04
+4. Foam					- 08:50.23
+5. The Sloth				- 03:40.73
+6. Rift					- 06:11.48
+7. Stash**				- 11:03.32
+8. Sparkle >				- 03:53.57
+9. It's Ice				- 07:46.33
+10. I Didn't Know				- 03:40.51
+11. Possum				- 10:43.43
+
+
+
+
+Disc Two:
+
+1. The Landlady >				- 03:42.33
+2. Chalkdust Torture			- 07:01.26
+3. Guelah Papyrus				- 05:50.35
+4. Uncle Pen				- 03:55.64
+5. Mike's Song >				- 07:25.27			
+6. I Am Hydrogen >			- 02:58.47
+7. Weekapaug Groove**			- 10:15.35
+
+
+
+Disc Three:
+1. Jesus Left Chicago			- 09:08.73
+2. My Sweet One				- 02:31.11
+3. Big Ball Jam				- 02:45.55
+4. HYHU >				- 02:34.15
+5. Love You >				- 06:34.58
+6. HYHU					- 01:41.21
+7. The Squirming Coil			- 08:57.74
+8. Amazing Grace**			- 02:13.16
+Encore
+9. Good Times, Bad Times			- 05:21.02
+
+
+
+Notes:
+----------
+*-The show begins with Buried Alive coming in
+**-There's a fade after the song, and a few seconds of silence..than comes back in...no music is lost
+     I kept it in, for the sake of continuity with the DAT, and the show...
+
+*  compiled by Mike Woellert <dmbnum41@aol.com> on October 20, 2001.  Thanks to Mark Lynn for the
+DAT and to Louie Rendek for the conversion!!!!!!!!!

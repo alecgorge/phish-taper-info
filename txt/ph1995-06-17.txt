@@ -1,0 +1,79 @@
+Phish 06/17/95 Nissan Pavillion at Stone Ridge - Gainesville, VA 
+
+Source: 	DAUD/OTS Schoeps CMC5/mk4 > Aerco > Casio DA-R100@48k
+		Master(on DA-R100 listed above) > clone used in below transfer
+		
+Conversion: 	Fostex D5 > Monster Optical > Sek'd Prodif Plus > 
+		Samplitude v5.5 > Soundforge 4.0 (48>44.1@highest setting[4of4],
+		with anti-alias filter and Fade in/outs) > CD Wave > mkwACT v0.97
+		(shn files have seek tables appended)
+		**No DAE at all** 						
+
+Minor Edits:	Fades (5 sec in all cases) in/out at beg/end of sets
+		Crossfade (6.965sec duration) in encore break (d3t03) to fix a
+		pause/break between the second set closer (Sample) and Encore
+
+Mastered by Jason Frankhouser, with the gear of Adam Gross.
+The DATs for this transfer were supplied by Franklin Malemud.
+Transferred and uploaded by Jim Raras <jraras@yahoo.com> via Dankseeds
+Please contact me with questions etc.  There are also 48k shn's of this seed for archival.
+
+____________________________________________________________________________
+
+*Dankseed Certification received 01-06-08*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph95-06-17/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________
+
+
+Disc 1 / Set I 			                        	     01:16:37
+01.  Intro/Crowd			                   		00:45
+02.  Divided Sky			                   		16:50
+03.  Suzy Greenberg                  		   			05:52 
+04.  Taste	         		   				06:50 
+05.  Fee >			 		   			05:20
+06.  Uncle Pen		     		   				04:17
+07.  Julius		   		   				09:35
+08.  Lawn Boy		               	 		   		02:43
+09.  The Curtain ->		                  	 		06:08
+10.  Stash			                  	 		17:27
+11.  Set Break Music		                  	 		00:50
+
+
+Disc 2 / Set IIa						     01:01:11
+01.  Intro/Crowd       		         		   		00:23
+02.  Wilson >		 		       		   		04:57
+03.  Maze			         		   		12:00
+04.  Mound >			         		   		05:57
+05.  Tweezer ->		                 		   		07:05
+06.  Johnny B. Goode ->                        		   		02:33
+07.  Tweezer ->		                 		   		10:48
+08.  McGrupp and the Watchful Hosemasters   		   		10:44
+09.  Acoustic Army	                 		   		04:19
+10.  Sweet Adeline	                 		   		02:25
+
+
+Disc 3 / Set II (con't) & Encore				     00:25:55
+01.  Harry Hood		                		   		14:25
+02.  Sample in a Jar  		         		   		05:05
+03.  Encore Break/Crowd		         		   		00:15
+04.  Three Little Birds		         		   		06:10
+
+
+Three Little Birds featured Dave Matthews and LeRoi Moore
+Setlist from "The Phish Companion" http://www.phish.net/mockingbird/		
+
+Show Notes: Fans in attendance were treated to the first performances of 
+Three Little Birds, with a guest appearance by LeRoi Moore and Dave Matthews, 
+and Johnny B. Goode. Tweezer included a brief Montana tease. Stash segued nicely 
+out of The Curtain and subsequently included Curtain teases.

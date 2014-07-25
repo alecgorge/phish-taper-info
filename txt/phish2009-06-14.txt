@@ -1,0 +1,95 @@
+Phish
+2009-06-14
+What Stage
+Bonnaroo
+Manchester, TN.
+
+
+***16bit Source***
+
+
+Source: Schoeps MK4V (ORTF) > KC5 > CMC6 > Sound Devices 722 (24bit/48kHz)
+Location: FOB / DFC / 10ft.
+Transfer: 722 > HDD > Wavelab 5.01b (Re-Sampler192/MBit+ Dither/Fades) > CDWave > FLAC (8)
+Taped & Transferred by Martin Medley. Seeded by Dennis Tyler.
+
+
+Set 1:
+Disc 1:
+
+01. Intro
+02. AC/DC Bag >
+03. NICU
+04. Gotta Jibboo
+05. Punch You In The Eye
+06. Sparkle
+07. Bathtub Gin
+08. Character Zero
+09. Tweezer >
+10. The Horse >
+11. Silent In The Morning
+
+
+Disc 2:
+
+01. Run Like An Antelope
+02. Mustang Sally *
+03. Bobby Jean *
+04. Glory Days *
+
+Set 2:
+
+05. Intro
+06. Rock And Roll >
+07. Light >
+08. 46 Days
+09. Limb By Limb
+
+Disc 3:
+
+01. Farmhouse
+02. Backwards Down The Number Line
+03. Prince Caspian
+04. First Tube
+05. Encore Break
+Encore:
+06. Suzy Greenberg >
+07. Tweeprise
+
+Notes:
+* - with Bruce Springsteen
+
+
+
+
+FLAC Fingerprint:
+
+phish2009-06-14d1t01.flac:0a8086abd78f215c1da89e0d31548d1a
+phish2009-06-14d1t02.flac:6f0262eda2d0e24cca56315a9209927a
+phish2009-06-14d1t03.flac:defcbe8ed6dbbce5c8806714e1be30c1
+phish2009-06-14d1t04.flac:9ebae0c51e53edae009ef393257b388d
+phish2009-06-14d1t05.flac:324d8d88afe193992924c50b6df07dbe
+phish2009-06-14d1t06.flac:66e0f3514d8ebf650076a46f7fdb55ab
+phish2009-06-14d1t07.flac:78b3b39973b021e6727fc90aceefdf39
+phish2009-06-14d1t08.flac:572361974142360521510b65b281fdfb
+phish2009-06-14d1t09.flac:d412c901414ef592753909eb9952868a
+phish2009-06-14d1t10.flac:55792216dc51cc6b5bf9f20f084cc7c5
+phish2009-06-14d1t11.flac:e347fa5704a8e1b54d1295fea5d6e03b
+phish2009-06-14d2t01.flac:b338593533117de47d513e16f04f2739
+phish2009-06-14d2t02.flac:0069cfad1c2abdfd07048b10a13388ca
+phish2009-06-14d2t03.flac:bebe64178b00e2cb821d00e7a6845589
+phish2009-06-14d2t04.flac:6b22344eab8bb518fe7fcac0efa0fd19
+phish2009-06-14d2t05.flac:a0a57262101f4cb01eacd58a27dca9a2
+phish2009-06-14d2t06.flac:7434acca91e86ce98c2704d4242ab01c
+phish2009-06-14d2t07.flac:30effa96ec4c67927f92aad0d5ee8a2d
+phish2009-06-14d2t08.flac:ad7ebf23fe306e2318aacc0fac03b955
+phish2009-06-14d2t09.flac:4f5097119129222deb43c91e855cf421
+phish2009-06-14d3t01.flac:204af817d868770aeb0e5d9191052a3b
+phish2009-06-14d3t02.flac:b6bded5de69b4f36fa82fe8a619ec196
+phish2009-06-14d3t03.flac:97524960b341d03142d043bb87b7f0eb
+phish2009-06-14d3t04.flac:393eb122f7513b610598c7cc48e95cbb
+phish2009-06-14d3t05.flac:40e4fdbdc131112f76abddb13d4e67cd
+phish2009-06-14d3t06.flac:756780d0d383e119cf225d143591fce9
+phish2009-06-14d3t07.flac:ec1e483e1cbdbc4385fddddd34ee9651
+
+

@@ -1,0 +1,64 @@
+Phish
+October 5th, 2000
+Verizon Ampitheatre, Irvine, CA
+
+
+Source: Scheops CMC6/mk41>SX-M2>AD1000  (taper Dave Flashner?)
+Transfer: Fostex D5 > m-audio DiO 2496 > CDWave (tracking)> FLAC 
+
+Transferred by Kevin Davis, tracked and seeded by Blane Harvey
+
+Disc 1:
+-Set 1-
+1. Chalkdust
+2. Guyute
+3. Wolfman's Brother->
+4. Sneaking Sally
+5. Limb by Limb
+6. COme on Baby Let's Go Downtown
+7. Beauty of My Dreams
+8. Axilla
+9. Horn >
+10. Possum
+
+
+Disc 2:
+-Set 2-
+1. Drowned>
+2. NICU >
+3. Bowie intro>
+4. Bowie
+5. Halley's Comet>
+6. Walk Away
+
+Disc 3:
+-Set 2 cont.-
+1. Piper! >
+2. Character Zero
+ENCORE
+3. While My Guitar Gently Weeps.
+
+
+NOTE: You can fit the show onto 2 discs by putting Drowned at the end of Disc 1.
+
+
+Fingerprint:
+ph2000-10-05d1t01.flac:4dd6ad53bd52feee3593d216525d743b
+ph2000-10-05d1t02.flac:03319e584658f0756d841042ec17e7c0
+ph2000-10-05d1t03.flac:2da923243e91d4c552d90a06cf8b9a81
+ph2000-10-05d1t04.flac:cfa1d2af3669184b160e398bd78e7d53
+ph2000-10-05d1t05.flac:854415520a029bf23f07c1b55b61e5ad
+ph2000-10-05d1t06.flac:6a3e957dbd99e343afb773c20f54eaff
+ph2000-10-05d1t07.flac:75765708a5a0219d4bc8657fa2abf9e0
+ph2000-10-05d1t08.flac:dd9bdcb95380b0300f743398f97976dc
+ph2000-10-05d1t09.flac:0a52ac51940bd2444d6edb523516c832
+ph2000-10-05d1t10.flac:0c136e339d49a60aba31c3b1a4fc2352
+ph2000-10-05d2t01.flac:7c6e7e8935295922bf1f72e81c2d8cce
+ph2000-10-05d2t02.flac:15da9f9991d945316bf5d46d19a412fc
+ph2000-10-05d2t03.flac:8a2abbc94068468d80774385af950fc0
+ph2000-10-05d2t04.flac:239101fff53d6c3f295a3dafaec955f7
+ph2000-10-05d2t05.flac:3d079550e55b9795c63e61e46630603e
+ph2000-10-05d2t06.flac:58488c0913b09ecafe7b20ba8ab11362
+ph2000-10-05d3t01.flac:a1a9af409f350c3a6df8cd20e68666a4
+ph2000-10-05d3t02.flac:353eaf0e13a5063b84c43dec8c3c5436
+ph2000-10-05d3t03.flac:1952bbbbd10249e3596b9fcf47da694c

@@ -1,0 +1,78 @@
+Phish 
+Assembly Hall  
+University of Illinois
+Champaign, IL
+November 8th 1996
+
+Taper: Greg Holtz
+
+ Source: Nakamichi CM300 & PZM 30D mix-> Niles Audiomixer-> D3 @ 48kHz
+
+ Transfer: (By JAZ) DAT Master-> PCM-R300-> Coax-> M-Audio Delta 1010Lt-> r8brain PRO (44.1kHz) Wave Lab 5.0, BBE, Fades, L2Dither-> Traders Little Helper flac8
+
+ SET I (Disk I)
+1.Runaway Jim-> 
+2.Axilla-> 
+3.All Things Reconsidered-> 
+4.Mound 
+5.Down with Disease
+6.Prince Caspian
+7.Reba
+8.Golgi Apparatus 
+9.Run Like an Antelope
+
+ Set II (Disk II)
+10.Also Sprach Zarathustra-> 
+11.Maze
+12.Bouncing Around the Room
+13.Simple 
+14.Loving Cup
+15.Mike's Song 
+16.The Star Spangled Banner 
+17.Weekapaug Groove 
+
+ Encore: 
+18.Theme From the Bottom
+
+ FLAC FINGERPRINT:
+Phish1996-11-08trk01.flac:76c6cea430d12547fd07fd2a50e48053
+Phish1996-11-08trk02.flac:af78d3ba153675dfe16a20d1fdc40fe1
+Phish1996-11-08trk03.flac:cade365dd496cc1d9f62ad9dca91dd42
+Phish1996-11-08trk04.flac:2102cf35d922cf10d51ecbdf87c56439
+Phish1996-11-08trk05.flac:cb4af69cbd6f187282dd8432505f0bc0
+Phish1996-11-08trk06.flac:03324b05a6348713a7a02e4e4bbef1d6
+Phish1996-11-08trk07.flac:2a73b50f3aa6dd08da32952247076a73
+Phish1996-11-08trk08.flac:7632686b8fe4182117b271c0af8f00f7
+Phish1996-11-08trk09.flac:063fa8fc692a09c7c04945ed44edd230
+Phish1996-11-08trk10.flac:7861c1a51b3b89a9d78c26af8b7128ad
+Phish1996-11-08trk11.flac:79f66e1564d94ab5e5c8d9a40ae4ee37
+Phish1996-11-08trk12.flac:a29db64d029b426cc30e79a3f7881a0c
+Phish1996-11-08trk13.flac:9c62f54a87d4833f6b8ea944119bfb20
+Phish1996-11-08trk14.flac:5bd6dd2ef67d1a2da7f3c9fbf5fab698
+Phish1996-11-08trk15.flac:bfa385e121fc32d4f945ac90f9e313cc
+Phish1996-11-08trk16.flac:a51bd511c3d6ef870f646d2342d103bf
+Phish1996-11-08trk17.flac:936f91fa9304c77d8a7aa74e6d294540
+Phish1996-11-08trk18.flac:490549810bbe34b4971c399aaf35dc7b
+
+ SHNTOOL:
+    length     expanded size   cdr  WAVE problems filename
+     9:40.31      102384956    ---   --   ---xx   Phish1996-11-08trk01.flac
+     3:54.03       41284700    ---   --   ---xx   Phish1996-11-08trk02.flac
+     3:43.49       39452492    ---   --   ---xx   Phish1996-11-08trk03.flac
+     5:02.55       53402204    ---   --   ---xx   Phish1996-11-08trk04.flac
+     9:41.00      102488444    ---   --   ---xx   Phish1996-11-08trk05.flac
+     7:16.05       76922204    ---   --   ---xx   Phish1996-11-08trk06.flac
+    15:25.21      163219436    ---   --   ---xx   Phish1996-11-08trk07.flac
+     4:30.29       47696252    ---   --   ---xx   Phish1996-11-08trk08.flac
+    11:36.00      122774444    ---   --   ---xx   Phish1996-11-08trk09.flac
+     6:07.49       64854092    ---   --   ---xx   Phish1996-11-08trk10.flac
+    12:00.43      127109180    ---   --   ---xx   Phish1996-11-08trk11.flac
+     3:40.08       38826860    ---   --   ---xx   Phish1996-11-08trk12.flac
+    18:21.73      194388140    ---   --   ---xx   Phish1996-11-08trk13.flac
+     6:28.11       68469116    ---   --   ---xx   Phish1996-11-08trk14.flac
+    11:26.43      121111580    ---   --   ---xx   Phish1996-11-08trk15.flac
+     1:25.60       15135164    ---   --   ---xx   Phish1996-11-08trk16.flac
+    10:18.46      109123436    ---   --   ---xx   Phish1996-11-08trk17.flac
+     7:43.29       81741452    ---   --   ---xx   Phish1996-11-08trk18.flac
+   148:22.30     1570384152 B                     (totals for 18 files, 0.5699 overall compression ratio)
+

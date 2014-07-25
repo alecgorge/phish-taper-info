@@ -1,0 +1,157 @@
+Phish
+04-04-91 
+Woodmen of the World Hall (aka "WOW Hall")
+Eugene, OR 
+
+-- FLAWS EXIST, AND ARE NOTED BELOW (none are flaws of the digital domain) --
+
+Source:
+	SBD -> Cassette Master -> DAT 
+
+Scarcity:  
+	Bill's RCA SBD patch was given to him as a friend of Page; apparently, no other SBD patches were given.  
+	There are no known AUDs of this show.  Kindly let me know if you have one, or know of one.
+
+Transfer and Lineage Detail:  	
+	Cassette mastered (by Bill H.) on an unknown "vintage 80s 3-head Nak deck (not a DR-1)" ->
+	Maxell XL-II cassette ->
+	Played back by a Nak DR1 deck -> 
+	Recorded to DAT on Sony R500 DAT w/SBM* (by Clay Ellwood) -> 
+	Cloned on Sony R500 + Tascam DA20 MKII @ 48KHz ->
+	Jeff Ishaq's (my) first gen DAT clone -> 
+	Playback on Fostex D5 -> 
+	optical cable -> HOSA ODL-276 -> coax cable -> 
+	Waveterminal 2496, hardware downsampling to 44.1KHz -> 
+	CoolEdit 2000 (noise reduction and fixes done here) -> 
+	CDWave 1.6 > WAV > mkwACT 0.97b1 > SHN v3 
+
+*:  SBM is Super Bit Mapping, a Sony 16-bit to 20-bit upsampling algorithm.
+
+Credits:
+	Mastered by Bill H.
+	Original DAT seed from Clay Ellwood (thanks!)
+	Transfer, notes, noise reduction, and Dankseeds upload by Jeff Ishaq
+
+Noise Reduction notes:  
+There was a terrible high-pitched buzz that ran from [start -> d1t08 08:23] and [d1t10 01:58 -> end].  I applied a notch filter in Cool Edit 2000 to these two passages to reduce the noise, the downside of which was a slight attenuation in the high-end such as cymbal/high-hat.  I think this recording was a little heavy on the high-end anyway, so perhaps this wasn't a downside after all -- you be the judge: you can hear the notch filter kick in again at d1t10 01:58.
+
+I also manually removed numerous pops, the exact locations of which are at the end of this info file.
+
+____________________________________________________________________________
+
+*Dankseed Certification received 2001-11-19*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph91-04-04/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+
+___________________________________________________________________________
+
+
+Tracking:
+
+Disc One: [74:02]
+Set I:
+01.  [01:58] Oh Kee Pa Ceremony -> 
+02.  [05:03] Suzy Greenberg
+03.  [14:54] You Enjoy Myself 
+04.  [06:00] The Squirming Coil
+05.  [04:23] Llama
+06.  [06:38] Colonel Forbin's Ascent -> 
+07.  [06:38] Famous Mockingbird
+08.  [08:42] Possum~
+09.  [01:32] Carolina
+10.  [05:19] Golgi Apparatus  * Gotta Jiboo teast 04:40?
+Set II:
+11.  [06:25] The Curtain ->
+12.  [06:30] Runaway Jim
+
+Disc Two: [68:55]
+01.  [05:45] Guelah Papyrus
+02.  [13:08] David Bowie
+03.  [02:26] Lawn Boy
+04.  [03:25] The Landlady
+05.  [02:12] My Sweet One
+06.  [12:02] The Divided Sky
+07.  [01:36] HYHU >
+08.  [03:33] Love You >
+09.  [00:29] HYHU ->
+10.  [04:52] Big Black Furry Creature From Mars
+Encore 1:
+11.  [04:15] Magilla
+12.  [04:29] Highway to Hell 
+Encore 2: 
+13.  [06:08] Contact 
+14.  [04:35] Uncle Pen 
+
+~: Tapeflip cuts-into Possum
+
+Unfixable Flaws:  (these are all very subtle)
+d1t07 01:22.478 -> 01:22.481      partial dropout 
+d1t08 08:14     -> 08:29, 08:38:  feedback and a little crackle/static
+d1t10 01:55     -> 01:57,         crackle/static
+d1t11 00:11.423 -> 00:11.484      three very short (< .03 sec) dropouts, sounds like one
+d2t06 04:15.892 -> 04:16.513      00.62-sec faded d/o (tapeflip?)
+
+Fixed flaws: 
+d1t03:
+    07:30.203 -> 07:30.208 pop removal - stereo
+    08:30.606 -> 08:30.606 pop removal - right channel
+    13:21.707 -> 13:21.592 pop removal - stereo
+    14:51.534 -> 14:51.534 pop removal - left channel
+
+d1t08:
+    00:40.739 -> 00:41.416 right channel flutter improvements
+    01:05.895 -> 01:05.896 pop removal - stereo
+    05:57.810 -> 05:57.834 left channel flutter improvements
+
+d1t11:
+    02:24.070 -> 02.24:071 pop removal - stereo
+    03:33.162 -> 03:32.850 pop removal - stereo
+
+d2t02:
+    00:48.593 -> 00:48.593 pop removal - stereo
+    05:23.708 -> 05:23.708 pop removal - stereo
+    06:48.643 -> 06:48.359 pop removal - stereo
+    07:25.393 -> 07:25.394 pop removal - right channel
+
+
+dwt05:
+    00:25.110 -> 00;25.111 pop removal - left channel
+    01:49.761 -> 01:49.761 pop removal - stereo
+
+d2t06:
+    07:07.188 -> 07:07.188 pop removal - stereo
+    11:26.430 -> 11:26.431 pop removal - stereo
+
+d2t07:
+    00:05.782 -> 00:06.783 pop removal - stereo
+    00:16.364 -> 00:16.364 pop remoavl - right channel
+
+d2t10:
+    02:54.353 -> 02:54.354 pop removal - stereo
+    04:40.166 -> 04:40.167 pop removal - stereo
+
+d2t11:
+    01:33.045 -> 01:33.047 pop removal - left channel
+
+d2t12:
+    02:45.601 -> 02:45.602 pop removal - stereo
+
+d2t13:
+    06:07.163 -> 06:06.164 pop removal - stereo
+
+d2t14:
+    02:53.156 -> 02:53.156 pop removal - left channel
+
+-Jeff Ishaq <jeff.ishaq@uvm.edu>
+07/14/01
+Burlington, VT

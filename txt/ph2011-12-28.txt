@@ -1,0 +1,107 @@
+Phish
+Madison Square Garden
+New York City, New York
+12/28/2011
+
+Source: Schoeps CCM4V'S(din)>Lunatec V2>Benchmark AD2K>
+Sound Devices 722 (24/48)
+OTS/BOB/DFC/KFC/ZFC/AARP Section 2, Row 4, Seat 13, 8' High
+DSP: Sound Devices 722>Sound Forge 9.0>CD Wave>flac(16)
+Recorded By: Z-Man
+Seeded By: Z-Man
+
+Disc I 1st Set
+
+01 Free
+02 Glide >
+03 Possum
+04 Cities
+05 The Ballad Of Curtis Lowe
+06 Stash
+07 Contact >
+08 Sample In A Jar
+
+Disc II 1st Set Con't
+
+01 Kill Devil Falls >
+02 Bathtub Gin
+2nd Set:
+03 Tuning/Crowd
+04 Birds Of A Feather
+05 Carini >
+06 *Tweezer >
+
+Disc III 2nd Set Con't
+
+01 My Friend, My Friend >
+02 Rock And Roll >
+03 NICU
+04 Bouncin' Around The Room
+05 Harry Hood >
+06 Bug
+Encore:
+07 Tube >
+08 Rocky Top >
+09 Tweezer Reprise
+
+* With Streets Of Cairo Tease And Sharon Riffs
+
+Flac Fingerprint 
+
+phish2011-12-28d01t01.flac:e44ae3681ac6d31ca73adbb7f6b31b3f
+phish2011-12-28d01t02.flac:6f994976c36eb461f7f5e3a779acd0ea
+phish2011-12-28d01t03.flac:17e4809d53df921f8e65bfddf80b01e3
+phish2011-12-28d01t04.flac:9ea19d7ee6e952187dd1eb9a04c9fe3c
+phish2011-12-28d01t05.flac:00db928619314221678032598112d5c4
+phish2011-12-28d01t06.flac:e59d1f7c035bbe510b4c75f8a74970ad
+phish2011-12-28d01t07.flac:598386f6ac6e3ad6032cc6bf4ec3fd1b
+phish2011-12-28d01t08.flac:7aaf08c11969fc3ff4b00e85d46165f0
+phish2011-12-28d02t01.flac:159cbde81023f1fb5a1279363f5a1aaa
+phish2011-12-28d02t02.flac:2ab3e2ba94e5c7d8832fae8f8da9e298
+phish2011-12-28d02t03.flac:fb21850f15064b0a3ef677a4c3088815
+phish2011-12-28d02t04.flac:0e1d26455306530fd32e92e948b16bbe
+phish2011-12-28d02t05.flac:b23199ac34ebf607b3683e5255b5c906
+phish2011-12-28d02t06.flac:17335dcaa1a0e174ab37286aa0dd3043
+phish2011-12-28d03t01.flac:ff4be49735f61b7a5e0ea993989b0c21
+phish2011-12-28d03t02.flac:ddcd13ac1392ebbbae664861e9601ed9
+phish2011-12-28d03t03.flac:e5f8bedf77a2dd87ba7f687a99fa69ef
+phish2011-12-28d03t04.flac:775c0caf012207a2ce9c36065a1e7fb6
+phish2011-12-28d03t05.flac:d916bbcd6faefe0b100774e4bc6419cf
+phish2011-12-28d03t06.flac:ab246bc8d35e1bcc8b802755b377e730
+phish2011-12-28d03t07.flac:8578ee2ccd0dcb04c73290d195ccbb5d
+phish2011-12-28d03t08.flac:02dde169984c39a321b3be87658c8fea
+phish2011-12-28d03t09.flac:e3b9e284c9a43cb7bcc4348c6eeb434a
+
+Shntool 
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     7:21.22       77844188 B   ---   --   ---xx   flac  0.4843  phish2011-12-28d01t01.flac
+     4:25.62       46891868 B   ---   --   ---xx   flac  0.4209  phish2011-12-28d01t02.flac
+    10:09.00      107427644 B   ---   --   ---xx   flac  0.4527  phish2011-12-28d01t03.flac
+    10:38.27      112606748 B   ---   --   ---xx   flac  0.4386  phish2011-12-28d01t04.flac
+     5:39.20       59846684 B   ---   --   ---xx   flac  0.4048  phish2011-12-28d01t05.flac
+    11:01.31      116673356 B   ---   --   ---xx   flac  0.4390  phish2011-12-28d01t06.flac
+     6:45.37       71529068 B   ---   --   ---xx   flac  0.4151  phish2011-12-28d01t07.flac
+     5:16.67       55900028 B   ---   --   ---xx   flac  0.4923  phish2011-12-28d01t08.flac
+     7:55.28       83855900 B   ---   --   ---xx   flac  0.4710  phish2011-12-28d02t01.flac
+    12:49.06      135665756 B   ---   --   ---xx   flac  0.4532  phish2011-12-28d02t02.flac
+     0:55.60        9843164 B   ---   --   ---xx   flac  0.3424  phish2011-12-28d02t03.flac
+     6:10.28       65333900 B   ---   --   ---xx   flac  0.4835  phish2011-12-28d02t04.flac
+     8:53.21       94070636 B   ---   --   ---xx   flac  0.4974  phish2011-12-28d02t05.flac
+    12:39.00      133887644 B   ---   --   ---xx   flac  0.4690  phish2011-12-28d02t06.flac
+     5:46.73       61206140 B   ---   --   ---xx   flac  0.4697  phish2011-12-28d03t01.flac
+    12:29.07      132140108 B   ---   --   ---xx   flac  0.5058  phish2011-12-28d03t02.flac
+     5:41.32       60227708 B   ---   --   ---xx   flac  0.4618  phish2011-12-28d03t03.flac
+     3:58.67       42140828 B   ---   --   ---xx   flac  0.4411  phish2011-12-28d03t04.flac
+    13:06.36      138735116 B   ---   --   ---xx   flac  0.4484  phish2011-12-28d03t05.flac
+     8:11.28       86678300 B   ---   --   ---xx   flac  0.4572  phish2011-12-28d03t06.flac
+     3:24.47       36096188 B   ---   --   ---xx   flac  0.4609  phish2011-12-28d03t07.flac
+     2:34.52       27287948 B   ---   --   ---xx   flac  0.4851  phish2011-12-28d03t08.flac
+     4:29.30       47522204 B   ---   --   ---xx   flac  0.5120  phish2011-12-28d03t09.flac
+   170:23.31     1803411124 B                            0.4612  (23 files)
+
+
+
+
+
+

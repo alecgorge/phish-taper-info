@@ -1,0 +1,54 @@
+Phish 
+5/17/92 
+The Achilles Rink, Union College 
+Schenectady NY 
+ 
+Source: NAK 300>D5>PCM R500>SBM-1 (My DAT was recorded @44.1)
+Transfer: DA-20 mkii>Delta Dio 2496>Soundforge 4.5>CDWAV>SHN (no resampling involved)
+Transfer by: Brandon Johnston  http://db.etree.org/bisq
+
+Disc I:
+(Set 1)
+1.NO SMOKING ANNOUNCEMENT!
+2.The Landlady
+3.Llama
+4.Colonel Forbin's Ascent->
+5.Fly Famous Mockingbird
+6.My Sweet One
+7.Reba
+8.//I Didn't Know
+9.//Stash
+10.The Mango Song
+11.Poor Heart
+12.Chalk Dust Torture 
+ 
+Disc II:
+(Set 2)
+1.The Curtain
+2.Possum
+3.Guelah Papyrus
+4.The Squirming Coil
+5.All Things Reconsidered
+6.Brother
+
+Disc III:
+(Set 2 Continued)
+1.//Sanity
+2.Cold As Ice-> Love You-> HYHU
+3.Sparkle
+4.Harry Hood
+5.Cavern
+6.E: Lawn Boy
+7.Good Times Bad Times 
+ 
+  
+Notes: 
+- There is a drop around the 45 minute mark of each set, causing the beginning of Stash and Sanity to be clipped.
+  This leads me to believe that this was from an analog master or perhaps an analog higher up in the chain caused these
+- There was a gap at the beginning of I didn't know, Chalkdust, and Harry Hood but there was overlapping music on 
+  both sides. I seamlessly edited these using Soundforge 4.5
+- There was a second gap at the beginning of I didn't know that could not be fixed because no overlapping music 
+  existed.
+
+
+

@@ -1,0 +1,46 @@
+Phish
+08/10/2011
+Stateline, Nevada  Lake Tahoe Outdoor Arena at Harveys
+
+Source: Schoeps mk4v> KC5> M222> NT222> Aeta PSP-3> SD 744t (@24bit/96kHz)
+Location: FOB, DFC, 6' Stand, DIN
+
+Transfer: SD 744t> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (08/11/2011)
+
+
+Set I
+t01 [05:20] Dogs Stole Things
+t02 [04:46] Stealing Time from the Faulty Plan
+t03 [02:26] Poor Heart
+t04 [09:34] Alaska
+t05 [05:46] Halley's Comet
+t06 [07:03] It's Ice >
+t07 [04:47] When the Circus Comes
+t08 [06:58] Ya Mar
+t09 [11:32] Stash
+t10 [06:49] Funky Bitch
+t11 [04:15] Instant Karma!
+t12 [10:19] Run Like an Antelope
+
+Set II
+t13 [09:50] Down with Disease>
+t14 [08:45] Runaway Jim>
+t15 [10:28] Ghost>
+t16 [07:27] Golden Age>
+t17 [06:56] Also Sprach Zarathustra>
+t18 [05:44] Sneakin' Sally through the Alley
+t19 [10:05] Guyute
+t20 [05:36] Wading in the Velvet Sea
+t21 [17:46] You Enjoy Myself
+t22 [02:33] crowd
+
+Encore
+t23 [05:18] Show of Life
+t24 [05:30] Good Times Bad Times
+
+
+Notes:
+Dogs Stole Things, last played 07/12/2003 (167 shows)
+Thanks to Jason Lonchar for the Schoeps tubes
+Set I [1:19:41] Set II [1:25:10] Encore [10:48]

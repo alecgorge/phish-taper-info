@@ -1,0 +1,56 @@
+Phish
+3-6-93
+Liberty Lunch - Austin, TX
+
+Source: FOB Sonic Studio omnis > D3 > EQ > D7
+Transfer: D7 > Zoltrix > SF4.5c > CDWav > shntool > FLAC
+
+DAT provided by Maria Rogers
+Transferred by Ben Mohr (benjamin.mohr@ce.gatech.edu)
+
+-----------------------------------------------
+ Disc 1:                               (78:20)
+-----------------------------------------------
+-Set 1-
+1. //Llama                             (03:23)
+2. Horn                                (03:40)
+3. The Curtain                         (06:12)
+4. Split Open and Melt                 (09:09)
+5. Mound                               (05:49)
+6. Punch You in the Eye                (07:07)
+7. Bouncing Around the Room            (03:38)
+8. Maze                                (09:21)
+9. Golgi Apparatus                     (04:30)
+10. Runaway Jim                        (07:54)
+-Set 2-
+11. Rift                               (06:09)
+12. Tweezer                            (11:28)
+
+-----------------------------------------------
+ Disc 2:                               (65:38)
+-----------------------------------------------
+-Set 2 cont.-
+1. Reba                                (12:50)
+2. Paul and Silas                      (03:18)
+3. Big Ball Jam                        (02:34)
+4. Fast Enough For You                 (05:16)
+5. You Enjoy Myself                    (23:15)
+6. HYHU >                              (01:59)
+7. Cracklin' Rosie* >                  (02:54)
+8. HYHU                                (01:06)
+9. Big Black Furry Creatures from Mars (05:02)
+-Encore- 
+10. Sweet Adeline**                    (01:50)
+11. Poor Heart                         (02:29)
+12. Tweezer Reprise                    (03:05)
+
+* with Fishman spastically saying "damn, I fucked up the words...god dammit...I always do    this"
+** a cappela (with annoying 'commentary' by people around taper)
+
+Notes:
+-set and 'tape flip' fades already existed on DAT; according to Mark Lynn:
+  "There was no cassette in the lineage. There ARE fades where a cassette would flip. He made   another DAT from the master and put the fades on that DAT so that he could make cassettes     from the DAT version with the fades already in place. That apparently is the only version     that is available. The original may no longer exist."
+-'Tape flip fades': between d1t06/d1t07,  between d2t04/d2t05
+
+Fixes:
+-Removed dropout d1t02 0:33.076 (0.585sec) - slight skip

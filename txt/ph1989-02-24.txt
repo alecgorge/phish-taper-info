@@ -1,0 +1,51 @@
+Phish
+02-24-1989
+The Front, Burlington, VT
+
+
+Source: SBD > Cass/x
+
+Transfer: CDR > EAC > FLAC
+
+
+Disc One:
+
+ Set I:
+01. TMWSIY > (Beginning Cut)				3:13
+02. Avenu Malkenu > 					2:53
+03. TMWSIY 						1:11
+04. The Curtain, 					6:01
+05. Foam, 						9:09
+06. Colonel Forbin's Ascent > 				6:12
+07. The Famous Mockingbird, 				6:12
+08. Run Like an Antelope > (Tape Flip at end)		8:28
+**  Golgi (Missing)					
+09. Possum						7:54
+
+Disc Two:
+
+ Set II:
+01. On Your Way Down, 					4:54
+02. AC/DC Bag, 						5:11
+03. You Enjoy Myself -> 				16:14
+04. Camel Walk						3:40
+
+
+Show Notes: This second set listing may be incomplete, as tapes that circulate 
+cut during Camel Walk.
+
+
+ffp:
+ph89-02-24d1t06.flac:74f359807b748625427fd37b03773971
+ph89-02-24d1t07.flac:c71c2741536b3680e72a8a8741ac9b1b
+ph89-02-24d1t08.flac:d81f3804a1bc953500fec11203b7d53e
+ph89-02-24d1t09.flac:27d5ebf376b2da1cdaaad52e939c3869
+ph89-02-24d2t01.flac:427c09530cf6733492dfcb491bd0de0a
+ph89-02-24d2t02.flac:67a46948217592ad60daf3879b765d70
+ph89-02-24d2t03.flac:9ac5c4b60d08f9450f4322abfbeceaf5
+ph89-02-24d2t04.flac:02cab74cc3e13ae7814aecd8451d640d
+ph89-02-24d1t01.flac:ea5227f279f8d396db4680fad1f7675d
+ph89-02-24d1t02.flac:7ba10501cf42d59b9c5d3ccbe744e980
+ph89-02-24d1t03.flac:9e269ef67b2054ce27c16c466b839ff3
+ph89-02-24d1t04.flac:0f662ada36c181941d05011dcd4bf012
+ph89-02-24d1t05.flac:f75827e53085ffcf50925b531135b49b

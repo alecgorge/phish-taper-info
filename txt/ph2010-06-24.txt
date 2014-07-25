@@ -1,0 +1,85 @@
+Phish
+June 24th, 2010
+Susquehanna Bank Center
+Camden, NJ
+
+Taper: Timothy Brown (timothydavidbrown@gmail.com)
+Source: AKG C460Bs/CK 63-ULS (DINa, OTS, DFC, on stand ~6')->Kind Kables->Naiant LittleBox->Segue Dogstar Silver-Clad Interconnect->Edirol R-09HR (24 bit/96 kHz)
+Transfer: SDHC -> PC
+Processing: Fade in, fade out, dithered to 16 bit, resampled to 44.1 kHz & tracking using SoundForge 9.0.
+Conversion: FLAC frontend 1.7.1 used to align on sector boundaries and for Flac16 Conversion @ level 8
+Tagging: Band name, Venue and Song Title in Foobar2000
+
+*****************************************************************
+********* PLEASE SPREAD, BUT PLEASE INCLUDE SOURCE INFO *********
+****** DO NOT SELL OR DISTRIBUTE FOR A PROFIT BY ANY MEANS ******
+*****************************************************************
+
+Set I
+01. David Bowie
+02. Stealing Time From The Faulty Plan
+03. Water in the Sky
+04. Ocelot
+05. Uncle Pen
+06. Boogie On Reggae Woman
+07. Gumbo -> 
+08. Timber (Jerry the Mule) -> 
+09. I Didn't Know
+10. Birds of a Feather
+11. Bouncing Around the Room
+12. Reba
+13. The Rover ~
+
+Set II
+14. Down With Disease -> 
+15. Crosseyed and Painless -> 
+16. Nothing >
+17. Twenty Years Later >
+18. Harry Hood -> 
+19. Fluffhead -> 
+20. Julius
+21. You Enjoy Myself
+22. Encore Break 
+23. Bug
+
+Notes:
+~ Live debut, Led Zeppelin cover
+Thanks to Greg for driving, for the hotel and for the tickets.
+Thanks to Chris & Taylor for the clamp space.
+Thanks to Weaver for muling my gear in.
+Thanks to Gregg for the great tailgate party.
+Shout outs to Jeff, Josh, Koko, Dino & Eric.
+
+A 24 bit/96 kHz version exists.
+
+*****************************************
+****Please support artists and venues****
+************that allow taping************
+*****************************************
+
+phish.com
+timothydavidbrown.blogspot.com
+
+phish2010-06-24t01.flac:b56c7bb45be1d7559aea5b23463826ef
+phish2010-06-24t02.flac:065b7f88df98efa1212e35a472f39dd1
+phish2010-06-24t03.flac:3c4cc20104b6d716c014e785cf7e7723
+phish2010-06-24t04.flac:129646491ba59872adddcc7832a3c3c1
+phish2010-06-24t05.flac:714d73c5b2c1d0744a98ebcb5851fc3e
+phish2010-06-24t06.flac:cf98d3bbb19c291335466c2108854514
+phish2010-06-24t07.flac:a5275df19084be6214a9b6181f5d2f0a
+phish2010-06-24t08.flac:cf6c094c5ddcaba5077212463cef97b6
+phish2010-06-24t09.flac:fa5be0f88ec316e7d808a8a1146d6713
+phish2010-06-24t10.flac:5cce12ddf28959a95f2956ed080699fe
+phish2010-06-24t11.flac:575b11073976a0e04f3eb5a42774c2d1
+phish2010-06-24t12.flac:02b6f872176b5603c9f88eeec1851fc4
+phish2010-06-24t13.flac:d10bcc9f4743822d1d08479bb30dfdcf
+phish2010-06-24t14.flac:cd3cf813af50106b1a5cb7fb8470b38b
+phish2010-06-24t15.flac:b258d71fd5e72925232f196e7394ddfc
+phish2010-06-24t16.flac:b8aa7fd5a0a945870dec404ee31ddf85
+phish2010-06-24t17.flac:e5e344336a50516c5caae0a96c3863d1
+phish2010-06-24t18.flac:676d433399de0e13f30c1201d7f69c8b
+phish2010-06-24t19.flac:9d2e5f9aebb2d11c1de278f3b1028f30
+phish2010-06-24t20.flac:f5b150838e729a6d63aa22f7934199cf
+phish2010-06-24t21.flac:ba508be9ec2ebf472ddaf8880f3f9cac
+phish2010-06-24t22.flac:20ee6ab234510c91cbae98ad9fb049b9
+phish2010-06-24t23.flac:021776c8a300eef8acef273a2cc02326

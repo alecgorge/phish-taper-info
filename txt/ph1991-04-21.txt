@@ -1,0 +1,103 @@
+Phish
+April 21, 1991
+SUNY Potsdam
+Potsdam, NY
+
+source:
+soundboard > cass/1
+
+cassette to DAT transfer:
+Sony KE500S > Tascam DA-20 mkII (@ 48 kHz)
+
+DAT to FLAC transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > Samplitude SE v9.1.1 (fades, hiss reduction, resample to 44.1 kHz, track splits) > FLAC v1.2.1 (Level 8)
+
+FLAC tags added with metaflac v1.2.1
+
+cassette to DAT transfer by Brett Stone
+DAT to FLAC transfer by Jason Sobel (jasonsobel@gmail.com)
+seeded August 24, 2008
+
+notes:
+The original 48 kHz files from the DAT transfer have been archived, and are available upon request.
+Big thanks to Brett Stone for letting me borrow his DATs!
+
+Disc 1 - [65:57]
+Set I
+01 - [00:40] - intro
+02 - [04:36] - Golgi Apparatus
+03 - [02:40] - Rocky Top >
+04 - [04:35] - Wilson >
+05 - [12:15] - The Divided Sky
+06 - [07:42] - Foam
+07 - [02:08] - My Sweet One
+08 - [01:49] - The Oh Kee Pa Ceremony >
+09 - [06:08] - AC/DC Bag
+10 - [06:28] - Tela
+11 - [06:10] - Mike's Song >
+12 - [02:31] - I Am Hydrogen >
+13 - [06:33] - Weekapaug Groove
+14 - [01:41] - Sweet Adeline
+
+Disc 2 - [74:47]
+Set II
+01 - [09:09] - Possum
+02 - [05:13] - Fee
+03 - [03:46] - The Landlady
+04 - [09:37] - Colonel Forbin's Ascent >
+05 - [06:19] - The Famous Mockingbird >
+06 - [04:36] - Llama
+07 - [04:26] - Uncle Pen
+08 - [10:57] - Harry Hood
+09 - [04:36] - Cavern
+10 - [01:30] - encore break
+11 - [03:20] - I Didn't Know
+12 - [11:16] - David Bowie
+
+notes:
+Tape flip between AC/DC Bag and Tela - a small amount of Tela is missing
+Tape flip between Uncle Pen and Harry Hood - no music is missing.
+
+The start of Possum was missing.  I patched the missing portions with the following source:
+
+AKG-414 -> Sony D5 -> MAC
+Taped by Dave Schanker
+http://db.etree.org/shn/89564
+
+The AKG source was used at the following spots:
+Possum
+[00:00] to [03:10]
+[03:40] to [03:54]
+
+--------------------------------------------------------------------------------------------
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:39.64           6.70 MB  ---   --   ---xx   flac  0.3389  ph1991-04-21d1t01.flac
+     4:36.20          46.48 MB  ---   --   ---xx   flac  0.6093  ph1991-04-21d1t02.flac
+     2:40.19          26.96 MB  ---   --   ---xx   flac  0.5934  ph1991-04-21d1t03.flac
+     4:35.18          46.30 MB  ---   --   ---xx   flac  0.5612  ph1991-04-21d1t04.flac
+    12:15.05         123.66 MB  ---   --   ---xx   flac  0.5449  ph1991-04-21d1t05.flac
+     7:42.22          77.77 MB  ---   --   ---xx   flac  0.5551  ph1991-04-21d1t06.flac
+     2:07.45          21.47 MB  ---   --   ---xx   flac  0.5575  ph1991-04-21d1t07.flac
+     1:49.36          18.42 MB  ---   --   ---xx   flac  0.5128  ph1991-04-21d1t08.flac
+     6:07.72          61.90 MB  ---   --   ---xx   flac  0.6066  ph1991-04-21d1t09.flac
+     6:27.53          65.22 MB  ---   --   ---xx   flac  0.4419  ph1991-04-21d1t10.flac
+     6:10.23          62.30 MB  ---   --   ---xx   flac  0.5837  ph1991-04-21d1t11.flac
+     2:30.47          25.34 MB  ---   --   ---xx   flac  0.4562  ph1991-04-21d1t12.flac
+     6:33.16          66.15 MB  ---   --   ---xx   flac  0.5695  ph1991-04-21d1t13.flac
+     1:41.18          17.03 MB  ---   --   ---xx   flac  0.4996  ph1991-04-21d1t14.flac
+     9:09.14          92.39 MB  ---   --   ---xx   flac  0.5174  ph1991-04-21d2t01.flac
+     5:13.29          52.72 MB  ---   --   ---xx   flac  0.5088  ph1991-04-21d2t02.flac
+     3:45.70          38.01 MB  ---   --   ---xx   flac  0.5721  ph1991-04-21d2t03.flac
+     9:37.29          97.13 MB  ---   --   ---xx   flac  0.5111  ph1991-04-21d2t04.flac
+     6:19.02          63.76 MB  ---   --   ---xx   flac  0.5029  ph1991-04-21d2t05.flac
+     4:36.12          46.46 MB  ---   --   ---xx   flac  0.6048  ph1991-04-21d2t06.flac
+     4:26.30          44.82 MB  ---   --   ---xx   flac  0.5139  ph1991-04-21d2t07.flac
+    10:56.44         110.46 MB  ---   --   ---xx   flac  0.5035  ph1991-04-21d2t08.flac
+     4:36.02          46.44 MB  ---   --   ---xx   flac  0.5575  ph1991-04-21d2t09.flac
+     1:30.22          15.19 MB  ---   --   ---xx   flac  0.3634  ph1991-04-21d2t10.flac
+     3:19.72          33.64 MB  ---   --   ---xx   flac  0.4160  ph1991-04-21d2t11.flac
+    11:16.30         113.79 MB  ---   --   ---xx   flac  0.5075  ph1991-04-21d2t12.flac
+   140:43.64        1420.49 MB                           0.5301  (26 files)

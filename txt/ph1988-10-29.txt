@@ -1,0 +1,119 @@
+PHiSH
+10/29/88
+Set 3
+Goddard College - Plainfield, VT
+
+Set I Source: SBD(?)>C>CDR>EAC(secure)>CD-WAV>FLAC
+-------------------------------------
+Set II Source: SBD > Cass/1 
+
+SBD Cass/1 (Maxell XLII-S 90 min)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +~14dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)> 
+Mastering (see notes)> SHNv3
+
+Transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 1/17/2004
+Mastering, and shorten done on REBA by Marmar- imthemarmar@stny.rr.com
+-------------------------------------
+Set III Source: SBD > Cass/2 > DAT
+Transfer: Tascam DA20 mkII > ZA2 > SF > CDWav > SHN
+
+Transferred by Jimmy Sellers (pjimmy@delanet.com)
+Remastered by Ben Mohr (bmohr@udel.edu)
+Seed provided by Sean Keilty
+-------------------------------------
+
+***Set 1***
+1. Suzie Greenburg >
+2. Lizards 
+3. Time Loves a Hero 
+4. Golgi Apparatus 
+5. Axis: Bold as Love
+6. La Grange 
+7. Contact 
+8. Costume Contest > 
+9. Harry Hood 
+
+-Set 2-
+01. Halley's Comet*->
+02. Whipping Post
+03. Fee >
+04. Alumni//Blues (LtJP)
+05. //Walk Away >
+06. The Divided Sky
+07. The Ballad of Curtis Loew**
+08. //Mike's Song
+09. //Take the A-Train
+10. Fire 
+-Set 3- 
+11. Fluffhead
+
+---------------------------------------
+ Disc 1:		       (70:41)
+---------------------------------------
+-Set 3-
+1. /AC/DC Bag		       (03:03)
+2. Foam			       (05:34)
+3. Terrapin*		       (04:40)
+4. BBFCFM		       (04:53)
+5. Timber (Jerry)^	       (07:35)
+6. Slave to the Traffic Light^ (07:53)
+7. Donna Lee^		       (06:13)
+8. Run Like an Antelope^       (09:41)
+9. I Didn't Know^^             (06:15)
+10. Wilson^		       (05:23)
+11. Peaches en Regalia^	       (03:21)
+12. Funky Bitch^	       (06:10)
+
+* with Fish on trombone
+^ with Russ Remington on saxophone
+^^ with Russ Remington on sax and Fish on vacuum
+
+Notes:
+-Set might possibly be part of 10-29-88 Set 3.
+-Beginning of t01 is cut.
+-Splices (all during crowd noise after the song):
+   t02 4:31 
+   t03 4:31 
+   t06 7:15 
+   t07 6:01 
+   t08 9:28 - Most likely a tape flip using 100 min cass master (49:32)
+
+Fixes:
+-Removed high pitch whine(s) using Cool Edit 2000 with the following details:
+  t3 2:30 -> t7 6:00 
+    Left channel: -20dB centered at 15,960 Hz notched from 15,850 Hz to 16,035 Hz
+    Right channel: -30dB centered at 15,960 Hz notched from 15,850 Hz to 16,035 Hz
+  t7 6:00 -> t12 end 
+    Left channel: -5 dB centered at 15,960 Hz notched from 15,850 Hz to 16,035 Hz
+    Right channel: -10 dB centered at 15,960 Hz notched from 15,850 Hz to 16,035 Hz
+  t4 3:50 -> t12 end
+    Both channels: -50 dB centered at 16,420 Hz notched from 16,340 Hz to 16,490 Hz
+-Applied Sound Forge 4.5 pitch shift of +70 cents plus anti-alias filter.
+-Applied Cool Edit 2000 noise reduction of -3 dB based on noise floor 
+  sampling. Hiss still present but now does not detract from show as much.
+-One spot of minor clipping in t01 at 2.105s fixed with pencil tool in SF4.5.
+
+*******************************************************************************
+Setlist note-4/08
+
+According to the second version of the Phish Companion this is the last section of 
+10-29-88. Here is the entire set list, the complete recording of this show requires 
+three sources(Shnid's - 23219, 21412, & 1551)
+
+from the phish companion 2nd edition:
+10-29-88 Goddard College, Plainfield, VT
+
+1: Suzy Greenberg-> Lizards, Time Loves a Hero, Golgi Apparatus, Bold as Love, La Grange, Contact, Harry Hood
+
+2: Halley's Comet-> Whipping Post, Fee, Alumni Blues, Walk Away, The Divided Sky, The Ballad of Curtis Loew*, Mike's Song, Take the A-Train, Fire
+
+3: Fluffhead, Good Times Bad Times, You Enjoy Myself-> Possum- //AC/DC Bag, Foam, Terrapin, BBFCFM, Timber, Slave to the Traffic Light, Donna Lee^, Run Like an Antelope^, I Didn't Know^^, Wilson^, Peaches en Regalia^, Funky Bitch^
+
+Parts of this show often circulate as 10-31-88. Costume Contest before "Harry Hood." *With Bobby Brown. 
+
+Shnid splits:
+23219- All of set 2 plus Fluffhead
+21412- All of set 1 plus GTBT, YEM>Possum
+1551- The remaining part of Set 3
+all three sources make a complete show

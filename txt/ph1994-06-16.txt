@@ -1,0 +1,63 @@
+Phish
+06-16-94
+State Theater, Minneapolis, MN 
+--------------------------------------------------------------------------------------------
+This show is included in the 1994 Phish Project.
+http://people.atl.mediaone.net/danmarq/1994_phish_project.html
+----------------
+
+Source:         SBD>C0>DAT (Unknown DAT generations)
+
+Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                Soundforge 5.0b (48KHz->44.1KHz at highest setting [4 of 4],
+                with anti-alias filter)-> CD Wave 1.61-> mkwACT v0.97
+                **No DAE at all**
+
+Minor Edits:	Fades (in/out at beginning/end of sets)
+----------------
+
+d1t03 bwt. 06:26.032-06:26.282 drop-out
+d1t05 bwt. 04:19.517-04:20.482 can't really describe what is going 
+on - it sounds like a transfer issue maybe?
+
+----------------
+Transferred by Dan Marquardt <danmarq@msn.com>, please contact me with questions/comments.
+There are also 48KHz shn's of this seed for archival.
+--------------------------------------------------------------------------------------------
+
+CD/Set 1:					68:45
+01. Bouncing Around the Room			03:40
+02. Rift					05:54
+03. Julius					06:44
+04. Fee->					05:26
+05. Maze					11:58
+06. Gumbo					04:54
+07. The Curtain->				06:09
+08. Dog Faced Boy				02:01
+09. Stash					11:31
+10. The Squirming Coil				10:26
+
+-----------------------------------------------------
+
+CD/Set 2: (Requires 80min CD)			75:26
+01. Suzy Greenberg*				05:47
+02. Run Like an Antelope%			12:44
+03. Colonel Forbin's Ascent->			07:45
+04. Kung->					03:45
+05. Famous Mockingbird				06:14
+06. Big Ball Jam				03:00
+07. Down With Disease->				09:31
+08. Contact->					06:35
+09. Big Black Furry Creature From Mars->	03:38
+10. Purple Rain-> HYHU				06:32
+11. Golgi Apparatus%				04:34
+
+Encore:
+Ginseng Sullivan (Not on DAT)
+Amazing Grace (Not on DAT)
+12. Good Times Bad Times			05:19
+
+--------------------------------------------------------------------------------------------
+
+* First 40-50 seconds cut.
+% Cassette flip.

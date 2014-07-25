@@ -1,0 +1,75 @@
+Phish
+The Bayou
+Washington DC
+2/24/90
+
+Source: SBD (Nak analog deck built into SBD) > Cass/master (Maxell XL-II)
+Transfer: Playback JVC-TD-W354 > WAV > Audacity (editing) >CDWAV (tracking) > FLAC16
+
+Transfer by: Taperwayne (taperwayne@gmail.com)
+Recorded by: Lew Nelson. 
+Huge thanks to Lew for sharing his source tapes!
+
+Lew's notes: A friend of mine went to college with Mike and said that his “connection” would be worth bringing 
+a deck to the show.  It turned out to be quite a hassle to patch in and the sound man + the Bayou manager eventually 
+let me use the Nak deck built into the sbd.  What I thought would be a professionally recorded gorgeous show turned
+out to sound fine but not earth-shattering.   At any rate these are the masters – see what you think and
+digitize them if you can.
+
+Wayne's notes: The only editing I did in Audacity was to boost the overall levels of the recording, which brought out the
+tape hiss a little bit. I also crossfaded the tape flips, edited out a 30 second gap in The Sloth, and added fades to the end
+of each set. YEM was a live soundcheck, so there is some feedback issues from the master, while Paul got the sound right.
+Tape flips are notated with //.
+Enjoy!
+
+Disc #1
+
+01.//Carolina
+02. You Enjoy Myself
+03. Golgi Apparatus
+04. Divided Sky
+05. Esther >
+06. Po//ssum
+07. I Didn't Know
+08. Run Like An Antelope
+09. Take The A Train
+
+Disc #2
+
+01. The Sloth
+02. Oh Kee Pah Ceremony >
+03. AC/DC Bag
+04. Fee
+05. The Squirming Coil >
+06. La Grange
+07. Bathtub Gin
+08. Lawn Boy
+09. Co//ntact
+10. The Lizards
+11. Caravan
+
+ph1990-02-24d1t01.flac:53bb2ef3365297de03aa1ec460531e05
+ph1990-02-24d1t02.flac:fb0c3cccba996fcd9d40ab2a0794df2f
+ph1990-02-24d1t03.flac:cc12b2f3cbc90319774ef1bf911698d6
+ph1990-02-24d1t04.flac:8c7e63430df6a22f0a9be7e792202708
+ph1990-02-24d1t05.flac:d29c9557bf2f40ca94ee15fd04f476a9
+ph1990-02-24d1t06.flac:d3e70d74a3af97ff0069f6ca4a8fa40b
+ph1990-02-24d1t07.flac:7d71b4264338d50b508074d0c85df5d4
+ph1990-02-24d1t08.flac:aafdb4f1fe6eeeb04c0ce33ab5d065c7
+ph1990-02-24d1t09.flac:7aa4871d516d42a6269c528dbf0b9e71
+ph1990-02-24d2t01.flac:732baac6bcaf91f4c2aa2683fa0787b2
+ph1990-02-24d2t02.flac:0b979f3b210a7f888133a66a43a474bb
+ph1990-02-24d2t03.flac:d41a59fe1b7f11602c55b1e39f957ad2
+ph1990-02-24d2t04.flac:bde483a184e2fc0e8e0384a4f05fc7e9
+ph1990-02-24d2t05.flac:68626f69b7da136e97317599f2375f07
+ph1990-02-24d2t06.flac:12aa14bf7471ba696f228f9201bd3ae8
+ph1990-02-24d2t07.flac:a8cb9bb1f74118dde37d2bc60e9f7218
+ph1990-02-24d2t08.flac:8d943460dfb765ecbaecee29969e82b4
+ph1990-02-24d2t09.flac:ab79fc98a524a861913995e2d6adf9e1
+ph1990-02-24d2t10.flac:5863a8b7ab9acf85daa9a73acb503f88
+ph1990-02-24d2t11.flac:879fe045da0c4c4946ba13aaf3a7d4a2
+
+
+
+
+

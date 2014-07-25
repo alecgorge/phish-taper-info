@@ -1,0 +1,41 @@
+Phish
+12-9-89
+Huden Dining Hall, Castleton State College 
+Castleton, VT
+
+Source: MCS > Dat > CD
+Transfer: Panasonic SV-3800 > HHB CDR-850
+Encoding: CD > EAC (secure Mode) > WAV > SHNTool > Flac (1.1.0)
+
+Disc 1
+Set I
+01. Dinner and a Movie 
+02. La Grange
+03. Lizards
+04. Foam
+05. In a Hole
+06. Rocky Top
+07. David Bowie
+08. Lawn Boy
+09. Bathtub Gin
+10. Golgi Apparatus
+
+Disc 2 
+Set II
+01. Take the A-Train
+02. Fluffhead
+03. Esther
+04. Alumni Blues ->
+05. Letter to Jimmy Page -> Alumni Blues
+06. Fee
+07. Mike's Song ->
+08. Hydrogen ->*
+09. Weekapaug Groove
+Encore
+10. Contact
+11. B.B.F.C.F.M.
+
+* Tape Flip barely noticeable after fixing with soundforge
+
+Transferred by Chris Warren (hip_school_preppie@yahoo.com)
+Shn'd by Mark Kerchoff (Mark@Kerchoff.com)

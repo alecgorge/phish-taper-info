@@ -1,0 +1,53 @@
+Phish
+10-15-86
+Hunt's
+Burlington, VT
+
+Source: MCS > DAT > CD
+Transfer: Tascam DA-302 > HHB CDR-850
+Encoding: CD > EAC (secure Mode) > WAV > SHNTool > Flac (1.1.0)
+
+Disc 1
+Set I
+01. Alumni Blues
+02. Makasupa Policeman
+03. Skin it back ->
+04. Cities
+05. I Am Hydrogen
+06. McGrupp
+07. AC/DC Bag
+08. Jazz Interlude*
+09. You Enjoy Myself
+10. Lushington
+
+Disc 2
+Set II
+01. Peaches En Regalia 
+02. Golgi Apparatus 
+03. Swing Low
+04. Camel Walk
+05. Shaggy Dog
+06. Mustang Sally
+07, Fluffhead
+08. Sneakin' Sally
+09. //Wilson >
+10. Slave to the Traffic Light
+
+Disc 3
+01. Quinn The Eskimo >
+02. Mike's Song 
+03. Have Mercy >
+04. Harry Hood
+Set III
+05. Roll like a Canteloipe**
+06. Sanity
+07. Anarchy
+Encore:
+08. Clod
+ 
+* - Page plays while Trey tunes.
+// - Beginning cut due to tape flip.
+** - Sung as "Roll like a Cantaloupe".
+
+Transferred by Chris Warren (hip_school_preppie@yahoo.com)
+SHN'd by Mark Kerchoff (mark@kerchoff.com) 

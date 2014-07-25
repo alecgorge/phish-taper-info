@@ -1,0 +1,59 @@
+Phish - 7/13/96
+Dour Festival - Dour, Belgium
+
+Source: AKG391's> Sound devices> DAT> D5
+
+Transfer: Cass/2> Dennon DRW-840>Audiophile 2496>FLAC 6/7/06 by EEE
+
+My Cass/2 was recorded in 10/96 from my friend Miles Abrahm's master cassette tape.
+
+Set I
+1.  Intro / Tuning
+2.  Sample In A Jar
+3.  Runaway Jim
+4.  Banter
+5.  Cavern
+6.  Reba
+7.  Poor Heart
+8.  Split Open & Melt
+9.  Fire
+10. Funky Bitch
+11. Chalkdust Torture
+12. Banter / Thanks
+13. You Enjoy Myself
+
+-Fireworks or something cracking off during SOAM (not sure what it is, but on tape).
+-Analog tape flip between SOAM and FIRE, no music lost.
+
+FFP:
+ph1996-07-13d1t02.flac:8b6577fc099d4951a175e9f14852260d
+ph1996-07-13d1t03.flac:e0319a4f11c31f38f05ca7849d24d737
+ph1996-07-13d1t04.flac:52977965f7cbd378bba52f612042595f
+ph1996-07-13d1t05.flac:628ffdb774d7d2d6dd1ee1bf464394f2
+ph1996-07-13d1t06.flac:0fbc6cd11cd0c8f0a1740d6703a732f4
+ph1996-07-13d1t07.flac:b42e9e8425dd30909ee1b92044a55b35
+ph1996-07-13d1t08.flac:54d25be592d56877de8fbc4269dbe7aa
+ph1996-07-13d1t09.flac:f31e014e83e21cca0a1a2f0ac2401d34
+ph1996-07-13d1t10.flac:50c785b5595d7c256d33cb82391e4b15
+ph1996-07-13d1t11.flac:e1b69528e2b60eb36f079d6860652f00
+ph1996-07-13d1t12.flac:6cde0ba4faef33357e7fbc3e77abe354
+ph1996-07-13d1t13.flac:22fa53804d494bcda3baff9a2ff951bc
+ph1996-07-13d1t01.flac:80f5cf4d4dcce10affe3ccd5d279e3b3
+
+SHNTOOL Output:
+    length     expanded size   cdr  WAVE problems filename
+     0:45.58        8074460    ---   --   -----   ph1996-07-13d1t01.wav
+     4:57.02       52395548    ---   --   -----   ph1996-07-13d1t02.wav
+     6:31.60       69113564    ---   --   -----   ph1996-07-13d1t03.wav
+     0:32.63        5793020    ---   --   -----   ph1996-07-13d1t04.wav
+     3:56.52       41752748    ---   --   -----   ph1996-07-13d1t05.wav
+    10:48.37      114394268    ---   --   -----   ph1996-07-13d1t06.wav
+     2:17.43       24267980    ---   --   -----   ph1996-07-13d1t07.wav
+     8:18.42       87946028    ---   --   -----   ph1996-07-13d1t08.wav
+     3:49.47       40506188    ---   --   -----   ph1996-07-13d1t09.wav
+     4:45.60       50415164    ---   --   -----   ph1996-07-13d1t10.wav
+     6:07.25       64797644    ---   --   -----   ph1996-07-13d1t11.wav
+     0:34.11        6023516    ---   --   -----   ph1996-07-13d1t12.wav
+    18:44.58      198410060    ---   --   -----   ph1996-07-13d1t13.wav
+    72:10.33      763890188 B                     (totals for 13 files, 1.0000 o
+verall compression ratio)

@@ -1,0 +1,69 @@
+Phish
+December 12, 1999
+Hartford Civic Center
+Hartford, CT
+
+source:
+Schoeps mk41 > kc5 > cmc6 > Sonosax SX-M2 > Apogee AD-1000 > Tascam DA-P1 (@ 44.1 kHz)
+recorded from the taper's section, front and center
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > CD Wave v1.97 (track splits) > Samplitude SE v9.1.1 (fades) > FLAC v1.2.1 (Level 8)
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded January 18, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+Big thanks to Dave for letting me borrow the master DATs!
+
+Disc 1 - [72:22]
+Set I
+01 - [05:57] - Heavy Things
+02 - [09:55] - AC/DC Bag
+03 - [03:05] - Strange Design
+04 - [17:24] - The Divided Sky
+05 - [03:50] - Beauty of My Dreams
+06 - [09:19] - Bug
+07 - [13:41] - Stash
+08 - [09:10] - Chalk Dust Torture
+
+Disc 2 - [79:53]
+Set II
+01 - [31:02] - Drowned >
+02 - [09:05] - Prince Caspian
+03 - [08:49] - The Squirming Coil
+04 - [07:47] - Makisupa Policeman >
+05 - [12:45] - Run Like an Antelope
+06 - [01:43] - encore break
+07 - [08:42] - Runaway Jim
+
+Show Notes: Chalk Dust concluded with Trey paying his respects to his recently-deceased 
+grandfather. The second set-opening Drowned clocked in at nearly 31 minutes long.
+
+note:
+In the interest of keeping the entire second set on one 80 min CD, 
+2 minutes and 23 seconds of crowd noise were removed from the encore break track.
+Only crowd noise was removed, no stage banter, tuning, or anything else of significance has been removed.
+_________________________________________________________________________________________________________
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     5:57.29          60.12 MB  ---   --   ---xx   flac  0.5103  ph1999-12-12d1t01.flac
+     9:55.30         100.16 MB  ---   --   ---xx   flac  0.5539  ph1999-12-12d1t02.flac
+     3:04.56          31.08 MB  ---   --   ---xx   flac  0.4663  ph1999-12-12d1t03.flac
+    17:24.34         175.71 MB  ---   --   ---xx   flac  0.5351  ph1999-12-12d1t04.flac
+     3:49.54          38.65 MB  ---   --   ---xx   flac  0.5089  ph1999-12-12d1t05.flac
+     9:18.68          94.02 MB  ---   --   ---xx   flac  0.5461  ph1999-12-12d1t06.flac
+    13:40.68         138.10 MB  ---   --   ---xx   flac  0.5095  ph1999-12-12d1t07.flac
+     9:10.36          92.61 MB  ---   --   ---xx   flac  0.5755  ph1999-12-12d1t08.flac
+    31:02.00         313.24 MB  ---   --   ---xx   flac  0.5338  ph1999-12-12d2t01.flac
+     9:05.01          91.69 MB  ---   --   ---xx   flac  0.5262  ph1999-12-12d2t02.flac
+     8:49.00          88.99 MB  ---   --   ---xx   flac  0.4833  ph1999-12-12d2t03.flac
+     7:47.32          78.63 MB  ---   --   ---xx   flac  0.4923  ph1999-12-12d2t04.flac
+    12:44.42         128.62 MB  ---   --   ---xx   flac  0.5368  ph1999-12-12d2t05.flac
+     1:42.47          17.26 MB  ---   --   ---xx   flac  0.4931  ph1999-12-12d2t06.flac
+     8:42.28          87.88 MB  ---   --   ---xx   flac  0.5395  ph1999-12-12d2t07.flac
+   152:15.00        1536.76 MB                           0.5280  (15 files)

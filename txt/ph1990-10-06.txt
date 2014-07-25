@@ -1,0 +1,48 @@
+Phish (opening for Blues Traveler)
+October 6, 1990
+Capitol Theatre
+Port Chester, NY
+
+
+Source:		DSBD > DAT
+
+Conversion:	Archive Python DDS/dat2wav > .wav; no soundcard
+		Soundforge for resampling (*no DAE at all)
+		Louie Rendek <ljr7@po.cwru.edu>
+
+		CDWAV used for tracking by Mike Woellert <dmbnum41@aol.com>
+
+WAV > SHN:	mkwACT > SHN: Mike Woellert <dmbnum41@aol.com>
+
+**********DO NOT CONVERT TO MP3****************
+
+Disc One:
+1. Intro					- 00:21.17
+2. The Landlady				- 04:50.69
+3. The Squirming Coil			- 05:58.13
+4. Dinner and a Movie			- 03:36.60
+5. Bouncing Around the Room		- 03:53.20
+6. Foam					- 09:48.37
+7. You Enjoy Myself			- 15:41.31
+8. Oh-Kee-Pa Ceremony >			- 01.41.22
+9. Suzy Greenberg				- 05:24.19
+
+Disc Two
+1. Esther					- 08:55.62
+2. Possum				- 10:21.25
+3. HYHU > 				- 01:34.69
+4. If I Only Had a Brain >			- 02:33.39
+5. HYHU	>				- 02:00.34
+6. David Bowie				- 11:57.58
+7. Carolina				- 02:41.18
+Encore:
+8. Don't Get Me Wrong			- 06:39.63
+
+Notes:
+----------
+*Slight dropout during the crowd noise at the end of Bowie around the 11:27 mark
+*Dropout during Carolina at the 2:41 mark	
+
+* compiled by Mike Woellert <DMBnum41@aol.com> on October 28, 2001.
+
+Thanks to Mark Lynn for the DAT, and Louie Rendek for the conversion!!!!!

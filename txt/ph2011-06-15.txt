@@ -1,0 +1,45 @@
+Phish
+06/15/2011
+Alpharetta, Georgia  Amphitheatre at Encore Park
+
+Source: Schoeps mk4v> KC5> M222> NT222> Aeta PSP-3> SD 744t (@24bit/96kHz)
+Location: FOB, DFC
+
+Transfer: SD 744t> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (06/16/2011)
+
+
+Set I
+t01 [00:59] Intro
+t02 [02:23] Paul and Silas >
+t03 [06:53] Back on the Train
+t04 [08:54] Foam
+t05 [03:15] Water in the Sky
+t06 [08:57] Runaway Jim
+t07 [04:40] Army of One
+t08 [05:05] Roses are Free >
+t09 [06:42] Timber >
+t10 [04:37] Mound
+
+Set II
+t11 [04:31] Mound >
+t12 [09:40] Tweezer >
+t13 [09:30] Julius >
+t14 [10:54] Slave to the Traffic Light
+t15 [11:40] David Bowie
+t16 [06:38] Suzy Greenberg >
+t17 [09:23] Gotta Jibboo >
+t18 [11:26] Harry Hood >
+t19 [08:58] Character Zero
+t20 [02:28] The Birdwatcher >
+t21 [01:41] Kung
+t22 [02:04] crowd
+
+Encore
+t23 [05:50] Funky Bitch >
+t24 [03:47] Tweezer Reprise
+
+
+Notes:
+First set ended abruptly due to thunderstorm
+Set I [52:30] Set II [1:29:01] Encore [9:37]

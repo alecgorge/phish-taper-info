@@ -1,0 +1,78 @@
+Phish
+December 30, 1998
+Madison Square Garden
+New York, NY
+
+source:
+(FOB) Schoeps mk4 > Sonosax SX-M2 > Teac DA-P20 (@ 48 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > Samplitude SE v9.1.1 (fades, de-emphasis) > r8brain v1.9 (resample to 44.1 kHz) > CD Wave v1.97 (track splits) > FLAC v1.2.1 (Level 8)
+
+recorded by Boris and Brian
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded February 21, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+The original recording was made with pre-emphasis. Samplitude was used to de-emphasize the recording.
+The original 48 kHz files from the DAT transfer have been archived and are available upon request.
+Big thanks to Eliot Byron for letting me borrow his DATs!
+
+Disc 1 - [73:59]
+Set I
+01 - [06:31] - Chalk Dust Torture
+02 - [04:43] - Big Black Furry Creature from Mars
+03 - [05:40] - Wilson >
+04 - [07:00] - Roggae
+05 - [04:08] - Sparkle
+06 - [08:54] - The Moma Dance
+07 - [04:12] - The Old Home Place
+08 - [05:08] - Sample in a Jar
+09 - [09:07] - Frankie Says
+10 - [11:53] - Maze
+11 - [06:44] - Loving Cup
+
+Disc 2 - [58:56]
+Set I continued
+01 - [15:10] - Reba
+Set II
+02 - [21:13] - Down with Disease
+03 - [08:28] - Piper
+04 - [14:05] - Prince Caspian
+
+Disc 3 - [41:36]
+Set II continued
+01 - [12:50] - The Squirming Coil ->
+02 - [11:49] - Slave to the Traffic Light
+03 - [04:04] - encore break
+04 - [01:16] - Grind *
+05 - [11:38] - Possum
+
+* debut
+_______________________________________________________________________________________
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     6:30.47          65.71 MB  ---   --   ---xx   flac  0.5384  ph1998-12-30d1t01.flac
+     4:43.31          47.68 MB  ---   --   ---xx   flac  0.5226  ph1998-12-30d1t02.flac
+     5:39.46          57.13 MB  ---   --   ---xx   flac  0.5161  ph1998-12-30d1t03.flac
+     7:00.31          70.73 MB  ---   --   ---xx   flac  0.4640  ph1998-12-30d1t04.flac
+     4:08.01          41.72 MB  ---   --   ---xx   flac  0.4994  ph1998-12-30d1t05.flac
+     8:53.73          89.83 MB  ---   --   ---xx   flac  0.4927  ph1998-12-30d1t06.flac
+     4:11.69          42.38 MB  ---   --   ---xx   flac  0.4846  ph1998-12-30d1t07.flac
+     5:07.54          51.77 MB  ---   --   ---xx   flac  0.5135  ph1998-12-30d1t08.flac
+     9:06.61          91.99 MB  ---   --   ---xx   flac  0.4145  ph1998-12-30d1t09.flac
+    11:52.58         119.91 MB  ---   --   ---xx   flac  0.4961  ph1998-12-30d1t10.flac
+     6:43.70          67.95 MB  ---   --   ---xx   flac  0.5171  ph1998-12-30d1t11.flac
+    15:09.59         153.05 MB  ---   --   ---xx   flac  0.4561  ph1998-12-30d2t01.flac
+    21:12.57         214.11 MB  ---   --   ---xx   flac  0.4897  ph1998-12-30d2t02.flac
+     8:27.73          85.46 MB  ---   --   ---xx   flac  0.5138  ph1998-12-30d2t03.flac
+    14:05.19         142.20 MB  ---   --   ---xx   flac  0.4392  ph1998-12-30d2t04.flac
+    12:50.19         129.58 MB  ---   --   ---xx   flac  0.4185  ph1998-12-30d3t01.flac
+    11:48.68         119.26 MB  ---   --   ---xx   flac  0.4227  ph1998-12-30d3t02.flac
+     4:03.40          40.97 MB  ---   --   ---xx   flac  0.4098  ph1998-12-30d3t03.flac
+     1:15.59          12.75 MB  ---   --   ---xx   flac  0.4034  ph1998-12-30d3t04.flac
+    11:37.40         117.34 MB  ---   --   ---xx   flac  0.4637  ph1998-12-30d3t05.flac
+   174:31.00        1761.52 MB                           0.4709  (20 files)

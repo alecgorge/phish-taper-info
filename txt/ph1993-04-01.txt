@@ -1,0 +1,75 @@
+Phish
+4-1-93
+Roseland Theater
+Portland, OR
+
+Source: TOA K1->Denon DTR-80p
+
+Transfer: DAT->???->CDR->EAC->CDWAV->Soundforge 6.0->shntool->shn
+EAC and Shn Encoding by: Brandon Johnston -- http://db.etree.org/bisq
+
+
+Disc 1: 
+-Set I-
+1.Llama
+2.Guelah Papyrus
+3.Rift
+4.Stash
+5.The Squirming Coil
+6.My Friend My Friend
+7.Paul and Silas
+8.Fluffhead
+9.Lawn Boy
+10.Run Like an Antelope
+
+Disc 2: 
+-Set II-
+1.Axilla
+2.The Curtain >
+3.Possum
+4.Fee >
+5.Ya Mar
+6.Tweezer
+7.Poor Heart
+8.Big Ball Jam
+9."Neil Young" Intro
+10.HYHU > Love You > HYHU
+11.Cavern
+12.E: Carolina
+13.Tweezer Reprise
+
+
+Show Notes: I Feel the Earth Move and Barracuda teases were heard in this Antelope. Carolina was performed without microphones. After the Big Ball Jam, Trey introduced Fishman as Neil Young. Fishman responded by singing a quiet line from Neil Young's Needle and the Damage Done before launching into Love You.
+
+Tech Notes: I extracted the cds as a range and resplit the tracks using cdwav. The EAC logs are included. There were fades between the discs on the original cds so I used soundforge 6.0 to crossfade the discs back together to make the show continuous. The original cds were split after lawn boy and after Big Ball Jam.  The crowd noise was faded out/in between the second set and encore on my cds and I left it as is. Additional fades added in soundforge 6.0 at the end of the sets. The rainforest benefit songs from the same day were originally filler on disc 3. Since I changed the tracking of the show to 2 discs, there is no longer room for this as filler. I included the benefit anyway because it is so short and from the same day.
+
+Shntool Output:
+
+    length     expanded size   cdr  WAVE  probs   filename
+     5:20.09      56469212     ---   --    ---    ph1993-04-01d1t01.wav
+     5:39.30      59870204     ---   --    ---    ph1993-04-01d1t02.wav
+     6:15.17      66190028     ---   --    ---    ph1993-04-01d1t03.wav
+    11:17.00     119422844     ---   --    ---    ph1993-04-01d1t04.wav
+     8:43.08      92276060     ---   --    ---    ph1993-04-01d1t05.wav
+     7:22.51      78088796     ---   --    ---    ph1993-04-01d1t06.wav
+     3:54.53      41402300     ---   --    ---    ph1993-04-01d1t07.wav
+    14:17.47     151285388     ---   --    ---    ph1993-04-01d1t08.wav
+     2:34.60      27306764     ---   --    ---    ph1993-04-01d1t09.wav
+    12:19.15     130394924     ---   --    ---    ph1993-04-01d1t10.wav
+     4:03.59      43004012     ---   --    ---    ph1993-04-01d2t01.wav
+     6:09.11      65117516     ---   --    ---    ph1993-04-01d2t02.wav
+    11:45.12     124390268     ---   --    ---    ph1993-04-01d2t03.wav
+     5:32.50      58682444     ---   --    ---    ph1993-04-01d2t04.wav
+     7:13.07      76397708     ---   --    ---    ph1993-04-01d2t05.wav
+    14:30.71     153635036     ---   --    ---    ph1993-04-01d2t06.wav
+     2:19.42      24618428     ---   --    ---    ph1993-04-01d2t07.wav
+     3:02.32      32180108     ---   --    ---    ph1993-04-01d2t08.wav
+     1:10.64      12498572     ---   --    ---    ph1993-04-01d2t09.wav
+    11:51.34     125500412     ---   --    ---    ph1993-04-01d2t10.wav
+     4:39.31      49288556     ---   --    ---    ph1993-04-01d2t11.wav
+     1:51.40      19674524     ---   --    ---    ph1993-04-01d2t12.wav
+     3:00.56      31883756     ---   --    ---    ph1993-04-01d2t13.wav
+     0:42.71       7575836     ---   --    ---    ph1993-04-01d3t01.wav
+     1:46.02      18703148     ---   --    ---    ph1993-04-01d3t02.wav
+     2:45.18      29148380     ---   --    ---    ph1993-04-01d3t03.wav
+   160:08.65    1695005224 B                      (totals for 26 files)

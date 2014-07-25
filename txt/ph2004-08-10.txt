@@ -1,0 +1,69 @@
+Phish
+8/10/04
+Tweeter Center, 
+Mansfield, MA
+
+Source: (DFC/OTS/DIN/Hyper) ADK TLs -> V2 -> modsbm-1 -> NJB3
+Transfer: NJB3 -> Firewire -> CD Wav ( for tracking) -> FLAC Frontend (16/44.1hz)
+
+Recorded by Brian Costigan (BCostigan@taperssection.com)
+Transferred by Greg Bloch (phishn@taperssection.com)
+
+
+Set I 
+
+Disk 1
+
+t01 Crowd 0:54
+t02 AC/DC Bag 16:22 
+t03 Heavy Things 5:52
+t04 Punch You in the Eye 7:57
+t05 Wolfman's Brother 14:18 
+t06 Theme From the Bottom 8:02
+t07 Birds of a Feather 21:12
+
+74:37
+
+Set II 
+
+Disk 2
+
+t01 Crowd 0:30
+t02 Mike's Song -> 7:42
+t03 I am Hydrogen -> 2:53
+t04 Weekapaug Groove 14:12
+t05 A Song I Heard the Ocean Sing -> 6:06
+t06 Piper -> 10:00
+t07 Makisupa Policeman 4:12 
+t08 Dog Faced Boy 3:28
+t09 Friday 7:12
+t10 Harry Hood 12:36
+t11 Crowd 2:38
+t12 Possom 6:40
+t13 Crowd 0:37
+
+78:46
+
+FLAc Fingerprints
+
+ph2004-08-10d1t01.flac:c480ee6eaca02c769c37cf0b8f6fa656
+ph2004-08-10d1t02.flac:abe46f1f7a88afa70a207aad9d3a5ef7
+ph2004-08-10d1t03.flac:42dc25a4641076a3468beadd1a72d0e0
+ph2004-08-10d1t04.flac:e725c0145377d88bb2fdbf510fa5397b
+ph2004-08-10d1t05.flac:745cbe0af7500a2b3595c004df037c10
+ph2004-08-10d1t06.flac:5001ac5aad7a31560aad3e1530688ad4
+ph2004-08-10d1t07.flac:da80bbdde7fd57a955a6ee0477e427b7
+ph2004-08-10dt201.flac:b8d952cee2c965186a217a3b012ccece
+ph2004-08-10dt202.flac:8abce1ce13082d367667f5008d19e799
+ph2004-08-10dt203.flac:d5b54486f615e8ba0075b9a50bc7edeb
+ph2004-08-10dt204.flac:5a61f2f6fdcc1bfe6588c196b6f165f9
+ph2004-08-10dt205.flac:c25ef4170435c549e2034072509c6fb7
+ph2004-08-10dt206.flac:16476d71b9c81ac5db4bfd04a29d393f
+ph2004-08-10dt207.flac:bc1ec991e4ea742bca37c1c364513c2f
+ph2004-08-10dt208.flac:88b60616695809d23a9c3f1c5dc1e2f5
+ph2004-08-10dt209.flac:aca6a90e0c3b0e7c93d42268fd84406c
+ph2004-08-10dt210.flac:49cf01cafc6dbdfa01095c272e3fbb75
+ph2004-08-10dt211.flac:6275e8c2fb7b32289c27e90564e9899e
+ph2004-08-10dt212.flac:7a2a2c365b7638335f1b5e603d1d2fc6
+ph2004-08-10dt213.flac:840351de760360061cacfd408e0b87a7
+

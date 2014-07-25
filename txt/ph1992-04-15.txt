@@ -1,0 +1,58 @@
+Phish
+04-15-92 
+Variety Arts Theater - Los Angeles, CA 
+
+Source: SBD > Cass/0 > DAT > HHb CDR880 > CDR > EAC > SHN
+
+SHN Conversion and fixes by Ben Mohr (bmohr@udel.edu)
+
+------------------------------------
+ Disc 1:                    (58:08)
+------------------------------------
+-Set 1-
+1. Oh Kee Pa Ceremony >     (02:02)
+2. Suzy Greenberg           (05:22)
+3. Foam                     (07:53)
+4. Guelah Papyrus           (05:38)
+5. Sparkle                  (04:08)
+6. Stash                    (09:07)
+7. Uncle Pen                (04:27)
+8. Cavern                   (04:49)
+9. I Didn't Know            (03:54)
+10. All Things Reconsidered (03:24)
+11. Runaway Jim             (07:18)
+
+------------------------------------
+ Disc 2:                    (61:05)
+------------------------------------
+-Set 2-
+1. Chalk Dust Torture       (06:01)
+2. You Enjoy Myself*        (19:34)
+3. Reba                     (11:37)
+4. The Landlady >           (02:55)
+5. NICU                     (05:14)
+6. CAI > Cracklin' Rosie >CAI (06:13)
+7. My Sweet One             (02:16)
+8. Golgi Apparatus          (04:34)
+-Encore- 
+[Memories]  
+[Sweet Adeline]
+9. Rocky Top                (02:37)
+
+* with "Sunshine of Your Love" (Cream) and "Rolling on the River" teases
+
+Notes:
+-Since Memories and Sweet Adeline were played without mics, the soundboard did 
+  not pick up anything and therefore, the songs were not recorded.
+-Mic feedback at beginning of d1t02.
+-Slight diginoise d2t06 2:19
+-Tape flips (no second flip?):
+  d1t09 3:08 (46:35)
+
+Fixes:
+-d1t02 3:22.410-3:22.429 fixed right left channel dropout by applying left channel
+-d1t06 3:26.149-3:26.165 fixed right left channel dropout by applying left channel
+-d1t09 0:53.128-0:53.131 removed digizap
+-d2t02 10:38.104-10:39.592 L channel amplitude drop fixed by applying R channel at 60%
+-d2t02 10:39.791-10:41.841 R channel amplitude drop fixed by applying L channel at 140%
+-d2t03 11:25.339 (2.065sec) removed skip

@@ -1,0 +1,85 @@
+Phish
+
+4/17/04 Thomas and Mack Center, Las Vegas, NV
+
+
+Source: AKG393's(Front Row OTS) -> Edirol UA-5 (Oade warm mod) -> NJB3 @ 44.1 Khz
+
+Transfer: NJB3 -> Firewire -> PC-> CDWAV -> Flac Frontend 
+
+Microphone Config:DINA (90 degree angle between mics, 17 cm separation)
+
+Taped by: Greg Bloch
+
+Transferred by: Greg Bloch(phishn@taperssection.com)
+
+
+Set I 
+
+Disk 1
+
+t01 Crowd                 0:59
+t02 Soul Shakedown Party  3:15  
+t03 Halley's Comet>      10:34 
+t04 Tweezer              16:11
+t05 Ginseng Sullivan      3:06              
+t06 Horn                  3:58
+t07 Sample In a Jar       5:13
+t08 Piper>               13:15
+t09 Frankenstein          4:37
+t10 David Bowie          14:36
+t11 Crowd                 0:41
+                         ----- 
+                         76:25        
+
+Disk 2
+
+Set II
+
+t01 Crowd                      1:15
+t02 Meatstick                  6:44
+t03 Pebbles and Marbles>      18:50
+t04 Prince Caspian>            7:29
+t05 Simple>                    7:28
+t06 Friday                     8:16 
+t07 Ghost                     15:57 
+                              -----
+                              65:59
+
+Disk3
+
+t01 You Enjoy Myself>          17:07
+t02 Tweezer Reprise             3:46 
+t03 Crowd                       2:16 
+t04 Wolfman's Brother           8:18
+t05 Squirming Coil              8:24
+t06 Crowd                       0:36   
+                               -----
+                               40:27 
+
+FLAC Fingerprints
+
+ph2004-04-17d1t01.flac:720834302b7d2005f73a8a71b68c94a6
+ph2004-04-17d1t02.flac:b1ed874ff3af8c4eebcd8c20713b873c
+ph2004-04-17d1t03.flac:ac21ef37f1f31c28ceb15f628cdee65c
+ph2004-04-17d1t04.flac:bc512745ab5bbac9199acb18230b29f6
+ph2004-04-17d1t05.flac:e49c3c853445735acf27778efdf896ab
+ph2004-04-17d1t06.flac:d6a26bab68dad421dae575950defc3ac
+ph2004-04-17d1t07.flac:34f4696fa535959c77665f54ad50729a
+ph2004-04-17d1t08.flac:9e4c13e84f5583b38ece7aa816b3e998
+ph2004-04-17d1t09.flac:2c1695902f7155c941292326e10a53f5
+ph2004-04-17d1t10.flac:5651e6d557bad940ea02d1da39f3b9e7
+ph2004-04-17d1t11.flac:e2368520e8d98e486c4fe358dacf23a9
+ph2004-04-17d2t01.flac:4d55e1606d56764d6157e27ed4f43484
+ph2004-04-17d2t02.flac:91b4f0dc9f9752447c35905f8a749739
+ph2004-04-17d2t03.flac:f7000e9de8e5bbf779603490e7d64592
+ph2004-04-17d2t04.flac:1aa827db6900374bec6e3ae6584d720e
+ph2004-04-17d2t05.flac:412728509d936a42a8d4c7e574872708
+ph2004-04-17d2t06.flac:9a7bb402d9659157f921c77aba3be676
+ph2004-04-17d2t07.flac:a8ca2e85f4b06a058aa99f086ccd9f4c
+ph2004-04-17d3t01.flac:4fbe5e6ab14d0bef6d03ccbaa3c3c83c
+ph2004-04-17d3t02.flac:d8e1161e92d8f981c853b8ef9cfb93fe
+ph2004-04-17d3t03.flac:256fad670eda2c7ac3881c20a340ec6e
+ph2004-04-17d3t04.flac:b32797a324aa1252c48dbc75f0dcb603
+ph2004-04-17d3t05.flac:82aab353858bc3e59f1d357c06da4950
+ph2004-04-17d3t06.flac:fff538ebc565ec219721abf5ecfdd068

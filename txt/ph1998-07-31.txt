@@ -1,0 +1,76 @@
+Phish
+July 31, 1998
+Polaris Amphitheater
+Columbus, OH
+
+source:
+Schoeps cmc6/mk41 > Sonosax SX-M2 > Apogee AD-1000 > Tascam DA-P1 (@ 48 kHz)
+
+transfer:
+Tascam DA-20mkII > Marantz PMD-661 > SDHC card > usb 2.0 > pc > r8brain v1.9 (resample to 44.1 kHz) > CD Wave v1.98 (track splits) > Samplitude SE v9.1.1 (fades) > FLAC v1.2.1 (Level 8)
+
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded May 17, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+The original 48 kHz files from the DAT transfer have been archived and are available upon request.
+In Samplitude, I smoothed out a level adjustment at the very beginning of "My Friend My Friend".
+
+Disc 1 - [64:03]
+Set I
+01 - [06:46] - My Friend My Friend
+02 - [11:36] - Ya Mar
+03 - [08:37] - Roggae
+04 - [06:06] - Rift
+05 - [15:39] - Cities
+06 - [03:36] - Water in the Sky
+07 - [11:43] - Stash
+
+Disc 2 - [46:25]
+Set II
+01 - [06:45] - The Curtain >
+02 - [09:52] - Free
+03 - [08:34] - If I Could >
+04 - [04:10] - The Man Who Stepped Into Yesterday >
+05 - [03:11] - Avenu Malkenu >
+06 - [09:04] - Twist >
+07 - [04:48] - Izabella
+
+Disc 3 - [35:23]
+Set II continued
+01 - [08:34] - Julius
+02 - [04:55] - Cavern
+03 - [01:28] - encore break
+04 - [08:43] - Punch You in the Eye
+05 - [11:43] - Slave to the Traffic Light
+
+Show Notes: My Friend included a Guyute tease in the intro. Cities included 
+Who Knows teases. Rift was played for the first time since February 23, 1997 
+(94 shows) and If I Could was played for the first time since August 5, 1996 
+(150 shows).
+______________________________________________
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     6:46.20          68.35 MB  ---   --   ---xx   flac  0.5489  ph1998-07-31d1t01.flac
+    11:36.15         117.12 MB  ---   --   ---xx   flac  0.5420  ph1998-07-31d1t02.flac
+     8:37.07          86.99 MB  ---   --   ---xx   flac  0.5493  ph1998-07-31d1t03.flac
+     6:05.61          61.54 MB  ---   --   ---xx   flac  0.5680  ph1998-07-31d1t04.flac
+    15:39.01         157.97 MB  ---   --   ---xx   flac  0.5729  ph1998-07-31d1t05.flac
+     3:35.50          36.28 MB  ---   --   ---xx   flac  0.5354  ph1998-07-31d1t06.flac
+    11:42.71         118.26 MB  ---   --   ---xx   flac  0.5511  ph1998-07-31d1t07.flac
+     6:45.27          68.19 MB  ---   --   ---xx   flac  0.5581  ph1998-07-31d2t01.flac
+     9:52.19          99.63 MB  ---   --   ---xx   flac  0.5615  ph1998-07-31d2t02.flac
+     8:33.65          86.45 MB  ---   --   ---xx   flac  0.5193  ph1998-07-31d2t03.flac
+     4:10.33          42.13 MB  ---   --   ---xx   flac  0.4497  ph1998-07-31d2t04.flac
+     3:11.13          32.16 MB  ---   --   ---xx   flac  0.5458  ph1998-07-31d2t05.flac
+     9:03.65          91.49 MB  ---   --   ---xx   flac  0.5379  ph1998-07-31d2t06.flac
+     4:48.30          48.52 MB  ---   --   ---xx   flac  0.6026  ph1998-07-31d2t07.flac
+     8:33.39          86.39 MB  ---   --   ---xx   flac  0.5749  ph1998-07-31d3t01.flac
+     4:55.11          49.65 MB  ---   --   ---xx   flac  0.6067  ph1998-07-31d3t02.flac
+     1:27.52          14.75 MB  ---   --   ---xx   flac  0.5470  ph1998-07-31d3t03.flac
+     8:42.73          87.98 MB  ---   --   ---xx   flac  0.5702  ph1998-07-31d3t04.flac
+    11:43.23         118.32 MB  ---   --   ---xx   flac  0.5309  ph1998-07-31d3t05.flac
+   145:51.00        1472.17 MB                           0.5526  (19 files)

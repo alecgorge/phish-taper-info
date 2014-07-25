@@ -1,0 +1,45 @@
+Phish
+Seattle Arena
+Seattle, WA
+October 2, 1995
+
+
+Source: Neumann KM140
+
+Transfer: Tascam DA-302 > Digipro 002 > Protools LE > CD Wave > MKW ACT > SHN 
+(Transfered by LiverLobes@hotmail.com (John P. Tambroni) and The Mad Hermit)
+
+
+Disc 1
+
+01. Poor Heart (2:39)
+02. Wolfman's Brother (5:12)
+03. Rift (5:48)
+04. Night Moves Jam (1:49)
+05. Stash (13:30)
+06. Acoustic Army (3:52)
+07. Fog/Taste that Surrounds (6:05)
+08. Theme From the Bottom (9:15)
+09. Tela (6:37)
+10. David Bowie (14:49)
+
+Disc 2
+
+01. Wilson   (5:04)
+02. Cars Trucks Buses  (3:40)
+03. Bathtub Gin (8:47)
+04. Llama (4:31)
+05. Simple ->  (9:21)
+06. Keyboard Kalvary (3:55)
+07. Slave to the Traffic Light (12:21)
+08. Hello My Baby (1:36)
+09. Lizards (10:18)
+10. Run Like An Antelope (11:17)
+      Encore:
+11. A Day in the Life (5:04)
+
+***Note*** There are level adjustments in Acoustic Army and Hello My Baby. Also, there is a tiny ¼-second dropout in bowie (it happens during one of the pauses between trills in the ending section). Also, there are a couple of minor clap noises in poor heart around 0:37; this was checked on the DAT to make sure it wasn't a transfer error. The noise is indeed on the DAT. Also, much of the post set 2/pre-encore noise was not on the DAT (I did not remove this).
+
+This passed shntool len (there are no SBEs)
+
+Thanks to Brandon Johnston for the DATs.

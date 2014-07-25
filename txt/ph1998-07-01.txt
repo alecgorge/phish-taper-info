@@ -1,0 +1,91 @@
+Phish
+07-01-98 
+The Grey Hall - Freetown Christiana, Copenhagen, Denmark 
+
+Source: Schoeps MK4 (FOB; mics in a hat) > kcy > VMS IO2b > DA P1 
+recorded @ 44.1
+Lineage: Master Dat > 1st gen clone, 
+
+Transfer: 1st gen clone > RME 96/8 > Soundforge 5.0 > CD Wave > MKW 
+Act(shn)*no dae*
+minor edits: fades added at beginning and end of each set using sound 
+forge 5.0
+Transfered by Tim Rossi(timothyrossi@yahoo.com)
+Thanks to Derek G. for the tapes
+
+errors: there were sector boundry problems on the last track of each 
+disc, I used shntool to fix them:
+Padded 'ph98-07-01d109-fixed.wav' with 640 zero-bytes.
+Padded 'ph98-07-01d206-fixed.wav' with 1904 zero-bytes
+
+Tape Errors:  Nicu starts about 1 second into the song
+____________________________________________________________________________
+
+*Dankseed Certification received 01-08-27*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph98-07-01_FOB_SchoepsMK4/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+________________________________________________________________________________
+
+Disc 1 
+Set I
+1. Nicu
+2. Sample
+3. My Mind's Got a Mind of it's Own
+4. Moma Dance
+5. Down With Disease >
+6. Dog Faced Boy >
+7. Piper
+8. Waste
+9. Chalkdust
+
+Disc 2
+Set II
+1. Tweezer >
+2. 2001 >
+3. Loving Cup
+4. My Soul
+5. Sweet Adeline
+Encore
+6. Harry Hood
+
+
+-----------------------------------------------------------------------
+shntool check for disk 1
+-----------------------------------------------------------------------
+
+    length     expanded size   cdr  WAVE  probs   filename
+     5:36.29      59338652     ---   --    -xx    ph98-07-01d101.shn
+     5:05.28      53867900     ---   --    -xx    ph98-07-01d102.shn
+     2:40.20      28271084     ---   --    -xx    ph98-07-01d103.shn
+    14:14.48     150758540     ---   --    -xx    ph98-07-01d104.shn
+    20:17.56     214810556     ---   --    -xx    ph98-07-01d105.shn
+     2:22.68      25208780     ---   --    -xx    ph98-07-01d106.shn
+     5:40.33      60053660     ---   --    -xx    ph98-07-01d107.shn
+     5:33.35      58823564     ---   --    -xx    ph98-07-01d108.shn
+     7:40.10      81167564     ---   --    -xx    ph98-07-01d109.shn
+    69:11.27     732300300 B                      (totals for 9 files)
+
+-----------------------------------------------------------------------
+shntool check for disk 2
+-----------------------------------------------------------------------
+
+    length     expanded size   cdr  WAVE  probs   filename
+    23:17.11     246456716     ---   --    -xx    ph98-07-01d201.shn
+    15:18.19     161979932     ---   --    -xx    ph98-07-01d202.shn
+     5:44.02      60686348     ---   --    -xx    ph98-07-01d203.shn
+     7:29.24      79260092     ---   --    -xx    ph98-07-01d204.shn
+     3:35.06      37940156     ---   --    -xx    ph98-07-01d205.shn
+    13:43.41     145273676     ---   --    -xx    ph98-07-01d206.shn
+    69:07.28     731596920 B                      (totals for 6 files)
+
+

@@ -1,0 +1,98 @@
+Phish
+November 19, 1998
+Lawrence Joels Veterans Memorial Coliseum - Winston-Salem, NC
+
+Source: (FOB) Schoeps MK4V(ORTF in hat)>KC5>CMC6>Oade M118>HHB PDR-1000
+Taped By: Steve "the Intimidator"
+
+Conversion: Dat> Rme 96/8> Soundforge> Cd Wave> shn
+Transferred and seeded by: Mikey K. (unidecker@mediaone.com)
+
+Updates:
+I got this show from this torrent (http://bt.etree.org/details.php?id=2509)
+which was a minor fix done by matt vernon.  His notes include the following.
+
+This is a minor fix of shnid 6366 - 
+a fade was undone so set 2 can be included on one disk
+notes/edits added by Matt Vernon 2/13/2004
+- undid fades so set 2 is now continuous
+
+Additional Updates by medlhuber@hotmail.com
+SHN>MKWACT>WAV>FLAC V1.71 (with ID Tags) 3/2005
+Updated text file with correct lineage thanks to CarrionCrow & Jimbo.
+Orgional source: http://db.etree.org/shninfo_detail.php?shnid=6366
+
+Set I
+Disc 1
+01. Crowd
+02. Cities
+03. The Curtain->
+04. Sample in a Jar
+05. Ginseng Sullivan
+06. Bouncing Around the Room
+07. Maze
+08. Something
+09. Ghost->
+10. Golgi Apparatus
+
+Set II
+Disc 2
+1. 2001->
+2. Rock N' Roll->
+3. Taste
+4. Frankie Says
+5. Gumbo->
+6. Chalk Dust Torture
+7. Frankenstein
+8. Been Caught Stealing
+
+Disc 3
+Encore
+1. You Enjoy Myself*
+
+*= w/ Heloise Williams
+
+Shntool Output:
+    length     expanded size   cdr  WAVE problems filename
+     0:42.09        7430012    ---   --   ---xx   ph1998-11-19d1t01.flac
+     7:06.52       75268748    ---   --   ---xx   ph1998-11-19d1t02.flac
+     6:27.44       68370332    ---   --   ---xx   ph1998-11-19d1t03.flac
+     5:04.52       53747948    ---   --   ---xx   ph1998-11-19d1t04.flac
+     3:41.68       39144380    ---   --   ---xx   ph1998-11-19d1t05.flac
+     3:49.08       40414460    ---   --   ---xx   ph1998-11-19d1t06.flac
+    14:18.68      151511180    ---   --   ---xx   ph1998-11-19d1t07.flac
+     3:24.09       36006812    ---   --   ---xx   ph1998-11-19d1t08.flac
+    17:55.58      189766460    ---   --   ---xx   ph1998-11-19d1t09.flac
+     5:00.65       53072924    ---   --   ---xx   ph1998-11-19d1t10.flac
+    12:19.24      130416092    ---   --   ---xx   ph1998-11-19d2t01.flac
+    10:42.70      113413484    ---   --   ---xx   ph1998-11-19d2t02.flac
+     9:13.32       97624508    ---   --   ---xx   ph1998-11-19d2t03.flac
+     5:32.06       58578956    ---   --   ---xx   ph1998-11-19d2t04.flac
+    10:29.46      111063836    ---   --   ---xx   ph1998-11-19d2t05.flac
+     6:20.10       67055564    ---   --   ---xx   ph1998-11-19d2t06.flac
+     5:16.06       55756556    ---   --   ---xx   ph1998-11-19d2t07.flac
+     6:29.00       68619644    ---   --   ---xx   ph1998-11-19d2t08.flac
+    23:36.64      249932972    ---   --   ---xx   ph1998-11-19d3t01.flac
+   157:31.16     1667194868 B                     (totals for 19 files, 0.5179 overall compression ratio)
+
+Flac Fingerprint for New Fileset.
+ph1998-11-19d1t01.flac:beeeb5b7fa3834ef546c54da3937c2d2
+ph1998-11-19d1t02.flac:f446d804b47b329196655a474c26b91b
+ph1998-11-19d1t03.flac:9f50e42853906604b495352604d83b13
+ph1998-11-19d1t04.flac:a32f5e6c53f8efd3833070de872f79fa
+ph1998-11-19d1t05.flac:bc81a842ae927d937af3d420e385aee0
+ph1998-11-19d1t07.flac:ca1cb05eeca8bf19d28977c158ec38eb
+ph1998-11-19d1t06.flac:d0e3be4d4f1de349f03e3776844dd160
+ph1998-11-19d1t08.flac:992d9ee1d169054e05cd21d39c1eeba5
+ph1998-11-19d1t09.flac:dee3e515de21df3fd528c6868373158b
+ph1998-11-19d1t10.flac:b810661eca20f866f95fdeac0689bea3
+ph1998-11-19d2t01.flac:0d5aba545fc7b45d0929f28698f47740
+ph1998-11-19d2t02.flac:b99086fecc78287a404632313450bbe9
+ph1998-11-19d2t03.flac:b0bcdb481eb6b3bdca97217ea68a9d91
+ph1998-11-19d2t04.flac:95415704310bcf8fadd207b30c9f3c4a
+ph1998-11-19d2t05.flac:eb1df79b63e98d1c6790671461f894d3
+ph1998-11-19d2t06.flac:ec7da96b2047827d0ffe2ae11a11a644
+ph1998-11-19d2t07.flac:197c7c1d4948be039ef951992e264cfa
+ph1998-11-19d2t08.flac:58b07d4cf201fb5f036bf9b2aaa78590
+ph1998-11-19d3t01.flac:54fbc7ef833cf5e0a7c6341a0d402ef8
+

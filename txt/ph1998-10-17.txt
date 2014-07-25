@@ -1,0 +1,39 @@
+Phish
+October 17, 1998
+Bridge School Benefit
+Shoreline Amphitheatre
+Mountain View, CA
+
+source:
+(FOB) Schoeps cmc6/mk41
+
+transfer:
+Tascam DA-20 MKII > M-Audiophile USB > WaveLab 5.01b (fades, resample to 44.1 kHz) > CD Wave v1.94.7 > FLAC v1.1.2 (Level 8)
+
+DATs provided by Peter Arcoma 
+transferred by Peter Grow (growpe1@hotmail.com)
+tracked & FLAC'ed by Jason Sobel (jasonsobel@gmail.com)
+
+note:
+the original 48 kHz files from the DAT transfer have been archived and are available upon request
+
+Total time - [52:11]
+01 - [02:04] - Carolina *
+02 - [02:11] - Sleep **
+03 - [01:53] - Never **
+04 - [08:10] - Possum
+05 - [03:28] - I'm Blue I'm Lonesome ***
+06 - [04:24] - Freebird ##
+07 - [03:46] - Driver **
+08 - [05:31] - Wading in a Velvet Sea
+09 - [13:00] - Harry Hood ^ ->
+10 - [07:44] - Helpless ^^
+
+This set was part of the Bridge School Benefit Concerts (put on by Neil Young).
+
+* a cappella, with backs to the audience, facing the children of the Bridge School who were seated on risers behind the stage
+** first time played (original)
+*** Mike on banjo; Page on bass
+## a cappella; last played 06-19-94, 337 shows earlier
+^ unfinished; Neil Young joined Phish on stage (on guitar)
+^^ first time played (Neil Young cover); with Neil Young

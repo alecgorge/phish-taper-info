@@ -1,0 +1,49 @@
+Phish
+10/22/95
+Assembly Hall
+University of Illinois
+Champaign, IL
+
+O.T.S front and as centered as possible / B&K 4021s >
+Tascam DA-P1(m) 48kHz
+
+DAT master > Zefiro ZA-2 (48kHz > 44.1kHz) /
+PC / SoundForge / Peak Normalization 98% / CD Architect /
+Plextor PlexWriter 820 > CDRs (2x80 + 1x74)
+
+CDRs > EAC V0.9 prebeta (logs included) > mkw Audio Compression Tool /
+.SHNs > CDRWin 3.8D-E > Plextor PlexWriter 16/10/40A > 2x74 data discs
+
+Recorded, mastered, transferred, extracted, reburned and artwork
+by Eric Vandercar
+
+set I  disc 1 (75:53)
+1 AC/DC Bag
+2 My Mind?s Got A Mind Of Its Own
+3 Sloth
+4 Runaway Jim
+5 Weigh >
+6 N I C U
+7 Fast Enough For You
+8 It?s Ice
+9 Poor Heart >
+10 Sample In A Jar
+11 Blue And Lonesome
+12 Stash
+
+set II   disc 2 (78:27)
+1 Golgi Apparatus
+2 Possum >
+3 Catapult 
+4 The Curtain >
+5 Tweezer >
+6 Makisupa Policeman >
+7 Big Black Furry Creature From Mars
+8 Life On Mars
+9 Uncle Pen
+10 Slave To The Traffic Light >
+11 Cavern
+
+encore   disc 3 (13:38)
+1 Sweet Adeline (a cappella)
+2 Squirming Coil

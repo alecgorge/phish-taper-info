@@ -1,0 +1,54 @@
+Phish 07-29-1998 Riverport Ampitheatre, Marylan Heights, MO
+
+Source:			B+K 4011->Lunatec V2->Apogee AD-1000 @48kHz
+			Recorded by Marc Nutter, Joe Morrison's DA-P1
+			patch master used in below transfer
+
+Transfer:		Sony 59ES->Audio Magic Presto II->ZA2->
+			Soundforge 4.5(48->44.1 resmpling using
+			highest quality setting w/ anti alias 
+			filter)->CDWav->.shn by Eric McRoberts
+
+**No editing(other than start and end set fades fades), normalizing, or dae**
+
+Big thanks to Joe Morrison for allowing me to hold his masters for a few mos!!!
+
+Disk 1										(64:06)
+	Set I:									
+1.   Bathtub Gin								 24:04
+2.   Dog Log									 05:32
+3.   Foam									 09:45
+4.   Fikus									 02:59
+5.   Farmhouse									 05:47 
+6.   Vultures									 05:43 
+7.   Glide									 04:22
+8.   Birds Of A Feather								 05:50
+
+Disk 2										(69:38)
+	Set II:						
+1.   Buried Alive->								 14:31
+2.   If You Need A Fool								 03:35
+3.   AC/DC Bag->								 08:01
+4.   Lizards									 13:48
+5.   Tube >									 10:01
+6.   Kung >									 03:40
+7.   Antelope									 15:58
+	
+Disk 3										(73:35)
+	Encore:
+1.   Waste >									 05:40
+2.   Golgi >									 04:38
+3.   Bittersweet Motel								 03:10
+	
+	Filler: Phish 06-28-2000 set 1 PNC Banc Arts Center, Holmdel, NJ
+		B+K 4011(dfc, ots)->Lunatec V2->Apogee AD-500e @48kHz;
+		Same transfer method as above
+		Recorded by Ron Dalton.  Transfer and encoding of Frank 
+		McRoberts' DA-P1 patch master by Eric McRoberts
+
+4.   Chalkdust									 08:52
+5.   Sloth									 04:01
+6.   Taste									 12:01
+7.   Bathtub Gin								 17:41
+8.   Piper									 09:35
+9.   If I Could									 07:51

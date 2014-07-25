@@ -1,0 +1,91 @@
+Phish
+04-05-92
+Fox Theater, Boulder, CO
+
+***BETA SEED, DO NOT DISTRIBUTE OUTSIDE DANKSEEDS***
+
+--------------------------------------------------------------------------------------------
+Source:         Separate from Soundboard 16 track Mix (see notes below) > DAT@44.1
+
+Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                Soundforge 5.0e (48KHz->44.1KHz at highest setting [4 of 4],
+                with anti-alias filter)-> CD Wave 1.62-> mkwACT v0.97
+                **No DAE at all**
+
+Minor Edits:	Fades in/out at cassette flip, as well as the start/end of set.
+
+"Sbd/Aud mixes: The following shows were recorded to DAT from a separate
+recording board at the shows. They are some of the highest quality 
+Phish tapes in existence: 4/22/90, 10/30/90, 10/31/90, 11/2/90, 
+11/3/90, 11/4/90, 3/13/91, 3/15/91, 3/16/91, 3/17/91, 3/22/91, 
+3/23/91, 4/5/92. 
+
+Except for the 4/5/92 tape, they have all been fairly widely circulated.
+They were done on a large recording console (not EQ) and mixed completely
+separately from the board mix, rumoredly done in a truck outside the venue. The engineer used 2 audience mics to mix in crowd/hall ambience (on most of them). See also, PA info."
+
+Quoted from: http://www.phish.net/PhishFAQ/tquality.html
+
+Info From Kevin Shapiro: "11/3/90 and the other tapes of the era (10/30-11/4) were all done by Mike Grace through a separate 16 track mixer and run direct to 2 track DAT.  He basically used the same setup in Spring 1991 too."
+
+----------------
+Transferred by Dan Marquardt <danmarq@msn.com>, please contact me with questions/comments.
+There are also 48KHz shn's of this seed for archival.
+--------------------------------------------------------------------------------------------
+
+_______________________________________________________________________
+
+This seed is currently being reviewed by dankseeds. If you see this 
+statement, it's because the seed hasn't been certified yet or this is 
+just an old info file.
+ 
+For more information about dankseeds, please visit
+http://groups.yahoo.com/group/dankseeds
+________________________________________________________________________
+
+CD 1/Set 1a:				[1:13:25]
+01. Llama*				[04:31]
+02. Guelah Papyrus			[05:48]
+03. The Divided Sky			[12:53]
+04. Wilson				[05:07]
+05. Poor Heart				[02:55]
+06. Stash				[09:04]
+07. Rift				[07:48]
+08. Horn				[04:03]
+09. It's Ice				[08:27]
+10. Possum				[12:49]
+
+CD 2/Set 1b:				[1:09:02]
+01. Sweet Adeline#			[02:11]
+
+CD 2/Set 2a:
+02. Split Open and Melt			[08:51]
+03. All Things Reconsidered		[03:07]
+04. You Enjoy Myself			[19:10]
+05. The Horse->				[01:04]
+06. Silent in the Morning		[05:03]
+07. Maze				[07:37]
+08. Weigh				[05:20]
+09. The Landlady->			[03:20]
+10. David Bowie				[13:19]
+
+CD 3/Set 2b:				[26:47]
+01. HYHU-> Love You-> Cold as Ice	[07:46]
+02. Take the A-Train->			[04:43]
+03. Runaway Jim				[07:15]
+04. Crowd Noise				[01:20]
+
+Encore:
+05. Trey Talk				[00:38]
+06. Lawn Boy				[02:19]
+07. Rocky Top				[02:46]
+
+--------------------------------------------------------------------------------------------
+
+*Removed drop-out in between Llama and Guelah
+#Normalized the soundboard 'pop' before Adeline
+
+*********************************************************************************
+NOTE: As with phish 10-30-90, this is the only known DSBD source, however, if you
+have a cleaner version than mine, let me know: danmarq@msn.com
+*********************************************************************************

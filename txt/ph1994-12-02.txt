@@ -1,0 +1,78 @@
+Phish
+12/2/94
+Recreation Hall at UC Davis, Davis, CA
+-----------------------------------------------------------------------------
+Source:   [DAUD] Neumann KM140-> Oade PS-> Denon DTR-100P @ 48k
+Transfer: CTD8000H-S-> VDAT 0.6f (each dat extracted twice and compared)-> 
+          Sound Forge 5.0d (48->44.1 (highest setting w/ anti-alias filter), 
+          edits)-> CDWave 1.62-> shorten 3.3-> SHN3 (w/ seek tables)
+Edits:    5 second fades at the beginning and end of each set,
+          including the encore; [d2t10 @ 4:38] 0.02 drop-out in the
+          crowd noise about 1 second after Cavern finished was
+          removed and a crossfade applied with a 1 second overlap
+
+master>clone>clone used for transfer.
+DATs provided by Jim Raras.
+Transfer by David Rothenberger <daveroth@acm.org>.
+48k archive shns available upon request.
+-----------------------------------------------------------------------------
+
+__________________________________________________________________________
+
+*Dankseed Certification received 2001-10-16*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph94-12-02/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________
+
+
+Disc 1 / Set I:              58:02
+1.  Poor Heart                3:05
+2.  Also Sprach Zarathustra   3:37
+3.  Sparkle                   3:40
+4.  Simple->                  5:32
+5.  It's Ice                  9:51
+6.  Lizards                  10:39
+7.  Stash                    11:01
+8.  The Squirming Coil       10:36
+
+Disc 2 / Set II & Encore:    70:35
+1.  Chalk Dust Torture        7:14
+2.  David Bowie*             22:16
+3.  Buried Alive*             3:47
+4.  Julius*                   7:43
+5.  The Landlady*             5:33
+6.  Gumbo*                    5:10
+7.  Caravan*                  7:51
+8.  Suzy Greenberg*           5:40
+9.  crowd                     0:28
+10. E: Cavern*                4:53
+
+*With the Giant Country Horns (Dave Grippo - alto sax/percussion,
+Carl Gerhard - trumpet , Michael Ray - trumpet, Peter Apfelbaum -
+baritone sax/tenor sax/ flute, James Harvey - trombone), who came in
+at the end of "David Bowie."
+
+setlist courtesy of Phish.Net HPB 
+(http://www.phish.net/hpb/1994.html#12-02-94)
+
+
+----------------------------------------------------------------------
+DAT rip comparison logs
+----------------------------------------------------------------------
+Set I: used extraction #1
+00:44:31.557 - 00:44:31.623
+  - inaudible in both rips
+
+Set II: used extraction #1
+00:00:58.439 - 00:00:58.503
+  - error is in beginning of file before the music starts

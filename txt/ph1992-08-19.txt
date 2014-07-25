@@ -1,0 +1,44 @@
+Phish
+8/19/92
+Pima County Fairgrounds
+Tucson, AZ
+
+Source: A:MCass (Sony TCS-430 w/ unknown mics)
+Transfer: Nak CR-1>Alesis ML-9600 @ 24-bit/96KHz>Audacity 1.3.11beta>flac
+Taped by David Hollister (david.hollister@gmail.com)
+Seeded to etree on 7/21/10 by David Hollister
+
+I don't recall whether I used external mics or the built-in mics on the
+TCS-430.  Considering the deck, it probably doesn't matter that much.
+Audacity was used to normalize, split tracks, resample to 44.1KHz and
+save resultant files as 16-bit .wav files.  The .wav files were then
+converted to flac.
+
+Setlist:
+
+1. Chalkdust Torture
+2. The Landlady
+3. Runaway Jim
+4. Guelah Papyrus
+5. You Enjoy Myself
+6. Uncle Pen
+7. Llama
+
+There was a tape flip between Uncle Pen and Llama and I apparently missed the
+first few seconds of Llama.
+
+Recorded on a Sony TCS-430 with some unknown (pretty cheap) mics onto a
+Maxell XLS-II.
+
+Played back on a Nakamichi CR-1 and recorded onto an Alesis ML-9600 at
+24-bit, 96KHz.
+
+The resulting .wav file was normalized, tracked, resampled to 44.1KHz and
+saved as RBCD-compliant .wav files using Audacity version 1.3.11 beta.
+
+There is some wind noise.  Sometimes the crowd noise is a bit annoying, but
+then again, it always is.  Overall, not a bad recording considering the $99
+tape deck.
+
+-David
+4/30/10

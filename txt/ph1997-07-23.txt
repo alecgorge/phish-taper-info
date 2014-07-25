@@ -1,0 +1,42 @@
+Phish
+7-23-97
+Lakewood Ampitheatre
+Atlanta, GA
+
+Source: Schoeps CMC641 > Sonasax > SBM-1 > DA-P1
+Conversion: D-100 > S/PDIF > Montego II > Soundforge > CD-WAV > Shn
+
+Conversion by Matt Mishkoff <mmishkoff@omginc.com>
+
+Notes------There are a three places (on the original DAT) that sound like brief 'skips'. There is one at the beginning of Julius (which is barely noticable), and two in Possum (which are very noticable). There is also a fair amount of clipping resulting from the levels being too high on the DAT recording. It is not very noticable, from my repeated listening, except on some vocal parts. All problems noted here were in the source DAT.
+
+Disc 1------
+Set 1
+1) Julius			[13:53]
+2) Dirt				[3:51]
+3) NICU				[5:13]
+4) Dog Stole Things		[4:31]
+5) Ginseng Sullivan		[3:50]
+6) Water in the Sky		[3:58]
+7) Limb By Limb			[10:01]
+8) Split Open and Melt		[13:24]
+9) Billy Breathes		[7:24]
+
+Disc 2------
+1) Possum			[11:51]
+Set 2
+2) Punch you in the Eye		[9:05]
+3) Ghost ->			[26:45]
+4) Sample in a Jar		[5:45]
+5) You Enjoy Myself* ->		[17:53]
+6) Rocky Mountain Way Jam** -> 	[2:31]
+
+Disc 3------
+1) Chalkdust Torture		[7:29]
+Encore
+2) Frankenstein			[5:10]
+
+* With Russian folk jam
+** First time played, Joe Walsh cover
+
+SBE's fixed by Matthew Kiefer(m_kiefer@bellsouth.net) on 2004-01-28.

@@ -1,0 +1,49 @@
+Phish
+December 31, 1998
+Madison Square Garden
+New York, NY
+
+source:
+(FOB) Schoeps mk4v > kc5 > Sonosax SX-M2/LS2 > Sony SBM-1 > Sony D100 (@ 44.1 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > WaveLab 5.01b (fades) > CD Wave v1.95.1 > FLAC v1.1.4 (Level 8)
+
+recorded by Bob Siegl
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded May 9, 2007
+
+notes:
+recorded FOB, section 2, row U, seat 1, right on center aisle, the mics were in a hat
+Big thanks to Carrion Crow for letting me borrow his DATs!
+
+Disc 1 - [60:39]
+Set I
+01 - [09:25] - 1999 >
+02 - [16:07] - Mike's Song >
+03 - [03:44] - I Am Hydrogen >
+04 - [09:12] - Weekapaug Groove
+05 - [15:46] - Ghost ->
+06 - [01:42] - Ha Ha Ha >
+07 - [04:43] - Cavern
+
+Disc 2 - [63:38]
+Set II
+01 - [05:28] - NICU >
+02 - [07:45] - Character Zero >
+03 - [14:35] - Tweezer ->
+04 - [08:31] - Cities >
+05 - [06:36] - Wading in the Velvet Sea
+06 - [15:23] - Run Like an Antelope
+07 - [05:08] - Frankenstein
+
+Disc 3 - [69:40]
+Set III
+01 - [11:14] - Runaway Jim ->
+02 - [01:44] - Auld Lang Syne ->
+03 - [18:31] - Simple >
+04 - [17:57] - Harry Hood >
+05 - [04:18] - Tweezer Reprise
+06 - [04:59] - Llama
+07 - [04:18] - encore break
+08 - [06:39] - While My Guitar Gently Weeps

@@ -1,0 +1,59 @@
+Phish
+2-18-93
+Electric Ballroom
+Knoxville, TN 
+
+Source: Unknown
+
+Transfer: CD>Flac by orechall420@yahoo.com
+
+Many thanks go out to Alec Swensen for getting me the audio discs of the uncirculated gem.  For being an unknown source it sounds very nice.  The accapella songs are not on this copy and this was the show in which the soundboard got fried due to a drink spilling on the board.This is quite noticable during Mound.  Hope everyone enjoys this one.
+
+------------------------------
+Soundcheck
+source: cSBD > DAT (44.1)
+transfer: Casio DA-R100 > M-Audio 24/96 via Coax SPDIF > Wavelab > CD-WAV > SHNv3
+------------------------------
+
+11. Cactus plays bass
+12. Shaggy Dog
+13. Quinn the Eskimo > Jam
+14. Bass and Banter
+15. Sample in // a Jar
+16. "he's asking if you like it"
+17. Cactus gets his tone
+
+Disc 1
+-Set 1-
+
+1.  Chalkdust Torture  
+2.  Guelah Papyrus
+3.  Poor Heart
+4.  Tweezer>
+5.  Foam
+6.  Sparkle
+7.  Cavern/
+8.  /Reba
+9.  Lawn Boy
+10. Antelope
+
+Disc 2
+-Set II-
+
+1.  Rift
+2.  Stash
+3.  Lizards
+4.  Punch You In The Eye
+5.  Mike's Song*>
+6.  Hydrogen>
+7.  Weekapaug Groove/
+8.  /Mound 
+
+missing Amazing Grace, Memories, Sweet Adeline, Rocky Top 
+
+* has "Another One Bites the Dust" teases
+
+*Fixes*
+After getting the FLAC's I noticed that there were small clicks that dotted the show all over the place. These were not clicks associated with the SBD becomming fried from the drink incident. I performed well over 1000 edits on the show removing as many of these clicks as I could. Even though this is a VAST improvement over the originals, there are still some clicks that could not be edited. The cuts that were present were also edited as best they could be with the exception of the Weekapaug/Mound. There was no mastering done to the files.....also, just as clarification, this is most likely a SBD>DAT>Cass/0>DAT as were most of the 1993 shows.
+
+Edited and re-FLAC'd on REBA by Marmar- imthemarmar@stny.rr.com

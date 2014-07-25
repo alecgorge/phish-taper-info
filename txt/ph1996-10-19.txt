@@ -1,0 +1,39 @@
+PHiSH - 10/19/96
+Marine Midland Arena - Buffalo, NY
+
+source: Schoeps CMC6/MK4 > Sonosax > D10 Pro II > DA-P1 (ORTF, 2nd row OTS)
+transfer: Casio DA-R100 > M-Audio 24/96 via Coax SPDIF > Wavelab (fades, normalize, sample rate conversion) > CD-WAV > SHNv3
+
+transfer by shakedown@furthurnet.org on 10/16/03
+
+DISC ONE
+set I:
+01. My Friend, My Friend
+02. Rift
+03. Free
+04. Esther
+05. Llama
+06. Gumbo
+07. Down With Disease
+08. Prince Caspian
+09. Frankenstein
+
+DISC TWO
+set II:
+01. AC/DC Bag
+02. Sparkle
+03. Slave to the Traffic Light
+04. Bouncin' 
+05. Split Open & Melt
+06. Fluffhead
+07. Swept Away > Steep
+08. Run Like An Antelope
+09. Hello My Baby
+
+DISC THREE
+encore:
+01. Fee
+02. Rocky Top 
+
+Thanks to Lenny Stubbe for all the sick DATs, please contact me if you have Fall 96 Phish DATs!
+-Matt aka shakedown@furthurnet.org

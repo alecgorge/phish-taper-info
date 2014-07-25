@@ -1,0 +1,45 @@
+Phish
+05/27/2011
+Bethel, New York  Bethel Woods Center for the Arts
+
+Source: Schoeps mk4v> KC5> M222> NT222> Aeta PSP-3> SD 744t (@24bit/96kHz)
+Location: Section 100, Row H, Seat 16, DFC, DIN, 7' Stand
+
+Transfer: SD 744t> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (05/28/2011)
+
+
+Set I
+t01 [00:46] Intro
+t02 [09:09] Tweezer >
+t03 [06:03] My Friend, My Friend
+t04 [03:00] Poor Heart
+t05 [05:23] Roses Are Free >
+t06 [06:02] Funky Bitch
+t07 [08:35] Wolfman's Brother >
+t08 [09:28] Walk Away
+t09 [11:11] Stash
+t10 [03:55] Bouncing Around the Room
+t11 [13:03] Kill Devil Falls
+t12 [05:55] Bold as Love
+
+Set II
+t13 [00:39] Intro
+t14 [06:56] Carini >
+t15 [09:21] Back on the Train
+t16 [09:02] Boogie On Reggae Woman >
+t17 [13:50] Waves >
+t18 [07:36] Prince Caspian >
+t19 [11:52] Crosseyed and Painless >
+t20 [07:43] Wading in the Velvet Sea >
+t21 [08:58] Possum
+t22 [09:29] The Squirming Coil
+t23 [02:19] crowd
+
+Encore
+t24 [08:19] Julius
+
+
+Notes:
+Thanks to Jason Lonchar for the Schoeps tubes
+Set I [1:22:36] Set II [1:27:50] Encore [8:19]

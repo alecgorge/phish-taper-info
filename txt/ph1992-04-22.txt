@@ -1,0 +1,60 @@
+Phish
+Wednesday 
+April 22, 1992
+Hilton Ballroom 
+Eugene, OR
+      
+Earth Day Celebration
+
+Source*: SBD
+Mastered, tracked, and FLAC16 by Marmar- imthemarmar@gmail.com
+     
+Set I: 
+(Llama)
+(Foam)
+(Reba)
+01. /Sparkle 
+02. Guelah Papyrus 
+03. Divided Sky 
+04. Mound 
+05. Stash 
+(All Things Reconsidered) 
+06. /Suzy Greenberg
+      
+Set II: 
+01. Glide 
+02. Run Like an Antelope
+03. The Horse > Silent in the Morning
+04. Rift
+05. Wilson ->
+
+01. /You Enjoy Myself
+02. Poor Heart
+03. Cold As Ice > 
+04. Cracklin' Rosie > Cold As Ice
+05. Harpua
+06. Runaway//Jim
+Encore:
+07. Take the 'A' Train
+08. Rocky Top
+
+Show Notes: To commemorate Earth Day, inflatable globes were thrown around the audience.
+
+*Notes on the source
+Set 1 and end of set 2 are from:
+Source/Conversion: SBD Cass/4 (Maxell XLII 90 min)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +12dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)
+Transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 4/1/2004
+Thanks to Josh Porter for the source cassette.
+
+Set 2 is from:
+Source: SBD-> C0-> DAT->DAT Clone
+Cassette mastered (by Bill H.) on an unknown "vintage 80s 3-head Nak deck (not a DR-1)" -> Maxell XL-II cassette -> Played back by a Nak DR1 deck -> Recorded to DAT on Sony R500 DAT w/SBM* (by Clay Ellwood) -> Cloned on Sony R500 + Tascam DA20 MKII @ 48KHz
+
+Conversion:     
+Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96-> Soundforge 5.0e (48KHz->44.1KHz at highest setting [4 of 4], with anti-alias filter)-> CD Wave 1.62-> mkwACT v0.97**No DAE at all**
+Transferred by Dan Marquardt <danmarq@msn.com>
+
+**Mastering**
+Set 1 and the end of set 2 were running slow/flat....since there was some overlap, bringing the material into tune with the rest of the show was easily done. The cuts were faded where necessary...The Fade out of the SBD/0 was matched exactly with the SBD/4, but then a cut happens shortly after...then the rest of the set finishes without incident. Sadly, the best part of Set 1 is missing...

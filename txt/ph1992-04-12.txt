@@ -1,0 +1,32 @@
+Phish
+April 12, 1992
+University Of Arizona Ballroom
+Tucson, AZ
+
+SET ONE ONLY
+
+Source: Sbd>Cass1>Sony TC-WE305>Acoustic Research AP031 RCAs>Tascam US-122>CDWav>FLAC>Mastering>FLAC
+
+Transferred, and seeded by james_dineen@yahoo.com
+Mastering by Marmar- imthemarmar@gmail.com
+
+Disc One: 
+01. Suzy Greenberg
+02. Poor Heart
+03. Guelah Papyrus
+04. Divided Sky
+05. The Horse >
+06. Silent In The Morning
+07. It's Ice\
+08. /Sparkle
+
+Disc Two:
+01. Maze
+02. I Didn't Know
+03. Reba
+04. Run Like an Antelope
+
+**Mastering**
+Wavelab Montage to reconstruct set and crossfade tape flip > Waves X-Hum (for DC removal) > Q4-Paragraphic EQ > Waves RBass > BBE Sonic Maximizer > Waves X-Noise (Fingerprinted, -10db threshold, 70% reduction) > Waves L3 MultiMaximizer > FLAC
+
+ 

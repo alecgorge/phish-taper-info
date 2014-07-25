@@ -1,0 +1,59 @@
+Phish 
+November 26, 1994
+The Orpheum Theatre - Minneapolis, MN
+
+Source: 	DAUD/OTS AKG SE 10's > Marantz PMD-700@48kHz
+		Mics were XY 90 degrees directly behind Paul.
+		1st generation clone of master used in this transfer.
+		
+Conversion: 	Sony PCM-R500 > Audio Magic Presto II > Delta Di0 2496 > 
+		Samplitude v5.5 > Soundforge 4.5a (48>44.1@highest setting[4of4],
+		with anti-alias filter and Fade in/outs) > CD Wave > mkwACT v0.97
+		(shn files have seek tables appended)
+		**No DAE at all** 	
+
+Comments:	There is a small break between set 2/encore.					
+
+Mastered by Larry Shreve who supplied me with his DATs for this transfer.
+Transferred and encoded by Matt Edlhuber <medlhuber@hotmail.com> 4/21/2002.
+Please contact me with questions etc.  
+
+Disc 1 / Set I 			                        	     	
+01.  My Friend My Friend		                   		
+02.  Possum				                   		
+03.  Guyute                  			   			 
+04.  If I Could	         		   				 
+05.  Foam			 		   			
+06.  The Horse ->	     		   				
+07.  Silent in the Morning   		   				
+08.  Poor Heart		               	 		   		
+09.  Cavern			                  	 		
+
+Disc 2 / Set II							     	
+01.  Halley's Comet ->		         		   		
+02.  David Bowie	 		       		   		
+03.  Sweet Adeline		         		   		
+04.  The Lizards		         		   		
+05.  Sample In a Jar	                 		   		
+06.  Slave to the Traffic Light                		   		
+Encore
+07.  Rocky Top				  		   		
+
+Guyute was incomplete, as it was missing the second verse.  
+Bowie ran over 36 minutes and included a vacuum jam from Fishman.  
+This version of Slave appears on A Live One.
+
+Setlist from "The Phish Companion" http://www.phish.net/mockingbird/
+
+Cool Edit was used to filter some minor diginoise at these locations
+d1t1 ~ 00:11
+d1t1 ~ 05:45
+d1t3 ~ 00:11
+
+
+tions
+d1t1 ~ 00:11
+d1t1 ~ 05:45
+d1t3 ~ 00:11
+
+

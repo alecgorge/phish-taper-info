@@ -1,0 +1,146 @@
+Phish  
+Cumberland County Civic Center  
+Portland, ME
+December 30, 1993
+
+SBD + AUD Matrix Mix (50%-SBD/50%-AUD)
+
+Disc 1 - Set 1
+01 [12:23] David Bowie
+02 [05:21] Weigh
+03 [06:20] The Curtain >
+04 [05:03] Sample in a Jar
+05 [04:19] Paul and Silas
+06 [11:55] Colonel Forbin's Ascent >
+07 [06:31] Famous Mockingbird
+08 [06:00] Rift
+09 [11:09] Bathtub Gin
+10 [04:16] Freebird
+TT [73:16] 
+
+Disc 2 - Set 2
+01 [03:27] Also Sprach Zarathustra >
+02 [12:15] Mike's Song->
+03 [02:16] The Horse->
+04 [04:45] Silent in the Morning 
+05 [07:11] Punch You in the Eye
+06 [08:53] McGrupp and the Watchful Hosemasters 
+07 [07:31] Weekapaug Groove (with Vocal Jam) >
+08 [05:31] Purple Rain >
+09 [01:15] HYHU
+10 [10:15] Slave to the Traffic Light 
+   Encore
+11 [02:22] Rocky Top
+12 [06:12] Good Times Bad Times 
+TT [71:51] 
+
+Show Notes: Dream On and Dave's Energy Guide were both jammed during Bowie. 
+Slave was played in response to a chant from the front row. 
+---------------------------------------------------------
+
+Source Info
+
+SBD
+Source: SBD > DAT > Cassette > DAT
+
+AUD
+Taper: Eliot Byron
+Source: FOB Schoeps cmc5/mk4 -> Sonosax -> AD500 -> D10 
+
+---------------------------------------------------------
+
+Tech notes
+
+I used EAC in secure mode to extract all tracks at 100%
+no reported errors.  Cool Edit Pro 2.0 was used to align &
+synch both of the sources.  This is a 50% SBD, 50% AUD mix.  
+- Mixed by dan@am-dig.com
+- Shn conversion done by dan@am-dig.com 9-JLY-2004 
+- Artwork by dan@am-dig.com 300dpi - For best results
+print at the highest resolution onto glossy photo paper.
+Design for use with a clear slim double jewel case.
+
+---------------------------------------------------------
+
+Notes
+
+Both sources were recorded quite low.  I raised the levels
+on the SBD 3db. I raised the levels on the AUD 4.5db.
+
+Fade in/outs applied to the start and end of both discs. 
+
+Missing 0:02.888 crowd on SBD source between Weekapaug Groove 
+and Purple Rain (cassette flip).  AUD trimmed accordingly to 
+match. This is smooth and most likely undetectable. 
+
+Missing 02:27.000 crowd on SBD source between last song
+and the encores.  AUD trimmed accordingly to match with 10 
+second crossfade.  Smooth but ever so slightly detectable.
+
+---------------------------------------------------------
+
+More Info On the SBD Source
+
+Source: SBD > Panasonic 3700 (master DAT);
+Master DAT played back on 3700 > Tascam pro analog deck 
+(1st gen cass); Playback of 1st gen cass on Nak CR3A > 
+Sony DTC700 @48kHz Master (from Sony DTC700) used in 
+below transfer
+
+Conversion: R500 > Canare Coax > Sek'd Prodif Plus > 
+Soundforge 5.0  (fade in/out/edits/48>44.1 at highest 
+setting[4of4] with anti-alias filter) > CD Wave > SHNv3 
+via Monkey's/md5sum.exe (shn files have seek tables appended) 
+**No DAE at all** 
+
+Transfer was done twice, then inverted over itself to 
+determine transfer errors. No errors were present or the 
+errors that were present were inaudible and due to differing 
+error correction on the DAT playbacks not transfer errors.
+
+Detailed info: This was the seed for the phish.net tree in 
+early 1994; see google files (txt) contained in this file 
+set for more info. During this show there was occasional 
+distortion in one of the drum channels--due to either a mic 
+or mixer. This ispresent in all versions of the show, as it 
+came through the PA. This same noise is also present in the 
+8/20/93 Red Rocks SBD.
+
+Minor Edits: Fades in/out beg/end of sets--5 sec in all 
+cases All of the below was done at the 48k level, so there 
+are edited and unedited 48k archive .shn's for archival:
+First set cass flip: patched at the sample level as the 
+music overlapped on the first gen cass and subsequently on 
+the DAT--nothing missing at all!
+
+Second set cass flip: cut out 45f and crossfade (duration 
+of 2s26f) Break between set-2 & encore: cut several frames 
+of silence and crossfade (duration of 4s45f) All crossfades 
+were done at: source: -infdb to 0db and the destination: 
+0db to -infdb. Edits took place after Paul and Silas, 
+Weekapaug and Slave. 
+
+Taper: Paul Languedoc
+Huge thanks to Shelly who supplied Mikey Perrott with the 
+cassettes to make the DATs and to Mikey for sending me the 
+master DATs for this transfer! Transferred and uploaded by 
+Jim Raras <jraras@yahoo.com> via Dankseeds.  Please contact 
+me with questions etc. There are also 48k shn's of this seed 
+for archival.
+
+*Dankseed Certification received 2002-03-22*
+and posted at http://groups.yahoo.com/group/dankseeds/
+files/ph1993-12-30
+Listening test performed by *6* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+
+

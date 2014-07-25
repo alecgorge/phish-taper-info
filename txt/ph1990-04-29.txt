@@ -1,0 +1,48 @@
+Phish
+Woodbury Ski Club 
+Woodbury, CT
+04/29/90 
+Partial
+
+TAPER: John Redmond
+SOURCE Unknown mics > Nak CR-1A
+
+AUD MCass (Maxell XLII-S 90 min)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +12dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)>
+Mastering (see notes) > SHNv3
+(transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 09/28/2003)
+
+Mastering info: both FLAC files were converted to .WAV with FLAC v1.1.0 and loaded into Wavelab.  X-Noise was used to remove the noise floor.  This cassette sounded great, there was'nt much to deal with in terms of noise.  The 2-band EQ was used first in the chain to roll-off below 55Hz (this helped reduce some of the impact of those boomy bursts of wind), the BBE Sonic Maximizer was used to "brighten" the top end, I had Process set to just below 3, Lo Contour at halfway to 1.  The Blue Tubes LM2S topped it all off with final limiting and gain.  The stereo 192KHz resampler was used for the sample rate conversion and UV22 HR was used for the dither when the files were rendered from 24-bit to 16-bits.
+
+All edits and mastering performed in WaveLab on Doomtooth by shakedown 10/31/03
+- shakedown@furthurnet.org
+
+Anomolies: The recording is a little "boomy" in spots, and there are bursts of wind noise.   There is also a weird phasi-ness which I attribute to poor stereo mic'ing and some wind at certain points, or maybe it's just people walking in front of the mics.  I removed some "crackle" from points in YEM with the Waves X-Crackle. I used a crossfade to smooth over the tape flip.  There is a dropout in Divided Sky, I smoothed it out with a fade.  During Walk Away you can hear someone (the taper?) ask "where you gonna put it?" and something was placed in front of the mics, the phase of the recording is thrown off until after Walk Away.  There was a cut/dropout in the crowd noise before Love You.  It sounds like the taper may have moved the mics, as the bass is more present and there is a greater dynamic to the AUD.
+
+DISC ONE
+01. tuning & stage banter
+02. Carolina
+03. Possum
+04. Yamar
+05. You Enjoy Myself
+06. Dinner and a Movie
+07. Bouncin'
+08. Uncle Penn
+09. Divided Sky
+10. tuning
+
+DISC TWO
+01. Fluffhead
+02. Walk Away
+03. Henrietta intro & tuning
+04. Love You
+
+Notes
+Only one set played this night.
+The segue between Dinner & a Movie and Bouncin' is a nice tight drop
+Fluffhead is dedicated to Sarah, on her birthday.
+
+NO tracking/editing/alterations performed before archiving to 24-bit FLAC(except to trim silence from the ends).
+
+Seeded to FurthurNet (www.furthurnet.org)

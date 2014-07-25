@@ -1,0 +1,35 @@
+Phish
+07/19/2013
+Chicago, Illinois  FirstMerit Bank Pavilion at Northerly Island
+
+Source: Schoeps mk21> KC5> M222> NT222> Aeta 4MinX (@24bit/96kHz)
+Location: FOB, DFC, 6' Stand, NOS
+
+Transfer: SDHC Card> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (07/20/2013)
+
+
+Set I
+t01 [01:01] Intro
+t02 [06:02] Suzy Greenberg
+t03 [09:26] Wolfman's Brother
+t04 [06:32] Backwards Down the Number Line
+t05 [07:32] It's Ice
+t06 [06:56] The Moma Dance >
+t07 [05:51] My Soul
+t08 [09:30] Scent of a Mule
+t09 [06:25] 46 Days
+t10 [08:46] Limb by Limb
+t11 [07:43] Julius
+
+Set II
+t12 [00:57] Intro
+t13 [10:29] Down with Disease>
+t14 [01:39] Prince Caspian
+t15 [00:44] Outro
+
+
+Notes:
+Completion of show was cancelled due to severe weather concerns.
+Venue was immediately evacuated during Prince Caspian.
+Set I [1:15:49] Set II [13:49]

@@ -1,0 +1,63 @@
+Phish
+02-06-93 
+Roseland Ballroom - New York City, NY
+
+Source: FOB Schoeps CMC5/mk4 
+Transfer: Fostex D5 > Tascam CDRW 700 > CDR(x1) > EAC > SHN
+
+DAT>CD Transfer by Mark Lynn
+SHN Conversion by Ben Mohr (bmohr@udel.edu)
+
+---------------------------------------
+ Disc 1:                       (77:34)
+---------------------------------------
+-Set 1-
+1. Golgi Apparatus             (05:05)
+2. Foam                        (08:03)
+3. Wilson^                     (06:20)
+4. My Friend My Friend         (06:51)
+5. Maze                        (10:10)
+6. Horn                        (03:30)
+7. The Divided Sky             (13:57)
+8. Lawn Boy                    (02:37)
+9. The Wedge                   (06:25)
+10. Bouncing Around the Room   (03:45)
+11. Run Like an Antelope       (10:51)
+
+---------------------------------------
+ Disc 2:                       (46:20)
+---------------------------------------
+-Set 2-
+1. Chalk Dust Torture          (06:30)
+2. Mound                       (05:47)
+3. Stash                       (10:30)
+4. Sweet Adeline               (02:02)
+5. All Things Reconsidered     (02:48)
+6. Mike's Song^^ ->            (07:52)
+7. I Am Hydrogen >             (02:54)
+8. Weekapaug Groove            (07:57)
+
+---------------------------------------
+ Disc 3:                       (39:02)
+---------------------------------------
+1. Lifeboy                     (08:12)
+2. Uncle Pen                   (03:49)
+3. Big Ball Jam                (02:32)
+4. HYHU >                      (02:39)
+5. Lengthwise >                (02:08)
+6. Buried Alive*               (03:44)
+7. Possum*                     (09:57)
+-Encore-
+8. Fire**                      (06:01)
+
+^  With Simpsons and Random Note secret language
+^^ Mike introduces song as "His Song" and continues to reference it as such
+*  With John Popper (Blues Traveler) on harmonica 
+** With John Popper on harmonica and Noel Redding (Jimi Hendrix Experience) on bass 
+
+Notes:
+-Some volume amplication during Sweet Adeline by taper
+-d3t07 2:24, 5:39, 5:42 slight digizaps
+
+Fixes:
+-Removed dropout d1t07 9:54.200 (0.037 sec)

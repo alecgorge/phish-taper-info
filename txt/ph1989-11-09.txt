@@ -1,0 +1,50 @@
+Phish
+11/9/1989
+Mission Park Dining Hall, Williams College
+Williamstown, MA
+
+Source: MCS > DAT
+Transfer: Tascam DA-302 > HHB CDR-850
+Conversion: CD > EAC (Secure Mode) > WAV > ShnTool > Flac (1.7.1)
+All tracks were extracted with 100% quality.
+
+Disc 1:
+Soundcheck
+01. //In A Hole
+Set 1:
+02. I Didn't Know
+03. Golgi Apparatus 
+04. Ya Mar
+05. Curtain 
+06. My Sweet One
+07. Bathtub Gin 
+08. You Enjoy//Myself
+09. Take The A Train
+10. Good Times, Bad Times
+
+Disc 2:
+Set 2
+01. Oh Kee Pah >
+02. AC/DC Bag
+03. McGrupp> 
+04. Who Do We Do >
+05. Punch You In The Eye
+06. Lizards
+07. //Mike's Song>
+08. I Am Hydrogen>
+09. Weekapaug Groove
+Encore:
+10. Highway To Hell
+
+
+Notes:
+Tape flip at 9:43 in YEM's vocal jam fused together using Sound Forge 6.0.
+ShnTool was preformed to fix any boundry errors.
+
+Tape flip after Lizards caused beginning of Mike's Song to get cut by a few seconds.
+
+The second set will need an 80 minute CD if you want the filler.
+
+Transferred and converted by Chris Warren (hip_school_preppie@yahoo.com)
+
+Enjoy!

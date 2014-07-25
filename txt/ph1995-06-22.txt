@@ -1,0 +1,64 @@
+Phish 06/22/95 Finger Lakes Performing Arts Center - Canandaigua, NY 
+
+Source: 	DAUD/OTS Schoeps CMC5/mk4 > Aerco > Casio DA-R100@48k
+		Master(on DA-R100 listed above) > clone used in below transfer
+		
+Conversion: 	Fostex D5 > Monster Optical > Sek'd Prodif Plus > 
+		Samplitude v5.5 > Soundforge 4.0 (48>44.1@highest setting[4of4],
+		with anti-alias filter and Fade in/outs) > CD Wave > mkwACT v0.97
+		(shn files have seek tables appended)
+		**No DAE at all** 						
+
+Minor Edits:	Fades (5 sec in all cases) in/out at beg/end of sets
+		
+
+Mastered by Jason Frankhouser, with the gear of Adam Gross.
+The DATs for this transfer were supplied by Franklin Malemud.
+Transferred and uploaded by Jim Raras <jraras@yahoo.com> via Dankseeds
+Please contact me with questions etc.  There are also 48k shn's of this seed for archival.
+
+____________________________________________________________________________
+
+*Dankseed Certification received 01-06-16*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph95-06-22/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________
+
+
+
+Disc 1 / Set I 			                        	     01:08:15
+01.  Intro/Crowd			                   		00:20
+02.  Sample in a Jar			                   		04:55
+03.  Scent of a Mule                 		   			08:25 
+04.  Ha Ha Ha >		     		   				01:39 
+05.  Divided Sky		 		   			15:39
+06.  Guelah Papyrus     		   				05:42
+07.  It's Ice		   		   				09:04
+08.  Strange Design               	 		   		02:52
+09.  Maze			                  	 		11:42
+10.  Cavern			                  	 		05:48
+10.  Sweet Adeline	                 		   		02:09
+
+
+Disc 2 / Set II & Encore					     01:15:57
+01.  Intro/Crowd       		         		   		00:12
+02.  Theme From the Bottom -> 		       		   		12:18
+03.  Jam ->			         		   		05:15
+04.  Tweezer ->			         		   		42:00
+05.  Tweezer Reprise	                 		   		02:55
+06.  Encore Break/Crowd                        		   		01:58
+07.  Acoustic Army	                 		   		04:37
+08.  While My Guitar Gently Weeps                  	 		06:42
+
+
+Setlist from "The Phish Companion" http://www.phish.net/mockingbird/		

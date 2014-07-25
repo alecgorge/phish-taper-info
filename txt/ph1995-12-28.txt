@@ -1,0 +1,48 @@
+Phish
+The Centrum - Worcester, MA
+1995-12-28
+
+Source:  [fob] Schoeps MK4/cmc6>? @48kHz
+Transfer:  Tascam DA20 MKII>Hosa ODL>JB3>wav>SF7>CDWave>wav>FLAC
+Transfered by:  Phil Lucks (luckspATcomcast.net)
+
+  
+Set 1 
+Disk 1:
+1:  Split Open and Melt
+2:  Gumbo
+3:  The Curtain >
+4:  Julius
+5:  Guyute
+6:  Horn
+7:  Rift* >
+8:  Fast Enough For You
+9:  Possum
+
+ 
+Set 2 
+Disk 2:  
+1:  Timber Ho >
+2:  Theme From the Bottom >
+3:  Wilson >
+4:  Buried Alive >
+5:  Tweezer >
+6:  I Didn't Know
+7:  Uncle Pen
+8:  Slave to the Traffic Light
+(9:  crowd)
+10:  E: Fee >
+11:  Tweezer Reprise
+ 
+*The PA goes out in the middle of the song and then pops back on near the end. Phish plays the whole time. 
+
+Show Notes: The P.A. went out during Rift, causing some giggles when Page sang 
+"and silence contagious in moments like these." During Tweezer, Mike practiced part 
+of what would become the Bass Jam on the following evening. Wilson included a 
+Johnny B. Goode tease.
+
+Disk2 is possible by taking out d2t9.  otherwise, 3 disks...
+
+Notes:
+-Resampled from 48k to 44.1K
+-Slight fade of gain increase during the opening ~8 seconds of SOAM to make the level adjustments from the taper a bit more smooth.  This is the one reason to make me believe this is a tru FOB source... as well as during the Rift PA fault, the stage is quite clear

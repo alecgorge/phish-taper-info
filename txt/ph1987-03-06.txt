@@ -1,0 +1,49 @@
+Phish
+03-06-87
+Goddard College - Plainfield, VT
+
+SBD(?) > Cass/1 > D8 > CDR > EAC > SF4.5 (pitch fix, NR, normalizing) > SHN    ""  CDR > EAC > FLAC  ""
+***********************************************************
+I received this show in FLAC.... I can only assume that it stems from this copy, however, the db does not have any entries for FFP, and the show did not come with a text file.  I added the md5's for reference.  This show has been archived by blue7.org on 6-5-05
+***********************************************************
+Seeded by Brendan K.
+Conversion/Remastering: Ben Mohr (bmohr@udel.edu) carini.etree.org
+
+*This show is tracked for 1-80 min CD (or an 74 min overburn). 
+*It obviously can be split into two discs. The original split was between 
+*t7-t8 since the original discs were much longer w/o the pitch fix.
+
+----------------
+Disc 1 (75:14)
+----------------
+1. Funky Bitch (6:55)
+2. Good Times Bad Times (4:35)
+3. Corrina (4:14)
+4. Golgi Apparatus (5:18)
+5. Quinn the Eskimo > (9:06)
+6. Sneakin' Sally Through the Alley* (5:32)
+--set break?? (Trey says, "... take a short break and we'll be right back.")
+7. Freebird** (7:41)
+8. Happy Birthday Jam# -> (2:15)
+9. Harry Hood (8:48)
+10. Tell Me Something Good^ > (5:03)
+11. Possum (8:17)
+12. Freeworld (3:38)
+13. Wilson (3:52)
+
+* With vocal jam
+** With instruments
+^ Rufus cover
+# Dedicated to Deborah and Sue
+
+Notes and Fixes using SF4.5:
+-Tape flip between t7 and t8
+-The original tracks were noticeably flat and slow. To compensate for 
+  the faulty analog generations/transfers, I increased the pitch by 190 cents 
+  (almost one step) along with anti-alias filtering to decrease 
+  distortion during software resampling.
+-Applied a paragraphic EQ hiss filter to reduce hiss above 8 kHz by 20 dB.
+-Normalized disc to 98%.
+-Retracked disc so that each song begins at the start of the track.
+-As with all shows I've done, I may have missed some things (ie, pops, clicks, etc). 
+  If so, please let me know so that I can fix them up asap.

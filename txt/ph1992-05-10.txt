@@ -1,0 +1,44 @@
+Phish
+University of Massachusetts
+"Spring Fling"
+Amherst, MA
+5/10/92
+
+TAPER: John Redmond
+SOURCE Nak 300s > D5
+
+AUD/FOB MCass (Sony Metal-SR 100 min)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +12dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)>
+Mastering (see notes) > SHNv3
+
+(transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 1/20/2004)
+All edits and mastering performed in WaveLab on Doomtooth by shakedown 02/13/04
+- shakedown@furthurnet.org
+
+Mastering info:
+24bit/48kHz FLAC's > Wavelab 4.01b on Doomtooth (fades/volume adjustments) > Waves C4 > BBE > Waves L2 > 48kHz>44.1 via 192kHz Stereo Resampler and 24bit > 16bit dither UV22HR > Tracking in CD-WAV > SHNv3.
+I also smoothed out a few level changes in Suzy Greenberg, it's still somewhat noticeable, but it's brief.
+
+DISC ONE
+01. The Landlady
+02. Suzie Greenberg
+03. Sparkle
+04. Stash
+05. Uncle Pen
+06. Cavern >
+07. Reba
+08. I Didn't Know/
+09. You Enjoy Myself
+10. Possum
+
+Notes
+Only 1 set played, this was a free afternoon concert.
+Listen for the very breif Buried Alive tease in the YEM jam.
+
+John's note on the tape lanel reads: "Nak CM 300s - 40 yds off/center - Sony DCM-5 - In front of SBD"
+
+NO tracking/editing/alterations performed before archiving to 24-bit FLAC
+(except to trim silence from the ends).
+
+Seeded to FurthurNet (www.furthurnet.org)

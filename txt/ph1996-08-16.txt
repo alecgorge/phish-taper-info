@@ -1,0 +1,56 @@
+PHiSH
+8-16-96 
+Clifford Ball Day 1
+Plattsburgh Air Force Base 
+Plattsburgh, NY 
+
+Source: SBD>DAT(99% of the show) 
+SOAM Sources: AUD SHN(1st minute), 44.1kHz FM DAT For the remainder
+Conversion: Tascam DA40 DAT@48kHz > REBA > Wavelab 4.0e > 44.1kHz Wav > CD Wave > SHNv3
+**NO DAE WAS INVOLVED**
+
+Disc 1:
+Set 1: 
+01. Chalkdust Torture 
+02. Bathtub Gin 
+03. Ya Mar 
+04. AC/DC Bag 
+05. Esther 
+06. Divided Sky 
+
+Disc 2:
+01. Halley's Comet> 
+02. David Bowie 
+Set 2:
+03. Split Open & Melt 
+04. Sparkle 
+05. Free 
+06. The Squirming Coil  
+07. Waste* 
+08. Talk* 
+09. Train Song* 
+10. Strange Design* 
+11. Hello My Baby* 
+
+Disc 3:
+01. Mike's Song> 
+02. Simple> 
+03. Contact> 
+04. Weekapaug Groove 
+
+Disc 4:
+Set 3: 
+01. Makisupa Policeman 
+02. Also Sprach Zarathustra> 
+03. Down With Disease> 
+04. NICU 
+05. Life On Mars 
+06. Harry Hood > Fireworks Jam
+07. E: Amazing Grace 
+
+*=acoustic mini-stage setup 
+
+#Notes#
+To cover the first minute of the FM source for SOAM when the radio DJ was making the station announcement, I used the AUD source that was previously used to cover the entire song. I tried to make this transition as easy on the ears as possible, making the change as close to a "dead spot" as possible. The only "glitch" so to speak on this copy was a fast dropout in David Bowie just before the fast triplet notes at the end (approximately @ 10:29.856). Doing a time based edit (based on the time signature) I did the edit to the best of my abilities, and although it is not perfect it is better than hearing the "crunch" of the dropout....Other than that, this is a flawless representation of the concert....
+
+Seeded 10/14/02 by Mr.Marmar

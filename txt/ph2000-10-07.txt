@@ -1,0 +1,45 @@
+Phish
+October 7, 2000
+Shoreline Amphitheatre
+Mountain View, CA
+
+source:
+B&K 4011's > Lunatec V2 > Apogee AD-1000 > Tascam DA-P1 (@48kHz)
+
+transfer:
+Fostex D5 > AES Cable > Sound Devices 722 > WaveLab 5.01b (fades, resample to 44.1kHz) > CD Wave v1.94.7 > FLAC v1.1.2 (Level 8)
+
+patch-taper: Ned Struzziero
+transferred by Ned Struzziero with the patch-master DATs
+resampled/tracked by Jason Sobel (jasonsobel@gmail.com)
+seeded June 5, 2006
+
+notes:
+The original 48 kHz files from the DAT transfer have been archived, and are available upon request
+
+Disc 1 - [64:20]
+Set I
+01 - [08:37] - First Tube
+02 - [09:25] - Mike's Song >
+03 - [03:55] - I am Hydrogen >
+04 - [08:59] - Weekapaug Groove
+05 - [07:43] - Fee
+06 - [14:03] - Bathtub Gin
+07 - [04:03] - Glide
+08 - [07:34] - My Soul
+
+Disc 2 - [74:45]
+Set II
+01 - [10:21] - Twist >
+02 - [12:37] - 2001 >
+03 - [16:32] - Tweezer
+04 - [08:03] - Wading in the Velvet Sea
+05 - [06:57] - Meatstick
+06 - [12:34] - David Bowie
+07 - [03:43] - Tweezer Reprise
+08 - [03:56] - encore break
+
+Disc 3 - [27:02]
+Set II continued
+01 - [22:15] - You Enjoy Myself
+02 - [04:47] - outro

@@ -1,0 +1,85 @@
+Phish 
+4-14-93
+American Theater
+St. Louis, MO
+
+Source: Unknown Aud > 2nd Gen Maxell XLII Cassette > Sony CDR-W33 > CDR > EAC > CDWAV > Soundforge 4.5 > Shntool > SHN
+Shn Encoding by: Brandon Johnston
+
+
+Disc 1:
+-Set I- 
+1./Buried Alive
+2.Poor Heart
+3.Maze
+4.Bouncing Around the Room
+5.It's Ice
+6.Stash ->
+7.Kung ->
+8.Stash
+9.Kung Reprise ->
+10.The Horse >
+11.Silent in the Morning
+12.Divided Sky
+13.I Didn't Know
+14.Golgi Apparatus
+
+Disc 2:
+-Set II-
+1.Roger's Proposal
+2.AC/DC Bag
+3.My Sweet One
+4.Tweezer
+5.Mound
+6.Big Ball Jam
+7.You Enjoy Myself ->
+8.Spooky Jam // -> 
+9.// You Enjoy Myself
+10.Harpua> 
+11.Runaway Jim
+
+Disc 3:
+-Encores-
+1.crowd noise
+2.Lengthwise >
+3.Contact
+4.Tweezer Reprise
+
+Show Notes: Stash included Daves Energy Guide teases. The acoustic intro to The Horse included a brief Pinball Wizard jam and a portion of the composed section of Harry Hood backing up a reprise of Kung. At the beginning of the second set, Trey's friend Roger got on stage and asked his girlfriend Jen to marry him. She said yes, and in response the band played AC/DC Bag (which references Roger in the lyrics). The Spooky Jam raged inside this fantastic YEM, and even included a verse sung by Page. Harpua featured Dreamweaver and The Jetson's theme teases as well as vocal quotes from The End. The narration centered around a story about people who steal your dreams at night. AC/DC Bag included a My Woman from Tokyo tease.
+
+Known Flaws: Beginning of Buried alive fades in on my cds (I didn't add this fade). Tape flips after stash and during spooky, the latter one is criminal :( . There was also a pop during YEM that I removed (see below).
+ 
+Tech Notes: I extracted the cds as a range and resplit the tracks using CDWAV. The EAC logs for each disc are included. I added some fades in soundforge 6.0 and removed a pop in YEM at 6:34.367. The discs were originally split between Harpua and Runaway Jim with fades and overlapping music. I rejoined the 2 discs back together to make it continuous before I resplit the tracks.
+
+Shntool Output:
+    length     expanded size   cdr  WAVE  probs   filename
+     1:49.73      19399340     ---   --    ---    ph1993-04-14d1t01.wav
+     2:28.71      26274236     ---   --    ---    ph1993-04-14d1t02.wav
+     9:36.62     101752268     ---   --    ---    ph1993-04-14d1t03.wav
+     3:39.31      38704556     ---   --    ---    ph1993-04-14d1t04.wav
+     8:10.64      86586572     ---   --    ---    ph1993-04-14d1t05.wav
+    10:48.54     114434252     ---   --    ---    ph1993-04-14d1t06.wav
+     3:27.01      36517196     ---   --    ---    ph1993-04-14d1t07.wav
+     1:13.10      12900764     ---   --    ---    ph1993-04-14d1t08.wav
+     3:00.07      31768508     ---   --    ---    ph1993-04-14d1t09.wav
+     1:42.11      18018716     ---   --    ---    ph1993-04-14d1t10.wav
+     5:05.45      53907884     ---   --    ---    ph1993-04-14d1t11.wav
+    14:53.32     157600508     ---   --    ---    ph1993-04-14d1t12.wav
+     3:50.48      40684940     ---   --    ---    ph1993-04-14d1t13.wav
+     4:33.38      48246620     ---   --    ---    ph1993-04-14d1t14.wav
+     2:05.42      22148828     ---   --    ---    ph1993-04-14d2t01.wav
+     5:53.08      62288060     ---   --    ---    ph1993-04-14d2t02.wav
+     2:03.53      21821900     ---   --    ---    ph1993-04-14d2t03.wav
+    12:43.51     134713196     ---   --    ---    ph1993-04-14d2t04.wav
+     5:44.16      60719276     ---   --    ---    ph1993-04-14d2t05.wav
+     2:45.72      29275388     ---   --    ---    ph1993-04-14d2t06.wav
+    14:19.28     151593500     ---   --    ---    ph1993-04-14d2t07.wav
+     1:00.05      10595804     ---   --    ---    ph1993-04-14d2t08.wav
+     9:43.17     102881228     ---   --    ---    ph1993-04-14d2t09.wav
+    15:51.23     167810540     ---   --    ---    ph1993-04-14d2t10.wav
+     6:37.07      70047308     ---   --    ---    ph1993-04-14d2t11.wav
+     1:43.73      18340940     ---   --    ---    ph1993-04-14d3t01.wav
+     1:19.61      14079116     ---   --    ---    ph1993-04-14d3t02.wav
+     6:06.64      64712972     ---   --    ---    ph1993-04-14d3t03.wav
+     3:32.44      37500332     ---   --    ---    ph1993-04-14d3t04.wav
+   165:50.61    1755324748 B                      (totals for 29 files)

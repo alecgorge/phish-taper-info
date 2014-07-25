@@ -1,0 +1,57 @@
+PHISH
+7-10-94
+SARATOGA PERFORMING ARTS CENTER
+SARATOGA SPRINGS, NY
+
+===========================================================|
+
+SOURCE: AKG460b/ck61 (TS) > DAT (Teac DA-P20)
+
+CONVERSION: CTD8000H-S > DAT2WAV > SOUNDFORGE 5.0
+(Resampling from 48kHz to 44.1kHz, level 4 w/anti
+alias filtering) > CD WAVE  (track splits)  > SHN
+
+===========================================================|
+
+
+DISC 1:
+
+SET 1:
+01. CHALK DUST TORTURE
+02. HORN
+03. PEACHES EN REGALIA
+04. RIFT
+05. STASH
+06. IF I COULD
+07. MY FRIEND, MY FRIEND
+08. JULIUS
+09. CAVERN
+
+
+DISC 2:
+
+SET 2:
+01. SAMPLE IN A JAR
+02. DAVID BOWIE
+03. GLIDE
+04. YA MAR
+05. MIKE'S SONG * > LOW RIDER > MIKE'S SONG >
+06. I AM HYDROGEN >
+07. WEEKAPAUG GROOVE
+08. BOUNCING AROUND THE ROOM
+09. THE SQUIRMING COIL
+
+DISC 3:
+
+01. CRIMES OF THE MIND %
+ENCORE:
+02. GOLGI APPARATUS
+03. ROCKY TOP
+
+* With "Low Rider" (War) jam
+% With the Dude of Life
+
+
+===========================================================|
+seeded 5/20/01 by Robert Brown
+

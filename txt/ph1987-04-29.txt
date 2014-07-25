@@ -1,0 +1,100 @@
+Phish
+04/29/87 
+Nectar's - Burlington, VT
+
+SBD > Cass/x > DAT > S/PDIF > 
+HD > SHN     
+
+Seeded by Squirlin 
+(squirlin@worldnet.att.net)
+Fixes/Notes by Ben Mohr (bmohr@udel.edu)
+
+
+DISC 1 (68:32)
+
+Set 1
+
+01 She Caught the Katy 		(4:03)
+02 Alumni Blues > 		(5:40)
+03 Letter to Jimmy Page >	(1:02)
+04 Alumni Blues 		(3:50)
+05 Golgi Apparatus 		(5:22)
+06 Swing Low Sweet Chariot 	(2:32)
+07 Fire 			(4:25)
+08 Skin It Back > 		(7:26)
+09 Cities 			(5:28)
+10 Lushington 			(6:07)
+
+Set 2
+
+11 Dog Log 			(4:31)
+12 Melt the Guns -> 		(8:23)
+13 Dave's Energy Guide 		(6:01)
+14 Take the A-Train* 		(3:42)
+
+
+
+DISC 2 (72:00)
+
+Set 2 (con.)
+
+01 Halley's Comet > 		(6:27)
+02 Quinn the Eskimo 		(6:58)
+03 AC/DC Bag 			(5:11)
+
+Set 3
+
+04 Peaches en Regalia 	 	(3:05)
+05 Fluffhead 			(8:54)
+06 Good Times Bad Times > 	(5:27)
+07 Anarchy 			(0:51)
+08 Makisupa Policeman > 	(7:30)
+09 Run Like an Antelope 	(9:03)
+10 Boogie on Reggae Woman 	(5:21)
+11 Timber Ho! 			(7:15)
+12 Slave to the Traffic Light >	(5:58)
+
+
+
+DISC 3 (25:47)
+
+Set 3 (con.)
+
+01 Sparks 			(2:33)
+02 McGrupp  			(7:29)
+03 The Ballad of Curtis Loew 	(5:03)
+04 Come on (Part One)		(5:18)
+05 I Am Hydrogen > 		(1:53)
+06 Jam > 			(1:16)
+07 Who Do? We Do!		(2:15)
+
+* With Jeff Friedberg on saxophone
+
+Notes:
+-HPB lists Fuck Your Face after Cities (d1t09) so the splice after Cities
+  probably cut out this song for some reason. :-(
+-There are splices at the following positions, all of which occur between songs.
+  I'm not sure why there are so many of them.  Either the person who did the DAT
+  master didn't want so much space between songs or there is something else missing.
+d1t06 2:04, d1t07 4:04, d1t09 5:21
+d2t01 0:01, d2t07 0:00.8, d2t09 8:17, d2t12 0:00.6
+d3t03 4:49, d3t04 5:17
+-In d1t10 there was a high pitched oscillating sound from 0:12-0:16,
+  d2t02 from 1:43-1:46, and d2t09 3:13-3:13 which I could not remove without
+  disrupting the quality of the recording.  This may be feedback...?
+-I noticed throughout the tracks that the L and R waves were exactly identical
+  with the exception of the R channel having lower levels than the left.
+-Tape flips:
+between d2t02-d2t03 (fade in...fade out)
+-There is some light warbling in d2t06 at 2:42.
+
+Fixes:
+-There were a few errors on the original DAT which I edited out.
+  They occured:
+d1t01 1:48  2 DOs
+d1t08 6:19  1 DO
+d1t09 4:17  3 <0.001s bursts in R channel which were replaced with L channel
+d1t09 4:46  2 <0.001s bursts in R channel which were replaced with L channel
+        d1t10 0:15  1 DO
+d2t03 3:57  2 DOs - smoothed out static before DOs
+d2t07 0:02  1 DO

@@ -1,0 +1,52 @@
+Phish 09-11-99 The Gorge, George, WA
+
+Source: Van's Schoeps cmc64>Apogee AD-1000 @44.1
+Transfer: DA-P1>Audio Magic Presto II cable>Zefiro ZA2>Sound Forge/CDWav>shn
+
+Set I
+Disk 1
+1. Tube
+2. Funky Bitch
+3. Limb by Limb
+4. Dogs Stole Things
+5. PYITE
+6. Billy Breathes
+7. Heavy Things
+8. Guyute
+9. Free
+
+Set II
+Disk 2
+1. Wolfman's Brother
+2. Sand
+3. Meatstick
+4. Maze
+
+Disk 3
+1. Prince Caspian
+2. Harry Hood
+Encore
+3. When The Circus Comes
+
+
+Show Notes: Heavy Things and Sand made their Phish debuts at this show, 
+although they had been played on Trey's May, 1999, solo tour. Also, Heavy 
+Things had been played by Amfibian since they debuted the song on January 15, 1999. 
+The Hood is notable for its odd, repetitive, atypical ending.
+
+
+Note: wav files created by and from a master dat tape from Eric McRoberts
+patching out of Van's gear w/ a DA-P1(thanks van!). He ran
+Schoeps cmc6/mk4>Apogee AD-1000.
+
+.shns created from the original wavs by Eric McRoberts
+
+Transfer was done w/ a DA-P1>Audio Magic Presto II cable>Zefiro
+ZA2>Forge/CDWav>shn
+
+
+
+
+SHN > WAV > (files renamed to etree standards) > Trader's Little Helper (SBE fixes) > FLAC
+
+By: The SHNfamily May 8, 2009

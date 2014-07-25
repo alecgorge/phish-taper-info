@@ -1,0 +1,54 @@
+Phish
+12/05/1992
+The Vic Theater
+Chicago, IL
+
+Source: SBD > DAT > ? > CD > EAC > SLOTH > FLAC
+
+-Disc 1-
+Sound Check:
+//The Wedge Jam
+My Mind's Got a Mind of its Own//
+Jam
+My Sweet One
+Dog Log 
+-Set 1-
+The Landlady
+Chalk Dust Torture
+Bouncing Around the Room
+Rift
+Guelah Papyrus
+Split Open and Melt
+Lizards
+Mound
+
+-Disc 2-
+Divided Sky
+Sweet Adeline
+Uncle Pen
+Golgi Apparatus 
+-Set 2-
+Poor Heart//
+Tweezer
+Reba > I Walk the Line > Reba
+Sparkle
+Maze
+Lawn Boy
+
+-Disc 3-
+Mike's//Song >
+I am Hydrogen >
+Weekapaug Groove > HYHU > 
+Whipping Post > HYHU
+Tweezer Reprise 
+
+E: Memories
+Good Times Bad Times 
+
+**Mastering**
+BBE 1/3/0 > Waves RBass @ 35Hz +3db > Waves L1+ Mode 1/Normal > FLAC
+
+The show was loaded onto SLOTH via secure EAC rip with no errors on an NEC1300A DVD+/-RW drive. After being loaded, the show was examined for errors and eidited accodingly. The first set was out of pitch by -40 cents, and this was corrected. There were far too many edits to list...well over 300 edits were done. After editing the dropouts and cuts, the show was then processed at the 32bit word length for best possible precision. Some of the tracks have some nasty static which could not be edited in any way.
+
+Thanks to LawnGirl for the source discs and for keeping me busy working on this one.
+EAC, Mastering, and FLAC encoding done on SLOTH by Marmar- imthemarmar@stny.rr.com

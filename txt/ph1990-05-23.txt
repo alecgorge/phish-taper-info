@@ -1,0 +1,63 @@
+Phish
+May 23, 1990
+The Library - Richmond, VA
+
+Source: SBD > Sony D5 (Cass/0) > Cass/1 > Lucid AD2496 > DAT
+Transfer: 
+Archive Python DDS > dat2wav > CDWav > mkwACT > SHN > WAV > SF4.5 (48>44.1kHz) > SHN
+
+Transfer by Louie Rendek (ljr7@po.cwru.edu)
+Tracking by Mike Woellert (DMBnum41@aol.com)
+Fixes and resampling by Ben Mohr (gtg723d@prism.gatech.edu)
+
+------------------------------------------------
+ Disc 1:                                (71:14)
+------------------------------------------------
+-Set 1-
+1. intro				(00:16)
+2. The Divided Sky			(12:22) 
+3. Ya Mar				(07:29) 
+4. You Enjoy Myself			(19:11) 
+5. If I Only Had a Brain		(03:22) 
+6. Oh Kee Pa Ceremony >			(01:42) 
+7. Suzy Greenberg			(05:58)
+8. Uncle Pen				(04:51)
+9. Bouncing Around the Room  		(03:56)
+10. Possum				(10:05)
+11. Sweet Adeline			(01:58)
+
+------------------------------------------------
+ Disc 2:                                (47:52)
+------------------------------------------------
+-Set 2-
+1. intro				(01:36)
+2. The Squrming Coil			(06:21) 
+3. Reba					(12:37) 
+4. Tweezer				(11:59) 
+5. Lizards				(10:41) 
+6. La Grange				(04:35) 
+
+------------------------------------------------
+Disc 3:                                 (41:21)
+------------------------------------------------
+1. McGrupp and the Watchful Hosemasters	(10:04) 
+2. Take the A-Train			(06:50) 
+3. Run Like and Antelope		(13:11) 
+4. Mike's Song >			(06:17) 
+5. I am Hydrogen >			(02:36) 
+6. Weekapaug Groove//			(02:20) 
+
+
+Notes:
+-Tape flips
+  d1t05 00:01 (42:41)
+  d2t04 10:35 (43:08)
+  d3t03 12:03 
+  d3t06 02:20 (45:59, if not including previous flip)
+-Some SBD static in d2t01
+-Just some phishistory, at the end of Antelope (d3t03) Trey talks about not 
+  playing in Nags Head, SC but instead, the band will be playing at The Old 
+  Post Office in Hilton Head, SC after Raleigh.
+
+Fixes:
+-Removed dropout d2t03 0:43.623 (0.030s)

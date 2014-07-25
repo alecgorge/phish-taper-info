@@ -1,0 +1,56 @@
+Phish
+
+10-24-95
+Dane County Colseum
+Madison, WI
+
+Source: Neumann KM140 > Beyer MV100 > D7
+
+Seed: DAT > Seagate Archive Python 01931 > dat2wav 1.2 > 
+      Sound Forge 4.5 (to 44.1k @ highest accuracy; anti-alias filter) > CDWav
+      > shnXP (updated shn2k)  by Paul Hofferkamp (gruven42@yahoo.com)
+
+--No DAE--
+
+Show as received was 48kHz for the first set, d1t1 to d2t4 (verified with etree
+listed md5s). Set 1 resample: SHN > MKW > 48kHz WAV > Cooledit 2000 (44.1kHz WAV 
+at 999 setting w pre/post filter) > shntool > MKW > SHN. New files labeled 'fixed'.
+Bill Mitchell bmitchel@citlink.net
+
+Disc I:
+
+-Set I-
+01. My Friend, My Friend
+02. Paul and Silas
+03. Taste That Surrounds
+04. Fee -> 
+05. Llama
+06. The Horse -> 
+07. Silent in the Morning
+08. Demand-> 
+09. Maze
+
+Disc II:
+
+01. Wolfman's Brother
+02. Acoustic Army
+03. Prince Caspian
+04. Split Open and Melt 
+-Set II-
+05. Julius
+06. Theme From the Bottom
+07. Bouncing Around the Room
+
+Disc III:
+
+01. You Enjoy Myself -> 
+02. Sleeping Monkey
+03. Run Like an Antelope
+04. Contact
+05. Cavern 
+-Encore-
+06. A Day in the Life 
+
+
+Enjoy!
+~PH

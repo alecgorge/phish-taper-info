@@ -1,0 +1,80 @@
+Phish
+6-20-95
+Blossom Music Center
+Cuyahoga Falls, OH
+
+Source: OTS Schoeps CMC5/mk4v > Aerco Preamp > Apogee AD500e@48kHz
+
+Conversion: R500 > Canare Coax > Sek'd Prodif Plus > Soundforge 5.0 > **No DAE or resampling at all at all**
+Conversion by: Jim Raras using Franklin Malemud's DAT clone of the master.
+
+Edits/Shn Encoding by: Brandon Johnston -- http://db.etree.org/bisq
+
+
+Disc 1: 
+-Set I-
+1.Llama
+2.Spock's Brain
+3.Ginseng Sullivan
+4.Foam
+5.Bathtub Gin
+6.If I Could
+7.Taste
+8.I Didn't Know
+9.Split Open and Melt
+
+Disc 2:
+-Set II- 
+1.Halley's Comet
+2.Chalk Dust Torture
+3.Prince Caspian
+4.Uncle Pen
+5.Mike's Song ->
+6.Contact
+7.Weekapaug Groove 
+8.HYHU >
+9.Cracklin' Rosie >
+10.HYHU
+11.Highway to Hell
+12.crowd noise
+
+Disc 3:
+-Encores-
+1.Slave to the Traffic Light
+2.Amazing Grace
+
+Show Notes: Ginseng was played for the first time since October 10, 1994 (58 shows).
+
+Audio CD Note: Disc 3 can be placed on the end of disc 1 to fit the show on 2 discs.
+
+Tech Notes: Fades were added in soundforge 6.0. There were 3 minor flaws in the recording. The first flaw was a speck of diginoise in the right channel at 1:56.71 of set I. I fixed this by pasting the left channel over the right channel. The second flaw was a small dropout at 30:52.50 of Set I. The third flaw was another small dropout at 27:22.41 of set II. Because both of the dropouts were less than .03 seconds in length, I was able to remove them in soundforge without it being noticeable.
+
+Shntool Output:
+
+    length     expanded size   cdr  WAVE  probs   filename
+     4:01.25      42571244     ---   --    ---    ph1995-06-20d1t01.wav
+     5:46.56      61166156     ---   --    ---    ph1995-06-20d1t02.wav
+     3:04.15      32492924     ---   --    ---    ph1995-06-20d1t03.wav
+    10:44.61     113745116     ---   --    ---    ph1995-06-20d1t04.wav
+     8:47.69      93125132     ---   --    ---    ph1995-06-20d1t05.wav
+     8:22.32      88628108     ---   --    ---    ph1995-06-20d1t06.wav
+     7:03.37      74704268     ---   --    ---    ph1995-06-20d1t07.wav
+     3:24.33      36063260     ---   --    ---    ph1995-06-20d1t08.wav
+    13:59.26     148060796     ---   --    ---    ph1995-06-20d1t09.wav
+     5:33.69      58903532     ---   --    ---    ph1995-06-20d2t01.wav
+     8:57.63      94875020     ---   --    ---    ph1995-06-20d2t02.wav
+     2:46.01      29284796     ---   --    ---    ph1995-06-20d2t03.wav
+     4:12.57      44586908     ---   --    ---    ph1995-06-20d2t04.wav
+    20:39.14     218592572     ---   --    ---    ph1995-06-20d2t05.wav
+     6:19.01      66857996     ---   --    ---    ph1995-06-20d2t06.wav
+     9:24.17      99529628     ---   --    ---    ph1995-06-20d2t07.wav
+     1:46.23      18752540     ---   --    ---    ph1995-06-20d2t08.wav
+     2:32.74      26986892     ---   --    ---    ph1995-06-20d2t09.wav
+     0:59.30      10478204     ---   --    ---    ph1995-06-20d2t10.wav
+     3:28.52      36813548     ---   --    ---    ph1995-06-20d2t11.wav
+     2:49.32      29886908     ---   --    ---    ph1995-06-20d2t12.wav
+    11:50.12     125272268     ---   --    ---    ph1995-06-20d3t01.wav
+     1:57.29      20707052     ---   --    ---    ph1995-06-20d3t02.wav
+   148:32.03    1572084868 B                      (totals for 23 files)
+
+

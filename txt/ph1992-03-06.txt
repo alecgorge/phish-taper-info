@@ -1,0 +1,158 @@
+Phish
+3/6/1992
+Portsmouth Music Hall - Portsmouth, NH
+
+Source: Purported SBD > Cass/1 > DAT
+Transfer: CTD8000H-S > DAT2WAV > SHN > SF4.5c (48>44.1kHz*) > CD Wave > shntool > FLAC
+
+Primary transfer by Robert Brown
+Resampling, tracking and fixes by Ben Mohr (benjamin.mohr@ce.gatech.edu)
+
+Pitched-corrected on 7/16/2004 by Mike Wren (mw@mikewren.com)
+
+FLAC metadata and replaygain added on 7/16/2004 by mw@mikewren.com
+
+
+-------------------------------------------
+ Disc 1
+-------------------------------------------
+-Set 1-
+01. Intro
+02. Rift *
+03. Cavern
+04. Sparkle
+05. It's Ice
+06. Oh Kee Pah Ceremony
+07. Divided Sky
+08. Guelah Papyrus
+09. Maze *
+10. Reba
+11. All Things Reconsidered
+
+-------------------------------------------
+ Disc 2
+-------------------------------------------
+-Set 1 cont.-
+01. David Bowie
+-Set 2-
+02. My Friend, My Friend *
+03. Poor Heart
+04. Secret language Instructions **
+05. Stash
+06. Mound *
+07. Llama
+08. Bouncing Around the Room
+09. In an Intensive Care Unit *
+10. Possum
+-Encore-
+11. Sleeping Monkey *
+
+* First time played
+** First ever secret language instructions
+
+
+Originally seeded as:
+http://bt.etree.org/details.php?id=5186
+
+
+Notes:
+-Tape flips: d1t07 12:07 (39:40)
+             d2t01 13:52 (40:58)
+             d2t07 04:24 (49:49)/d2t08 03:11 (53:00)
+-Two areas of tape warble at beginning of d2t09
+
+Fixes:
+- Removed DC offset from entire show
+- Smoothed skip d1t02 0:58.009
+- Replaced L channel static d1t06 1:55.013-1:55.325 with R channel
+- Smoothed diginoise d2t01 11:00.905-11:00.946
+- Remove whine d2t02-d2t11 in Samplitude v6 using FFT Filter/Spectrum Analyzer centered at 16020Hz by 33dB (range=15515-16520Hz) and modified slightly for each track
+- with anti-alias filtering and interpolation accuracy of 4
+
+
+Pitch Correction:
+- Entire show was 75 cents sharp, so I adjusted accordingly in Sound Forge 6 (pitch shife quality level 3) --- This added about 3 minutes to the length of each set
+- Knocked down the annoying 130Hz rumble by 4dB
+- Added friendly fades at the start and end of sets
+- Retracked in CD Wave
+
+
+--------------------------------------------------------------------------
+From: Shelly Culbertson 
+Subject: sing any note
+Date: Sat, 7 Mar 92 12:26:18 PST
+
+One thing I was really excited to read about was the audience participation
+aspect of the show.  This particularly intrigued me because I had suggested
+to Trey on the phone that they might try this!  That conversation came about
+as a result of something he said during the post-Somerville interview, that
+they'd like to tour with a choir, who could (for example) sing a dissonant
+chord during the jam in Tweezer.  I suggested having the audience do it,
+in response to some sort of signal from the band, and sent him a copy of
+an interview with Brian Eno where he talks about trying something like
+this:
+"I noticed this when I worked on this Cornelius Cardew piece a long time
+ago called `The Great Learning'.  The first instruction is `Sing any note'.
+You choose randomly.  And you do it with a big group of people.  And the
+first chord they hit is very dense and beautiful because people really are
+singing every note.  But they very quickly slide into a few families of notes.
+And I always liked that first note when you have this beautiful, dense,
+breathy sound."
+--------------------------------------------------------------------------
+
+
+
+
+New (pitch corrected) FLAC Fingerprint:
+
+ph1992-03-06d1t01.flac:5ef727d44a93ea8a98ec57a3a9f27d96
+ph1992-03-06d1t02.flac:ea25eee20f1fe2b02e648f8f9cd9b69a
+ph1992-03-06d1t03.flac:b946f432f43a692778a159a3267db956
+ph1992-03-06d1t04.flac:35741700ef9a0032f62c3082b2145ff9
+ph1992-03-06d1t05.flac:124f6b65593b8d554685e6484c1ef1f9
+ph1992-03-06d1t06.flac:7e32546b119cfcaca2c2918c1135e423
+ph1992-03-06d1t07.flac:846c7351379ab90b8b412087eb465347
+ph1992-03-06d1t08.flac:b0b63a4e8b1ed453e469250af3b8925f
+ph1992-03-06d1t09.flac:ce5cbe5a9a6d9139403f630e52bf349e
+ph1992-03-06d1t10.flac:ce387e653c263b6ec3eaaae0a9060671
+ph1992-03-06d1t11.flac:1a518f593789e1b9cbebb71884c8b41e
+ph1992-03-06d2t01.flac:445537644bc626e71a0ab93ca2f314f6
+ph1992-03-06d2t02.flac:3e0bf34d2e4c38409549f65f1e46406a
+ph1992-03-06d2t03.flac:a945480d95700ec3b5b63ae331e2a4f0
+ph1992-03-06d2t04.flac:0aada8c9ada3585931e34995b6fac6fe
+ph1992-03-06d2t05.flac:da38a7d9cd01c4867ea4c3156cb43ac8
+ph1992-03-06d2t06.flac:11fdfe81fe59938f1f9ba2120300f0b3
+ph1992-03-06d2t07.flac:7fc84d7385f95336a6ecb6467e2d7bc3
+ph1992-03-06d2t08.flac:3e5edc9826b61640e034fd26f5a53ca9
+ph1992-03-06d2t09.flac:ceecb63684b620f6cd21697b3f9e589e
+ph1992-03-06d2t10.flac:47573d3e1773ab044cf74e26b6c07345
+ph1992-03-06d2t11.flac:1e2ac482fc4bc46d15c26583cc4a176f
+
+
+
+
+
+Old (non-pitch corrected) FLAC Fingerprint:
+
+ph1992-03-06d2t01.flac:40dbc477f56a9eae09435f3f6277ce7b
+ph1992-03-06d2t02.flac:8c505666b562b94da48d79c3cc9b77dc
+ph1992-03-06d2t03.flac:6341cd2dfa02a9cf3e5ede2e435e8915
+ph1992-03-06d2t04.flac:5774e4883c50bf2b5c93f2b9ce5892b0
+ph1992-03-06d2t05.flac:5e49a78dccfb9ba350e5f05a9d607b32
+ph1992-03-06d2t06.flac:d43652f6830596a0ee146131f1ab4b77
+ph1992-03-06d2t07.flac:274a5793f4475507ac2ddd952fb36d14
+ph1992-03-06d2t08.flac:0ddaec2126f1ed8335a7e8c9222c8a8c
+ph1992-03-06d2t09.flac:f7c515f5cebbd08943025a1d8a83caa0
+ph1992-03-06d2t10.flac:3e9decf70976f9b47478bc9a1749ae45
+ph1992-03-06d2t11.flac:f3bd617e2a85736ea2300efa5b57b352
+ph1992-03-06d1t01.flac:25d69bec947f9c8d596ba3169c32cc7f
+ph1992-03-06d1t02.flac:e1eac904bbe30609eba0d0aa5671a6a4
+ph1992-03-06d1t03.flac:22fbe33ececad2559420d00bd174fdee
+ph1992-03-06d1t04.flac:38655230c72c985c0855ade455fc1fee
+ph1992-03-06d1t05.flac:6251bc461a0b5dc174489923b7b07ced
+ph1992-03-06d1t06.flac:5f991c06449f7b9d08f8e68cfae2f6ba
+ph1992-03-06d1t07.flac:04b791d109df68f5e031c42c39e466bc
+ph1992-03-06d1t08.flac:31bc66f5e0826dd2172a580563e952fd
+ph1992-03-06d1t09.flac:e542c33d3c362eb8e5a775aaaca7a091
+ph1992-03-06d1t10.flac:8fd6847fa55e9634cf68aec0592378e3
+ph1992-03-06d1t11.flac:ccf3e1c64e3dfb111678cd447adacb4f

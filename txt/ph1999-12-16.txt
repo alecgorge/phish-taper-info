@@ -1,0 +1,57 @@
+Phish
+December 16, 1999
+Reynolds Coliseum
+Raleigh, NC
+
+source:
+Microtech Gefell m210 > Apogee AD-1000 > Sony D100 (@ 44.1 kHz)
+
+transfer:
+Sony PCM-R500 > Tascam HD-P2 > CF card > usb > pc > WaveLab 5.01b (fades, patch) > CD Wave v1.95 > FLAC v1.1.2 (Level 8)
+
+recorded by Beau Colburn
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded October 29, 2006
+
+note:
+Beau borrowed the Apogee and D100 deck from Dave Flaschner to record this show.
+The master DATs were used in this transfer.
+Thanks to Beau for making a great recording, and thanks to Dave for letting me borrow the DATs.
+
+Disc 1 - [71:14]
+Set I
+01 - [06:37] - Wilson >
+02 - [10:36] - Chalk Dust Torture
+03 - [02:55] - Lawn Boy
+04 - [10:44] - Limb by Limb
+05 - [03:59] - Horn
+06 - [05:31] - Back on the Train
+07 - [07:53] - Roggae
+08 - [05:50] - Heavy Things
+09 - [05:28] - Camel Walk
+10 - [11:41] - Possum
+
+Disc 2 - [76:10]
+Set II
+01 - [01:06] - intro crowd
+02 - [22:28] - Sand
+03 - [09:22] - The Mango Song
+04 - [10:19] - Wading in the Velvet Sea >
+05 - [21:44] - Tweezer >
+06 - [08:00] - Runaway Jim
+07 - [03:11] - encore break
+
+Disc 3 - [08:07]
+Set II continued
+01 - [03:43] - Bittersweet Motel
+02 - [04:24] - Tweezer Reprise
+
+Show Notes: Before the show, Mike brought a big shaggy doll on the stage and sat it on 
+top of his bass cabinet. Velvet Sea ended with a short, spacy delay loop jam.
+
+patch notes:
+during Wilson, there were two very short drop-outs (both were present on the master DATs)
+the two drop-outs occured at the following locations:
+[05:12.326] to [05:13.034]
+[06:16.226] to [06:16.876]
+I fixed these drop-outs with "Phulcrum's Mystery Patch" and cross-faded so that it sounds smooth and seamless.

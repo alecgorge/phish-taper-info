@@ -1,0 +1,74 @@
+PHiSH 
+8-14-93 
+World Music Theater
+Tinley Park, IL 
+
+source: Unknown Source (AKG 460's??)
+transfered: da-20mkii>montego II plus s/pdif>soundforge>cdwav>shn
+Transfer by : Brandon Johnston
+
+disc 1 
+Set I:
+1.Chalk Dust Torture
+2.Guelah Papyrus
+3.The Divided Sky
+4.The Horse->
+5.Silent in the Morning
+6.It's Ice
+7.Sparkle
+8.Split Open and Melt
+9.Esther
+10.Poor Heart >
+11.Cavern 
+
+disc 2
+Set II:
+1.Also Sprach Zarathustra->
+2.Run Like an Antelope->
+3.Sparks->
+4.Walk Away->
+5.Run Like an Antelope->
+6.Have Mercy->
+7.Run Like an Antelope
+8.Mound
+
+disc 3
+1.The Squirming Coil
+2.Daniel
+3.You Enjoy Myself >
+4.Purple Rain > HYHU
+5.Golgi Apparatus 
+6.crowd noise
+7.E: La Grange 
+
+Shntool Output:
+    length     expanded size   cdr  WAVE  probs   filename
+     6:01.40      63774524     ---   --    ---    ph93-08-14d1t01.wav
+     6:07.41      64835276     ---   --    ---    ph93-08-14d1t02.wav
+    14:52.41     157445276     ---   --    ---    ph93-08-14d1t03.wav
+     2:11.31      23181356     ---   --    ---    ph93-08-14d1t04.wav
+     4:56.59      52353212     ---   --    ---    ph93-08-14d1t05.wav
+     9:02.12      95637068     ---   --    ---    ph93-08-14d1t06.wav
+     3:45.47      39800588     ---   --    ---    ph93-08-14d1t07.wav
+    12:30.15     132335324     ---   --    ---    ph93-08-14d1t08.wav
+     8:49.31      93388556     ---   --    ---    ph93-08-14d1t09.wav
+     3:01.52      32050748     ---   --    ---    ph93-08-14d1t10.wav
+     4:28.63      47423420     ---   --    ---    ph93-08-14d1t11.wav
+     4:03.56      42996956     ---   --    ---    ph93-08-14d2t01.wav
+    12:42.31     134489756     ---   --    ---    ph93-08-14d2t02.wav
+     2:44.16      28967276     ---   --    ---    ph93-08-14d2t03.wav
+     3:36.00      38102444     ---   --    ---    ph93-08-14d2t04.wav
+     6:51.54      72627452     ---   --    ---    ph93-08-14d2t05.wav
+     2:56.38      31135820     ---   --    ---    ph93-08-14d2t06.wav
+     1:59.19      21036332     ---   --    ---    ph93-08-14d2t07.wav
+     5:43.31      60578156     ---   --    ---    ph93-08-14d2t08.wav
+     9:53.70     104769884     ---   --    ---    ph93-08-14d3t01.wav
+     3:20.62      35425868     ---   --    ---    ph93-08-14d3t02.wav
+    20:20.36     215292716     ---   --    ---    ph93-08-14d3t03.wav
+     6:42.56      71044556     ---   --    ---    ph93-08-14d3t04.wav
+     4:33.28      48223100     ---   --    ---    ph93-08-14d3t05.wav
+     0:50.13       8850620     ---   --    ---    ph93-08-14d3t06.wav
+     4:56.16      52252076     ---   --    ---    ph93-08-14d3t07.wav
+   167:02.58    1768018360 B                      (totals for 26 files)
+
+

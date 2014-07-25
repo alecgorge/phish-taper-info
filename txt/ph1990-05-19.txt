@@ -1,0 +1,58 @@
+05/19/1990
+The Upper, St. Paul's School, Concord, NH
+
+Soundboard 1st Gen Cassette (XLII-S) 
+Sony TC-KA1ESA Cassette Deck> 
+Transparent ML200-1m Interconnect> 
+Anthem Statement D2 processor(AKM AK5394A ADC)at 96khz/24bit> 
+Tributaries Series 7-2m Digital Coaxial> 
+M-Audio Audiophile 96/24 card(AKM master clock),Pentium 4 3.4ghz,2 gig RAM,custom stripped Windows XP SP3 OS 
+Recorded into Soundforge 9.0a(build 297)
+
+Soundforge 9
+applied full scan DC offset correction
+global peak normalization to -.03db
+merged files and added fades
+
+resampled from 96/24 to 48 khz/24 bit Anti-alias filtering, highest interpolation accuracy settings 
+
+resampled and bit depth conversion from 96/24 to 44.1 khz/16 bit Anti-alias filtering, highest interpolation accuracy settings, flat trianglular dither and no noise shaping
+
+CDWAV for tracking and FLAC compression level 8
+Media Monkey for FLAC tagging 
+
+Digital Conversion done by Chad Fagin chad@firsttube.com
+
+original un-modified 96khz/24 Bit files are available if someone wants them
+
+
+Thanks to Adam Scheinberg, Charlie Dirksen, Brian Costigan and most importantly, Julian Pedini, SPS '91
+for providing the tapes!!!
+
+Set1:
+01 - cut/Golgi Apparatus
+02 - Ya Mar
+03 - Alumni Blues > 
+04 - Letter to Jimmy Page > 
+05 - Alumni Blues
+06 - Sweet Adeline
+07 - La Grange
+08 - You Enjoy Myself > 
+09 - The Lizards
+10 - Highway to Hell
+
+Set2:
+01 - cut/Possum
+02 - Reba
+03 - The Oh Kee Pa Ceremony >
+04 - Suzy Greenberg
+05 - Fee
+06 - Dinner and a Movie >
+07 - Bouncing Around the Room
+08 - Rift
+09 - Jesus Just Left Chicago
+10 - Good Times Bad Times
+11 - Crowd
+12 - E: Contact
+
+Notes: Alumni was played for the graduating seniors in attendance.

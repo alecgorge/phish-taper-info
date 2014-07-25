@@ -1,0 +1,55 @@
+phish
+ervin j. nutter center
+dayton, oh
+1995-11-30
+
+set 1
+
+disc 1
+Sample in a Jar, 
+The Curtain, 
+Ha Ha Ha, 
+Julius, 
+NICU, 
+Bathtub Gin, 
+Rift, 
+Fast Enough For You, 
+Lizards, 
+Fire
+
+set 2
+
+disc 2
+Cars Trucks and Buses > 
+Tweezer-> 
+Makisupa Policeman-> 
+Run Like an Antelope > 
+Scent of a Mule, 
+Free, 
+Strange Design, 
+Amazing Grace*, 
+E: Harry Hood
+
+* not on this source
+
+source: akg460b/ck61>b18>SBM1>D7, by JK
+transfer: DATmaster>cd(1) by JK, cd(1)>eac>flac, by john m 2007-07-27
+
+ - phish113095d101.flac:7eea2d9c784e0ffb11a14dd12b018a17
+ - phish113095d102.flac:d3f264e5abd0c733e66dcf4fa9043505
+ - phish113095d103.flac:ea4d20a3b8a72a1d130bfda3c3b5aed3
+ - phish113095d104.flac:8b5d6ad8c763f5dcaf28a4699ef7d76c
+ - phish113095d105.flac:c16f36c7bc2c1576bcf685248bb6fd22
+ - phish113095d106.flac:c32c9794d82bef54ccf9efd8c12fb73a
+ - phish113095d107.flac:1e93d16f6c4ee9860159ce0a5c0b6e90
+ - phish113095d108.flac:4b05c9086d4b7f4d78895c3a08eb3599
+ - phish113095d109.flac:dda842d1afc50da5903f71ad03c5641a
+ - phish113095d110.flac:44281a0d2805690ddf76735dce3eded2
+ - phish113095d201.flac:0ec7eddeff8bfa18eef65dc95f9977d3
+ - phish113095d202.flac:c18d5bf6bd08f19289c89ce1d7adfd92
+ - phish113095d203.flac:9f38357d5f3a3d22683893d243e1c43e
+ - phish113095d204.flac:1b0674a7b27cddf4d1dfb09347a44b55
+ - phish113095d205.flac:6096c4d051b41d2bb623ad544fc6921c
+ - phish113095d206.flac:90793a10abe4a818b4e5311b1aaedbaf
+ - phish113095d207.flac:a280977bc663e29bac20b3a586e9c784
+ - phish113095d301.flac:3a003c2bb8a345f571d46fd8b4c59958

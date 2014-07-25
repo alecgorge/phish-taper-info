@@ -1,0 +1,45 @@
+Phish 
+10-13-94
+Grove Arena
+University of Mississippi
+Oxford, MS
+
+Source: AKG 460b (no other source info given)
+Transfer: DA-20 mkii> Philips CDR 870 > EAC > CDWAV > Soundforge 4.5 > Shntool > SHN
+Transfer by: Brandon Johnston
+
+
+Disc 1:
+Set I: 
+1.//Llama
+2.Gumbo
+3.All Things Reconsidered
+4.Down with Disease
+5.I Didn't Know
+6.Foam
+7.Fast Enough for You
+8.Sparkle
+9.Stash
+
+Disc 2:
+Set II: 
+1.The Old Home Place
+2.Run Like an Antelope
+3.If I Could
+4.It's Ice
+5.Amazing Grace
+6.Mike's Song ->
+7.Simple
+8.Mike's Song ->
+9.Yerushalayim Shel Zahav
+10.Weekapaug Groove
+11.Foreplay/Long Time
+12.Cavern
+13.E: Fire 
+
+Show Notes: Antelope included a hi-hat solo from Fishman. 
+
+Known Flaws: Beginning of Llama is cut and fades in before the lyrics. There is also diginoise at 2:23-2:25 of Llama.
+
+Tech Notes: I extracted the master cds as a range and resplit the tracks using CDWAV. The EAC logs for each disc are included. The beginning of Llama was cut on my dat and fades in. On the DAT, there is a level adjustment after the fade in where the music gets quite loud then comes back down in volume. Using graphic fades and volume control in soundforge, I was able to smooth this out quite a bit but you can still hear a slight drop in level after the fade in. Then, I applied fades at the begining and ends of the sets in soundforge. 
+

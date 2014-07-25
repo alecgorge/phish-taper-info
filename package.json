@@ -1,0 +1,28 @@
+{
+  "name": "phish-taper-info",
+  "version": "1.0.0",
+  "description": "Provides taper information from shows on phish.in. Compiled from the .txt files from The Spreadsheet",
+  "main": "src/index.coffee",
+  "scripts": {
+    "start": "./node_modules/.bin/coffee src/index.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alecgorge/phish-taper-info.git"
+  },
+  "keywords": [
+    "phish"
+  ],
+  "author": "Alec Gorge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alecgorge/phish-taper-info/issues"
+  },
+  "homepage": "https://github.com/alecgorge/phish-taper-info",
+  "dependencies": {
+    "coffee-script": "^1.7.1",
+    "cors": "^2.4.1",
+    "express": "^4.6.1",
+    "morgan": "^1.2.0"
+  }
+}

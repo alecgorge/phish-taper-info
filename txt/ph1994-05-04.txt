@@ -1,0 +1,107 @@
+PHISH
+
+
+State Palace Theater
+New Orleans, Louisiana
+May 4, 1994
+
+
+Source:  AKG c1000's > ??? > DAT(c)
+Transfer:  DAT(c) > Sony PCM-R500 > SPDIF > Tascam HD-P2 > r8brain (16/48 > 16/44) > CDWave > FLAC
+DAT(c) provided by Eliot Byron
+Transfer by Terry Watts
+48k Master FLAC available
+
+
+Disc 1
+Set I:
+1. Runaway Jim
+2. Foam
+3. Sample
+4. It's Ice >
+5. Sparkle >
+6. Axilla (Part II) >
+7. Tweezer >
+8. Lifeboy
+9. Rift >
+10. Tweezer Reprise
+
+Disc 2
+Set IIe:
+1. ,,Antelope
+2. Bouncing
+3. YEM *
+4. Buried Alive *
+5. Landlady *
+6. Julius *
+7. Wolfman's *
+8. Magilla *
+9. Suzy *
+10. e: Caravan > *
+11. e: Cavern *
+
+
+Notes:
+
+Major drop-out (~0:09) @ ~1:45 of d1t08 and minor drop-out @ ~2:46 of d1t10.  Recording paused during encore break.
+
+This DAT(c) was labeled "AT1000s", but since there is no such beast I assumed it was meant to be AKG c1000's...
+
+* w/ The Cosmic Country Horns:
+Carl Gerhard - trumpet
+Michael Ray - trumpet
+Tony Tate - tenor sax
+Dave Grippo - alto sax
+Jerome Theriot - baritone sax
+Rick Trolsen - trombone
+
+Terry Watts
+
+
+FLAC FFP:
+ph1994-05-04d1t01.flac:88b29662f7e8c244372e0ce05f9cb086
+ph1994-05-04d1t02.flac:097107e27dab0b1e15978fca9c3fd149
+ph1994-05-04d1t03.flac:245e864bf2e34c3d23efd894ca1fbf59
+ph1994-05-04d1t04.flac:ac18e3d326ecc0a41155b99a3285949a
+ph1994-05-04d1t05.flac:6d016403490cdeff49d96692a78fa377
+ph1994-05-04d1t06.flac:8d4bfebc004d1b6b42e075cf665ce666
+ph1994-05-04d1t07.flac:9423adcbe355b38e52dced1322e56ed4
+ph1994-05-04d1t08.flac:e5907298303f86d0b429b0f5ccc97c22
+ph1994-05-04d1t09.flac:ed8131dec80be34a4b83ae472f749324
+ph1994-05-04d1t10.flac:4934142fa4113fed8286263b7aadd1c4
+ph1994-05-04d2t01.flac:d340b508b27dc3ed4e9472b43d299a18
+ph1994-05-04d2t02.flac:bcd5ddf86ae5b991935ebfac8420b9f5
+ph1994-05-04d2t03.flac:178e4996a157a8b0fdc4dcf2398c70f5
+ph1994-05-04d2t04.flac:6aff8f541e69185d0023a0adef357785
+ph1994-05-04d2t05.flac:98858116a1154dd060f676d9557d769e
+ph1994-05-04d2t06.flac:d8e72a49c6a8cf14b456de18dd661ba1
+ph1994-05-04d2t07.flac:a5f44e986af8f89d8bc9d3dff473d9b9
+ph1994-05-04d2t08.flac:52dce38f423df46dea108b0e55beeb3f
+ph1994-05-04d2t09.flac:45911a1138dc346daaaf85537e9da3dc
+ph1994-05-04d2t10.flac:07c8763cd986e6cd03410db8b00451ea
+ph1994-05-04d2t11.flac:7626d372db71cbb35825b05ee6c4d700
+
+
+WAV MD5:
+7374c850b02956baf956a880947b85e2 *ph1994-05-04d1t01.wav
+687b533d4578bce39f86a616b7c19d2d *ph1994-05-04d1t02.wav
+063f940b7776a529f719a3c61253c960 *ph1994-05-04d1t03.wav
+04fd9b9a5645cd7a06a99c0d5312ebd1 *ph1994-05-04d1t04.wav
+fbd5579b3466eb80209eef6ce40709da *ph1994-05-04d1t05.wav
+264bb564022ce427d2c07af68bf55924 *ph1994-05-04d1t06.wav
+ed4703bd0c3353b527f2c7d6a536ac9b *ph1994-05-04d1t07.wav
+2a0e629835c884b1148616acf637a2df *ph1994-05-04d1t08.wav
+1d643944e8f0c8afb772605cc41319a4 *ph1994-05-04d1t09.wav
+88cb10b7abf12d7d71a09c3792b99403 *ph1994-05-04d1t10.wav
+053762ee76d17ca63bb3da53c8ad8a41 *ph1994-05-04d2t01.wav
+ab256e424ef8797d886034acc1d21e58 *ph1994-05-04d2t02.wav
+48adda4d6321df503c8b4237618a6b60 *ph1994-05-04d2t03.wav
+8ed598a46ddb607d4424158a757fd1d8 *ph1994-05-04d2t04.wav
+cb6d525b04daf07c8965c23656c60154 *ph1994-05-04d2t05.wav
+cc30c7ae00e58a6be16d492717b931b3 *ph1994-05-04d2t06.wav
+00d25981badf76de7993d8376be625dc *ph1994-05-04d2t07.wav
+6392d23de8487d3bc480f724e636e0ea *ph1994-05-04d2t08.wav
+ae79c6bd9088f5ba09cdf90e47cb921a *ph1994-05-04d2t09.wav
+756461b26e463eac83b7bd08e2a96292 *ph1994-05-04d2t10.wav
+60a4a7b6d0a082d88b05f13302546e72 *ph1994-05-04d2t11.wav
+

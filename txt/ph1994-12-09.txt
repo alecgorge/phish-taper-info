@@ -1,0 +1,91 @@
+Phish 12/09/94 Mesa Amphitheatre - Mesa, Arizona
+
+Source: 	Set I: DAUD/FOB Schoeps mk4(ORTF) > KC5 actives > CMC5 >
+		Sonosax SX-M2 > Apogee AD-500e > Sony D10 @48kHz
+		Master (from D10) used in below transfer
+		
+		Set IIpt: DAUD/OTS Schoeps mk4(ORTF) > KC5 actives > CMC5 >
+		Sonosax SX-M2 > Apogee AD-500e > Sony D10 @48kHz
+		Master (from D10) used in below transfer
+
+		Set IIpt+E: DAUD/FOB Schoeps mk4(hat) > KC5 actives > CMC6 >
+		Aerco > Marantz PMD-700 @48kHz
+		Master (on Marantz PMD-700) > clone used in below transfer
+
+Conversion: 	R500 > Canare Coax > Digigram VXPocket/Sony Pixbook > 
+		Soundforge 5.0 (fade in/out/edits/48>44.1 at highest setting[4of4]
+		with anti-alias filter) > CD Wave > mkwACT v0.97 
+		(shn files have seek tables appended) **No DAE at all** 		
+
+Detailed info:	Set I FOB was done on a stand, during the set break the rig was moved to the OTS
+		and the first part of set II is from the OTS.  This recording was patched with
+		the set IIpt+E source (mk4/hat) as the Apogee battery died during YEM.  
+		See below for info on the patching.  		
+
+Minor Edits:	Fades in/out beg/end of sets--5 sec in all cases
+		Nasty analog/FOB noise on master removed in Guyute (d1t04~01:13) using 'channel 
+		swap crossfade'	with a total duration of 10 sec where the glitch occurs at 5 sec; 
+		mix w/ both crossing at 0.0db.  Missing part of second set/encore patched before 
+		YEM--in crowd noise.  The patch was done using a crossfade with overlapping 
+		duration of 8.533s with the source going from -infdb to 0db and the destination 
+		going from 0db to -infdb.
+
+Tapers: Eliot Byron (I, IIpt) and Steve B. (IIpt and Encore)
+Huge thanks to Eliot who supplied the DATs for this transfer!
+Transferred and uploaded by Jim Raras <jraras@yahoo.com> via Dankseeds
+Please contact me with questions etc.  There are also 48k shn's of this seed for archival.
+
+____________________________________________________________________________
+
+*Dankseed Certification received 01-09-24*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph94-12-09/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________
+
+
+Disc 1 / Set I 			                        	     01:04:18
+01. Intro/Crowd			                   			00:29
+02. Llama			                   			03:56 
+03. Foam			                   			09:57 
+04. Guyute			                   			10:08 
+05. Sparkle >			                   			03:50 
+06. I Didn't Know			                   		03:47 
+07. It's Ice			                   			09:24 
+08. If I Could			                   			07:43
+09. Run Like an Antelope			                   	15:04
+
+Disc 2 / Set II 			                      	     00:58:46
+01. Intro/Crowd			                   			00:27
+02. Wilson >			                   			04:47 
+03. Poor Heart >			                   		02:15
+04. Tweezer >			                   			26:09 
+05. McGrupp			                   			09:24
+06. Julius >			                   			07:10 
+07. Big Ball Jam			                   		02:29 
+08. HYHU >			                   			01:53
+09. Cracklin' Rosie >			                   		02:58
+10. HYHU			                   			01:14
+
+Disc 3 / Encore 			                      	     00:44:13			      
+01. You Enjoy Myself >			                   		21:21
+02. Suzy Greenberg			                   		05:54
+03. Encore Break/Crowd			                   		02:49
+04. I'm Blue I'm Lonesome			                   	02:57 
+05. Foreplay/Long Time			                   		07:18
+06. Tweezer Reprise			                   		03:54 
+
+Setlist from "The Phish Companion" http://www.phish.net/mockingbird
+      		03:54 
+
+Setlist from "The Phish Companion" http://www.phish.net/mockingbird
+d

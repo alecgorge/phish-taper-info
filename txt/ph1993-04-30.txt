@@ -1,0 +1,96 @@
+Phish
+April 30, 1993
+University Of Hartford
+West Hartford, CT
+
+source:
+Schoeps mk4 > kc5 > cmc5 > Sonosax SX-M2 > Sony TCD-D10 pro II (@ 48 kHz)
+(mics were ORTF, recorded from the tapers section)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > Samplitude SE v9.1.1 (see notes) > FLAC v1.2.1 (Level 8)
+
+FLAC tags added with metaflac v1.2.1
+
+recorded by Eliot Byron
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded September 27, 2008
+
+notes:
+Big thanks to Eliot for letting me borrow the master DATs!
+Samplitude was used for:
+fades, resample to 44.1 kHz, volume adjusmtments (+15 dB) on "Amazing Grace", track splits
+
+Disc 1 - [69:37]
+Set I
+01 - [00:58] - Lengthwise ->
+02 - [10:08] - Maze
+03 - [03:41] - Bouncing Around the Room
+04 - [02:26] - Poor Heart
+05 - [10:55] - Stash
+06 - [02:05] - The Horse >
+07 - [05:00] - Silent in the Morning
+08 - [14:34] - The Divided Sky
+09 - [04:34] - Cavern
+10 - [02:40] - Lawn Boy
+11 - [02:35] - All Things Reconsidered
+12 - [10:02] - Possum
+
+Disc 2 - [51:31]
+Set II
+01 - [07:22] - Wilson
+02 - [03:43] - Sparkle
+03 - [09:17] - Tweezer ->
+04 - [03:58] - Walk Away ->
+05 - [05:44] - Mound
+06 - [02:46] - Big Ball Jam
+07 - [12:36] - Harry Hood
+08 - [01:56] - HYHU >
+09 - [03:12] - If I Only Had a Brain >
+10 - [00:57] - HYHU
+
+Disc 3 - [41:44]
+Set II continued
+01 - [22:45] - You Enjoy Myself
+02 - [04:26] - Golgi Apparatus
+03 - [02:54] - encore break
+04 - [06:36] - When Something is Wrong with My Baby
+05 - [01:41] - Amazing Grace
+06 - [02:50] - Tweezer Reprise
+07 - [00:32] - outro
+
+-----------------------------------------------------------------------------
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:57.54           9.71 MB  ---   --   ---xx   flac  0.4744  ph1993-04-30d1t01.flac
+    10:08.11         102.31 MB  ---   --   ---xx   flac  0.6097  ph1993-04-30d1t02.flac
+     3:40.38          37.10 MB  ---   --   ---xx   flac  0.5948  ph1993-04-30d1t03.flac
+     2:25.41          24.49 MB  ---   --   ---xx   flac  0.5976  ph1993-04-30d1t04.flac
+    10:55.17         110.23 MB  ---   --   ---xx   flac  0.5750  ph1993-04-30d1t05.flac
+     2:05.29          21.09 MB  ---   --   ---xx   flac  0.4171  ph1993-04-30d1t06.flac
+     4:59.56          50.43 MB  ---   --   ---xx   flac  0.5357  ph1993-04-30d1t07.flac
+    14:33.57         146.99 MB  ---   --   ---xx   flac  0.5448  ph1993-04-30d1t08.flac
+     4:34.33          46.17 MB  ---   --   ---xx   flac  0.6027  ph1993-04-30d1t09.flac
+     2:39.45          26.85 MB  ---   --   ---xx   flac  0.4646  ph1993-04-30d1t10.flac
+     2:34.48          26.01 MB  ---   --   ---xx   flac  0.5190  ph1993-04-30d1t11.flac
+    10:02.29         101.34 MB  ---   --   ---xx   flac  0.5868  ph1993-04-30d1t12.flac
+     7:21.38          74.27 MB  ---   --   ---xx   flac  0.5198  ph1993-04-30d2t01.flac
+     3:43.02          37.52 MB  ---   --   ---xx   flac  0.5718  ph1993-04-30d2t02.flac
+     9:17.24          93.76 MB  ---   --   ---xx   flac  0.5848  ph1993-04-30d2t03.flac
+     3:57.53          39.99 MB  ---   --   ---xx   flac  0.6059  ph1993-04-30d2t04.flac
+     5:43.74          57.87 MB  ---   --   ---xx   flac  0.5599  ph1993-04-30d2t05.flac
+     2:45.53          27.88 MB  ---   --   ---xx   flac  0.5416  ph1993-04-30d2t06.flac
+    12:36.10         127.20 MB  ---   --   ---xx   flac  0.5346  ph1993-04-30d2t07.flac
+     1:55.67          19.50 MB  ---   --   ---xx   flac  0.4618  ph1993-04-30d2t08.flac
+     3:12.31          32.37 MB  ---   --   ---xx   flac  0.4702  ph1993-04-30d2t09.flac
+     0:57.20           9.63 MB  ---   --   ---xx   flac  0.5159  ph1993-04-30d2t10.flac
+    22:44.38         229.55 MB  ---   --   ---xx   flac  0.5182  ph1993-04-30d3t01.flac
+     4:25.53          44.70 MB  ---   --   ---xx   flac  0.5888  ph1993-04-30d3t02.flac
+     2:54.11          29.30 MB  ---   --   ---xx   flac  0.4852  ph1993-04-30d3t03.flac
+     6:36.09          66.64 MB  ---   --   ---xx   flac  0.5167  ph1993-04-30d3t04.flac
+     1:41.28          17.05 MB  ---   --   ---xx   flac  0.5078  ph1993-04-30d3t05.flac
+     2:50.34          28.68 MB  ---   --   ---xx   flac  0.5906  ph1993-04-30d3t06.flac
+     0:32.08           5.40 MB  ---   --   ---xx   flac  0.4420  ph1993-04-30d3t07.flac
+   162:52.36        1644.01 MB                           0.5486  (29 files)

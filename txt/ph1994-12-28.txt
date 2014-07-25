@@ -1,0 +1,66 @@
+Phish 
+12-28-94 
+Civic Center
+Philadelphia,PA
+
+Source: (F.O.B.) Schoeps mk4 (no other source info given)
+Transfer: DA-20mkII->Delta Dio 2496->Soundforge 6.0 (resampled 48>44.1 on highest accuracy setting w/anti alias filter)->CDWAV->shntool->shn
+
+Transfer by: Brandon Johnston -- http://db.etree.org/bisq 
+Seeded on: 5/17/04
+
+Disc 1:
+1.Mound >
+2.Simple
+3.Julius
+4.Bathtub Gin
+5.Bouncing Around the Room
+6.Axilla II
+7.Reba
+8.Dog Faced Boy
+9.It's Ice >
+10.Run Like an Antelope
+
+Disc 2:
+1.Suzy Greenberg
+2.NICU
+3.Mike's Song->
+4.The Mango Song->
+5.Weekapaug Groove
+
+Disc 3:
+1.Contact
+2.Llama
+3.HYHU>Love You>HYHU
+4.The Squirming Coil
+5.crowd noise
+6.E: Bold as Love 
+
+Show Notes: Reba was unfinished. Weekapaug Groove featured Auld Lang Syne and Little Drummer Boy quotes. Bold as Love was played for the first time since May 21, 1994 (83 shows).
+
+Tech Notes: Fades were added in soundforge 6.0
+
+Shntool Output:
+    length     expanded size   cdr  WAVE  probs   filename
+     5:44.25      60740444     ---   --    ---    ph1994-12-28d1t01.wav
+     5:57.21      63024236     ---   --    ---    ph1994-12-28d1t02.wav
+     7:39.00      80967644     ---   --    ---    ph1994-12-28d1t03.wav
+     7:30.32      79455308     ---   --    ---    ph1994-12-28d1t04.wav
+     3:41.10      39007964     ---   --    ---    ph1994-12-28d1t05.wav
+     3:59.55      42289004     ---   --    ---    ph1994-12-28d1t06.wav
+    13:03.13     138151820     ---   --    ---    ph1994-12-28d1t07.wav
+     2:00.69      21330332     ---   --    ---    ph1994-12-28d1t08.wav
+     9:05.23      96192140     ---   --    ---    ph1994-12-28d1t09.wav
+    12:17.15     130042124     ---   --    ---    ph1994-12-28d1t10.wav
+     6:24.22      67789388     ---   --    ---    ph1994-12-28d2t01.wav
+     5:20.16      56485676     ---   --    ---    ph1994-12-28d2t02.wav
+     8:38.43      91476380     ---   --    ---    ph1994-12-28d2t03.wav
+     7:11.19      76073132     ---   --    ---    ph1994-12-28d2t04.wav
+    17:14.48     182510540     ---   --    ---    ph1994-12-28d2t05.wav
+     6:05.56      64517756     ---   --    ---    ph1994-12-28d3t01.wav
+     3:59.34      42239612     ---   --    ---    ph1994-12-28d3t02.wav
+     7:57.02      84147548     ---   --    ---    ph1994-12-28d3t03.wav
+    11:50.09     125265212     ---   --    ---    ph1994-12-28d3t04.wav
+     2:02.35      21603164     ---   --    ---    ph1994-12-28d3t05.wav
+     5:36.44      59373932     ---   --    ---    ph1994-12-28d3t06.wav
+   153:18.66    1622683356 B                      (totals for 21 files)

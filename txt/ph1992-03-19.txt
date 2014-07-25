@@ -1,0 +1,80 @@
+Phish
+Palace Theater
+New Haven, CT
+3/19/92 
+
+TAPER: John Redmond
+SOURCE Nak 300s (11th Row center, seat 46) > D5 
+
+AUD MCass (Maxell XLII-S Cass1= 90 min, Cass2= 100min)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +~10dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)>
+Mastering (see notes)> SHNv3
+
+Transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 12/6/2003)
+Mastering, editing and WAV > SHN were performed on REBA by Arty- imthemarmar@stny.rr.com
+
+**24/48 Masters do exist at the unedited/pre-processed level**
+
+Soundcheck: SBD > DAT > Cass/2
+Transfer: Cass/2 Sony TC-KA3ES > REBA @ 24bit/48kHz via tc electronic Finalizer 96K
+Cassette Transfer > 24/48 Mastering > SHN by Arty- imthemarmar@stny.rr.com
+
+*DISC 1*
+Set 1:
+01. The Landlady
+02. Rift
+03. Split Open and Melt
+04. Sparkle
+05. Golgi Apparatus
+06. The Horse->
+07. Silent in the Morning
+08. Dinner and a Movie->
+09. Colonel For//bin's Ascent->
+10. Famous Mockingbird >
+11. All Things Reconsidered
+12. David Bowie^
+
+*DISC 2*
+Set 2: 
+01. Glide
+02. Chalk Dust Torture
+03. NICU+
+04. My Sweet One
+05 .Stash
+06. Oh Kee Pa Ceremony->
+07. Suzy Greenberg >
+08. My Friend My Friend
+09. The Squirming Coil//
+10. Cracklin' Rosie > Cold as Ice
+11. YEM
+
+*DISC 3*
+Encore:
+01. Sleeping Monkey >
+02. Rocky Top
+03. Sweet Adeline%
+-Soundcheck-
+04. Shaggy Dog//
+05. Andrew!?*
+06. Lullabye of Birdland
+07. Noodling
+08. Mound*
+09. Discussing what to play
+10. Maze
+
+-Notes
+All the cuts//flips have been crossfaded...the only one that's real noticable is the one in Forbin. There are also some volume changes that were left as is.
+^ has an amazing opening section...teases almost the entire 1st set...has 2 singals in the beginning...
++ slow version
+% has some volume weirdness right at the start....
+* these tracks have instances of tape weirdness....they are unfixable.
+
+**Show Mastering**
+24bit 48kHz FLAC > wav > Montage to reconstruct sets and add fades over flips > Internal 24bit rendering (no dither) > BBE @ 2/2/-2 > Waves Broadband LinearEQ > Internal 24bit renerding (no dither) > Rendered 24/48 wav files > Waves S-1 Imager > Waves L1+ (24bit, no dither, +7.5 gain make-up) > 48kHz>44.1/High and 24bit>16bit/Mode 3/Extreme via tc electronic Finalizer 96k > Tracking in Wavelab > SHNv3 
+
+**Soundcheck Mastering**
+(SBD>DAT)Cass/2 > Sony TC-KA3ES > REBA @ 24bit/48kHz via tc electronic Finalizer 96K > SHN
+BBE Processing was applied, as well as slight phase cancellation on the high frequencies to lessen the audible tape hiss. 
+
+Seeded to FurthurNet (www.furthurnet.org)

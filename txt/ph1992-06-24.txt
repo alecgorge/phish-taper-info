@@ -1,0 +1,35 @@
+Phish
+06-24-92
+Resi - Nuremberg, Germany
+opening for the Violent Femmes
+
+Source: SBD > Cass/1 > DAT
+A>D Transfer: Marantz PMD430 > Sony DTC ZE700 (w/SBM) @44.1kHz
+DAT>SHN Transfer: Tascam DA-302 > Coax > Dio 24/48 > CDWav > mkwACT > SHN
+
+A>D and DAT>SHN transfers by Blane Harvey
+Fixes by Ben Mohr (bmohr@udel.edu)
+
+---------------------------
+ Disc 1:           (40:01)
+---------------------------
+1. intro           (00:26)
+2. Runaway Jim     (06:57)
+3. Llama           (05:20)
+4. Sweet Adeline   (02:01)
+5. Uncle Pen       (04:10)
+6. Guelah Papyrus  (05:38)
+7. I Didn't Know   (03:26)
+8. Sparkle         (04:07)
+9. Cavern          (05:27)
+10. Rocky Top      (02:29)
+
+Notes: 
+-Overloading at beginning of d1t02
+-Amplitude fluc d1t06 3:45
+
+Fixes:
+-Applied Cool Edit Pro hiss reduction of 12dB based on floor sample taken before d1t01
+-Boosted high shelf above 11kHz by 3 dB
+-Normalized show to 98%
+-Removed R channel pop at d1t01 6:57.533 (0.002 sec)

@@ -1,0 +1,46 @@
+Phish
+Sam's Tavern
+Burlington VT
+9/12/88
+
+Source: Cass/? > CDR > EAC > FLAC16
+Transfer: Taperwayne (taperwayne@gmail.com)
+
+Notes: This disc is a hole filler. The quality is pretty bad, but it is all I could locate for this date.
+Better than nothing, and it will have to do until a cleaner source turns up.
+
+01. Shaggy Dog
+02. Take The A Train
+03. Fee
+04. Bold As Love
+-Set II-
+05. Timber Ho!
+06. Satin Doll
+07. The Lizards
+08. The Man Who Stepped Into Yesterday >
+09. Avenu Malkenu >
+10. Bundle Of Joy >
+11. Camel Walk
+12. The Practical Song
+13. Harry Hood
+14. Esther *
+
+* = debut - alternate lyrics.
+
+
+61e4c1dadf6e38ecad8445bdc68a2db7 *ph1988-09-12T01.flac
+0228068dcfe226bc17810299f036b80b *ph1988-09-12T02.flac
+6bf09945196a7792c5908a1d8ba6f454 *ph1988-09-12T03.flac
+0fa682b3d82580a044eb09e22a4aadad *ph1988-09-12T04.flac
+340921a54d012f4d62600bd3dc5f3a07 *ph1988-09-12T05.flac
+797234d8eaf6589d6dce50a87d10afd8 *ph1988-09-12T06.flac
+c390344143f7bfbb01bd530894d0b5ce *ph1988-09-12T07.flac
+2b0cb69984b0a6b4c7bfc763218176fe *ph1988-09-12T08.flac
+bd0c6a465acf1b81ca375bc3aef12a8e *ph1988-09-12T09.flac
+e3f10953c3f4f344d9b97f6c6fecbac6 *ph1988-09-12T10.flac
+eafda3426012c39f2fb4a2a012284a5b *ph1988-09-12T11.flac
+a1e536cafd8076b86eedb97c0001ec87 *ph1988-09-12T12.flac
+31713d6bee3b0ac8c4e78c1b64212aca *ph1988-09-12T13.flac
+03dce66eddddd36b436d8a3fe38f443b *ph1988-09-12T14.flac
+
+

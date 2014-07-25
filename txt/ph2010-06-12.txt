@@ -1,0 +1,43 @@
+Phish
+06/12/2010
+Cuyahoga Falls, Ohio  Blossom Music Center
+
+Source: Schoeps mk4v> KCY> Sonosax SX-M2/LS> SD 744t (@24bit/96kHz)
+Location: OTS, DFC, Section 35, Row A, Seat 11, mk4v/AB, mk41/DIN
+
+Transfer: SD 744t> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (06/13/2010)
+
+
+Set I
+t01 [04:33] Look Out Cleveland
+t02 [09:37] Ocelot
+t03 [04:33] Water in the Sky
+t04 [11:42] Stash
+t05 [05:01] The Ballad of Curtis Loew
+t06 [05:48] Sample in a Jar
+t07 [17:46] Time Turns Elastic
+t08 [08:58] Mike's Song>
+t09 [03:06] I am Hydrogen>
+t10 [09:16] Weekapaug Groove
+
+Set II
+t11 [14:00] Rock and Roll>
+t12 [15:07] Harry Hood>
+t13 [13:37] Backwards Down the Number Line>
+t14 [07:25] Twenty Years Later
+t15 [03:55] Instant Karma!>
+t16 [01:49] The Oh Kee Pa Ceremony>
+t17 [05:35] Suzy Greenberg>
+t18 [05:36] Waste>
+t19 [09:17] Character Zero
+t20 [02:47] crowd
+
+Encore
+t21 [08:45] The Squirming Coil
+
+
+Notes:
+Look Out Cleveland (The Band), first time played
+Instant Karma (John Lennon), first time played
+Set I [1:20:20] Set II [1:19:08] Encore [8:45]

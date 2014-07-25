@@ -1,0 +1,54 @@
+Phish
+Wesleyan University
+Middletown, CT
+09/16/90 
+
+Taper: John Redmond
+SOURCE Nak 100s > D5 
+
+AUD MCass (Maxell MX 100)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +12dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (archived) >
+Mastering > SHNv3
+
+Mastering Notes: X-Noise was used to remove the noise floor and the 
+24/48 WAVs were assembled in the Wavelab Audio Montage window, 
+crossfades were made at tapeflips.  A Level adjustment during Landlady 
+was compensated for.  It sounded like tape was stopped between the 
+final section of Reba and the reprise, as well as Tube & Tweezer, I 
+edited out some silence and performed crossfades. 3dB was added to 
+compensate for an overall level change from Paul & Silas thru Magilla.  
+The following mastering processes were applied: X-Noise, Waves REQ 
+(2-band, top secret settings), Blue Tubes FA770, BBE Sonic Maximizer 
+(2, 2, unity), Blue Tubes LM2S limiter.  The resulting .WAV was tracked 
+in CD-WAV and converted to SHNv3 (seek tables appended).  
+
+transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 10/22/2003
+All mastering was peformed at Bunker 8 Digital Labs, all edits were 
+performed on on Doomtooth, both by shakedown@furthurnet.org
+
+DISC ONE
+01. Dinner and a Movie
+02. Bouncin'
+03. The Sloth
+04. The Landlady
+05. Reb/a
+06. //Yamar
+07. Tube
+08. /Tweezer
+09. Paul and Silas
+10. Mike's Song >
+11. I Am Hydrogen >
+12. Weekapaug Groove
+
+DISC TWO
+01. Magilla//
+02. // Run Like An Antelope
+encore:
+03. Contact
+
+Notes:
+NO tracking/editing/alterations performed before archiving to 24-bit FLAC
+(except to trim silence from the ends).
+
+Seeded to FurthurNet by shakedown

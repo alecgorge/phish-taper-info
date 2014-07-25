@@ -1,0 +1,72 @@
+Phish
+July 8, 2003
+Coors Ampitheatre - Chula Vista, CA
+
+Source:
+(TS/ Stage Left section, in line with paul)
+Schoeps cmxy4v (@90o) > Sonosax SX-m2 > Apogee AD500e > D8 (@48)
+
+Transfer: D8 > Marantz cdr-615 > EAC > CDWAV > MKW
+
+(All ala Bob Wiely)
+
+
+Set 1:
+
+Guyute, 
+Horn, 
+My Sweet One >
+Tweezer, 
+Limb By Limb, 
+Fast Enough For You, 
+Frankie Says, 
+Taste
+
+Set 2:
+
+Down With Disease, 
+Vultures, 
+Secret Smile#, 
+Harry Hood, 
+Carini, 
+Discern#, 
+Waste
+
+Encore:
+
+Bouncing Around the Room  
+Tweezer Reprise
+
+
+Notes:
+
+# ='s first played
+
+
+Dont use lossy formats! Stick to shn, flac, or wav...
+If you still feel the need to trade mp3's then 
+drink a beer and deal with it 
+or see a doctor and get rid of it!
+
+Bob Wiely - FobWielyOwnz@soundtribe.org
+There aint no I in TEAM! - DFU w3st 
+
+
+ph2003-07-08d1t01.flac:5928b20f10c0b5b2320707853bae020c
+ph2003-07-08d1t02.flac:54a17b900605aaeb97a2e7d5aa8f987f
+ph2003-07-08d1t03.flac:09a32094a85e615cc73ea808610fb334
+ph2003-07-08d1t04.flac:d5034c7b41379d64ced228b3a4208545
+ph2003-07-08d1t05.flac:826287cf29210ab9c78f23bc06d14ef1
+ph2003-07-08d1t06.flac:caa6d6997bbc7ad29abad5b19a4949e0
+ph2003-07-08d1t07.flac:68415ff07e3c34c9cc998efbc3cc2f30
+ph2003-07-08d1t08.flac:9f6c96383a2ab2a7f4a0abc70a51be2a
+ph2003-07-08d2t01.flac:56ef6da4d13f612897617d66fbe3b59f
+ph2003-07-08d2t02.flac:35c1af20ecd6622883f7e6eb90bb2d0f
+ph2003-07-08d2t03.flac:bcc0c7a077768a3240dedc5a20da314d
+ph2003-07-08d2t04.flac:7c820f7635a195fe18530e2f120a2935
+ph2003-07-08d2t05.flac:8aac180e18870b6a526e38a59a8b753a
+ph2003-07-08d3t01.flac:735935eda6d5fa30f5aadbd2d97a9831
+ph2003-07-08d3t02.flac:ab5be1e8ef3942ec1e196d8bdf7b989c
+ph2003-07-08d3t03.flac:2577d1166e2b1138575c78793b268aa3
+ph2003-07-08d3t04.flac:4e98ff7b939894353181fcca3f61c125
+

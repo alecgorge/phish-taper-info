@@ -1,0 +1,56 @@
+Phish
+May 7, 1992
+The Agora Theater
+Cleveland, OH
+
+Source: Neumann RSM-191s (150deg X-Y, 7.5ft high) > SV255 > D3
+Taped by: Bryon Sosinski, Kevin Shapiro
+Source CD's provided by Kevin Shapiro. EAC logs included.
+EAC, editing, FLAC by Marmar- imthemarmar@gmail.com
+
+Disc 1:
+-Set I-
+1. Suzy Greenberg
+2. Poor Heart
+3. Buried Alive
+4. My Friend My Friend
+5. Foam
+6. Runaway Jim
+7. Esther
+8. Split Open and Melt
+9. Rift
+10.Guelah Papyrus
+11.Possum
+
+Disc 2:
+-Set II-
+1. The Landlady
+2. Sparkle
+3. Tweezer
+4. Fluffhead
+5. Glide
+6. Mike's Song >
+7. I Am Hydrogen >
+8. Weekapaug Groove
+9. Fee >
+10.Cold as Ice
+11.Oke Dokey, All In Tune!
+12.Bike > Cold as Ice
+
+Disc 3:
+1. The Squirming Coil
+2. Tweezer Reprise
+Encores:
+3. Sweet Adeline
+4. Sleeping Monkey
+5. Rocky Top
+
+
+Show Notes: Possum included Asshole, Fingerscrape, Random Laugh, and All Fall Down 
+Signals. During Fee, a fake palm tree was lowered onto the stage behind Page. The 
+prop seemed to surprise the band as much as it did the audience.
+
+
+
+Mastering notes:
+The source CD's were ripped with EAC. Weekapaug was missing from the masters used to make the CD's. I patched the Weekapaug using the Unknown source listed in the db.etree after fixing the pitch to match the source provided by KS. The Unknown source sounds like it is actually from this rig, just a few analog gens down the line. 

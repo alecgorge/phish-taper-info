@@ -1,0 +1,37 @@
+PHISH
+Wolf Mountain Ampitheatre - Park City, UT
+August 2, 1996
+
+Source: AKG C568 EB's > Aerco preamp
+Transfer: MDAT > SONY PCM-500 for playback > Tascam CDRW700 > CD-R >
+
+Journey to flac: Master CDR > EAC'ed using Plextor DVDR PX-708A > Flac Frontend>Flac
+
+Disc 1
+(Set I)
+Somewhere Over The Rainbow*
+Ya Mar
+Down With Disease
+Guelah Papyrus
+Poor Heart
+Foam
+Theme From The Bottom
+Golgi Apparatus
+Tweezer
+Hello My Baby
+Possum
+
+Disc 2
+(Set II)
+Runaway Jim
+Simple
+Taste
+Free >
+Fluffhead
+Prince Caspian
+The Horse ->
+Silent In The Morning
+Run Like An Antelope
+E: Punch You In The Eye
+
+*Page instrumental solo on Theremin

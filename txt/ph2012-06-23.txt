@@ -1,0 +1,33 @@
+Phish
+June 23, 2012
+First Niagara Pavilion
+Burgettstown, PA
+
+source: Schoeps mk41 (DINa) > kcy > Sonosax SX-M2-LS2 > Mytek 192 > Tascam HD-P2 (24/48)
+transfer: CF > Sound Studio > xACT > .flac (16/44)
+
+Set 1
+d1t01 Intro
+d1t02 Funky Bitch >
+d1t03 Backwards Down The Number Line
+d1t04 Gumbo >
+d1t05 Maze
+d1t06 Torn And Frayed
+d1t07 The Moma Dance >
+d1t08 Scent Of A Mule
+d1t09 46 Days
+d2t01 You Enjoy Myself
+
+Set 2
+d2t02 Gotta Jibboo >
+d2t03 Mike's Song >
+d2t04 Simple >
+d2t05 Light >
+d2t06 Weekapaug Groove >
+d2t07 Seven Below
+d3t01 Bouncing Around The Room >
+d3t02 Julius >
+d3t03 Slave To The Traffic Light
+d3t04 Crowd
+Encore
+d3t05 The Lizards

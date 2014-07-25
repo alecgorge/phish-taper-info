@@ -1,0 +1,39 @@
+PHiSH 6-13-97 S.F.X. Centre  Dublin Ireland  
+source: AKG 414(cartoid)>Oade>D8
+transfered: da-20mkii>Turtle Beach s/pdif>soundforge>cdwav>shn
+Received From : Brandon Johnston
+
+disc 1
+1.Theme from the Bottom
+2.Dogs Stole Things*
+3.Beauty of My Dreams
+4.Billy Breathes
+5.Limb By Limb*
+6.Wolfman's Brother->
+7.Wading in the Velvet Sea*
+8.Taste 
+
+disc 2:
+1.Stash^
+2.Maze
+3.Water in the Sky*
+4.Vultures*
+5.Slave to the Traffic Light
+
+disc 3:
+1.Chalk Dust Torture->
+2.Ghost*->
+3.Olivia's Pool*
+4.Character Zero 
+5.crowd noise
+6.E: Stand!#->
+7.Izabella## 
+
+^La Bamba and Tequila tunings
+*First time played (original). #First time played (Sly and the Family Stone cover). ##First time played (Jimi Hendrix Experience cover). 
+
+
+Notes: There was drop in Chalkdust right near the beginning. It was not like a normal dropout but rather a gap of a 
+few seconds...My guess is that this drop was introduced on the master tape not during any d>d copying.  The gap has 
+been removed with soundforge.
+

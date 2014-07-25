@@ -1,0 +1,50 @@
+Phish
+February 21, 1991
+TRAX
+Charlottesville, VA
+
+Source: SBD > Analog master > analog > analog > DAT > CD > EAC > SHN
+Transfer: unknown
+Taped by Ben Folsom (house sound manager) 
+Seeded to etree on 06/17/06 by Ellis Godard (ellis@phish.net)
+
+SONG                            LENGTH TOTAL
+
+DISC ONE
+-------set one--------------
+01 Reba                         11:56  11:56
+02 Dinner and a Movie >         03:48  15:45
+03 Yamar                        07:06  22:52
+04 Split Open and Melt          08:21  31:14
+05 Fee                          05:31  36:45
+06 Llama                        04:59  41:45
+07 Lizards                      10:29  52:14
+08 My Sweet One >               02:14  54:28
+09 Mike's Song >                06:22  60:51
+10 I Am Hydrogen >              02:45  63:36
+11 Weekapaug Groove             06:07  69:44
+
+DISC TWO
+-------set two--------------
+01 Golgi Apparatus              05:40  05:40
+02 Cavern >                     04:56  10:36
+03 Landlady >                   03:53  14:30
+04 Bouncing Around the Room     04:02  18:32
+05 Stash (in progress)          08:48  27:20
+06 Guelah Papyrus               05:17  32:37
+07 Uncle Pen                    04:39  37:17
+08 Hold Your Head Up >          01:42  38:59
+09 Honey Love You (w/ vac) >    04:40  43:40
+10 Hold Your Head Up            00:37  44:18
+11 David Bowie                  12:55  57:13
+-------enncore--------------
+12 Suzy Greenberg               05:56  63:09
+
+
+Notes: 
+
+This show is not known to have circulated previously, and was missing from the official vault until provided to Kevin Shapiro (who did the A>D conversion and tracking) in mid-2004. It has often been listed as 2-24-91, which is how my tape was labelled by the person who dubbed it from Folsom and for me, and thus how I reported it circa summer 1992. However, I am confident that it was actually 2-21, as the previous night (my 20th birthday) was Arlo Guthrie at the same venue (also taped, and also uncirculated), and I recall being told twice that night that my "real present is tomorrow night, huh?" Kevin agrees that 2-21 makes more sense in the known sequence of locales in the preceding and following dates, and it is recorded in/for the vault as 2-21.
+
+EAC reported 100% track quality on all tracks with no errors.
+
+Increments in total time account for fractions of seconds.

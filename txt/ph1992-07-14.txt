@@ -1,0 +1,42 @@
+Phish
+07-14-92 
+The Boathouse 
+Norfolk, VA 
+
+Source:  Nak300>Nak mx100>D5>SHN
+Editing, mastering, FLAC16 by Marmar- imthemarmar@gmail.com
+
+-Disc 1-
+Set 1: 
+The Landlady 
+Rift 
+Guelah Papyrus 
+Maze 
+Sparkle 
+It's Ice 
+Runaway Jim 
+Horn 
+Brother 
+I Didn't Know 
+Poor Heart > Cavern 
+
+-Disc 2-
+Set 2: 
+The Curtain >
+Tweezer 
+Fee >
+All Things Reconsidered 
+Reba 
+Llama 
+The Squirming Coil 
+Paul and Silas 
+You Enjoy Myself 
+
+-Disc 3-
+Take the A-Train 
+Tweezer Reprise 
+ENCORE: 
+Sleeping Monkey 
+
+*Edits*
+The original shn's were flat. This was corrected in Wavelab 5...Time stretched to 93%, non-quantized, pitch-corrected, and set for high quality. Fades were added to the start and end of each set. Dithered back to 16 bits and lowered the high end output by -2db using the L3Multi.

@@ -1,0 +1,89 @@
+Phish
+August 10, 1996
+Alpine Valley
+East Troy, WI
+
+source:
+AKG c3000's > DAT (@ 48 kHz)
+
+transfer:
+Tascam DA-20mkII > Marantz PMD-661 > SDHC card > usb 2.0 > pc > r8brain v1.9 (resample to 44.1 kHz) > CD Wave v1.98 (track splits) > Samplitude SE v9.1.1 (fades) > FLAC v1.2.1 (Level 8)
+
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded July 23, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+The original 48 kHz files from the DAT transfer have been archived and are available upon request.
+
+Disc 1 - [72:38]
+Set I
+01 - [06:47] - My Friend My Friend
+02 - [02:23] - Poor Heart
+03 - [09:57] - AC/DC Bag
+04 - [05:32] - Fee
+05 - [15:23] - Reba
+06 - [03:30] - I Didn't Know
+07 - [00:51] - The Horse >
+08 - [05:06] - Silent in the Morning
+09 - [06:00] - Rift
+10 - [12:26] - Bathtub Gin
+11 - [04:43] - Cavern
+
+Disc 2 - [64:38]
+Set II
+01 - [05:07] - Wilson
+02 - [13:23] - Down with Disease
+03 - [12:49] - Scent of a Mule
+04 - [07:51] - Free
+05 - [14:39] - Fluffhead
+06 - [03:06] - HYHU >
+07 - [04:44] - Whipping Post >
+08 - [02:58] - HYHU
+
+Disc 3 - [33:50]
+Set II continued
+01 - [15:24] - Harry Hood
+12 - [04:39] - A Day in the Life
+03 - [01:47] - encore break
+04 - [06:11] - Contact
+05 - [05:49] - Fire
+
+Show Notes: Listen for an In-A-Gadda-Da-Vida tease from Page during the Mule Duel. 
+Whipping Post was played for the first time since April 20, 1993 (284 shows). My Friend 
+featured Trey using his microphone stand as a slide.
+
+note:
+There was a cut during the encore break crowd noise.
+I used Samplitude to cross-fade the two crowd noise to make it appear seamless.
+
+---------------------------------------------------------------------------------
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     6:46.62          68.44 MB  ---   --   ---xx   flac  0.4525  ph1996-08-10d1t01.flac
+     2:22.71          24.05 MB  ---   --   ---xx   flac  0.4428  ph1996-08-10d1t02.flac
+     9:56.67         100.41 MB  ---   --   ---xx   flac  0.4601  ph1996-08-10d1t03.flac
+     5:32.06          55.87 MB  ---   --   ---xx   flac  0.4014  ph1996-08-10d1t04.flac
+    15:23.18         155.31 MB  ---   --   ---xx   flac  0.4036  ph1996-08-10d1t05.flac
+     3:30.17          35.37 MB  ---   --   ---xx   flac  0.3995  ph1996-08-10d1t06.flac
+     0:50.72           8.57 MB  ---   --   ---xx   flac  0.3404  ph1996-08-10d1t07.flac
+     5:06.10          51.50 MB  ---   --   ---xx   flac  0.4107  ph1996-08-10d1t08.flac
+     5:59.49          60.50 MB  ---   --   ---xx   flac  0.4342  ph1996-08-10d1t09.flac
+    12:26.25         125.55 MB  ---   --   ---xx   flac  0.4290  ph1996-08-10d1t10.flac
+     4:42.53          47.56 MB  ---   --   ---xx   flac  0.4748  ph1996-08-10d1t11.flac
+     5:06.66          51.63 MB  ---   --   ---xx   flac  0.4418  ph1996-08-10d2t01.flac
+    13:23.08         135.11 MB  ---   --   ---xx   flac  0.4557  ph1996-08-10d2t02.flac
+    12:49.06         129.38 MB  ---   --   ---xx   flac  0.3939  ph1996-08-10d2t03.flac
+     7:51.29          79.30 MB  ---   --   ---xx   flac  0.4632  ph1996-08-10d2t04.flac
+    14:39.24         147.93 MB  ---   --   ---xx   flac  0.4244  ph1996-08-10d2t05.flac
+     3:05.47          31.23 MB  ---   --   ---xx   flac  0.4182  ph1996-08-10d2t06.flac
+     4:43.71          47.77 MB  ---   --   ---xx   flac  0.4530  ph1996-08-10d2t07.flac
+     2:58.19          29.99 MB  ---   --   ---xx   flac  0.3820  ph1996-08-10d2t08.flac
+    15:23.62         155.41 MB  ---   --   ---xx   flac  0.3832  ph1996-08-10d3t01.flac
+     4:39.08          46.95 MB  ---   --   ---xx   flac  0.4304  ph1996-08-10d3t02.flac
+     1:46.58          17.96 MB  ---   --   ---xx   flac  0.4079  ph1996-08-10d3t03.flac
+     6:11.36          62.49 MB  ---   --   ---xx   flac  0.3884  ph1996-08-10d3t04.flac
+     5:48.57          58.67 MB  ---   --   ---xx   flac  0.4675  ph1996-08-10d3t05.flac
+   171:05.41        1726.95 MB                           0.4248  (24 files)

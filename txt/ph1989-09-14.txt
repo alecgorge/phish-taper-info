@@ -1,0 +1,59 @@
+Phish
+09-14-1989
+MacPhie Pub, Medford, MA
+
+
+Source: Unknown > Cass/x
+
+Transfer: CDR > EAC > FLAC
+
+The sound on this isn't great, basically for historic purposes until hopefully a better source surfaces.
+
+
+Disc One:
+
+ Set I:
+01. Oh Kee Pa >			1:32
+02. Suzy			5:26
+03. YEM				15:52
+04. Foam			8:31
+05. Col Forbin >		5:58
+06. Mocking Bird		6:18
+07. La Grange			4:43
+08. Fee				5:36
+09. Bowie			13:56
+
+M:\>shntool len c:\shows\ph1989-09-14.flac\*.wav
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     1:32.13       16259420 B   ---   --   -----    wav  1.0000  c:\shows\ph1989
+-09-14.flac\ph89-09-14d1t01.wav
+     5:26.52       57628748 B   ---   --   -----    wav  1.0000  c:\shows\ph1989
+-09-14.flac\ph89-09-14d1t02.wav
+    15:52.53      168057500 B   ---   --   -----    wav  1.0000  c:\shows\ph1989
+-09-14.flac\ph89-09-14d1t03.wav
+     8:31.15       90175724 B   ---   --   -----    wav  1.0000  c:\shows\ph1989
+-09-14.flac\ph89-09-14d1t04.wav
+     5:58.62       63297068 B   ---   --   -----    wav  1.0000  c:\shows\ph1989
+-09-14.flac\ph89-09-14d1t05.wav
+     6:18.26       66740396 B   ---   --   -----    wav  1.0000  c:\shows\ph1989
+-09-14.flac\ph89-09-14d1t06.wav
+     4:43.53       50045900 B   ---   --   -----    wav  1.0000  c:\shows\ph1989
+-09-14.flac\ph89-09-14d1t07.wav
+     5:36.20       59317484 B   ---   --   -----    wav  1.0000  c:\shows\ph1989
+-09-14.flac\ph89-09-14d1t08.wav
+    13:56.16      147508076 B   ---   --   -----    wav  1.0000  c:\shows\ph1989
+-09-14.flac\ph89-09-14d1t09.wav
+    67:56.10      719030316 B                            1.0000  (9 files)
+
+
+
+ffp:
+ph89-09-14d1t09.flac:5173b3ed1856e70dcdb38013c301e29d
+ph89-09-14d1t01.flac:9154668234d086ffd691c3425c465a89
+ph89-09-14d1t02.flac:c10602bfb20ed780c28868b4ef258be6
+ph89-09-14d1t03.flac:8b91b92d19a2bde3add833929e1af1c4
+ph89-09-14d1t04.flac:7e72e4403b12804020900c1bfd903ded
+ph89-09-14d1t05.flac:30a1e807034ba2d7f7f5ab935c4c18cd
+ph89-09-14d1t06.flac:8312504ad6aef9cbed9c01198f4b3a0a
+ph89-09-14d1t07.flac:3434a10a0c366158d745c73726c0480d
+ph89-09-14d1t08.flac:c706923beb3d9677d4f47ef3c751e3c1

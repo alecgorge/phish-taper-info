@@ -1,0 +1,87 @@
+Phish
+January 3, 2003
+Hampton Coliseum
+Hampton, Virginia
+
+source:
+(FOB) Schoeps mk4v > kc5 > cmc6 > Apogee AD-1000 > Sony D100 (@ 44.1 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > WaveLab 5.01b (fades) > CD Wave v1.95.1 > FLAC v1.1.4 (Level 8)
+
+FLAC tags added with metaflac.exe
+
+recorded by Dave Flaschner and Gary Fox
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded May 12, 2007
+
+notes:
+Big thanks to Dave for letting me borrow the master DATs!
+This was recorded FOB on a stand, the same stand as Mikey K.'s mk21 source.
+
+Disc 1 - [74:35]
+Set I
+01 - [13:52] - Tweezer ->
+02 - [10:13] - Theme From the Bottom
+03 - [11:29] - Foam
+04 - [15:15] - Pebbles and Marbles *
+05 - [01:07] - You Enjoy Myself (false start)
+06 - [22:39] - You Enjoy Myself
+
+Disc 2 - [54:36]
+Set II
+01 - [10:14] - Birds of a Feather
+02 - [14:53] - Wolfman's Brother
+03 - [07:21] - Makisupa Policeman
+04 - [03:33] - Axilla
+05 - [09:49] - Twist ->
+06 - [08:46] - Free
+
+Disc 3 - [32:23]
+Set II continued
+01 - [04:24] - All of These Dreams **
+02 - [11:53] - Possum ***
+03 - [03:54] - encore break
+04 - [08:27] - Contact
+05 - [03:46] - Tweezer Reprise
+
+* first time played
+** concert debut (only previously played on Letterman)
+*** toward the end, Trey hands his guitar to Page, Mike hands his bass to Trey, Mike picks up the "B" and "AH" cymbals (traditionally used during "Crackin' Rosie"), and the song ends
+
+patch notes:
+some minor digi-noise on Dave's DATs during the beginning of Tweezer, at the following locations:
+
+[00:09] to [00:12]
+[00:21] to [00:25]
+[00:41] to [00:43]
+[00:48] to [00:51]
+[01:00] to [01:03]
+
+these spots were fixed (patched) with the following source:
+Schoeps cmc6/mk21's > Mini Me > Sony TCD-D-8
+ORTF@48K on mini bogen @ 6.5 ft, DFC 15th row
+Taper: Mikey K
+
+
+
+
+    length     expanded size   cdr  WAVE problems filename
+    13:51.72      146757788    ---   --   ---xx   ph2003-01-03d1t01.flac
+    10:12.50      108074444    ---   --   ---xx   ph2003-01-03d1t02.flac
+    11:28.74      121537292    ---   --   ---xx   ph2003-01-03d1t03.flac
+    15:15.26      161467196    ---   --   ---xx   ph2003-01-03d1t04.flac
+     1:06.45       11748284    ---   --   ---xx   ph2003-01-03d1t05.flac
+    22:39.33      239805260    ---   --   ---xx   ph2003-01-03d1t06.flac
+    10:13.46      108241436    ---   --   ---xx   ph2003-01-03d2t01.flac
+    14:52.65      157501724    ---   --   ---xx   ph2003-01-03d2t02.flac
+     7:21.14       77825372    ---   --   ---xx   ph2003-01-03d2t03.flac
+     3:33.28       37639100    ---   --   ---xx   ph2003-01-03d2t04.flac
+     9:48.58      103859660    ---   --   ---xx   ph2003-01-03d2t05.flac
+     8:46.05       92798204    ---   --   ---xx   ph2003-01-03d2t06.flac
+     4:23.65       46546124    ---   --   ---xx   ph2003-01-03d3t01.flac
+    11:52.39      125688572    ---   --   ---xx   ph2003-01-03d3t02.flac
+     3:53.74       41275292    ---   --   ---xx   ph2003-01-03d3t03.flac
+     8:27.18       89477180    ---   --   ---xx   ph2003-01-03d3t04.flac
+     3:45.38       39779420    ---   --   ---xx   ph2003-01-03d3t05.flac
+   161:34.00     1710022348 B                     (totals for 17 files, 0.5568 overall compression ratio)

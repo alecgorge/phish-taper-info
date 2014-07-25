@@ -1,0 +1,50 @@
+Phish
+08/04/2013
+San Francisco, California Bill Graham Civic Auditorium
+
+Source: Schoeps mk4v> KC5> M222> NT222> EAA PSP-2> SD 744t (@24bit/96kHz)
+Location: FOB/DFC
+
+Transfer: SDHC Card> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: Team Whiskers (08/05/2013)
+
+
+Set I
+t01 [00:35] Intro
+t02 [04:07] Crowd Control>
+t03 [16:20] The Divided Sky>
+t04 [04:22] Wilson>
+t05 [08:15] Foam
+t06 [05:36] Halley's Comet>
+t07 [05:31] My Soul
+t08 [08:01] Ya Mar
+t09 [04:25] Army of One
+t10 [08:28] Taste
+t11 [04:15] Gumbo>
+t12 [04:38] Train Song
+t13 [09:27] Pebbles and Marbles
+
+Set II
+t14 [00:38] Intro
+t15 [10:41] Energy>
+t16 [16:25] Runaway Jim>
+t17 [07:05] Carini>
+t18 [07:41] The Wedge
+t19 [13:44] Light>
+t20 [10:36] David Bowie
+t21 [04:42] Silent in the Morning>
+t22 [05:40] Meatstick>
+t23 [04:47] The Mighty Quinn (Quinn The Eskimo)
+t24 [17:47] You Enjoy Myself
+t25 [02:37] crowd
+
+Encore
+t26 [05:55] Sanity
+t27 [05:35] Bold as Love
+
+
+Notes:
+Train Song, last played 08/13/2010 (120 shows)
+Sanity, last played 06/29/2013 (45 shows)
+Bold as Love, last played 06/20/2012 (50 shows)
+Set I [1:24:06] Set II [1:42:29] Encore [11:31]

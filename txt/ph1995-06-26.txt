@@ -1,0 +1,63 @@
+Phish
+1995-06-26
+Saratoga Performing Arts Center - Saratoga Springs, NY
+
+Source:  B&K 4011s>Neumann P/s>D-10 Pro-II
+Unknown Taper
+Transfer: Tascam DA20mkII>VXPocket V2>WaveLab 4.0>wav>CDWave>wav>FLAC
+Transferer:  Phil Lucks (lucksp@comcastDOTnet)
+
+Set 1
+Disk 1:						66:47
+1:  My Friend My Friend				07:05
+2:  Don't You Wanna Go				06:49
+3:  Bathtub Gin					08:31
+4:  NICU>					05:41
+5:  The Sloth					03:53
+6:  My Minds Got a Mind of its Own		02:29
+7:  It's Ice					08:33
+8:  Dog Faced Boy				02:36
+9:  Tela					06:53
+10: Possum					14:11
+
+Set 2
+Disk 2:						79:38
+1:  Down With Disease>				23:46
+2:  Free					16:15
+3:  Poor Heart					02:41
+4:  YEM						22:03
+5:  Strange Design				02:48
+6:  Antelope					12:02
+
+
+Disk 3: (will fit onto end of disk 1)		09:21
+1:  crowd					00:50
+2:  E:  Sleeping Monkey>			05:53
+3:  Rocky Top					02:37
+
+Notes:
+-Resampled from 48kHz to 44.1kHz
+-Fades added to beginning and end of sets
+-Disk 3 will fit onto end of disk 1
+-Performed Global Analysis at threshold of 90, to check for any errors
+
+FLAC Fingerprint:
+ph1995-06-26.4011.d1t01.flac:385bf84ca4036f0ae987f4b292885110
+ph1995-06-26.4011.d1t02.flac:6d2d91196b093e9f00fb98b154b0d49a
+ph1995-06-26.4011.d1t03.flac:1be23f548576ec05adb534af43246ea9
+ph1995-06-26.4011.d1t04.flac:630b569f5a52832ec5614f7ea38f623d
+ph1995-06-26.4011.d1t05.flac:d1885b1a7668df159076e0e0ae548e14
+ph1995-06-26.4011.d1t06.flac:3c0c1d4fe1e6e68d51b6a9f20b15b120
+ph1995-06-26.4011.d1t07.flac:a83d75c92c4f959375634b1a1607a340
+ph1995-06-26.4011.d1t08.flac:92b96648bc47f8cd3cf463163944b79f
+ph1995-06-26.4011.d1t09.flac:748ff9cf75dbc04eae1e7ce77e105226
+ph1995-06-26.4011.d1t10.flac:67a1c644bb66e5f2bd3a66ec1d3b72fd
+ph1995-06-26.4011.d2t01.flac:2fbdbde53ca58de8b48e15f0d2fc698e
+ph1995-06-26.4011.d2t02.flac:05c3cce2d7139eea0a5efafa4c8a623b
+ph1995-06-26.4011.d2t03.flac:bfd29a1fb630cc5b91076f6a6222303b
+ph1995-06-26.4011.d2t04.flac:e43f25a4740aac2b860268047e66d472
+ph1995-06-26.4011.d2t05.flac:7e70795549f0ab4f3e70e158451761e0
+ph1995-06-26.4011.d2t06.flac:ee3e299e797e440c8be05153769164c2
+ph1995-06-26.4011.d3t01.flac:3b07f720ff0323f4109b5d30cf840e83
+ph1995-06-26.4011.d3t02.flac:b5e6350d5ec3586cd783e107737fde51
+ph1995-06-26.4011.d3t03.flac:55c198f463c4ec1f067e5ac6f744a72d

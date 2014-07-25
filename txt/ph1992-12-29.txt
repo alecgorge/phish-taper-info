@@ -1,0 +1,58 @@
+Phish
+12-29-1992
+Palace Theater
+New Haven, CT
+
+Source: SBD > DAT > Cass/x
+Transfer: Sony TC-KA3ES > Lucid AD 9624 A/D > SLOTH
+
+Patch Source: Schoeps MK4/CMC5-> Sonosax SX-M2-> Sony D10 FOB 10th row dfc on stand
+
+Thanks to Phil Valle for the SBD tapes used for the transfer.
+
+-DISC 1-
+Set 1:
+01. Funky Bitch
+02. Runaway Jim
+03. Guelah Papyrus
+04. Llama
+05. My Friend My Friend
+06. The Divided Sky
+07. Wilson
+08. Uncle Pen
+09. Stash
+
+-DISC 2-
+01. Tela >
+02. Oh Kee Pa Ceremony->
+03. Suzy Greenberg
+Set 2:
+04. The Curtain >
+05. Tweezer
+06. The Horse->
+07. Silent in the Morning
+08. My Sweet One->
+09. Big Ball Jam
+10. Fast Enough for You
+11. All Things Reconsidered 
+
+-DISC 3-
+01. Mike's Song->*
+02. I Am Hydrogen-> 
+03. Weekapaug Groove
+04. HYHU->
+05. Terrapin->
+06. HYHU
+07. The Squirming Coil
+08. Tweezer Reprise
+Encore:
+09. Big Ball Jam (a cappella), Carolina*
+10. Rocky Top 
+
+* These tracks had to be patched with the FOB source due to a tape flip in Mike's song, and the Carolina being absent from the SBD.
+
+-Mastering-
+24/48 Waves > Montage to reconstruct sets and apply the patches > Waves 10band EQ (-6db @ 101Hz/Q=7) > BBE 0/3.5/0 > Waves RBass (+3db @ 35Hz) > Waves C4 (Multi Opto Mastering/Auto Release/Hard Knee) > Waves X-Noise (Attack=1000/Release=200/High Shelf @ 4000Hz -2db/High Resolution/50% Reduction @ 0.0 Threshold) > L1+ > 192kHz Stereo Resampler to 44.1kHz > Apogee UV22HR (Normal/Autoblack/16bit final resolution)
+
+Transfered, mastered, and FLAC'd by Marmar 11/2004- imthemarmar@gmail.com
+Seeded by the SHNfamily

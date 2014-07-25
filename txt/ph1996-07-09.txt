@@ -1,0 +1,41 @@
+Phish, 07-09-96 Centre International de Deauville
+Deauville, France
+
+Source: FOB Schoeps MK4V (ORTF, 8' stand, row H, center) --> KC5 --> CMC6
+Sonosax SX-M2 --> Tascam DA-P1 @ 48K
+
+Tranfer: Sony PCM-2600 (One off master) > Dio MAudio 2448 > Cool Edit Pro 2
+(add fades, resample, 999 setting) > CD WAV > .shn via MKW .97 by Bill Gardner
+bgard@speakeasy.net
+
+**ALL**
+T01: Theme From the Bottom
+T02: Poor Heart
+T03: Taste
+T04: Cars Trucks Buses
+T05: Mike's Song
+T06: Bouncing Around the Room
+T07: Character Zero
+
+Opened for Santana
+levels are a bit hot for the beginning of theme but quickly straighten out
+___________________________________________________________________________
+
+*Dankseed Certification received 2002-09-05*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph1996-07-09/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+Passes SHNTool- OK
+
+negative criteria met:
+DAE- NO
+Unecessary resampling- NO
+Diginoise- NO
+___________________________________________________________________________
+
+
+The files are now at 44.1 KHZ, sorry 'bout the mess up.  -BG 08-21-02

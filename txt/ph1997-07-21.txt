@@ -1,0 +1,39 @@
+Phish 97-07-21
+Virginia Beach Ampitheatre, Virginia Beach, VA
+
+Schoeps CMC641 -> Sonosax -> SBM1 -> D8
+Transfer
+D8 (48kHz) -> Montego II (resampling) -> Sound Forge -> CDWAV
+
+Provided by Eric Angel <ejangel@ucdavis.edu>
+
+1: 
+Ghost, 
+Dogs Stole Things, 
+Piper, 
+Dirt, 
+Ginseng Sullivan, 
+Bathtub Gin*, 
+Character Zero 
+
+2: 
+Wolfman's Brother-> 
+Magilla, 
+David Bowie^, 
+Wading in the Velvet Sea, 
+Theme From the Bottom#+ 
+Funky Bitch#, 
+Slave to the Traffic Light 
+
+E: Loving Cup 
+
+*At the end, Trey welcomes the beginning of the U.S. Summer Tour after time
+spent in Europe, mockingly chanting "USA! USA! USA!" He then introduced the
+new songs to the American crowd.
+
+^With "Birdland" (Weather Report) tease during high-hat intro.
+
+#With Leroi Moore of Dave Matthews Band on sax.
+
++With Multi-Instrument Jam (Leroi with 2 saxes, Trey with 3 guitars and Fish's cymbals (running around like a madman on stage), and Mike with 2 basses. Meanwhile Fish was playing with multiple (somewhere between 6 and 8) drum
+sticks while Page was laying on his keyboards trying to play as many as he could and banging on them like a madman.).

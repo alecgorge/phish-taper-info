@@ -1,0 +1,58 @@
+Phish
+    10-29-94
+    Memorial Auditorium, Spartanburg, SC 
+    --------------------------------------------------------------------------------------------
+    This show is included in the 1994 Phish Project.
+    http://people.atl.mediaone.net/danmarq/1994_phish_project.html
+    ----------------
+
+    Source:         SBD>C0>DAT (Unknown DAT generations)
+
+    Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                    Soundforge 5.0b (48KHz->44.1KHz at highest setting [4 of 4],
+                    with anti-alias filter)-> CD Wave 1.61-> mkwACT v0.97
+                    **No DAE at all**
+
+    Minor Edits:    Fixed cassette flips, as well as the start/end of set.
+    ----------------
+    Transferred by Dan Marquardt <danmarq@msn.com>, please contact me with questions/comments.
+    There are also 48KHz shn's of this seed for archival.
+    --------------------------------------------------------------------------------------------
+
+    CD/Set 1:                       64:03
+    01. My Friend My Friend         07:31
+    02. Sparkle >                   03:41
+    03. Simple >                    05:37
+    04. Runaway Jim                 09:14
+    05. Foam                        10:02
+    06. Lawn Boy%                   02:43
+    07. Split Open and Melt->       09:53
+    08. Buffalo Bill->              03:04
+    09. Makisupa Policeman->        06:29
+    10. Rift                        05:48
+
+    ----------------------------------------
+
+    CD 2/Set 2a:                    54:55
+    01. Down With Disease->         11:24
+    02. TMWSIY->                    04:00
+    03. Avenu Malkenu->             03:12
+    04. TMWSIY->                    01:37
+    05. Sparks                      04:21
+    06. Uncle Pen                   04:01
+    07. You Enjoy Myself%           18:44
+    08. HYHU->                      00:59
+    09. Bike-> HYHU                 06:33
+
+    CD 3/Set 2b:                    35:32
+    01. Run Like an Antelope->      07:50
+    02. Sleeping Monkey->           05:30
+    03. Run Like an Antelope        05:27
+    04. Crowd Noise                 02:00
+
+    Encore:
+    05. Harry Hood                  14:43
+
+    --------------------------------------------------------------------------------------------
+
+    % Cassette flip.

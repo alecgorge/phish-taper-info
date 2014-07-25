@@ -1,0 +1,41 @@
+PHISH
+
+October 30, 1991
+Boulder Theater, 
+Boulder, CO
+
+Source:  FOB Aud Analog Cass, 2nd gen
+
+Transfer:  Cass > HHB > CDR > Flac
+
+Disc One
+Set Two
+
+01. ... Tube (fade in) >
+02. Divided Sky
+03. Antelope
+04. Lawn Boy >
+05. Wilson
+
+Encore:
+
+06. Crowd Noise
+07. Jam, with Fish on guitar.
+08. HYHU, with Fish on guitar.
+09. Fire
+
+Thanks to Trip Miller, you can now hear a part of a show that does not appear to have ever circulated until now. Check this out, as you'll hear some excellent early Phish, as well as some amusing banter (jokes from Fish and Page) during the encore. A guy from the audience even gets onstage while Fish is still on guitar, before HYHU starts, and takes the mic to say "...Let's let the women have front stage." 
+
+According to Trip, a friend of his recorded parts of this show on a handheld tape recorder, and he got a "mix" of tracks from this show from him on a cassette. The cassette has the encores at the beginning of side A, and Lawn Boy and Wilson beginning side B (with Grateful Dead filler on side B, naturally), and there are also several fade ins/outs and cuts. Trip has no idea why this material was edited in the way that it was.
+
+This is a good recording from a handheld tape recorder. I have heard much, much worse. There is a fade-in into the jam segment of Tube, and there is also a boomy-but-brief level jump about 15 seconds before the end of Tube that I tried to alleviate; you can hear Horn get faded out just after Divided; there is a fade into Antelope; there's the tiniest of cuts in the segue from Lawn Boy to Wilson; the levels are usually, though not always, consistent; and there's probably another flaw I'm failing to note.
+
+ph1991.10.30d1t01.flac:00042698f7f4e83f4165071e3c779543
+ph1991.10.30d1t02.flac:06168334319f21cee42b05bb3ae43f2e
+ph1991.10.30d1t03.flac:60936ed884c030ab916af675d42812a1
+ph1991.10.30d1t04.flac:097eb0a7ffb2405df60c11b19f37b0fd
+ph1991.10.30d1t05.flac:2806ce50e6907a6a7d5fb3cb827d1b90
+ph1991.10.30d1t06.flac:217e7cf194b21ce5b8e2ac1ab6416898
+ph1991.10.30d1t07.flac:a97184c0f08ae99bec0d8ab717d9fa4f
+ph1991.10.30d1t08.flac:1b2dc967df0dbded1e8b731f491eebd2
+ph1991.10.30d1t09.flac:354a004af17d8685f9098c4090f04d27

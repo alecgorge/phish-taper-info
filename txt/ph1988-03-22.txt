@@ -1,0 +1,42 @@
+Phish
+Nectar's
+Burlington, vT
+March 22nd, 1988
+
+-Source is a TDK SA90 Analog Cassette of unknown origins.
+-Source lineage unknown
+-Date currently unverifiable
+-A>D via Nakamichi Dragon>Korg MR1000>Korg Audio Gate>WAV @ 24/96
+-96khz > 44khz sample rate conversion via iZotope SRC 64 bit SRC 
+-24bit > 16bit bit depth conversion via iZotope MBIT+ Dither 
+-Tracking performed in Adobe Audition 3.0
+-FLAC conversion via Trader's Little Helper
+-Thanks to Tim Lanigan for the source tape.
+
+
+1. Harpua [10:48]
+2. Wilson > [4:32]
+3. Peaches En Regalia [3:30]
+4. Funky Bitch [5:29]
+5. Golgi Apparatus [5:01]
+6. Suzy Greenberg [5:33]
+7. You Enjoy Myself // [12:20]
+8. The Lizards [10:36]
+9. Good Times, Bad Times [6:31]
+10. Happy Birthday Banter [1:36]
+11. Colonel FOrbin's Ascent > [0:44]
+12. Icculus > [2:23]
+13. Colonel Forbin's Ascent > [5:50]
+14. Fly Famous Mockingbird > [8:20]
+15. AC/DC Bag // [6:16]
+
+Total Time [1:29:29]
+
+Known Flaws:
+
+Tape flip at the end of YEM and tape end during AC/DC Bag
+
+
+Show Notes:
+
+During Harpua, Trey announces the band and that "This is Nectar's!".

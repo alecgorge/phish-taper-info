@@ -1,0 +1,48 @@
+Phish
+07.06.2000
+Toronto, Ontario, Canada Molson Amphitheatre
+----------------------------------------------------------------------------------------------------------
+Source: Schoeps CMC641> Sonosax SX-M2> Apogee AD-1000> Tascam DA-P1 16/44.1 [Split 30' - OTS]
+
+Transfer: Master DAT> Tascam DA-40> Canare Coax> M/Audio 2496> Samplitude Studio 6.0> flac frontend 1.7.1
+
+Circa: 06.06.2005
+Taped, Transferred, Edited, Seeded by TaylorC, taylorc@phoam.org, www.phoam.org
+----------------------------------------------------------------------------------------------------------
+Disc 1 [61:36]
+Set I
+01. [20:04] Reba
+02. [04:29] Dogs Stole Things >
+03. [13:12] Taste
+04. [03:11] Dog Faced Boy
+05. [05:31] Heavy Things
+06. [12:37] The Moma Dance
+07. [08:32] First Tube
+
+Disc 2 [77:38]
+Set I continued
+01. [05:12] I Didn't Know
+02. [03:13] The Inlaw Josie Wales
+03. [09:34] Prince Caspian >
+04. [04:43] Golgi Apparatus
+05. [20:45] You Enjoy Myself
+Set II
+06. [13:19] Limb by Limb >
+07. [10:52] Also Sprach Zarathustra >
+
+Disc 2 [62:19]
+Set II continued
+01. [11:16] Bug >
+02. [15:41] Piper
+03. [03:34] Driver
+04. [12:29] Harry Hood >
+05. [10:17] Loving Cup
+Encore
+06. [09:02] The Squirming Coil
+
+Show Notes: For his vacuum solo in I Didn't Know, Trey introduced Fishman as 
+"Mr. Ralph Blowenstein." Limb by Limb was unfinished. Trey made several comments 
+during the show regarding his affinity for the venue. Hood included a small vocal 
+jam during the intro. 
+
+Edit: Fades at start/end of Set I, start of Set II, & after Encore.  Normalized +1.194 dB

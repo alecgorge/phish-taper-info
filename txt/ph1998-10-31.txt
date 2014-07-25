@@ -1,0 +1,114 @@
+Phish
+October 31, 1998
+The Thomas and Mack Center
+Las Vegas, NV
+
+source:
+Schoeps mk4 > kc5 > cmc5 > Sonosax SX-M2 > Sony D100 (@ 48 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > r8brain v1.9 (resample to 44.1 kHz) > WaveLab 5.01b (fades, patches) > CD Wave v1.96.1 > FLAC v1.2.1 (Level 8)
+
+FLAC tags added with metaflac v1.2.1
+
+recorded by Eliot Byron
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded March 14, 2008
+
+notes:
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+Big thanks to Eliot for letting me borrow the master DATs!
+
+Disc 1 - [78:48]
+Set I
+01 - [00:58] - intro
+02 - [03:22] - Axilla
+03 - [09:14] - Punch You in the Eye
+04 - [08:48] - Roggae
+05 - [07:11] - Birds of a Feather
+06 - [10:59] - Sneakin' Sally Through the Alley ->
+07 - [08:31] - Chalk Dust Torture
+08 - [03:07] - Lawn Boy
+09 - [08:56] - Mike's Song ->
+10 - [05:45] - Frankie Says >
+11 - [11:58] - Weekapaug Groove
+
+Disc 2 - [76:34]
+Set II
+01 - [03:35] - Who Loves the Sun
+02 - [08:12] - Sweet Jane
+03 - [13:51] - Rock and Roll
+04 - [07:11] - Cool it Down
+05 - [08:38] - New Age
+06 - [04:17] - Head Held High
+07 - [10:06] - Lonesome Cowboy Bill
+08 - [04:43] - I Found a Reason
+09 - [06:57] - Train Round the Bend
+10 - [09:04] - Oh! Sweet Nuthin'
+
+Disc 3 - [67:03]
+Set III
+01 - [30:21] - Wolfman's Brother ->
+02 - [13:13] - Piper
+03 - [08:11] - Ghost
+04 - [03:16] - encore break
+05 - [05:50] - Sleeping Monkey
+06 - [03:24] - Tweezer Reprise
+07 - [02:47] - outro
+
+patch notes:
+There was a few bad digi-noise spots on Eliot's recording.
+I patched these spots with the following source:
+
+Schoeps CMC6/MK41 -> Sonosax SX-M2 -> Apogee AD-1000 @ 44.1 khz
+Taped by Rob Clay
+http://db.etree.org/shn/784
+
+The mk41 patch source was used at the following spots:
+
+Chalk Dust Torture
+[00:06] to [00:28]
+[01:01] to [01:17]
+[01:50] to [05:36]
+
+Who Loves the Sun
+[02:08] to [02:29]
+[02:42] to [02:56]
+
+Rock and Roll
+[00:01] to [00:07]
+
+---------------------------------------------------------------------------------------------------
+
+SHNtool len mode output:
+
+    length     expanded size   cdr  WAVE problems filename
+     0:57.53       10179500    ---   --   ---xx   ph1998-10-31d1t01.flac
+     3:21.59       35595212    ---   --   ---xx   ph1998-10-31d1t02.flac
+     9:13.16       97586876    ---   --   ---xx   ph1998-10-31d1t03.flac
+     8:47.63       93111020    ---   --   ---xx   ph1998-10-31d1t04.flac
+     7:11.33       76106060    ---   --   ---xx   ph1998-10-31d1t05.flac
+    10:59.05      116259404    ---   --   ---xx   ph1998-10-31d1t06.flac
+     8:30.39       90055772    ---   --   ---xx   ph1998-10-31d1t07.flac
+     3:06.41       32906876    ---   --   ---xx   ph1998-10-31d1t08.flac
+     8:56.13       94581020    ---   --   ---xx   ph1998-10-31d1t09.flac
+     5:45.29       60926252    ---   --   ---xx   ph1998-10-31d1t10.flac
+    11:58.24      126711692    ---   --   ---xx   ph1998-10-31d1t11.flac
+     3:35.00       37926044    ---   --   ---xx   ph1998-10-31d2t01.flac
+     8:12.28       86854700    ---   --   ---xx   ph1998-10-31d2t02.flac
+    13:50.59      146550812    ---   --   ---xx   ph1998-10-31d2t03.flac
+     7:10.59       75990812    ---   --   ---xx   ph1998-10-31d2t04.flac
+     8:38.26       91436396    ---   --   ---xx   ph1998-10-31d2t05.flac
+     4:17.20       45381884    ---   --   ---xx   ph1998-10-31d2t06.flac
+    10:05.54      106849052    ---   --   ---xx   ph1998-10-31d2t07.flac
+     4:42.61       49888316    ---   --   ---xx   ph1998-10-31d2t08.flac
+     6:57.15       73594124    ---   --   ---xx   ph1998-10-31d2t09.flac
+     9:03.53       95909900    ---   --   ---xx   ph1998-10-31d2t10.flac
+    30:21.37      321311468    ---   --   ---xx   ph1998-10-31d3t01.flac
+    13:13.16      139922876    ---   --   ---xx   ph1998-10-31d3t02.flac
+     8:10.56       86567756    ---   --   ---xx   ph1998-10-31d3t03.flac
+     3:15.70       34562684    ---   --   ---xx   ph1998-10-31d3t04.flac
+     5:50.10       61763564    ---   --   ---xx   ph1998-10-31d3t05.flac
+     3:24.36       36070316    ---   --   ---xx   ph1998-10-31d3t06.flac
+     2:47.00       29458844    ---   --   ---xx   ph1998-10-31d3t07.flac
+   222:25.00     2354059232 B                     (totals for 28 files, 0.5127 overall compression ratio)

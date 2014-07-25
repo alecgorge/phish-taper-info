@@ -1,0 +1,71 @@
+Phish 11/24/98
+New Haven Coliseum
+New Haven, CT
+
+Source: Schoeps CMC6/MK41 > Apogee AD1000 > Sony TCD-D8
+Transfer: Tascam DA-20 MKII > M-Audiophile USB > CDWave version 1.94.5 > FLAC (Level 6)
+
+Source DATs provided by Peter Arcoma 
+Transfer by: Peter Grow (growpe1@hotmail.com)
+
+Disc 1 (Set I)
+
+01. Down with Disease*
+02. The Moma Dance
+03. Ginseng Sullivan
+04. Stash
+05. Brian And Robert
+06. Limb By Limb
+07. Sample In A Jar
+08. Tela
+09. Chalk Dust Torture
+
+Disc 2 (Set 2)
+ 
+01. Ghost >
+02. Halley's Comet 
+03. Tweezer >
+04. Possum** 
+05. Wading In The Velvet Sea
+06. Character Zero 
+
+Disc 3 (Encores)
+
+01. Encore Break
+02. Suzie Greenberg^ 
+03. Tweezer Reprise^ 
+
+*  w/ Stash tease in Intro
+** w/ Psycho Killer teases
+^  w/ Dude of Life on vocals
+
+
+Transfer notes: I included an edited version of the encore break which is much shorter. 
+You can fit set II and the encore on one disc but it will require an overburn. The timing
+of this edited disc comes in at 81:12.   
+
+Notes heard on the tape: New Haven, and today is what? November 24th? 641's. AD1000. 
+Canare "owns your ass" cables; none of those magic cables, none of that snake oil.
+
+
+FLAC Fingerprints:
+
+ph1998-11-24d3t01.flac:ab162783bf86a87b637ba96c4d19acf0
+ph1998-11-24d3t02.flac:dc97170394ed5ccab511d66c752ab52d
+ph1998-11-24d3t03.flac:24843ca2a74e8312e9d96ac37f67a7b7
+ph1998-11-24d1t01.flac:b8f07fef978500225ee0845d06491982
+ph1998-11-24d1t02.flac:58c9f591e8dfc44e361758fe0b457cad
+ph1998-11-24d1t03.flac:9b75503e5c3efc33707969a4c40f6ffc
+ph1998-11-24d1t04.flac:057aed0a6afeba358854b4c38f9a5b2a
+ph1998-11-24d1t05.flac:79945484157f619911c955efd118b83b
+ph1998-11-24d1t06.flac:aeac94f36bdda466f52dcf24833b2c13
+ph1998-11-24d1t07.flac:2f49b4cac6e45316feb73c7c3126cd6a
+ph1998-11-24d1t08.flac:690267c2bee5674d8c5193787f2d3e6e
+ph1998-11-24d1t09.flac:b341777e85bac8b2cece62aeb4f87218
+ph1998-11-24d2t01.flac:f1015bf26ed913c1600704c02e74cd91
+ph1998-11-24d2t02.flac:c53f866b86241346042394e07eab2929
+ph1998-11-24d2t03.flac:d7e79eba17678b02130894ec36176736
+ph1998-11-24d2t04.flac:924a033560d0dee1f448cca6bce876d8
+ph1998-11-24d2t05.flac:112e50d8ee1984b73851fdb44ab364a3
+ph1998-11-24d2t06.flac:d63e8fe1aa9b4047920f0e85dd8d88a8
+ph1998-11-24d3t01.edited.flac:1fb019b9f6ec27b2700e1f16585d014c 

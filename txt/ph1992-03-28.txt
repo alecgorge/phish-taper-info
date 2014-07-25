@@ -1,0 +1,48 @@
+Phish
+
+March 28, 1992
+Variety Playhouse
+Atlanta, GA
+
+01. Runaway Jim
+02. Foam
+03. Sparkle
+04. Stash
+05. Rift
+06. Bouncing Around the Room
+07. The Landlady >
+08. David Bowie > Lullaby of Birdland > David Bowie >
+09. secret language instructions >
+10. David Bowie
+11. Glide
+12. Cavern
+-------------------------------------------------------------------------------------
+source:   AKG-460B/CK8 (FOB)> DAT (clone from master) > CD-R (standalone master)
+transfer: CD > AquaCDBurn (paranoid libraries on) > shntool > FLAC (xACT)
+              - taped by Chig Martin (Home Team) -
+              - transfered and seeded by JTL (Home Team) -
+-------------------------------------------------------------------------------------
+notes:
+- recorded & transfered @ 16/48 and converted to 16/44
+- minor level tweeks during t01 (on DAT)
+- show was stopped early due to a sewage pipe breaking and filling the floor and first few rows with
+   a fecal stew. In fear of being electrocuted Phish performed 4 songs a cappella and said "goodnight"
+- small 2nd set (4 songs a cappella) was not recorded due to being way to close to the poopy water!
+- t08 and t09 not listed on phish.net and is rare.
+-------------------------------------------------------------------------------------
+shntool output:
+    length     expanded size   cdr  WAVE problems filename
+     7:23.25       78204044    ---   --   ---xx   phish1992-03-28t01.flac
+     8:10.57       86570108    ---   --   ---xx   phish1992-03-28t02.flac
+     4:15.03       44989100    ---   --   ---xx   phish1992-03-28t03.flac
+     8:30.46       90072236    ---   --   ---xx   phish1992-03-28t04.flac
+     8:05.04       85563452    ---   --   ---xx   phish1992-03-28t05.flac
+     3:53.25       41160044    ---   --   ---xx   phish1992-03-28t06.flac
+     3:37.39       38370572    ---   --   ---xx   phish1992-03-28t07.flac
+     2:40.40       28318124    ---   --   ---xx   phish1992-03-28t08.flac
+     6:00.60       63645164    ---   --   ---xx   phish1992-03-28t09.flac
+    10:08.67      107408828    ---   --   ---xx   phish1992-03-28t10.flac
+     4:02.18       42731180    ---   --   ---xx   phish1992-03-28t11.flac
+     4:42.32       49820108    ---   --   ---xx   phish1992-03-28t12.flac
+    71:30.41      756852960 B     (totals for 12 files, 0.6325 overall compression ratio)
+-------------------------------------------------------------------------------------

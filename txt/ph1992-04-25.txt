@@ -1,0 +1,52 @@
+Phish 
+4/25/92
+The Rec Center 
+Evergreen College
+Olympia, WA
+
+Source: SBD> Cass/x (first set recorded 9/2/93, second set 11/14/93 - same source, I'd guess 4th gen)
+
+Transfer: Dennon DRW-840> Sony PCM-r500 at 44.1> Audiophile 2496> WAV> CD Wave Editor to track> FLAC on 10/4/04 by EEE
+Mastering, re-tracking, FLAC16 by Marmar- imthemarmar@gmail.com
+
+Disc 1 
+-Set 1- 
+t01 - Tuning - Suzy Greenberg@
+t02 - My Friend My Friend
+t03 - Paul and Silas
+t04 - Reba
+t05 - Brother
+t06 - Tela
+t07 - Chalk\Dust\Torture#
+t08 - Bouncing Around the Room
+t09 - Rift
+t10 - Magilla
+t11 - Run Like an Antelope*
+
+Disc 2
+-Set 2- 
+t01 - Tuning - Maze^ >
+t02 - Bathtub Gin
+t03 - You Enjoy Myself+
+t04 - Horse->
+t05 - Silent in the Morning
+t06 - All Things Reconsidered
+t07 - Dinner and a Movie
+t08 - Harry Hood
+t09 - Weigh 
+
+Disc 3 
+t01 - Cold as Ice-> 
+t02 - Terrapin-> Cold as Ice
+t03 - Poor Heart 
+
+@Levels (on analog tape) start hot and first 5 seconds distorted badly
+#tape flip is the first cut, second cut was an 11 second mystery gap five seconds after the music started on Side B
+*Langauge (3 "aw fuck" signals)
+^Evil Ways (Santana) jam
++Sprockets and Chariots Of Fire theme in vocal jam
+
+There is some distortion at points in this tape. I noticed it the most in Reba and Harry. Not sure what the cause of it is. The same distortion is on the analog tapes, which are peaking at +3, so your guess is as good as mine.
+
+**Mastering**
+The show was running slow/flat. This was corrected in Wavelab by shrinking the file to 94.5% of its original size. The sets were then re-tracked, and FLAC'd.

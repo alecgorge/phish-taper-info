@@ -1,0 +1,43 @@
+Phish
+June 10, 1995
+Red Rocks Amphitheatre  
+Morrison CO  
+
+Field: Microtech Gefell M270 (spread 8') > Oade M148 > Oade mod Panasonic SV-250   
+
+Transfer: Panasonic SV-3800 > DAW (via SEKD card) > DSP* > CD (mkw) > HD > mkwACT0.97b (SHN) 
+
+
+Disk One (69:47)
+Set I
+
+1.  Intro 
+2.  Makisupa Policeman > 
+3.  Llama
+4.  Prince Caspian 
+5.  It's Ice 
+6.  Free 
+7.  Rift 
+8.  You Enjoy Myself >
+9.  Lonesome Cowboy Bill > HYHU 
+10. Suzie Greenberg 
+
+
+Disk Two (69:56) 
+Set II 
+
+1.  Maze 
+2.  Fee 
+3.  Uncle Pen 
+4.  Mike's Song > I am Hydrogen > Weekapaug Groove 
+5.  Amazing Grace 
+6.  Sample in a Jar 
+
+7e. A Day in the Life** 
+
+Notes:
+*  Doug Oade performed DSP on the transferred wav files using Waves REQ and RCL plug ins. IDR used for 32 > 16bit conversions of DAW files.
+
+** First time played. 
+
+Tracking and verification done by dwonk. First BT hosting by macdaddy 10/25/2003. 

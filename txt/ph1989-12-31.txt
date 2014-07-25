@@ -1,0 +1,122 @@
+PHISH - December 31st, 1989
+World Trade Center Exhibition Hall
+Boston, Massachusetts
+
+Recording:
+FOB Aud -> Tascam PE-120 mics -> Sony WMD-6C (Maxell XL-IIs 90's)
+
+Transfer:
+Nak CR-3A -> Audigy 2 -> Cool Edit Pro 2 -> 44.1k -> TLH -> Flac16
+
+Taped, transfered and remastered by Tim Leavy
+footbear@msn.com
+July 18th, 2008
+
+Notes:
+-- This is a great sounding front-of-board recording, everything is clear and the bass is nice and punchy.
+-- Disc 1 sounds fantastic; smooth & clean. 
+-- Disc 2 needed some help. Tracks d2t01 -> d2t07 (side A of the master tape) tend to "breath" a bit.
+   I cleaned them up the best I could and now they sound pretty good. 
+-- Complete show; no cuts in songs.
+
+
+DISC ONE
+Set 1:
+d1t01 - I Didn't Know
+d1t02 - You Enjoy Myself
+d1t03 - Oh Kee Pa Ceremony>
+d1t04 - AC/DC Bag
+d1t05 - Count Down > Auld Lang Syne
+d1t06 - Run Like an Antelope
+d1t07 - Bathtub Gin
+d1t08 - Lizards
+d1t09 - No Smoking Announcement
+d1t10 - Satin Doll
+d1t11 - Highway to Hell
+
+DISC TWO
+Set 2:
+d2t01 - Mike's Song>
+d2t02 - I Am Hydrogen>
+d2t03 - Weekapaug Groove
+d2t04 - Ya Mar
+d2t05 - Split Open and Melt
+d2t06 - Fee
+d2t07 - Divided Sky
+d2t08 - Golgi Apparatus
+
+Encore:
+d2t09 - Contact
+
+
+SHNTOOL OUTPUT:
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     4:28.38       47364620 B   ---   --   -----    wav  1.0000  ph1989-12-31d1t01.wav
+    16:33.54      175292252 B   ---   --   -----    wav  1.0000  ph1989-12-31d1t02.wav
+     1:47.32       18950108 B   ---   --   -----    wav  1.0000  ph1989-12-31d1t03.wav
+     5:58.12       63179468 B   ---   --   -----    wav  1.0000  ph1989-12-31d1t04.wav
+     1:54.40       20203724 B   ---   --   -----    wav  1.0000  ph1989-12-31d1t05.wav
+     9:56.26      105195596 B   ---   --   -----    wav  1.0000  ph1989-12-31d1t06.wav
+     5:55.65       62774924 B   ---   --   -----    wav  1.0000  ph1989-12-31d1t07.wav
+    10:17.17      108878828 B   ---   --   -----    wav  1.0000  ph1989-12-31d1t08.wav
+     1:47.57       19008908 B   ---   --   -----    wav  1.0000  ph1989-12-31d1t09.wav
+     3:03.40       32375324 B   ---   --   -----    wav  1.0000  ph1989-12-31d1t10.wav
+     3:37.06       38292956 B   ---   --   -----    wav  1.0000  ph1989-12-31d1t11.wav
+     5:30.40       58306124 B   ---   --   -----    wav  1.0000  ph1989-12-31d2t01.wav
+     2:23.50       25342844 B   ---   --   -----    wav  1.0000  ph1989-12-31d2t02.wav
+     6:05.18       64428380 B   ---   --   -----    wav  1.0000  ph1989-12-31d2t03.wav
+     6:46.43       71719580 B   ---   --   -----    wav  1.0000  ph1989-12-31d2t04.wav
+     7:13.54       76508252 B   ---   --   -----    wav  1.0000  ph1989-12-31d2t05.wav
+     5:26.47       57616988 B   ---   --   -----    wav  1.0000  ph1989-12-31d2t06.wav
+    11:37.61      123094316 B   ---   --   -----    wav  1.0000  ph1989-12-31d2t07.wav
+     5:35.28       59159900 B   ---   --   -----    wav  1.0000  ph1989-12-31d2t08.wav
+     8:20.04       88209452 B   ---   --   -----    wav  1.0000  ph1989-12-31d2t09.wav
+   124:19.57     1315902544 B                            1.0000  (20 files)
+
+
+ffp:
+ph1989-12-31d1t01.flac:c0ed4fb82a41561db024bcb71df5d4ef
+ph1989-12-31d1t02.flac:e10f08670ec635f86181d43fc82f1ee7
+ph1989-12-31d1t03.flac:6678a573c04270809d988cce25c104fb
+ph1989-12-31d1t04.flac:394be46327ceac047f662925e69bb34d
+ph1989-12-31d1t05.flac:260b30766be8c04f8eb8fc63422f0f92
+ph1989-12-31d1t06.flac:615c5cb4d7b82973175e8673c2f218a6
+ph1989-12-31d1t07.flac:6087c8bb97a01de2cb9c5a8168e00c2e
+ph1989-12-31d1t08.flac:00853fe79bef98a835fb70145a9a0e24
+ph1989-12-31d1t09.flac:c4bfe892878395582bbe4ce224772334
+ph1989-12-31d1t10.flac:48047b4ef0d74c125731621027c245e0
+ph1989-12-31d1t11.flac:7fc4ff78feedbf6fceeee2d2ab9b9e34
+ph1989-12-31d2t01.flac:c50389f5d3d5f277d12edf6e1dac3e1c
+ph1989-12-31d2t02.flac:a61669b2eb4e9257148510db68c9f0d7
+ph1989-12-31d2t03.flac:4c8fbb2c6ec3674b9fc772020f35cac2
+ph1989-12-31d2t04.flac:317798f6519e5b967ef510ad0a44cf30
+ph1989-12-31d2t05.flac:ab8d64a44e96212fe271c6addadc68d3
+ph1989-12-31d2t06.flac:1d324799f5d6b1a7f5ec774ca28ffcd9
+ph1989-12-31d2t07.flac:373bac5d414aa945c5fb19fb9cd604a9
+ph1989-12-31d2t08.flac:dffbfca78d08af454bf828a31212a52f
+ph1989-12-31d2t09.flac:e1516afe683914d2e211e65a25cda4df
+
+
+MD-5 Checksums:
+480ed7a257ecf24362c0c1b90a1d6983 *ph1989-12-31d1t01.flac
+0607d2a84a753dab4a34df805b1b5b16 *ph1989-12-31d1t02.flac
+52132f968852eafb0e75a1f322dc6830 *ph1989-12-31d1t03.flac
+4e56ca2d1da9605b9fb4c404a79439c7 *ph1989-12-31d1t04.flac
+5160311b06227f1e730b60704054317c *ph1989-12-31d1t05.flac
+868f0bc5e3e3ac002beffbd4f5f2f3ba *ph1989-12-31d1t06.flac
+481c8e6de664506f90e808eb21e6b569 *ph1989-12-31d1t07.flac
+c2faf2a7356205115ddd2690895b71e9 *ph1989-12-31d1t08.flac
+57d9e017d84881f405f2218cfe4e82fa *ph1989-12-31d1t09.flac
+3e130775b6c918fefa1a72e4f776c520 *ph1989-12-31d1t10.flac
+735377fad4d86b5446631ba4c0601306 *ph1989-12-31d1t11.flac
+5aeb096866efc4ebdc310a6dc827a8e3 *ph1989-12-31d2t01.flac
+50777307053568435e4f556d1349a0d0 *ph1989-12-31d2t02.flac
+c736101f2f420cdc1200497902c803a8 *ph1989-12-31d2t03.flac
+19817d932e85c36293dae09fc4c75934 *ph1989-12-31d2t04.flac
+9f18124e8959edc67815538fcdb3135d *ph1989-12-31d2t05.flac
+35843922ec9af068138b83068ac8d811 *ph1989-12-31d2t06.flac
+01f3b94a99e14031f9f571d892988d14 *ph1989-12-31d2t07.flac
+34cb9fc3647a8cd3e1480c3babc0abe7 *ph1989-12-31d2t08.flac
+f76f85a013adbc2bab4e0f15649567cc *ph1989-12-31d2t09.flac
+
+

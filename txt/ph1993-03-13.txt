@@ -1,0 +1,85 @@
+Phish 3/13/93 
+Balch Fieldhouse, University of Colorado
+Boulder, CO 
+
+Source: Aud(unknown mics)>DAT>Cass/3 (recorded 4/15/93)
+
+Transfer: Dennon DRW-840> Sony PCM-r500 at 44.1> Audiophile 2496> CD Wave Editor> FLAC on 10/21/04 by EEE
+
+Disc 1 / Set 1: 70min
+t01 - Crowd
+t02 - The Landlady*
+t03 - Funky Bitch*
+t04 - Bouncing Around the Room
+t05 - Maze
+t06 - Fee
+t07 - All Things Reconsidered
+t08 - Split Open and Melt^
+t09 - Contact
+t10 - Llama
+t11 - Wilson+
+t12 - Run Like an Antelope+
+
+Disc 2 / Set II: 72min
+t01 - Suzy Greenberg
+t02 - Tweezer
+t03 - Lizards
+t04 - It's Ice
+t05 - Glide
+t06 - Uncle Pen
+t07 - Big Ball Jam
+t08 - Mike's Song-> 
+t09 - I Am Hydrogen-> 
+t10 - Weekapaug\Groove$
+t11 - Fast Enough for You
+
+Disc 3 / Set II cont: 25min
+t01 - HYHU-> Love You-> HYHU
+t02 - Tweezer Reprise 
+Encore: 
+t03 - Crowd
+t04 - My Sweet One
+t05 - Amazing Grace
+t06 - Big Black Furry Creature From Mars 
+* recorded a little hotter then rest of show
+^ Dropout at 1:11 of SOAM (on analog tape, sounds like mic issue)
++ Language - Simpsons, Antelope is subtle and partial (at 2:25)
+- Tape flip in Weekapaug, tracks joined with Cool Edit Pro
+$ with "My Girl" theme (2:17-4:45 especially)
+
+SHNTOOL Output
+
+    length     expanded size   cdr  WAVE problems filename
+     0:44.69        7923932    ---   --   -----   ph1993--03-13d1t01.wav
+     3:32.51       37516796    ---   --   -----   ph1993--03-13d1t02.wav
+     4:22.00       46216844    ---   --   -----   ph1993--03-13d1t03.wav
+     3:37.45       38384684    ---   --   -----   ph1993--03-13d1t04.wav
+     9:34.44      101357132    ---   --   -----   ph1993--03-13d1t05.wav
+     5:16.11       55768316    ---   --   -----   ph1993--03-13d1t06.wav
+     2:48.33       29712860    ---   --   -----   ph1993--03-13d1t07.wav
+     9:16.66       98233676    ---   --   -----   ph1993--03-13d1t08.wav
+     6:21.40       67302524    ---   --   -----   ph1993--03-13d1t09.wav
+     5:00.55       53049404    ---   --   -----   ph1993--03-13d1t10.wav
+     7:48.36       82639916    ---   --   -----   ph1993--03-13d1t11.wav
+    11:43.19      124053932    ---   --   -----   ph1993--03-13d1t12.wav
+     5:58.17       63191228    ---   --   -----   ph1993--03-13d2t01.wav
+    11:22.51      120424796    ---   --   -----   ph1993--03-13d2t02.wav
+     9:34.05      101265404    ---   --   -----   ph1993--03-13d2t03.wav
+     7:48.49       82670492    ---   --   -----   ph1993--03-13d2t04.wav
+     4:46.50       50568044    ---   --   -----   ph1993--03-13d2t05.wav
+     3:56.21       41679836    ---   --   -----   ph1993--03-13d2t06.wav
+     2:54.22       30745388    ---   --   -----   ph1993--03-13d2t07.wav
+     7:56.31       84039356    ---   --   -----   ph1993--03-13d2t08.wav
+     2:50.37       30075068    ---   --   -----   ph1993--03-13d2t09.wav
+    10:04.05      106557404    ---   --   -----   ph1993--03-13d2t10.wav
+     5:20.60       56589164    ---   --   -----   ph1993--03-13d2t11.wav
+     9:20.44       98887532    ---   --   -----   ph1993--03-13d3t01.wav
+     2:23.66       25380476    ---   --   -----   ph1993--03-13d3t02.wav
+     0:15.25        2704844    ---   --   -----   ph1993--03-13d3t03.wav
+     4:11.35       44358764    ---   --   -----   ph1993--03-13d3t04.wav
+     1:53.29       20001452    ---   --   -----   ph1993--03-13d3t05.wav
+     6:43.25       71148044    ---   --   -----   ph1993--03-13d3t06.wav
+   167:27.66     1772447308 B                     (totals for 29 files, 1.0000 o
+verall compression ratio)
+
+

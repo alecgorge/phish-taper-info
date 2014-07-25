@@ -1,0 +1,68 @@
+Phish
+7/1/99
+First American Music Center
+Antioch, TN
+
+Source: Neumann U89i (hypercard)>Apogee AD1000>DA-P1
+Transfer: Fostex D5 > m-audio DiO 2496 > CD Wave > Adobe Audition>CDWave (tracking)> FLAC 
+
+Thanks to Kevin Davis for transferring my DATs!
+
+
+Disc One:
+-Set 1-
+1. Punch You In The Eye
+2. Billy Breathes
+3. Guyute
+4. Wolfman's Brother*
+5. Beauty of My Dreams**
+6. Doin' My Time**
+7. Roggae**
+8. Water In The Sky**
+9. Back On The Train**
+
+Disc Two:
+-Set 1 cont.-
+1. Poor Heart**
+Set 2
+2. Down With Disease >
+3. Prince Caspian >
+4. You Enjoy Myself
+5. E:Character Zero
+
+* Jerry Douglas on Dobro
+** w/ Jerry Douglas on Dobro
+   Tim O'Brien on Fiddle
+   Ronnie McCoury on Mandolin
+Gary Gazaway (El Buho) sat in on Trumpet for Poor Heart
+
+Show Notes: Wolfman's featured Jerry Douglas on dobro; Beauty of My Dreams through Back on the Train 
+featured Jerry Douglas on dobro, Ronnie McCoury on mandolin and Tim O'Brien on fiddle. Poor Heart saw 
+Gary Gazaway, on trumpet, join the other three guests on stage. Doin' My Time also featured O'Brien on 
+lead vocals. The song was last performed when O'Brien joined the band onstage at Red Rocks on 
+August 7, 1996. The second set may have been cut short by a huge thunderstorm that worsened during YEM.  
+
+
+Set 2 was apparently cut short because of the pouring rain.  
+
+Enjoy!
+
+Blane
+
+
+
+FINGERPRINT
+ph1999-07-01d1t01.flac:b0cc005fbe4658d798e875b454112440
+ph1999-07-01d1t02.flac:6fd2c0b4f21ba787b4b0a4a591741059
+ph1999-07-01d1t03.flac:5ed8139c019e97f0f8388ae1f41bb708
+ph1999-07-01d1t04.flac:8c2980a5e70030add002fbe8d6cb7503
+ph1999-07-01d1t05.flac:126474bce9aae407be7c0ef14b764380
+ph1999-07-01d1t06.flac:3db8bc03af41c7cf43da2fbed4f6b4ae
+ph1999-07-01d1t07.flac:135d8653e284cee22d626735b950ca0a
+ph1999-07-01d1t08.flac:90c5d7197e51ea29f7915741732299da
+ph1999-07-01d1t09.flac:4d6e3579f0e5757f7f770fcaa8f24155
+ph1999-07-01d2t01.flac:ea029503e3f1fd9ecb16a4bd829fcb17
+ph1999-07-01d2t02.flac:997410ca1b6da37f3d523a6b42b00ec9
+ph1999-07-01d2t03.flac:d7ab10b609d484d63f5a859333cd718a
+ph1999-07-01d2t04.flac:7a684c8d21f37276e741b9db491c3b0b
+ph1999-07-01d2t05.flac:4a9fa4f416ea1b03139c1377437c0d7c

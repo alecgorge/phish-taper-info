@@ -1,0 +1,42 @@
+Phish
+8/22/12
+Starlight Theatre
+Kansas City Missouri
+
+Field: AKG C414xls Hypercardioid > Edirol R4Pro ( Oade preamp mod ) @ 24/88.2
+config: pointed at PA array, Plaza 1 row JJ seat 10 - dead center, 12.5 feet high
+
+Path: R4Pro > WaveBurner ( track on sector boundaries, fades, SRC, BDC ) > xACT ( to flac, and for tagging and checksums )
+
+Recorded, processed and let loose by Mike Kutik ( padelimike at mac d0t c0m )
+At bt.etree.org 2012-08-23
+
+
+Set the First:
+01 crowd in
+02 Chalk Dust Torture
+03 Skin It Back
+04 The Moma Dance>
+05 Rift>
+06 Bathtub Gin
+07 Stash
+08 The Ballad Of Curtis Loew
+09 Kill Devil Falls
+10 Funky Bitch
+11 Run Like An Antelope
+
+Set the Second:
+01 crowd in
+02 Tweezer>
+03 Piper>
+04 Mike's Song>
+05 Bouncing Around The Room>
+06 Backwards Down The Number Line>
+07 Heavy Things
+08 If I Could
+09 Weekapaug Groove
+10 Harry Hood>
+11 Suzy Greenberg
+12 encore break
+13 Loving Cup>
+14 Tweezer Reprise

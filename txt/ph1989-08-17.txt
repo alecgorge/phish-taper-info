@@ -1,0 +1,93 @@
+Phish
+The Front
+Burlington VT
+8/17/89
+
+Source: SBD > Cass/3 > CDR
+Transfer: CDR > EAC > Audacity 1.2.4 > CDWAV > FLAC16
+
+Transfer by: Taperwayne (taperwayne@yahoo.com)
+
+
+Disc 1
+
+ *Set I*
+
+01. Ya Mar
+02. Suzy Greenberg
+03. McGrupp and the Watchful Hosemasters
+04. The Sloth
+05. Rocky Top *
+06. Harry Hood
+07. //Mikes Song >
+08. I Am Hydrogen >
+09. Weekapaug Groove
+
+Disc 2
+
+ *Set II*
+
+01. Walk Away
+02. AC/DC Bag
+03. The Mango Song
+04. Fee
+05. You Enjoy Myself
+06. The Lizards
+
+Disc 3
+
+ *Set III*
+
+01. Oh Kee Pah Ceremony **
+02. Bold As Love
+03. Punch You In The Eye **
+04. Possum//
+05. Halley's Comet > ***
+06. Alumni Blues >
+07. Letter To Jimmy Page >
+08. Alumni Blues
+09. Contact
+10. Run Like An Antelope
+Encore:
+11. Golgi Apparatus
+12. Fire
+
+*   dedicated to Steve and Beth Drebber who had just gotten married (see 8/12/89)
+**  earliest known versions - possibly debuts. (PYITE in this format)
+*** With Nancy Taube (Richard Wright) on vocals, during which he announces it's the last time he was
+    ever gonna sing it. (wasn't played again until 3/14/93)
+
+Notes: The Companion notes Golgi and Fire as encores, however there is no pause after Antelope
+       Tape flip right before Mike's Song - the first few seconds clipped
+       Tape flip at the end Possum, last few notes missing..used a crossfade.
+       There are a few other glitches here and there, but overall, very good sounding for
+       1989, with minimal tape hiss. 
+
+
+cd1b7a1050c3205efbc32f035754c97e *ph1989-08-17d1t01.flac
+53a9015872c2f497dab7424a2118f14e *ph1989-08-17d1t02.flac
+4760e90fde5fe87fa0ec0c7c30c9761d *ph1989-08-17d1t03.flac
+e9ed6e04e1f61a0a07feabf3f7e061ca *ph1989-08-17d1t04.flac
+f1cd3f0a7d7a2a943fb6a0c50f49d044 *ph1989-08-17d1t05.flac
+946e606e5903658c8faf18b638ca880f *ph1989-08-17d1t06.flac
+d83c6994f19ef750fffaa206b673fc25 *ph1989-08-17d1t07.flac
+1b7e781f9779f45044032fd80a818f32 *ph1989-08-17d1t08.flac
+0c49fafbbdcbc75f9ab2437aaf45b878 *ph1989-08-17d1t09.flac
+60245430f0cfe63355b4ab5f5d5b5783 *ph1989-08-17d2t01.flac
+2227d8eba56f5eac4f00d48d2619ddfe *ph1989-08-17d2t02.flac
+4b67cbead1d04a23b36c709cae5580df *ph1989-08-17d2t03.flac
+00e9d568ae6a6dd45c45324f7902a733 *ph1989-08-17d2t04.flac
+86e926af9dd152d5bef62daf401abafd *ph1989-08-17d2t05.flac
+5b4f16d369f74fc21007798b87abc08e *ph1989-08-17d2t06.flac
+07bf7cbce457ff89699cbe2b136c6920 *ph1989-08-17d3t01.flac
+070687ae1c789d467a6c244ee079f744 *ph1989-08-17d3t02.flac
+51fb7be0b3e03d70691b4e78a1543565 *ph1989-08-17d3t03.flac
+3bb0a33d32cc0c563b098918e2d9b457 *ph1989-08-17d3t04.flac
+061f27c7f64313ee9e9afa096f67afdd *ph1989-08-17d3t05.flac
+7a3a2caf159594fbb3c840384c5c8bb9 *ph1989-08-17d3t06.flac
+234a906bd3eb6a532dbd10c1011cfc70 *ph1989-08-17d3t07.flac
+df8c56b3f83b1875018680df1a8e964d *ph1989-08-17d3t08.flac
+603c30d838a3c8d0076877ae39d206fb *ph1989-08-17d3t09.flac
+da6ed41b7c18f4825139c0e46e853da5 *ph1989-08-17d3t10.flac
+5ac8e4a03694cad9d9cd8516770112b6 *ph1989-08-17d3t11.flac
+61bdb48241e77117b28440cd0940d157 *ph1989-08-17d3t12.flac

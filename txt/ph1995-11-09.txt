@@ -1,0 +1,56 @@
+phish
+the fox theatre
+atlanta, ga
+1995-11-09
+
+set 1 (~70 min.)
+
+disc 1
+01-Tweezer Reprise, 
+02-Divided Sky, 
+03-Prince Caspian, 
+04-Punch You in the Eye, 
+05-Simple > 
+06-Reba, 
+07-Tela > 
+08-Sample in a Jar
+
+set 2 (80 min.)
+
+disc 2
+01-audience chess move, 
+02-Theme from the Bottom-> 
+03-Julius, 
+04-The Lizards 
+05-Bathtub Gin-> 
+06-T.M.W.S.I.Y.-> Avenu Malkenu-> T.M.W.S.I.Y. 
+07-Life on Mars, 
+08-Hello Ma Baby, 
+09-The Squirming Coil, 
+10-E: Loving Cup
+
+source: akg460b/ck61>b18>denon dtr80p, by chad clark
+transfer: DATmaster>cd(1)>eac>cdwave>flac, by john m 2007-08-31
+
+notes:  set 1 is incredible, every song played is one of the best versions ever imho.  simple has a very cool jam, as
+does bathtub gin in set 2.  the recording is top notch also.  fades applied at end of set 2 and before and after encore to 
+fit on 80 min. media.  thank you chad!
+
+phish1995-11-09d1t01.flac:dc01c7a87b9cb01f9d909d3231c1cb4b
+phish1995-11-09d1t02.flac:7dab70a8346d7e1e4ecb3eb95d8e1ef2
+phish1995-11-09d1t03.flac:d357c5f670b06b7712cbd202833d3ade
+phish1995-11-09d1t04.flac:db4fe5fd183c458fa4b33c58223f5d7e
+phish1995-11-09d1t05.flac:b039a121369b16cda045511f4a44f792
+phish1995-11-09d1t06.flac:8a8a8607fdf1829a78d14d1c28d9ee23
+phish1995-11-09d1t07.flac:de59cb3dd0e05b0aa4523ed41e8c0f05
+phish1995-11-09d1t08.flac:7215fc77ce53d3224c69c9c253588241
+phish1995-11-09d2t01.flac:8ba17ea17af5e422230989dce62adfcb
+phish1995-11-09d2t02.flac:7d4e6ff8c9e713c5601839d475db5b4a
+phish1995-11-09d2t03.flac:63e17ea6f32ee19060d2a4e3ca017b0b
+phish1995-11-09d2t04.flac:ec72ad5436587cc533a0bc642a5d35de
+phish1995-11-09d2t05.flac:149d0673257eb37e0828785052668212
+phish1995-11-09d2t06.flac:623de47c62adc517f8780aced963f563
+phish1995-11-09d2t07.flac:c0dd2cc1ea48959666a2eb517a8ca618
+phish1995-11-09d2t08.flac:3756093597ed57b2887b605b43d829a9
+phish1995-11-09d2t09.flac:bba91b2794da335a5e1690cad3449d21
+phish1995-11-09d2t10.flac:c9ca53e7c5eb1b059694df39d2952722

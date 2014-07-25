@@ -1,0 +1,86 @@
+Phish
+November 18, 1996
+Mid-South Coliseum
+Memphis, TN
+
+source:
+AT 4051's (XY) > Stewart BPS-1 > AT 8202 (-20dB) > Sony D7 (@ 48 kHz)
+recorded from front row center of taper's section
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > r8brain v1.9 (resample to 44.1 kHz) > WaveLab 5.01b (fades) > CD Wave v1.95.1 > FLAC v1.1.4 (Level 8)
+
+FLAC tags added with metaflac v1.1.4
+
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded July 7, 2007
+
+notes:
+the 48kHz files from the DAT transfer have been archived, and are available upon request.
+Big thanks to Mark Lynn for letting me borrow his DATs!
+
+Disc 1 - [65:38]
+Set I
+01 - [04:23] - Cars Trucks Buses
+02 - [06:02] - Timber Ho
+03 - [02:22] - Poor Heart
+04 - [08:19] - Taste
+05 - [05:12] - Billy Breathes
+06 - [08:57] - Chalk Dust Torture
+07 - [06:01] - Guelah Papyrus
+08 - [03:23] - Ginseng Sullivan
+09 - [14:20] - Reba
+10 - [06:39] - Character Zero
+
+Disc 2 - [79:35]
+Set II
+01 - [12:05] - 2001 >
+02 - [16:49] - Simple ->
+03 - [01:11] - Swept Away >
+04 - [01:52] - Steep
+05 - [12:54] - Scent of a Mule
+06 - [12:41] - Tweezer *
+07 - [02:38] - Hello My Baby *
+08 - [02:57] - Tweezer Reprise *
+09 - [04:54] - Llama *
+10 - [01:30] - encore break
+11 - [05:35] - Waste
+12 - [04:30] - Johnny B. Goode *
+
+* with Gary Gazaway (aka "El Buho") on trumpet
+
+tech notes:
+40 seconds of crowd noise were removed from the middle of the "encore break" track.
+This was done to fit the entire second set onto one 80 minute audio CD.
+I crossfaded the two sides, so that it sounds smooth and seamless.
+No music or stage banter is missing.
+
+------------------------------------------------------------------------------------
+
+SHNtool output:
+
+    length     expanded size   cdr  WAVE problems filename
+     4:22.62       46362668    ---   --   ---xx   ph1996-11-18d1t01.flac
+     6:02.01       63859196    ---   --   ---xx   ph1996-11-18d1t02.flac
+     2:21.49       24987692    ---   --   ---xx   ph1996-11-18d1t03.flac
+     8:19.08       88042460    ---   --   ---xx   ph1996-11-18d1t04.flac
+     5:11.46       54968636    ---   --   ---xx   ph1996-11-18d1t05.flac
+     8:57.08       94745660    ---   --   ---xx   ph1996-11-18d1t06.flac
+     6:01.27       63743948    ---   --   ---xx   ph1996-11-18d1t07.flac
+     3:23.29       35877452    ---   --   ---xx   ph1996-11-18d1t08.flac
+    14:20.14      151736972    ---   --   ---xx   ph1996-11-18d1t09.flac
+     6:38.56       70338956    ---   --   ---xx   ph1996-11-18d1t10.flac
+    12:05.09      127911212    ---   --   ---xx   ph1996-11-18d2t01.flac
+    16:49.29      178055852    ---   --   ---xx   ph1996-11-18d2t02.flac
+     1:11.24       12580892    ---   --   ---xx   ph1996-11-18d2t03.flac
+     1:51.58       19716860    ---   --   ---xx   ph1996-11-18d2t04.flac
+    12:53.44      136460732    ---   --   ---xx   ph1996-11-18d2t05.flac
+    12:40.42      134162828    ---   --   ---xx   ph1996-11-18d2t06.flac
+     2:37.39       27786572    ---   --   ---xx   ph1996-11-18d2t07.flac
+     2:57.08       31241660    ---   --   ---xx   ph1996-11-18d2t08.flac
+     4:53.72       51854588    ---   --   ---xx   ph1996-11-18d2t09.flac
+     1:29.62       15845468    ---   --   ---xx   ph1996-11-18d2t10.flac
+     5:34.59       59056412    ---   --   ---xx   ph1996-11-18d2t11.flac
+     4:30.04       47637452    ---   --   ---xx   ph1996-11-18d2t12.flac
+   145:13.00     1536974168 B                     (totals for 22 files, 0.5044 overall compression ratio)
+

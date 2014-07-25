@@ -1,0 +1,28 @@
+Phish
+3/15/2010
+Rock N Roll Hall of Fame Genesis Induction Ceremony
+Waldorf Astoria
+New York, NY
+
+**16 bit**
+
+Source: FUSE Live Broadcast>DVR>Digital Coax>Sound Devices 722 (24/48)
+Transfer: 722>Firewire>Macbook>Sound Studio 3(fades, normalize peak, track, bit depth conversion, resample)>
+xACT 1.71(align on sector boundaries, encode, tag, fingerprint)>flac16
+Recorded from home & transferred by: Lenny Stubbe (lastubbe@gmail.com)
+
+(26:46)
+
+1. intro
+2. Watcher of the Skies
+3. Genesis audio montage
+4. Trey Anastasio induction speech
+5. Genesis acceptance speech
+6. No Reply At All
+
+Notes:
+- This is a Digital transfer of the Live Broadcast on the FUSE network recorded to DVR.
+
+Seeded to etree on: 
+
+4/5/2010

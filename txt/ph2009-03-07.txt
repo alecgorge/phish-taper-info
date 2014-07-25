@@ -1,0 +1,109 @@
+Phish - March 7, 2009 - Saturday
+Hampton Coliseum
+Hampton, Va
+
+Source: (FOB) Schoeps MK4->NBox->Edirol R-09 (24/48)->Soundforge 8.0 (Fades, Tracking, Resample and Dither)->FLAC  
+Recorded, Transferred and Seeded by Mike Watson
+Seeded on 7/26/2009    
+
+Set I. 
+
+Crowd/Tuning  
+Get Back on the Train
+Runaway Jim
+Brian & Robert
+Split open & Melt
+Heavy Things
+P.Y.I.T.E. 
+Gumbo  
+Reba
+Mexican Cousin 
+It's Ice  
+Haley's Comet
+Beauty of a Broken Heart 
+Guelah Papyrus 
+Lawn Boy
+Run Like An Antelope   
+
+Set II.
+
+Crowd/Tuning 
+Rock & Roll
+Limb X Limb
+Story Of The Ghost
+Piper
+Birds Of A Feather 
+Wolfman's Brother
+Prince Caspian  
+Mike's Song->
+I'm Hydrogen->
+Weekapaug Groove
+Character Zero 
+
+E. A Day In The Life 
+
+I was about 50' from the stage, DFC. I'd like to thank Nicky C. (schoepsnbox) for the rig loan.  
+
+ph2009-03-07.nbox.s1t01.flac:ffc4a45dcdc9b1a08a7068de1ed73de0
+ph2009-03-07.nbox.s1t02.flac:5976b8ab3cb8903c7b65028f597e5b00
+ph2009-03-07.nbox.s1t03.flac:c021f9d1b9bdbe24491827e2c20c0119
+ph2009-03-07.nbox.s1t04.flac:8d7e648981f7a2dbdb8de21e0334451d
+ph2009-03-07.nbox.s1t05.flac:a73e5803ec063c4939a0c5ae14e4ba98
+ph2009-03-07.nbox.s1t06.flac:84d48678f4955c0e93c214550a071bcc
+ph2009-03-07.nbox.s1t07.flac:293bf62c5b3da1219ffd73b1f95d9586
+ph2009-03-07.nbox.s1t08.flac:f5b2fc879e280c1f0e2b9b2c41faa81a
+ph2009-03-07.nbox.s1t09.flac:44495a23576d407fc03d8f4c48465ebf
+ph2009-03-07.nbox.s1t10.flac:8f87f8d133b7050514caaad543fa9108
+ph2009-03-07.nbox.s1t11.flac:745799e5d354e16b85e4c9555a890358
+ph2009-03-07.nbox.s1t12.flac:b7b8c857673026d84a85b4a4a221a8ac
+ph2009-03-07.nbox.s1t13.flac:1b0aa77cc1c43cc5ed4be8624371cb4f
+ph2009-03-07.nbox.s1t14.flac:e49247582e4e87ae006d5fe4fb4e24f7
+ph2009-03-07.nbox.s1t15.flac:5356a6bd1da26a8dacdcc79040915bff
+ph2009-03-07.nbox.s1t16.flac:6abf403be4c0d6abfb783ab15ca86d74
+ph2009-03-07.nbox.s2t01.flac:de1c9e478feabae8a251091c4fc76fb8
+ph2009-03-07.nbox.s2t02.flac:36f0c2b0df044ee35df0ac12fb717215
+ph2009-03-07.nbox.s2t03.flac:650a0828b195ba7b4f5b62e42c7da13e
+ph2009-03-07.nbox.s2t04.flac:704edbb6bd7ac7be3ee2e0b4f0a023ad
+ph2009-03-07.nbox.s2t05.flac:16fdd1efd137528fd9931d5a1a1f56ed
+ph2009-03-07.nbox.s2t06.flac:73e131bf6f59a4a816f8243bcd269e9d
+ph2009-03-07.nbox.s2t07.flac:430c5a78a1de32b7a6318e058d343bde
+ph2009-03-07.nbox.s2t08.flac:f55cb346aa28807b8556fedf189facef
+ph2009-03-07.nbox.s2t09.flac:3db5445b7f5d36c15d1c4206f152babe
+ph2009-03-07.nbox.s2t10.flac:567a7d17230c24a380d373552812045c
+ph2009-03-07.nbox.s2t11.flac:b76c5fd135c27f29eda090296638b49d
+ph2009-03-07.nbox.s2t12.flac:1e5b49a030e0d2f209d473ad49739a05
+ph2009-03-07.nbox.s2t13.flac:0dcd88c3b753f380a1da6f27ffeaccc6  
+
+7ce3e96630f7d56b561e1284d7c5452a *ph2009-03-07.nbox.s1t01.flac
+42f4f28f957ba7155d5052d01dc04244 *ph2009-03-07.nbox.s1t02.flac
+84a8988b1e04e37aeb9d1843aefea83f *ph2009-03-07.nbox.s1t03.flac
+cb8d05ac1c12362175015df4b614b466 *ph2009-03-07.nbox.s1t04.flac
+82c3416253e01a9fbbfc3f37ad1b275e *ph2009-03-07.nbox.s1t05.flac
+e7507dba3a12cabcc7be620815e19d99 *ph2009-03-07.nbox.s1t06.flac
+66ab73d5d693febb7161ad1f51ced9b3 *ph2009-03-07.nbox.s1t07.flac
+70f3931e1ebbe19cdf26f8270c200010 *ph2009-03-07.nbox.s1t08.flac
+8c30077496dc64ad16b686830599f665 *ph2009-03-07.nbox.s1t09.flac
+2b66f182fb00762f12bc304582689473 *ph2009-03-07.nbox.s1t10.flac
+80827d7af642ec0d5258dfcdee96390c *ph2009-03-07.nbox.s1t11.flac
+24de50713f88f0ccd2df26546f470662 *ph2009-03-07.nbox.s1t12.flac
+7b1c31df0fff7c10a3049786e82b9537 *ph2009-03-07.nbox.s1t13.flac
+9eeddcc649ea3b5d219c763a1bac3499 *ph2009-03-07.nbox.s1t14.flac
+a17f564d18526bc2e14155ae51fafc15 *ph2009-03-07.nbox.s1t15.flac
+de135ffccfefd06655e86f12e1135a9c *ph2009-03-07.nbox.s1t16.flac
+34a02c1f2e3d4ef8d447c691ddffe7c1 *ph2009-03-07.nbox.s2t01.flac
+54b8011e1086388f4a50a63172f57f20 *ph2009-03-07.nbox.s2t02.flac
+c7d7532f1f194c51ee2fed4f0accc717 *ph2009-03-07.nbox.s2t03.flac
+e3fbc51f39f948789200732dc87d590b *ph2009-03-07.nbox.s2t04.flac
+6e2d60f4dfc08f3768554ae90d6c95a4 *ph2009-03-07.nbox.s2t05.flac
+6c6a374014c97a9d33de3fe4cf6bb3a2 *ph2009-03-07.nbox.s2t06.flac
+15ce0c514ed1e08cf9d608fb013520fd *ph2009-03-07.nbox.s2t07.flac
+7b5872403653cbb9d9b3b37989d7719c *ph2009-03-07.nbox.s2t08.flac
+d58dc702fd171772ecd05f628b899426 *ph2009-03-07.nbox.s2t09.flac
+f33e443426339422969b5990e67e80cb *ph2009-03-07.nbox.s2t10.flac
+72920ef535c46b5c28db90607bbe2732 *ph2009-03-07.nbox.s2t11.flac
+dac79b85ce7a963af53a1a167ba8327e *ph2009-03-07.nbox.s2t12.flac
+51e699d429ee686f22f2acdbee59f9c7 *ph2009-03-07.nbox.s2t13.flac
+
+
+ 
+

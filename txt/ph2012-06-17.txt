@@ -1,0 +1,48 @@
+Phish
+06/17/2012
+Atlantic City, New Jersey  Bader Field
+
+Source: Schoeps m934c> M221B> PS> Aeta PSP-3> SD 722 (@24bit/96kHz)
+Location: FOB, DFC, DIN, 6' Stand, m934c/cardioid
+
+Transfer: SD 722> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (06/18/2012)
+
+
+Set I
+t01 [01:03] Intro
+t02 [06:21] Brother
+t03 [07:28] Runaway Jim
+t04 [04:47] Dogs Stole Things
+t05 [05:43] Boogie On Reggae Woman >
+t06 [05:04] NICU
+t07 [08:44] Foam >
+t08 [04:18] Wilson >
+t09 [06:53] Timber
+t10 [03:32] banter
+t11 [15:53] Fluffhead
+t12 [12:09] Walls of the Cave >
+t13 [06:54] Character Zero
+
+Set II
+t14 [00:42] Intro
+t15 [10:16] Drowned >
+t16 [08:19] Also Sprach Zarathustra >
+t17 [12:48] Reba
+t18 [05:11] Roses Are Free >
+t19 [09:22] Chalk Dust Torture >
+t20 [03:58] Prince Caspian >
+t21 [05:25] Silent in the Morning
+t22 [08:48] Bug >
+t23 [05:06] A Day in the Life >
+t24 [07:57] Down with Disease
+t25 [02:12] crowd
+
+Encore
+t26 [09:31] Gotta Jibboo >
+t27 [06:01] Quinn the Eskimo (The Mighty Quinn)
+
+
+Notes:
+Brother included annual Father's Day gag
+Set I [1:28:49] Set II [1:20:04] Encore [15:32]

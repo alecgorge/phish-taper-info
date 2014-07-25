@@ -1,0 +1,79 @@
+Phish
+August 12, 1996
+Deer Creek Amphitheater
+Noblesville, IN
+
+source:
+Microtech Gefell m300 > Sonosax SX-M2 > HHb PDR-1000 > Tascam DA-P1 (@ 48 kHz)
+recorded from the center of the front row of the taper's section, mics in an ORTF configuration
+
+transfer:
+Tascam DA-20mkII > Marantz PMD-661 > SDHC card > usb 2.0 > pc > r8brain v1.9 (resample to 44.1 kHz) > CD Wave v1.98 (track splits) > Samplitude SE v9.1.1 (fades) > FLAC v1.2.1 (Level 8)
+
+recorded by Marc Nutter
+patch-taper: Jacob Pyne
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded August 3, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+Big thanks to Lenny Stubbe for letting me borrow his DATs!
+The original 48 kHz files from the DAT transfer have been archived and are available upon request.
+
+Disc 1 - [69:08]
+Set I
+01 - [09:30] - Ya Mar
+02 - [12:41] - Split Open and Melt
+03 - [09:17] - Esther
+04 - [06:47] - Chalk Dust Torture
+05 - [05:02] - Weigh
+06 - [09:52] - It's Ice
+07 - [02:15] - Dog Faced Boy
+08 - [05:39] - Taste
+09 - [01:46] - The Oh Kee Pa Ceremony >
+10 - [06:19] - Suzy Greenberg
+
+Disc 2 - [75:59]
+Set II
+01 - [08:07] - Timber Ho
+02 - [03:36] - Sparkle
+03 - [08:38] - Simple
+04 - [05:20] - Prince Caspian ->
+05 - [09:16] - McGrupp and the Watchful Hosemasters
+06 - [13:59] - Run Like an Antelope
+07 - [01:40] - Hello My Baby
+08 - [04:37] - Golgi Apparatus
+09 - [14:09] - Possum
+10 - [01:32] - encore break
+11 - [05:04] - Sample in a Jar
+
+Show Notes: Possum included All Fall Down and Simpsons Signals. Weigh was played for 
+the first time since October 22, 1995 (66 shows).
+
+------------------------------------------------------------------------------------
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     9:29.65          95.87 MB  ---   --   ---xx   flac  0.5136  ph1996-08-12d1t01.flac
+    12:40.46         127.96 MB  ---   --   ---xx   flac  0.5440  ph1996-08-12d1t02.flac
+     9:16.59          93.67 MB  ---   --   ---xx   flac  0.4908  ph1996-08-12d1t03.flac
+     6:47.10          68.49 MB  ---   --   ---xx   flac  0.5511  ph1996-08-12d1t04.flac
+     5:01.66          50.78 MB  ---   --   ---xx   flac  0.4999  ph1996-08-12d1t05.flac
+     9:51.42          99.52 MB  ---   --   ---xx   flac  0.5130  ph1996-08-12d1t06.flac
+     2:14.73          22.71 MB  ---   --   ---xx   flac  0.4162  ph1996-08-12d1t07.flac
+     5:39.28          57.09 MB  ---   --   ---xx   flac  0.5234  ph1996-08-12d1t08.flac
+     1:46.27          17.89 MB  ---   --   ---xx   flac  0.4571  ph1996-08-12d1t09.flac
+     6:19.34          63.83 MB  ---   --   ---xx   flac  0.5416  ph1996-08-12d1t10.flac
+     8:07.37          82.01 MB  ---   --   ---xx   flac  0.5191  ph1996-08-12d2t01.flac
+     3:36.20          36.38 MB  ---   --   ---xx   flac  0.5513  ph1996-08-12d2t02.flac
+     8:38.37          87.23 MB  ---   --   ---xx   flac  0.5271  ph1996-08-12d2t03.flac
+     5:19.65          53.81 MB  ---   --   ---xx   flac  0.5124  ph1996-08-12d2t04.flac
+     9:15.58          93.50 MB  ---   --   ---xx   flac  0.4615  ph1996-08-12d2t05.flac
+    13:59.15         141.18 MB  ---   --   ---xx   flac  0.5371  ph1996-08-12d2t06.flac
+     1:39.46          16.76 MB  ---   --   ---xx   flac  0.4198  ph1996-08-12d2t07.flac
+     4:36.57          46.56 MB  ---   --   ---xx   flac  0.5246  ph1996-08-12d2t08.flac
+    14:09.13         142.85 MB  ---   --   ---xx   flac  0.4981  ph1996-08-12d2t09.flac
+     1:32.07          15.49 MB  ---   --   ---xx   flac  0.4640  ph1996-08-12d2t10.flac
+     5:04.20          51.19 MB  ---   --   ---xx   flac  0.5625  ph1996-08-12d2t11.flac
+   145:07.00        1464.76 MB                           0.5153  (21 files)

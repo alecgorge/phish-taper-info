@@ -1,0 +1,58 @@
+Phish
+April 22, 1991
+Billings Lounge 
+University of Vermont 
+Burlington, VT
+
+Set I and Encore 2 SOURCE: AKG-414>D5>Cass1
+TRANSFER: Sony TC-KA3ES>DSP24(24/48)>Wavelab>FLAC16
+Taped By: Dave Schanker
+Thanks to Todd Ahrens for the source tapes!
+Transfer, mastering, and FLAC16 by: Marmar- imthemarmar@gmail.com     
+------------------------------------------------------------------
+Set II and Encore 1 Source: Master Cassette Audience (unknown mics) > Sony D5
+Transfer: Aiwa AD-F850 3-Head > Apogee AD1000 > Tascam DA-302 > HHB CDR-850
+Conversion: EAC (Secure Mode) > WAV > ShnTool > FLAC (1.7.1)
+All tracks were extracted with 100% quality.
+
+-DISC 1-
+Set I: 
+01. The Curtain >
+02. Runaway Jim
+03. The Sloth
+04. Reba
+05. Poor Heart
+06. Llama
+07. Guelah Papyrus
+08. The Oh Kee Pa Ceremony >
+09. Suzy Greenberg
+
+-DISC 2-
+Set II
+01. Chalkdust Torture
+02. Bathtub Gin
+03. Uncle Pen
+04. Landlady >
+05. Destiny Unbound
+06. Squirming Coil
+07. Stash
+08. My Sweet One
+09. Lizards
+10. Highway to Hell
+Encore 1:
+11. Lawn Boy
+12. Rocky Top
+
+-DISC 3-
+Encore 2: 
+03. Tweezer
+04. Crew Thanks 
+05. Tweezer Reprise
+
+-Show Notes- 
+- This show contained the first known Poor Heart.
+- Tweezer contained fairly extensive Heartbreaker teasing by both Trey and Mike. 
+- After Tweezer, the band introduced and thanked the tour crew, presenting them with a cake and customized bowling balls.
+
+-Mastering Note-
+These tapes appear to be from a Mid-Side setup. The channels were both mono, with the right channel being exactly 90 degrees out of phase. The bass was also very distorted. Upon mastering, once I had set up my mixer for mid-side decoding, the source sounded just like it should. There is still some distortion present from the low end after decoding, but it is very tolerable. -Marmar

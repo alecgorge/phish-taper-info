@@ -1,0 +1,70 @@
+Phish
+L'Aeronef, Lille, France;
+Wednesday, 06-25-1997
+
+
+Source: DAUD Schoeps CMC6 mk 41 > OADE > SBM-1
+Location: Taper Section
+Taper: Unknown
+
+Transfer (off DAT@44.1 kHz, at least 2nd Gen) :
+Aiwa XD-001 > Black&White DigiCoax > Z-Cyber Nightingale Pro 6 S/PDIF > Cool Edit Pro 2.00 (Edits) > CD Wav > mkwACT 0.97 BETA 1 > SHN.
+
+Transferred by Friedemann Rothfuchs;
+<kushelphish@gmx.de>
+<http://www.phishhook.com/lists/ClancyWiggum>
+
+Edits: - AC/DC Bag (d1t05): Slight Click removed at 05:12
+           - Down with Disease (d2t01): 1/100sec Dropout removed at 19:17
+           - McGrupp (d2t05): Slight Click removed at 04:23
+           - Fadeout at end of Sets
+
+Note: I've tracked Set II for an 80 minute disc because dividing this great Set is a bad SIN.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Update:
+This is the edited (two tracks) and sbe-fixed version of the .shn-source listed in the database db.etree.org, encoded to .flac:
+http://db.etree.org/shninfo_detail.php?shnid=19203
+.shn > mkwACT 0.97 BETA 1 > .wav > shntool (fixes) > Adobe Audition 1.5 (edits) > shntool > flac frontend (level 8)
+by Friedemann Rothfuchs, kushelphish@gmx.de; 08-06-2005
+edits: tiny scratch in d1t05 and d1t07 detected and removed
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Disc 1/Set I:
+01: Oblivious Fool
+02: Dogs Stole Things
+03: Taste
+04: Billy Breathes
+05: AC/DC Bag
+06: Old Home Place
+07: Theme From The Bottom
+08: Wading In The Velvet Sea
+09: I Saw It Again
+10: Limb By Limb
+11: My Soul
+
+Disc 2/Set II:
+01: Down With Disease >
+02: Piper >
+03: Down with Disease >
+04: The Meatstick° >
+05: McGrupp And The Watchful Hosemasters* >
+06: Makisupa Policeman 
+07: Cecilia° >
+08: Hold Your Head Up >
+09: Rock-a-William
+10: Run Like An Antelope
+
+Disc 3/Encore:
+01: Crowd Noise
+02: Tuning
+03: Encore: Guyute
+
+°  first time played
+* reggae style
+
+Show Notes: This show marked the debuts of Cecilia, which was performed a cappella by 
+Fishman, and Meatstick. The jam out of Disease included Can't You Hear Me Knockin' teases. 
+This version of McGrupp was very spacy and was filled with Makisupa teases. The subsequent 
+Makisupa was unfinished. Trey altered the lyrics to Antelope to pay tribute to Antelope 
+Greg, a well-known fan who, as of this show, had only missed a handful of shows since 1994.

@@ -1,0 +1,91 @@
+Phish
+July 3, 1995
+Summerstage at Sugarbush North
+Fayston, VT
+
+source:
+AKG 460B/ck61 > custom pre-amp > Sony D7 (@ 48kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > WaveLab 5.01b (fades) > r8brain v1.9 (resample to 44.1 kHz) > CD Wave v1.96.1 > FLAC v1.2.1 (Level 8)
+
+FLAC tags added with metaflac v1.2.1
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded November 26, 2007
+
+notes:
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+Big thanks to Dave Flaschner for letting me borrow the master DATs!
+
+Disc 1 - [76:00]
+Set I
+01 - [06:50] - My Friend My Friend
+02 - [02:26] - Poor Heart
+03 - [12:07] - Run Like an Antelope
+04 - [06:01] - Loving Cup
+05 - [03:53] - Sparkle
+06 - [09:12] - It's Ice
+07 - [08:10] - If I Could
+08 - [11:26] - Maze
+09 - [02:51] - Strange Design
+10 - [08:37] - Free
+11 - [04:28] - Cavern
+
+Disc 2 - [72:42]
+Set II
+01 - [04:41] - Timber Ho ->
+02 - [17:39] - David Bowie ->
+03 - [02:39] - Johnny B. Goode ->
+04 - [10:36] - David Bowie >
+05 - [10:04] - AC/DC Bag
+06 - [03:05] - The Lizards >
+07 - [05:06] - Big Black Furry Creature from Mars
+08 - [05:08] - A Day in the Life
+09 - [13:43] - Possum
+
+Disc 3 - [27:02]
+Set II continued
+01 - [11:05] - The Squirming Coil
+02 - [02:29] - encore break
+03 - [10:22] - Simple
+04 - [01:44] - Amazing Grace
+05 - [01:23] - outro
+
+show notes:
+Lizards was aborted after Trey lost track of the lyrics.
+Fish teased him about needing a Teleprompter, and Trey started up BBFCFM.
+
+--------------------------------------------------------------------------------------------------
+
+SHNtool output:
+
+    length     expanded size   cdr  WAVE problems filename
+     6:49.50       72265244    ---   --   ---xx   ph1995-07-03d1t01.flac
+     2:25.52       25700348    ---   --   ---xx   ph1995-07-03d1t02.flac
+    12:06.72      128235788    ---   --   ---xx   ph1995-07-03d1t03.flac
+     6:00.42       63602828    ---   --   ---xx   ph1995-07-03d1t04.flac
+     3:52.54       41051852    ---   --   ---xx   ph1995-07-03d1t05.flac
+     9:11.57       97330508    ---   --   ---xx   ph1995-07-03d1t06.flac
+     8:10.25       86494844    ---   --   ---xx   ph1995-07-03d1t07.flac
+    11:25.61      120977516    ---   --   ---xx   ph1995-07-03d1t08.flac
+     2:51.08       30183260    ---   --   ---xx   ph1995-07-03d1t09.flac
+     8:37.17       91238828    ---   --   ---xx   ph1995-07-03d1t10.flac
+     4:28.12       47303468    ---   --   ---xx   ph1995-07-03d1t11.flac
+     4:41.28       49634300    ---   --   ---xx   ph1995-07-03d2t01.flac
+    17:39.31      186880556    ---   --   ---xx   ph1995-07-03d2t02.flac
+     2:38.73       28042940    ---   --   ---xx   ph1995-07-03d2t03.flac
+    10:35.67      112171628    ---   --   ---xx   ph1995-07-03d2t04.flac
+    10:03.56      106500956    ---   --   ---xx   ph1995-07-03d2t05.flac
+     3:04.61       32601116    ---   --   ---xx   ph1995-07-03d2t06.flac
+     5:06.20       54025484    ---   --   ---xx   ph1995-07-03d2t07.flac
+     5:08.05       54343004    ---   --   ---xx   ph1995-07-03d2t08.flac
+    13:43.03      145184300    ---   --   ---xx   ph1995-07-03d2t09.flac
+    11:05.24      117362492    ---   --   ---xx   ph1995-07-03d3t01.flac
+     2:28.41       26203676    ---   --   ---xx   ph1995-07-03d3t02.flac
+    10:21.68      109704380    ---   --   ---xx   ph1995-07-03d3t03.flac
+     1:43.44       18272732    ---   --   ---xx   ph1995-07-03d3t04.flac
+     1:23.04       14650652    ---   --   ---xx   ph1995-07-03d3t05.flac
+   175:44.00     1859962700 B                     (totals for 25 files, 0.5168 overall compression ratio)
+

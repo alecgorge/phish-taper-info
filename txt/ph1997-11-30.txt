@@ -1,0 +1,45 @@
+Phish
+November 30, 1997
+Worcester Centrum
+Worcester, MA
+
+source:
+(FOB) Neumann km184 > Beyer MV-100 > Tascam DA-P1 > Teac DA-P20 (@48kHz)
+
+transfer:
+Sony PCM-R500 > Tascam HD-P2 > CF Card > usb > pc > WaveLab 5.01b (fades, resample to 44.1kHz) > CD Wave v1.94.7 > FLAC v1.1.2 (Level 8)
+
+recorded by Felix Delguisemo
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded June 18, 2006
+
+note:
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+
+Disc 1 - [78:46]
+Set I
+01 - [00:50] - intro
+02 - [10:55] - Guyute
+03 - [14:44] - Funky Bitch
+04 - [31:31] - Wolfman's Brother * ->
+05 - [03:44] - Love Me
+06 - [09:24] - The Squirming Coil >
+07 - [07:38] - Loving Cup
+
+Disc 2 - [76:46]
+Set II
+01 - [06:15] - NICU
+02 - [20:26] - Stash ** >
+03 - [10:43] - Free >
+04 - [04:42] - Jam >
+05 - [07:35] - Piper
+06 - [05:18] - When The Circus Comes
+07 - [11:51] - Run Like an Antelope
+08 - [02:29] - encore break
+09 - [07:29] - Them Changes ##
+
+* with hard rock jam: Mike quotes "Heartbreaker" going into the jam, and Trey says a few lines from "Sanity" and then one line from "Esther." Trey asks Chris to turn off the lights, and they jam in the dark
+
+** unfinished
+
+## Buddy Miles cover

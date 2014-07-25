@@ -1,0 +1,164 @@
+Phish
+October 31, 1994
+Glens Falls Civic Center
+Glens Falls, NY
+
+source:
+AKG 460b/ck61 > custom pre-amp > Sony TCD-D7 (@ 48 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > r8brain v1.9 (resample to 44.1 kHz) > CD Wave v1.97 > Samplitude SE v9.1.1 (fades, patch, +10dB on "Amazing Grace") > FLAC v1.2.1 (Level 8)
+
+recorded by David Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded November 12, 2008
+
+notes:
+FLAC tags added with metaflac v1.2.1
+The original 48 kHz files from the DAT transfer have been archived and are available upon request
+Big thanks to Dave Flaschner for letting me borrow the master DATs!
+
+Disc 1 - [79:01]
+Set I
+01 - [00:34] - set 1 intro
+02 - [04:27] - Frankenstein
+03 - [03:46] - Sparkle
+04 - [08:25] - Simple
+05 - [16:52] - The Divided Sky
+06 - [14:51] - Harpua
+07 - [07:51] - Julius
+08 - [01:29] - The Horse >
+09 - [05:08] - Silent in the Morning
+10 - [15:39] - Reba
+
+Disc 2 - [52:28]
+Set I continued
+01 - [05:04] - Golgi Apparatus
+Set II
+02 - [01:24] - Speak to Me >
+03 - [00:19] - Ed Sullivan Intro
+04 - [02:29] - Back in the USSR
+05 - [04:02] - Dear Prudence
+06 - [02:10] - Glass Onion
+07 - [02:44] - Ob La Di Ob La Da
+08 - [00:53] - Wild Honey Pie
+09 - [02:55] - The Continuing Story of Bungalow Bill
+10 - [06:00] - While My Guitar Gently Weeps
+11 - [02:45] - Happiness is a Warm Gun
+12 - [02:15] - Martha My Dear
+13 - [02:03] - I'm So Tired
+14 - [02:18] - Blackbird
+15 - [02:00] - Piggies
+16 - [03:27] - Rocky Raccoon
+17 - [02:56] - Don't Pass Me By
+18 - [00:19] - HYHU
+19 - [02:06] - Why Don't We Do it in the Road
+20 - [01:34] - I Will
+21 - [02:46] - Julia
+
+Disc 3 - [45:44]
+Set II continued
+01 - [02:21] - Birthday Jam
+02 - [03:38] - Yer Blues
+03 - [02:34] - Mother Nature's Son
+04 - [03:15] - Everybody's Got Something to Hide Except for Me and My Monkey
+05 - [02:56] - Sexy Sadie
+06 - [04:24] - Helter Skelter
+07 - [02:31] - Long Long Long
+08 - [05:23] - Revolution
+09 - [02:39] - Honey Pie
+10 - [02:42] - Savoy Truffle
+11 - [04:41] - Cry Baby Cry
+12 - [05:31] - Revolution 9
+
+Disc 4 - [76:40]
+Set III
+01 - [13:43] - David Bowie
+02 - [03:42] - Bouncing Around the Room
+03 - [10:49] - Slave to the Traffic Light
+04 - [05:38] - Rift
+05 - [05:31] - Sleeping Monkey
+06 - [02:14] - Poor Heart
+07 - [10:39] - Run Like an Antelope
+08 - [03:13] - encore break
+09 - [01:54] - Amazing Grace
+10 - [07:25] - Costume Contest
+11 - [10:27] - The Squirming Coil
+12 - [01:25] - outro
+
+show notes:
+Harpua included the Vibrations of Life and Death, and a War Pigs tease.
+
+patch notes:
+On Dave's AKG source, there wa sa minor drop-out in "Savoy Truffle".
+This minor drop-out was patched with the following source:
+
+Schoeps cmc3/mk41 > Oade Deluxe 12v PS > Denon dtr80p (@ 48 kHz)
+http://db.etree.org/shn/3602
+
+The volume of the Schoeps patch source was raised by +6dB to better match Dave's AKG source.
+The Schoeps patch source was used at the following location:
+Savy Truffle: [00:41] to [00:43]
+
+----------------------------------------------------------------------------------------------
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:33.67           5.70 MB  ---   --   ---xx   flac  0.4533  ph1994-10-31d1t01.flac
+     4:27.24          44.97 MB  ---   --   ---xx   flac  0.6267  ph1994-10-31d1t02.flac
+     3:45.38          37.94 MB  ---   --   ---xx   flac  0.5930  ph1994-10-31d1t03.flac
+     8:25.36          85.04 MB  ---   --   ---xx   flac  0.5510  ph1994-10-31d1t04.flac
+    16:51.55         170.20 MB  ---   --   ---xx   flac  0.5406  ph1994-10-31d1t05.flac
+    14:51.01         149.89 MB  ---   --   ---xx   flac  0.5299  ph1994-10-31d1t06.flac
+     7:50.67          79.22 MB  ---   --   ---xx   flac  0.5999  ph1994-10-31d1t07.flac
+     1:28.38          14.89 MB  ---   --   ---xx   flac  0.3983  ph1994-10-31d1t08.flac
+     5:08.07          51.83 MB  ---   --   ---xx   flac  0.5362  ph1994-10-31d1t09.flac
+    15:39.03         157.97 MB  ---   --   ---xx   flac  0.5251  ph1994-10-31d1t10.flac
+     5:03.39          51.06 MB  ---   --   ---xx   flac  0.5819  ph1994-10-31d2t01.flac
+     1:23.52          14.08 MB  ---   --   ---xx   flac  0.4787  ph1994-10-31d2t02.flac
+     0:18.61           3.16 MB  ---   --   ---xx   flac  0.5353  ph1994-10-31d2t03.flac
+     2:28.47          25.00 MB  ---   --   ---xx   flac  0.6304  ph1994-10-31d2t04.flac
+     4:01.57          40.67 MB  ---   --   ---xx   flac  0.5579  ph1994-10-31d2t05.flac
+     2:10.02          21.87 MB  ---   --   ---xx   flac  0.5857  ph1994-10-31d2t06.flac
+     2:44.27          27.65 MB  ---   --   ---xx   flac  0.6126  ph1994-10-31d2t07.flac
+     0:52.63           8.89 MB  ---   --   ---xx   flac  0.5532  ph1994-10-31d2t08.flac
+     2:54.55          29.40 MB  ---   --   ---xx   flac  0.6158  ph1994-10-31d2t09.flac
+     5:59.55          60.52 MB  ---   --   ---xx   flac  0.6130  ph1994-10-31d2t10.flac
+     2:45.34          27.83 MB  ---   --   ---xx   flac  0.6002  ph1994-10-31d2t11.flac
+     2:15.30          22.78 MB  ---   --   ---xx   flac  0.5091  ph1994-10-31d2t12.flac
+     2:03.05          20.70 MB  ---   --   ---xx   flac  0.5909  ph1994-10-31d2t13.flac
+     2:17.67          23.20 MB  ---   --   ---xx   flac  0.4366  ph1994-10-31d2t14.flac
+     2:00.35          20.27 MB  ---   --   ---xx   flac  0.5179  ph1994-10-31d2t15.flac
+     3:26.60          34.79 MB  ---   --   ---xx   flac  0.5115  ph1994-10-31d2t16.flac
+     2:55.73          29.60 MB  ---   --   ---xx   flac  0.5666  ph1994-10-31d2t17.flac
+     0:18.69           3.18 MB  ---   --   ---xx   flac  0.5009  ph1994-10-31d2t18.flac
+     2:05.72          21.19 MB  ---   --   ---xx   flac  0.5639  ph1994-10-31d2t19.flac
+     1:33.73          15.81 MB  ---   --   ---xx   flac  0.4718  ph1994-10-31d2t20.flac
+     2:46.15          27.96 MB  ---   --   ---xx   flac  0.3844  ph1994-10-31d2t21.flac
+     2:20.18          23.59 MB  ---   --   ---xx   flac  0.4076  ph1994-10-31d3t01.flac
+     3:38.28          36.74 MB  ---   --   ---xx   flac  0.6163  ph1994-10-31d3t02.flac
+     2:34.04          25.92 MB  ---   --   ---xx   flac  0.4431  ph1994-10-31d3t03.flac
+     3:15.04          32.81 MB  ---   --   ---xx   flac  0.6230  ph1994-10-31d3t04.flac
+     2:55.47          29.55 MB  ---   --   ---xx   flac  0.6229  ph1994-10-31d3t05.flac
+     4:24.02          44.42 MB  ---   --   ---xx   flac  0.6636  ph1994-10-31d3t06.flac
+     2:31.19          25.45 MB  ---   --   ---xx   flac  0.4313  ph1994-10-31d3t07.flac
+     5:22.72          54.33 MB  ---   --   ---xx   flac  0.6355  ph1994-10-31d3t08.flac
+     2:39.28          26.81 MB  ---   --   ---xx   flac  0.5595  ph1994-10-31d3t09.flac
+     2:41.72          27.25 MB  ---   --   ---xx   flac  0.6351  ph1994-10-31d3t10.flac
+     4:41.31          47.34 MB  ---   --   ---xx   flac  0.6154  ph1994-10-31d3t11.flac
+     5:30.52          55.63 MB  ---   --   ---xx   flac  0.5044  ph1994-10-31d3t12.flac
+     3:09.21          31.84 MB  ---   --   ---xx   flac  0.4569  ph1994-10-31d3t13.flac
+    13:42.44         138.38 MB  ---   --   ---xx   flac  0.5598  ph1994-10-31d4t01.flac
+     3:41.57          37.31 MB  ---   --   ---xx   flac  0.5719  ph1994-10-31d4t02.flac
+    10:49.24         109.23 MB  ---   --   ---xx   flac  0.5280  ph1994-10-31d4t03.flac
+     5:38.17          56.90 MB  ---   --   ---xx   flac  0.5806  ph1994-10-31d4t04.flac
+     5:31.21          55.73 MB  ---   --   ---xx   flac  0.5583  ph1994-10-31d4t05.flac
+     2:13.50          22.49 MB  ---   --   ---xx   flac  0.5589  ph1994-10-31d4t06.flac
+    10:39.35         107.58 MB  ---   --   ---xx   flac  0.5756  ph1994-10-31d4t07.flac
+     3:12.67          32.45 MB  ---   --   ---xx   flac  0.4826  ph1994-10-31d4t08.flac
+     1:53.61          19.15 MB  ---   --   ---xx   flac  0.5158  ph1994-10-31d4t09.flac
+     7:24.39          74.78 MB  ---   --   ---xx   flac  0.5401  ph1994-10-31d4t10.flac
+    10:27.35         105.56 MB  ---   --   ---xx   flac  0.4708  ph1994-10-31d4t11.flac
+     1:25.00          14.30 MB  ---   --   ---xx   flac  0.4157  ph1994-10-31d4t12.flac
+   253:54.00        2562.79 MB                           0.5494  (56 files)

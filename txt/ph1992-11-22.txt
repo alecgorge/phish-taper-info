@@ -1,0 +1,73 @@
+PHISH   11-22-92 
+Bailey Hall, Cornell University, Ithaca, NY
+
+
+SOURCE: AUD (2 AKG 460b/ck63-TS) > DAT (Teac DA-P20)
+
+CONVERSION: CTD8000H-S > DAT2WAV > Resampling From 48kHz to 
+44.1kHz w/ Soundforge 5.0 (level 4 with anti-alias filter) > 
+CD Wave (track splits) > SHN
+
+
+DISC 1:
+
+Set 1:
+01. Buried Alive
+02. Oh Kee Pa Ceremony> 
+03. Suzy Greenberg @
+04. Fee > +
+05. Maze
+06. Reba
+07. Sparkle
+08. Horn
+09. All Things Reconsidered
+10. Bathtub Gin
+11. Sweet Adeline ^ $
+
+DISC 2:
+
+01. Trey Speaks
+02. Run Like an Antelope
+Set 2:
+03. Axilla
+04. My Friend My Friend
+05. My Sweet One
+06. Tweezer-> 
+07. Big Ball Jam-> 
+08. Tweezer
+09. Tela
+
+DISC 3:
+
+01. You Enjoy Myself %
+02. Faht*
+03. Golgi Apparatus #
+Encore:
+04. Bold as Love
+05. Carolina ^
+06. Tweezer Reprise
+
+
+@ with "Jimmy Olsen's Blues" (Spin Doctors) Tease
+
++ with Trey on the megaphone, no amplification 
+  during some verses
+
+^ Acapella, no amplification. Audible, but you 
+  will need to adjust your volume level
+
+$ Trey grabs the megaphone and tells everyone to 
+  shut the f@#$ up before song begins.
+
+% with "Eleanor Rigby" Jam
+
+* First time played. Jon speaks briefly 
+  with no mic before song begins
+
+# The P.A. system fails during song, Trey picks up 
+  the megaphone and announces that they will finish
+  the song anyway (without missing a beat)
+
+
+Seeded by Robert Brown aka simple (rtb@mailandnews.com)
+

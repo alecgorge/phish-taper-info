@@ -1,0 +1,68 @@
+phish
+madison square garden
+nyc
+1995-12-30
+
+set 1 (~79 min.)
+
+disc 1
+Prince Caspian, 
+Also Sprach Zarathustra > 
+Suzie Greenberg, 
+David Bowie, 
+It's Ice > 
+Kung > 
+It's Ice, 
+The Man Who Stepped Into Yesterday > 
+Avenu Malkenu > 
+The Man Who Stepped Into Yesterday, 
+Divided Sky*, 
+Sample in a Jar
+
+set 2 (~88 min.)
+
+disc 2
+Ya Mar**, 
+Free, 
+Harry Hood, 
+AC/DC Bag, 
+Lifeboy, 
+Scent of a Mule, 
+Cavern, 
+Run Like an Antelope, 
+
+disc 3
+E: A Day in the Life
+
+*With extra-long pause.    **With Auld Lang Syne tease.
+
+Show Notes: Ya Mar included an Auld Lang Syne tease. 
+
+source: akg460b/ck61>b18>denon dtr80p, by chad clark
+transfer: DAT(1)>cd(1)>eac>cdwave>flac, by john m 2007-08-04
+
+notes:  the next installment in this series of uncirculated akg onslaught with the new moniker - 
+spank the dank!  all in jest...  i have much respect for the dank seeds, but my friends and i are
+very proud of these sources.  thanks to chad and JK for making it happen time and time again!
+
+phish1995-12-30d1t01.flac:1d88267b79cf0f094dcd0d5a4ac21a33
+phish1995-12-30d1t02.flac:dcd6724cfa7c084092cf904f6310e30f
+phish1995-12-30d1t03.flac:6eeb900a51354146fbeea2bea029bb82
+phish1995-12-30d1t04.flac:57e1c76801ef2820fc90c592ac40684c
+phish1995-12-30d1t05.flac:87f09322fd9020567a58a74640114690
+phish1995-12-30d1t06.flac:f4ac174df2ca164bceab112afd0f2208
+phish1995-12-30d1t07.flac:a177cd3db2db542e939ef3e24e01f230
+phish1995-12-30d1t08.flac:2ac79774c9ee216e95a7cdc1d08cb40f
+phish1995-12-30d1t09.flac:899683d96204ea6569c33b832d9a4339
+phish1995-12-30d1t10.flac:1f3f7396e92d849411be56e991eefaa7
+phish1995-12-30d1t11.flac:5b8d9c32861a6479fe3578a6dfa3237d
+phish1995-12-30d2t01.flac:427cde336a5aaee5d9f05903a57e067b
+phish1995-12-30d2t02.flac:991eb594ade2aceb1898b1bdb9186bf8
+phish1995-12-30d2t03.flac:7975f27619fa2e45ee2b7f281f48baaa
+phish1995-12-30d2t04.flac:1ffa2d7c2188fa9a4ff3fed701521afa
+phish1995-12-30d2t05.flac:409689c97b3c804108388b4437e30d63
+phish1995-12-30d2t06.flac:9a2fb22286a7ad5e54b87651fba9125a
+phish1995-12-30d2t07.flac:17ac2dc7d7c17d16feec99eaefebca9e
+phish1995-12-30d2t08.flac:6deb3c41f64cab9b35f8b5c72ac8b197
+phish1995-12-30d2t09.flac:ba339964b66867c4552b40d0631dc579
+phish1995-12-30d3t01.flac:172ee0df61918b7c2c75596147fcbdeb

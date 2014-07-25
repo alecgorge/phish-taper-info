@@ -1,0 +1,77 @@
+Friday, March 3, 1989
+Living and Learning Center 
+University of Vermont 
+Burlington, VT 
+
+
+Source: AUD>?>Cass/x>CDR>EAC>FLAC	
+
+Transfer Info: I transferred my cassette using a Sony TC-WR665S for cassette playback and 
+an Aiwa XC-RW700 stand alone burner for recording.  I eac'ed the resulting CDR to my 
+hard drive, performed minor editing and encoded to flac.
+
+CD 1
+Set One
+01) 04:31 Wilson
+02) 08:39 McGrupp and the Watchful Hosemaster
+03) 01:14 crowd/banter
+04) 15:25 You Enjoy Myself
+05) 07:42 Foam
+06) 02:18 crowd/banter
+07) 06:05 AC/DC Bag
+
+CD 2
+Set One (continued)
+01) 06:32 The Curtain >
+02) 09:56 Run Like an Antelope
+03) 01:53 crowd/banter
+04) 03:32 I Didn't Know
+05) 12:47 Divided Sky
+06) 06:21 Alumni Blues > Letter to Jimmy Page > Alumni Blues
+07) 05:56 Good Times Bad Times
+
+Notes:  The tape I transferred wasn't that great.  Sounds like there are many analog 
+generations.  Also, the pitch on my cassette was way off and needed adjustment.  I tried my 
+best to correct it using the tape deck’s pitch adjuster.  I also used Soundforge's 
+graphic equalizer to try and minimize the egregious amount of tape hiss.  Hopefully a better 
+sounding source will surface along with the second set.
+
+Tracks split using Soundforge 6.0.
+
+Shntool used to verify sector boundaries. Encoded using 
+FLAC frontend version 1.7.1 Etree version.
+
+bla blazo - 04 October 2004
+
+C:\WINDOWS\system32>shntool len *.wav
+    length     expanded size   cdr  WAVE  probs   filename
+     4:31.36      47889116     ---   --    ---    phish89-03-03d1t1.wav
+     8:39.23      91605740     ---   --    ---    phish89-03-03d1t2.wav
+     1:14.45      13159484     ---   --    ---    phish89-03-03d1t3.wav
+    15:25.31     163242956     ---   --    ---    phish89-03-03d1t4.wav
+     7:42.64      81647372     ---   --    ---    phish89-03-03d1t5.wav
+     2:18.10      24366764     ---   --    ---    phish89-03-03d1t6.wav
+     6:05.50      64503644     ---   --    ---    phish89-03-03d1t7.wav
+     6:32.31      69221756     ---   --    ---    phish89-03-03d2t1.wav
+     9:56.22     105186188     ---   --    ---    phish89-03-03d2t2.wav
+     1:53.17      19973228     ---   --    ---    phish89-03-03d2t3.wav
+     3:32.50      37514444     ---   --    ---    phish89-03-03d2t4.wav
+    12:47.01     135301196     ---   --    ---    phish89-03-03d2t5.wav
+     6:21.40      67302524     ---   --    ---    phish89-03-03d2t6.wav
+     5:56.19      62843132     ---   --    ---    phish89-03-03d2t7.wav
+    92:56.64     983757544 B                      (totals for 14 files)
+
+phish89-03-03d1t1.flac:da257d2f4f9677bb15020261d986e1a6
+phish89-03-03d1t2.flac:6578dbd9f3a2a8e44e3b022a9fc8a6e2
+phish89-03-03d1t3.flac:01ce01161523882057e2c5989479b250
+phish89-03-03d1t4.flac:aa00e3c2ad9fd2490508eeda9393ebeb
+phish89-03-03d1t5.flac:5d3ce7c1c4407903e9532dfbd72a3b40
+phish89-03-03d1t6.flac:b15590b362ace5804d3e8f4c1587e547
+phish89-03-03d1t7.flac:11bcf2b0893e1894e2d5b9eb5eb732c8
+phish89-03-03d2t1.flac:30a1b79539a4e10dbdfd06e77985852f
+phish89-03-03d2t2.flac:cd504ba2ca799813534689b16eb942ce
+phish89-03-03d2t3.flac:decda70871cab8b70c8e20fb9b9e62bc
+phish89-03-03d2t4.flac:bb0880dc066cffd905cafd0b64556a83
+phish89-03-03d2t5.flac:447729768ba40097de8327ddb45b5b0e
+phish89-03-03d2t6.flac:1f50143570564417a70a9209eff15719
+phish89-03-03d2t7.flac:e82cf3bdae1e8b2b850fb4b8d9218f89

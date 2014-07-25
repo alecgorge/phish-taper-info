@@ -1,0 +1,44 @@
+Phish
+08/08/2009
+George, Washington  The Gorge Amphitheatre
+
+Source: Schoeps mk22> KCY> Sonosax SX-M2/LS> Apogee Mini-Me> SD 722 (@24bit/96kHz)
+Location: FOB, DFC, ORTF
+
+Transfer: SD 722> Samplitude SE 9.1.1(resample/dither)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (08/09/2009)
+
+
+Set I
+t01 [07:31] The Mango Song
+t02 [07:05] Chalk Dust Torture
+t03 [05:01] Middle of the Road
+t04 [13:00] Tweezer
+t05 [04:01] Driver
+t06 [06:42] Twenty Years Later
+t07 [09:17] Ya Mar
+t08 [07:58] It's Ice
+t09 [11:50] Wolfman's Brother
+t10 [07:16] Character Zero
+t11 [10:42] Run Like an Antelope
+
+Set II
+t12 [23:05] Rock and Roll>
+t13 [07:32] Makisupa Policeman
+t14 [09:22] Alaska
+t15 [06:31] The Wedge
+t16 [21:17] You Enjoy Myself
+t17 [09:46] Backwards Down the Number Line>
+t18 [09:55] Piper
+t19 [01:20] Grind
+t20 [02:27] crowd
+
+Encore
+t21 [05:49] Good Times Bad Times
+t22 [03:29] Tweezer Reprise
+
+
+Notes:
+Middle of the Road (Leo Kottke/Mike Gordon), first time played
+Makisupa Policeman, with Mike & Trey instrument switch
+Set I [1:30:23] Set II [1:31:15] Encore [9:18]

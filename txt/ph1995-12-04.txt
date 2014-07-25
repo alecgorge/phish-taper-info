@@ -1,0 +1,51 @@
+Phish
+December 4, 1995
+The Mullins Center
+University of Massachusetts
+Amherst, MA
+
+source:
+AKG 460B/ck61 > custom pre-amp > Teac DA-P20 (@ 48kHz)
+
+transfer:
+Sony PCM-R500 > M-Audio MicroTrack > CF Card > usb > pc > WaveLab 5.01b (de-emphasis, fades, resample to 44.1kHz) > CD Wave v1.94.7 > FLAC v1.1.2 (Level 8)
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded April 23, 2006
+
+notes:
+The original DAT recording was made with pre-emphasis. The Waves 5.0 Paragraphic EQ plug-in was used to de-emphasize the recording.
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+
+Disc 1 - [75:11]
+Set I
+01 - [08:56] - Julius
+02 - [05:29] - Gumbo
+03 - [16:35] - The Divided Sky
+04 - [08:11] - Punch You in the Eye
+05 - [12:47] - Stash
+06 - [02:39] - My Mind's Got a Mind of its Own
+07 - [04:06] - Axilla (Part II)
+08 - [01:30] - The Horse >
+09 - [06:17] - Silent in the Morning
+10 - [02:20] - Hello My Baby
+11 - [06:22] - While My Guitar Gently Weeps
+
+Disc 2 - [40:29]
+Set II
+01 - [07:14] - Timber Ho
+02 - [03:44] - Sparkle
+03 - [09:14] - Ya Mar
+04 - [14:40] - Run Like an Antelope
+05 - [05:37] - Billy Breathes
+
+Disc 3 - [44:59]
+Set II continued
+01 - [03:42] - Cars Trucks Buses
+02 - [21:51] - You Enjoy Myself
+03 - [04:52] - Sample in a Jar
+04 - [04:48] - Frankenstein
+05 - [03:26] - encore break
+06 - [03:36] - Bouncing Around the Room
+07 - [02:44] - Rocky Top

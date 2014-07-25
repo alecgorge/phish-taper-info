@@ -1,0 +1,46 @@
+Phish
+12/04/2009
+New York, New York  Madison Square Garden
+
+Source: Schoeps mk41> KCY> Sonosax SX-M2/LS> SD 722 (@24bit/96kHz)
+Location: OTS, Section 10, Row D, Seats 3 & 4, 9' Stand, DIN
+
+Transfer: SD 722> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44)
+Taped, Transferred & Seeded by: taylorc (12/05/2009)
+
+
+Set I
+t01 [06:15] Heavy Things
+t02 [09:04] Possum
+t03 [04:30] Wilson
+t04 [07:59] Kill Devil Falls
+t05 [04:01] Glide
+t06 [07:01] 46 Days
+t07 [03:39] Bouncing Around the Room >
+t08 [10:35] Reba
+t09 [03:39] Dinner and a Movie
+t10 [10:53] Guyute
+t11 [09:37] Maze
+t12 [08:04] First Tube
+
+Set II
+t13 [07:08] Scents and Subtle Sounds >
+t14 [11:03] Rock and Roll >
+t15 [10:35] Seven Below >
+t16 [08:09] Twist >
+t17 [07:44] Mike's Song >
+t18 [02:37] I am Hydrogen >
+t19 [06:19] Weekapaug Groove
+t20 [01:09] The Horse >
+t21 [05:09] Silent in the Morning
+t22 [21:05] You Enjoy Myself
+t23 [02:12] crowd
+
+Encore
+t24 [05:33] Shine a Light
+
+
+Notes:
+Scents and Subtle Sounds (w/o intro), last played 08/12/2004 (47 shows)
+Glide, last played 08/15/2004 (45 shows)
+Set I [1:25:17] Set II [1:23:10] Encore [5:33]

@@ -1,0 +1,64 @@
+Phish
+6-16-95
+Walnut Creek Amphitheater
+Raleigh, NC
+
+Source: Neumann RSM190i > Neumann PS > D7 > JVC XD-P1 [patch master used in xfer]
+Transfer: DA-20mkII->Delta Dio 2496->Soundforge 6.0 (resampled 48>44.1 on highest accuracy setting w/anti alias filter)->CDWAV->shntool->shn
+
+Transfer by: Brandon Johnston -- http://db.etree.org/bisq 
+Transferred and Circulated on: 2/17/04
+Taper: Burris
+Patchers: Mark G. and Chico
+
+Disc 1: 
+-Set I-
+1.Halley's Comet >
+2.Down with Disease
+3.Esther >
+4.Ya Mar
+5.Cry Baby Cry
+6.It's Ice
+7.My Mind's Got a Mind of its Own
+8.Dog Faced Boy ->
+9.Catapult
+10.Split Open and Melt
+
+Disc 2:
+-Set II- 
+1.Runaway Jim -> 
+2.Free
+3.Carolina
+
+Disc 3:
+1.You Enjoy Myself
+2.The Squirming Coil
+3.crowd noise
+4.Encore: Bold as Love
+
+Show Notes: This show is famous for the long, experimental jamming in the Runaway Jim. Dog Faced Boy was preceded by several false starts of SOAM by Fishman. YEM featured Boyd Tinsley on fiddle for a portion of the jam and included Oye Como Va teases. Lyrics from 'Loving You' are sung during the vocal jam as well.
+
+Tech Notes: Fades were added in soundforge 6.0. No other editing or processing was done.
+
+Thanks to Jim Raras for the DAT upgrade!!
+
+Shntool output:
+    length     expanded size   cdr  WAVE  probs   filename
+     6:31.41      69068876     ---   --    ---    ph1995-06-16d1t01.wav
+     8:31.50      90258044     ---   --    ---    ph1995-06-16d1t02.wav
+     8:53.52      94143548     ---   --    ---    ph1995-06-16d1t03.wav
+     8:39.51      91671596     ---   --    ---    ph1995-06-16d1t04.wav
+     4:41.12      49596668     ---   --    ---    ph1995-06-16d1t05.wav
+     9:13.37      97636268     ---   --    ---    ph1995-06-16d1t06.wav
+     2:54.14      30726572     ---   --    ---    ph1995-06-16d1t07.wav
+     2:13.62      23607068     ---   --    ---    ph1995-06-16d1t08.wav
+     0:47.55       8420204     ---   --    ---    ph1995-06-16d1t09.wav
+    14:41.72     155577788     ---   --    ---    ph1995-06-16d1t10.wav
+    30:50.66     326495276     ---   --    ---    ph1995-06-16d2t01.wav
+     9:42.32     102740108     ---   --    ---    ph1995-06-16d2t02.wav
+     2:43.73      28924940     ---   --    ---    ph1995-06-16d2t03.wav
+    25:29.24     269772092     ---   --    ---    ph1995-06-16d3t01.wav
+    10:33.07     111677708     ---   --    ---    ph1995-06-16d3t02.wav
+     2:38.41      27967676     ---   --    ---    ph1995-06-16d3t03.wav
+     5:43.21      60554636     ---   --    ---    ph1995-06-16d3t04.wav
+   154:50.35    1638839068 B                      (totals for 17 files)

@@ -1,0 +1,56 @@
+Phish
+08-03-88
+Fly Me to the Moon Saloon - Telluride, CO
+
+Source: SBD > Cass/1 > DAT
+Transfer: Tascam DA-20mkII > ZA2 > SF4.5 > CDWav > SHN
+
+Transfer by Jimmy Sellers (pjimmy@delanet.com)
+Fixes by Ben Mohr (bmohr@udel.edu)
+
+-----------------------------------
+ Disc 1:                   (30:54)
+-----------------------------------
+[Freebird (see notes)]
+-Set IIp-
+1. I Know a Little         (03:19)
+2. You Enjoy Myself        (16:43)
+3. Jesus Just Left Chicago (10:52)
+
+-----------------------------------
+ Disc 2:                   (62:04)
+-----------------------------------
+-Set III-
+1. //Peaches en Regalia >  (02:56)
+2. Mike's Song ->          (12:17)
+3. I Am Hydrogen >         (02:59)
+4. Fluffhead               (15:32)
+5. Happy Birthday/banter   (01:21)
+6. Harry Hood              (14:25)
+7. Satin Doll              (04:55)
+8. Funky Bitch             (05:58)
+9. Walk Away//             (01:41)
+
+Notes:
+-I choose not to do any hiss reduction since the hiss level is pretty low and I would 
+  prefer not to do any unneccessary resampling.  If you feel otherwise, go ahead.
+-According to "The Phish Companion", the venue is often mislabeled The Roma
+-JJLC is definitely the end of the second set as Mike? states, "We're gonna take one 
+  more short break" after YEM, but then Trey says, "We're gonna do one more song" so 
+  they begin JJLC. 
+-At the end of Satin Doll, the band is trying to decide what song to play and an audience 
+  member yells out "Freebird" which the band and some other audience members respond, 
+  "We/they did it already."  So, I'm guessing that Freebird was played earlier in the 
+  show.
+-Walk Away is definitely the end of the show since Trey starts yelling, "Last call!" 
+  and bantering about tipping a bartender before Walk Away.
+-Tape flips:
+  d1t02 13:32
+  d2t04 10:14
+  d2t08 end
+
+Fixes:
+-Applied SF4.5 pitch shift of +30 cents w/ anti-alias filter to compensate for low pitch
+-Removed digizap in d1t01 1:17.866-1:17.898 (0.032 sec)
+-Minimized diginoise in d2t03 1:10-1:12 -- still present though (on all known copies - 
+  I asked all dat traders that I found to have this show to check their copy)

@@ -1,0 +1,35 @@
+Phish
+11-4-98
+McNichols Sports Arena
+Denver, CO
+
+Source : B&K 4011->Lunatec V2->Apogee AD1000
+
+Disc 1 - Set I -
+1.Buried Alive >
+2.Character Zero
+3.Guyute >
+4.Bathtub Gin >
+5.Ya Mar
+6.Birds of a Feather
+7.Brian and Robert
+8.Frankie Says ->
+9.David Bowie
+
+Disc 2 - Set II - 
+1.Runaway Jim > 
+2.The Moma Dance > 
+3.Piper > 
+4.Also Sprach Zarathustra > 
+5.Chalk Dust Torture
+6.Loving Cup
+7.crowd noise
+8.E: The Squirming Coil
+
+Show Notes: Bowie began as Maze, and included Stash teases.
+
+Tech Notes: Fades were added in Soundforge 6.0
+
+Transfer: DA-20mkii->Delta Dio 2496->Soundforge 6.0 (resampled 48>44.1 on highest accuracy setting w/anti aliasfilter)->CDWAV->shntool->shn by Brandon Johnston
+
+

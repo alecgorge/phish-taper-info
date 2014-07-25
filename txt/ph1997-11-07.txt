@@ -1,0 +1,25 @@
+Phish
+November 7, 1997
+NBC Studios
+New York, NY
+
+TV > ?? > CD > EAC > WAV > FLAC v1.2.1 (Level 8)
+
+transferred by Jason Sobel
+FLAC tags added with metaflac v1.2.1
+
+total time - [05:11]
+01 - [05:11] - Farmhouse * > Conan talks > Mike's Song **
+
+comments:
+Television appearance on Late Night with Conan O'Brian.
+* original, first time performed
+** 30-second tease of the start as show faded to commercial
+
+
+shntool 3.0.4 len mode output:
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     5:11.27          52.38 MB  ---   --   ---xx   flac  0.6523  ph1997-11-07.flac
+     5:11.27          52.38 MB                           0.6523  (1 file)
+
+No errors occured.

@@ -1,0 +1,41 @@
+Phish
+07/12/1999
+Mansfield, Massachusetts Great Woods Amphitheatre
+
+Source: (OTS) Schoeps CMC6/mk41> Apogee AD-1000> Tascam DA-P1 (@44.1kHz)
+Taped by: Taylor Caine
+
+Transfer: Tascam DA-40> M-Audio Audiophile 2496> Samplitude 7.0 (fades)> CDWave> flac
+Transferred & Seeded by: TaylorC (07/19/2007)
+
+
+Set I
+t01 [11:15] Foreplay/Long Time>
+t02 [18:22] Down with Disease
+t03 [06:27] Back on the Train
+t04 [08:51] What's the Use
+t05 [14:07] Split Open and Melt
+t06 [05:40] Water in the Sky >
+t07 [07:53] Character Zero
+
+Set II
+t08 [12:20] Twist >
+t09 [09:28] Moma Dance
+t10 [08:16] Makisupa Policeman >
+t11 [21:59] David Bowie
+t12 [10:52] Lizards
+t13 [14:26] Guyute
+
+Encore
+t14 [07:16] Rock and Roll
+
+Show Notes: Foreplay/Long Time was played for the first time since December 9, 1994 
+(309 shows) and was played electric for the first time ever. Guyute was followed by 
+band introductions, including Mike Gordon as Michael "Soft G" Jordan.
+
+Notes:
+
+Foreplay/Long Time, last played 12/09/1994 (309 Shows), first electric version
+Set I [1:12:35] Set II [1:17:21] Encore [07:16]
+Added Fades at start/end of Set I, start of Set II & end of Encore
+CD-R Tracking: D1 (t01-t07), D2 (t08-t13), Encore fits on D1

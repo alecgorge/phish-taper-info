@@ -1,0 +1,59 @@
+PHISH
+02-25-93 
+The Cameo Theater, 
+Miami Beach, FL 
+
+SOURCE: Unknown (possibly FOB Schoeps cmc54's)
+TAPER: Unknown
+CONVERSION: CD Audio > WAV (EAC), WAV > SHN (MKW)
+RETRACKING: Merged using Cooledit2000, Cut using CDWave and Verified with shntool
+EAC'ed and SHN'ed by JeffZ of SHNShare.dyndns.org
+Retracked* and seeded by Clifford_Ball <cliffordball@funkjam.com>
+(Retracked Cavern, Maze and Famous Mockingbird > Bowie
+Several minor flaws noted below otherwise this is a very nice show.
+
+
+
+Disc 1:
+
+Set 1:
+01.) Buried Alive* >				01:34
+02.) Poor Heart					02:27
+03.) Cavern 					04:12
+04.) Maze					09:27
+05.) Colonel Forbin's Ascent-> 			05:36
+06.) Famous Mockingbird				13:12
+07.) Rift					05:59
+08.) Stash**					09:20
+09.) Bouncing Around the Room			03:44
+10.) I Didn't Know				04:04
+11.) David Bowie				12:59
+
+					Total 1:12:34
+
+Disc 2:
+
+Set 2:
+01.) Suzy Greenberg >				05:36
+02.) It's Ice					07:47
+03.) Sparkle >					03:40
+04.) Wilson >					05:48
+05.) You Enjoy Myself				21:12
+06.) Uncle Pen					03:55
+07.) Big Ball Jam >				02:50	
+08.) Fast Enough for You			05:09	
+09.) HYHU-> If I Only Had a Brain% > HYHU	08:33	
+10.) Golgi Apparatus >				04:15
+11.) Big Black Furry Creature From Mars		04:40
+
+Encore: 
+12.) Amazing Grace%%				01:06
+13.) Good Times Bad Times			05:16
+
+					Total 1:19:44	
+
+* Fades in to start disc.
+** Cut off at very end for some reason.
+% With Mimi Fishman (Fish's mom) vacuum solo. 
+%% Basically inaudible
+$ Lots of clicks and pops for first few minutes (Rec levels set too high from acoustic Amazing Grace?)

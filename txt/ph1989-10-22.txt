@@ -1,0 +1,117 @@
+Phish - 10/22/89
+The Front, Burlington, VT
+
+Source: SBD\Cass4 recorded 7/95
+
+Transfer: Cass4> Dennon DRW-840> Sony PCM-r500> Audiophile 2496> FLAC 10/24/06 by EEE
+
+Set I: Disc 1 [61:57]
+1.  //La Grange
+2.  Colonel Forbin's Ascent> 
+3.  Fly Famous Mockingbird
+4.  You Enjoy Myself> 
+5.  Oh Kee Pa> 
+6.  Suzy Greenberg
+7.  Ya Mar 				
+8.  Foam
+9.  Rocky Top
+10. Split Open and Melt
+
+Set I/II: Disc 2 [78:37]
+1.  Tela> 
+2.  Divided Sky
+3.  I Didn't Know
+4.  Good//Times Bad Times*
+Set II: 
+5.  Harry Hood
+6.  Reba
+7.  Golgi Apparatus
+8.  In a Hole
+9. //McGrupp> Who Do? We Do! >
+10. AC/DC Bag
+
+Set II: Disc 3 [29:07]
+1.  My Sweet One
+2.  Fee> 
+3.  Possum
+Encore: 
+4.  Banter
+5.  Undun
+6.  Banter
+7.  Run Like an Antelope\\
+[29:07]
+
+Alternate two disc burning method:
+d1t01->d2t02, but don't burn La Grange [78:59]
+d2t04->d3t07(end of show), don't burn I Didn't Know [78:34]
+
+-Tape flips after Ya Mar and In A Hole
+-La Grange is cut at the begining
+-Ya Mar has an abrupt ending to that last note
+-McGrupp is cut at the begining
+*First few notes of GTBT were on the end of tape 1, then the song continued on tape 2 with missing music. The two fragments of GTBT were joined together with Cool Edit 2000
+
+
+Show Notes: Suzy included Purple Haze teases from Trey. SOAM included an extended drum solo from Fishman. Fishman explained some of his vacuum parts before launching into a vacuum solo during I Didn't Know. Members of the Ninja Custodians visited the stage before and during the encore, leading to some funny stage banter. Undun was subsequently dedicated to Sofi (likely Sofi Dillof) on her 22nd birthday and the lyrics to the song were changed to reference the event and the Ninja Custodians' hijinks. [From http://www.mockingbirdfoundation.org/setlists via http://www.ihoz.com]
+
+FINGERPRINT:
+ph1989-10-22d1t01.flac:c0eb419b9b29ddd4f1820d47329bdc0b
+ph1989-10-22d1t02.flac:10324d38905fbe3edf26ddbad847259c
+ph1989-10-22d1t03.flac:d5f9bf663cfcaeaeb25581f3099ad546
+ph1989-10-22d1t04.flac:929292b7528ed08c7a9e6d3133213719
+ph1989-10-22d1t05.flac:1d39fe215e1fca97e2ca0b1c05657267
+ph1989-10-22d1t06.flac:f956624bf4766e04843e54e59ad406b0
+ph1989-10-22d1t07.flac:450c1f4861c78b821aea0e78aa2cdc9d
+ph1989-10-22d1t08.flac:d8f71afad7b56332123f9bc1c823fdbc
+ph1989-10-22d1t09.flac:bce184daed4650179e3b5914989f5e37
+ph1989-10-22d1t10.flac:9f425a391deaa0d488053eafb32cea62
+ph1989-10-22d2t01.flac:0bc56d1fe148eb2f990e4a2f91ec83d8
+ph1989-10-22d2t02.flac:50d2df77051c268d091616125d38f774
+ph1989-10-22d2t03.flac:fc47a06b2217bd1f55289089b7329441
+ph1989-10-22d2t04.flac:fe73376298351e4826b4bd8c01d20a20
+ph1989-10-22d2t05.flac:f0fda2bb1ecbda5b79a6228a9378f7d2
+ph1989-10-22d2t06.flac:de245144af36fa7c6cd1704016f3de4f
+ph1989-10-22d2t07.flac:bc599a0bbd5eff0ead59268101e860bd
+ph1989-10-22d2t08.flac:ba726643fa2dcd35592006467f7e7ec3
+ph1989-10-22d2t09.flac:8e1c0d249322f8f8faa50c37980362ac
+ph1989-10-22d2t10.flac:e49eb3053a546e50c134c410adeb2d07
+ph1989-10-22d3t01.flac:90323d2665c1a80ea71240de2148313b
+ph1989-10-22d3t02.flac:f77df45851cd288f3c45188f26f931c0
+ph1989-10-22d3t03.flac:2e93747c1b5ad014fe362ef927ce38f3
+ph1989-10-22d3t04.flac:9b75c80205c90769cb75ddf6eafed01e
+ph1989-10-22d3t05.flac:05b4f39c686bc5d87fa49e35da73b559
+ph1989-10-22d3t06.flac:bd95e5595843da1286be5eedeab92d53
+ph1989-10-22d3t07.flac:5b9bb80f911a2909b53f0c314fa5d1f7
+
+SHNTOOL OUTPUT:
+length     expanded size   cdr  WAVE problems filename
+1:52.15       19792124    ---   --   -----   ph1989-10-22d1t01.wav
+6:11.20       65491484    ---   --   -----   ph1989-10-22d1t02.wav
+6:02.31       63929756    ---   --   -----   ph1989-10-22d1t03.wav
+15:56.10      168661964    ---   --   -----   ph1989-10-22d1t04.wav
+1:36.38       17023820    ---   --   -----   ph1989-10-22d1t05.wav
+4:48.44       50906732    ---   --   -----   ph1989-10-22d1t06.wav
+5:57.56       63106556    ---   --   -----   ph1989-10-22d1t07.wav
+8:02.01       85027196    ---   --   -----   ph1989-10-22d1t08.wav
+2:44.25       28988444    ---   --   -----   ph1989-10-22d1t09.wav
+8:43.61       92400716    ---   --   -----   ph1989-10-22d1t10.wav
+6:26.23       68144540    ---   --   -----   ph1989-10-22d2t01.wav
+12:27.73      131942540    ---   --   -----   ph1989-10-22d2t02.wav
+4:14.61       44949116    ---   --   -----   ph1989-10-22d2t03.wav
+5:58.09       63172412    ---   --   -----   ph1989-10-22d2t04.wav
+12:08.62      128565068    ---   --   -----   ph1989-10-22d2t05.wav
+12:30.67      132457628    ---   --   -----   ph1989-10-22d2t06.wav
+4:25.59       46884812    ---   --   -----   ph1989-10-22d2t07.wav
+4:48.56       50934956    ---   --   -----   ph1989-10-22d2t08.wav
+9:36.58      101742860    ---   --   -----   ph1989-10-22d2t09.wav
+5:50.27       61803548    ---   --   -----   ph1989-10-22d2t10.wav
+2:43.05       28765004    ---   --   -----   ph1989-10-22d3t01.wav
+4:56.60       52355564    ---   --   -----   ph1989-10-22d3t02.wav
+8:07.43       86007980    ---   --   -----   ph1989-10-22d3t03.wav
+2:20.39       24787772    ---   --   -----   ph1989-10-22d3t04.wav
+2:58.60       31540364    ---   --   -----   ph1989-10-22d3t05.wav
+2:03.41       21793676    ---   --   -----   ph1989-10-22d3t06.wav
+0:04.28         771500    ---   --   -----   ph1989-10-22d3t07.wav
+163:38.22     1731948132 B                     (totals for 27 files, 1.0000 o
+verall compression ratio)
+

@@ -1,0 +1,59 @@
+Phish - 11-12-95
+O'Connell Center, Univ. of FL,Gainesville
+
+Welcome to my master copy of this show.
+I taped it myself, here's my setup:
+13 Ft. Pole; Top Row (Bleechers); Center
+AKG 460 Cards>10ft XLR's>Power Supply>3ft XLR's>
+Technics SV 260A>DAT.
+
+Their journey to SHN:
+Technics SV 260A>COAX>WAV>CDWAV>SHN.
+I have used the MKW audio compression tool.
+These SHN files are seekable in your SHNamp.
+Also, I have included the md5 for the wav files.
+Please use it to verify yours.
+
+I hope you enjoy listening to this show as much as I
+enjoyed taping it.Please use the audio file provided
+when trading this show in the audio format.
+
+PEACE  LOVE  AND  PHISH!!!
+Linda Webster
+http://db.etree.org/linda95
+My "Dat Only List" aka my "SHN Only List"
+
+***ATTENTION!!!!!***
+I have removed 49.694 seconds from the crowd
+noise between the end of the second set and the
+encore.I have done this so Set 2 will fit on a
+74 minute cd.When listening, you will not notice
+it has been removed,I just felt you should know.
+Linda
+
+Disc 1 Set 1
+{1}My Friend My Friend(6:51:22),
+{2}Llama(4:54:41),
+{3}Bouncing(3:37:11),
+{4}Guelah Papyrus(5:26:68),
+{5}Reba(14:47:71),{
+6}I Didn't Know(3:27:68),
+{7}Taste That Surrounds(8:15:11),
+{8}If I Could(8:17:44),
+{9}Split Open and Melt(11:56:30),
+{10}Chess Match Chatter>Sweet Adeline(2:44:20).
+TOTAL: 70:19:11
+
+Disc 2 Set 2
+{1}Chess Move>Curtain(7:48:04), >
+{2}Tweezer(18:49:44),
+{3}Keyboard Cavalry(4:07:67),
+{4}Sample(4:51:00),
+{5}Slave(11:29:42),
+{6}HYHU>Cracklin Rose>HYHU(5:01:73),
+{7}Possum(12:33:45),*
+{8}*Tweezer Reprise(4:49:17),
+{9}E:Fire(4:23:74).
+TOTAL: 73:54:66
+*{8}*See the "Attention Note".
+     

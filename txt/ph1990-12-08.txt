@@ -1,0 +1,53 @@
+Phish
+December 8th, 1990
+The Chance
+Poughkeepsie, NY
+
+-Source is a Maxell XLII Analog Cassette of unknown lineage
+-Source mics unknown
+-A>D via Nakamichi Dragon>Korg MR1000>Korg Audio Gate>WAV
+-Tracking performed in Adobe Audition 3.0
+-FLAC conversion via Trader's Little Helper
+-Thanks to David "zzyzx!" Steinberg for the source tape.
+
+
+All transfers done by ifthir@hotmail.com (9.6.2010)
+
+
+Set II
+
+1. Llama [4:06]
+2. The Asse Festival [2:07]
+3. Dinner and a Movie [3:33]
+4. Bouncing Around the Room [3:43]
+5. Run Like an Antelope [11:00]
+6. Tela [6:27]
+7. Golgi Apparatus [4:35]
+8. HYHU > [1:33]
+9. No Good Trying > [2:52]
+10. HYHU // [0:05]
+11. YEM [18:05]
+
+Encore
+
+12. Funky Bitch [6:04]
+
+Encore II
+
+13. Contact [6:48]
+14. Highway to Hell [3:36]
+
+Total Time [1:14:34]
+
+
+Show Notes:
+Vacuum solo during No Good Trying
+Contact seems to have been played by request.
+
+Known Flaws:
+
+This tape has channel issues and seems very bassy but overall is still listenable until another source appears.
+The second half of HYHU is cut.
+There was a faded tape flip @ around 8:50 in YEM, I combined the tracks in Adobe Audition 3.0 without automatic crossfading.
+Two dropouts in the second half of YEM
+

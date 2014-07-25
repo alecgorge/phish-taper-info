@@ -1,0 +1,92 @@
+Phish - 4/21/1992
+Redwood Acres - Eureka, CA
+
+	Set I
+		01	Crowd/tuning
+		02	Suzie Greenberg
+		03	Uncle Pen
+		04	Split Open and Melt
+		05	Rift
+		06	Guelah Papyrus
+		07	Possum %
+		08	It's Ice >
+		09	Eliza
+		10	NICU
+
+		01	Bouncin' Round the Room 
+		02	David Bowie
+
+	Set II
+		03	Crowd/tuning
+		04	Dinner and a Movie
+		05	Col Forbin's Ascent ->
+		06	Famous Mockingbird  
+		07	Tweezer
+		08	Tela
+
+		01	Mike's Song * ->
+		02	I am Hydrogen ->
+		03	Weekapaug Groove ^
+		04	Weigh
+		05	Cold As Ice >
+		06	Catapult >
+		07	Cold As Ice
+		08	Hold Your Head Up ->
+		09	Lively Up Yourself -> Cold As Ice &
+		10	Sanity &
+		11	Maze //
+
+Show Notes: Possum was full of the Secret Language, containing Simpsons, Get Back, Oom Pa Pa, 
+All Fall Down, and Fingerscrape Signals. It also featured strong Dave's Energy Guide teases. 
+Weigh and Hydrogen were announced as written by baseball Hall-of-Famer Carl Yastrzemski. Weekapaug 
+contained a Happy Birthday tease and dedication from Trey, as well as a Linus and Lucy tease 
+from Mike. Trey used an interesting voice effect during the Forbin's narration as he spoke of 
+the evil King Wilson. For this, the only appearance of Lively Up Yourself, the band switched 
+instruments. Trey played drums, Fishman played bass, and Mike played guitar and (believe it or 
+not!) vacuum.
+	
+
+
+	% tape flip
+	* preceded by a tape flip 
+	^ w/ Happy Birthday Jam
+	& 1 splotch of diginoise
+	// diginoise and abrupt cut after about 4 minutes.  That's the end of the tape
+
+	The first couple songs of Set II seem to have been transferred or originally recorded at a different level.  As a result it has some clipping in a couple spots that results in some distortion.
+	
+	Source:  SBD > C1 > DAT
+	Xfer:	 DAT > Zoltrix > WaveLab > CDWave > Flac
+
+	transferred by rusty@ontheflyrecording.com
+
+
+ph1992-04-21d2t07.flac:b02fe2eebd6371c9899a0a9bcdb2bf25
+ph1992-04-21d1t02.flac:9b4e105ef98a4e9b7a8b01bb7d49ef30
+ph1992-04-21d1t03.flac:f1b82d9996140e06b91d93e4032f5347
+ph1992-04-21d1t04.flac:6d67f40f7dfadc32458d639c2277074c
+ph1992-04-21d1t05.flac:eca6be8c625dee22fe6d680b5228f190
+ph1992-04-21d1t06.flac:5885d4f502c0023710bbff7e28ebf1cb
+ph1992-04-21d1t07.flac:88f7739d3932216cad5a9fa46c56a7de
+ph1992-04-21d1t08.flac:ad1fb2213eab78b332fd81938d5a9919
+ph1992-04-21d1t09.flac:a4ebb7dd59e5cfc9f10d269a0f9d7a3a
+ph1992-04-21d1t10.flac:eb0c3337840883b93bd5fef83c5ed597
+ph1992-04-21d2t01.flac:147dd6fcabd78da36e9a396ed03d0a6c
+ph1992-04-21d2t02.flac:53112ef23683a935aa37e270bac34d12
+ph1992-04-21d2t03.flac:2cf164f5fa91c5409b3298b08f467d61
+ph1992-04-21d2t04.flac:8233d48c7868d1756be248245ee2bc08
+ph1992-04-21d2t05.flac:d342861f58b34f7c5e93b1bdf0f49852
+ph1992-04-21d2t06.flac:9fc95a12a8ee0eb4220a2ffb4a847464
+ph1992-04-21d1t01.flac:abd779ed796e1cc2cda455c6313a00c7
+ph1992-04-21d2t08.flac:6a183b5ec8e6b1032ddddb6c9b134c03
+ph1992-04-21d3t01.flac:13976de3a91d50456601911c5722f764
+ph1992-04-21d3t02.flac:e879db4338c3b7d38e7464c91a9c122a
+ph1992-04-21d3t03.flac:642442035fe424a36d0cd359f7958b17
+ph1992-04-21d3t04.flac:9f87033c23bb9c359ebcc3401ed008cf
+ph1992-04-21d3t05.flac:1f7039f0ddd1d9af2da9301f24f5d4e1
+ph1992-04-21d3t06.flac:e6fedccc8ece0dd07f2163c64e2e6798
+ph1992-04-21d3t07.flac:4d6c36a91bee4bccd819ab31fb5cee19
+ph1992-04-21d3t08.flac:361ffe3d5274826acbb09503c0d42f4b
+ph1992-04-21d3t09.flac:8aa041247503bc11e10f262cc30f15ef
+ph1992-04-21d3t10.flac:22c1631bed157ae7cfee881db1ca102c
+ph1992-04-21d3t11.flac:31a342af056f4bdfc079882c518134c8

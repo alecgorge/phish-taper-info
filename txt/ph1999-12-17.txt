@@ -1,0 +1,50 @@
+Phish
+December 17, 1999
+Hampton Coliseum
+Hampton, VA
+
+source:
+(FOB) Schoeps mk41 > kc5 > cmc6 > Sonosax SX-M2 > Sony D100 (@ 48kHz)
+
+transfer:
+Sony PCM-R500 > Tascam HD-P2 > CF card > usb > pc > WaveLab 5.01b (fades, resample to 44.1 kHz) > CD Wave v1.95 > FLAC v1.1.2 (Level 8)
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded September 10, 2006
+
+notes:
+The original 48kHz files from the DAT transfer have been archived, and are available upon request.
+This is a re-transfer from the master DATs.  I transferred Dave's source and seeded on 12/03/05, but on that transfer, I used my Sony D8 for the transfer, and there was digi-noise throughout.  This is a clean transfer from a better DAT deck.  Enjoy.
+The master DATs were used in this transfer, thansk Dave!
+
+Disc 1 - [67:03]
+Set I
+01 - [11:21] - Piper
+02 - [06:29] - Meat >
+03 - [04:04] - Sparkle >
+04 - [12:13] - Gotta Jibboo >
+05 - [10:34] - Punch You in the Eye
+06 - [05:40] - When the Circus Comes
+07 - [05:27] - Water in the Sky
+08 - [11:14] - Twist
+
+Disc 2 - [43:08]
+Set II
+01 - [11:26] - Birds of a Feather
+02 - [08:59] - The Moma Dance >
+03 - [05:06] - spacy jam >
+04 - [09:42] - Bug
+05 - [07:56] - Jennifer Dances
+
+Disc 3 - [48:55]
+Set II continued
+01 - [17:27] - Split Open and Melt
+02 - [06:55] - Character Zero
+03 - [05:07] - encore break
+04 - [03:54] - The Old Home Place
+05 - [07:17] - The Squirming Coil >
+06 - [08:14] - Loving Cup
+
+Show Notes: Moma included Birds teases. Old Home Place was played for the first time since 
+December 30, 1998 (62 shows).

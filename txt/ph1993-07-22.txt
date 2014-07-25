@@ -1,0 +1,53 @@
+Phish
+07/22/93 
+Stowe Performing Arts Center
+Stowe, VT
+
+Set 1: 
+1 Llama, 
+2 Foam, 
+3 Horn, 
+4 My Mind's Got a Mind of its Own, 
+5 Sample in a Jar, 
+6 Divided Sky, 
+7 Mound, 
+8 Ya Mar, 
+9 Poor Heart, 
+10 Stash, 
+11 Golgi Apparatus
+
+Set 2: 
+1 Also Sprach Zarathustra > 
+2 Tweezer > 
+3 Walk Away 
+4 Sparkle 
+5 It's Ice 
+6 Contact, 
+7 Possum, 
+8 Paul and Silas*, 
+9 T.M.W.S.I.Y.* > Avenu Malkenu*> 
+10 Rocky Top*, 
+11 E: Freebird
+
+Comment: * With Gordon Stone on banjo.
+
+Show Notes: Paul and Silas through Rocky Top featured Gordon Stone on banjo. 
+The show was played in a total downpour, and the amphitheater was not built 
+to handle that kind of weather. Before the first set, Trey remarked that the staff 
+was talking about canceling the show due to the danger of electrocution. 
+"I told 'em, 'Fuck that. Put the plug up my ass and count out Llama!'" quoth Trey. 
+Walk Away included a brief tease of Pearl Jam's Alive. Possum included a brief 
+Tweezer jam.
+
+Source:	AKG460's w/ CK-61 cardioid capsules> 45v custom built phantom power supply> Sony D-10 Pro II 
+
+Conversion: Casio DA-R100 @48Khz> S/PDIFF input on Creative Live! sound card > Sound Forge 5.0b @44.1Khz > mkw Audio Compression (no extraction involved)
+
+Notes:  It was a VERY rainy show and in order avoid the many bad points of running equipment in the rain and the fact that there were 2 large "repeater" speakers on the back of the sound board the mics were moved at last minute before the start of 1st set.  The mics were moved to either side of the back of the sound board platform underneath the tent that Paul and Chris were using for the sound boards.  The mics were then placed approx 1.5' away from each speaker under the protection of the tent.  Good part: the sound of the tape is close to sound board quality.  Bad part: it took longer than expected to move the mics and equipment which had all ready been setup, therefore the first attempt to start Llama was missed on the DAT but fortunately due to rain Trey stopped the song then restarted  minutes later.  The DAT started during this short break.  Overall BY FAR the best recording made that day and one of the best I've ever made with the exception of the late start.  There was a person taping from about 13th row center running Nak 300s with plastic bags over them that has the first attempt at Llama but he is one of the only ones who did get it as most of the tapers by the sound board patched out of me once I was setup due to the much higher sound quality.
+
+Peace,
+Taper Tom
+
+Recorded:  		"Taper" Tom McMinn
+Conversion:		"Taper" Tom McMinn
+Seeded:			"Taper" Tom McMinn

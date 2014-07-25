@@ -1,0 +1,51 @@
+Phish
+October 28, 1995
+The Palace
+Auburn Hills, MI
+
+source:
+(FOB) Neumann km140
+recorded from the 16th row
+
+transfer:
+Sony PCM-R500 > Tascam HD-P2 > CF Card > usb > pc > WaveLab 5.01b (fades, resample to 44.1kHz, patch) > CD Wave v1.94.7 > FLAC v1.1.2 (Level 8)
+
+recorded by Dom Tringale
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded June 27, 2006
+
+note:
+The original 48kHz files from the DAT transfer have been archived, and are available upon request.
+Thanks to Kevin Shapiro for supplying the DATs, and thanks to Franklin Malemud for sending them my way.
+
+Disc 1 - [77:00]
+Set I
+01 - [09:23] - AC/DC Bag
+02 - [05:47] - Mound
+03 - [05:13] - Timber Ho
+04 - [04:15] - Uncle Pen
+05 - [04:54] - Sample in a Jar
+06 - [11:13] - The Lizards
+07 - [05:49] - Billy Breathes
+08 - [04:15] - Acoustic Army
+09 - [03:05] - Prince Caspian
+10 - [12:04] - Run Like an Antelope
+Set II
+11 - [11:01] - Maze
+
+Disc 2 - [71:54]
+Set II continued
+01 - [10:45] - Theme From the Bottom ->
+02 - [13:00] - Scent of a Mule
+03 - [22:11] - You Enjoy Myself
+04 - [02:58] - Strange Design
+05 - [05:55] - Frankenstein
+06 - [08:32] - Chalk Dust Torture
+07 - [02:33] - encore break
+08 - [06:01] - While My Guitar Gently Weeps
+
+patch notes:
+There was one short spot of digi-noise in AC/DC Bag.  I used the following source to replace that segment:
+AKG 460/ck61 > Aerco > DTR80
+The AKG source was used completely from 01:40 - 01:44, and there are 5 seconds of cross-fading before and after 
+that short section to make the transitions smooth.

@@ -1,0 +1,142 @@
+PHISH - January 28th, 1990
+The Front - Burlington, VT
+
+Recording:
+SBD -> Sony TCD5 master cassette(TDK SA-X90) -> cassette/1 (TDK SA-90)
+
+Transfer:
+Nak CR-3A -> Audigy 2 -> Cool Edit Pro 2 -> 16/44.1k -> TLH -> Flac16
+
+Transfered and remastered by Tim Leavy
+footbear@msn.com
+July 22nd, 2008
+
+Notes:
+-- First couple of notes (less than 1 second) of Suzy Greenberg is missing.
+-- Tape flip in YEM @ 14:12 is perfectly crossfaded, seamless and completely invisible.
+-- This source has less hiss and is more seamless than other copies in circulation.
+-- Thanks to the taper that spun these copies for me after the show.
+   (sorry I can't remember your name)
+
+
+DISC ONE
+Set 1:
+d1t01 - Suzy Greenberg
+d1t02 - Split Open and Melt
+d1t03 - Tela
+d1t04 - Fluffhead
+d1t05 - La Grange
+d1t06 - Carolina
+d1t07 - Colonel Forbin's Ascent >
+d1t08 - The Famous Mockingbird
+d1t09 - Communication Breakdown
+
+
+DISC TWO
+Set 2:
+d2t01 - Tuning
+d2t02 - Wilson
+d2t03 - Run Like an Antelope
+d2t04 - Stage Banter*
+d2t05 - Bouncing Around the Room
+d2t06 - Caravan
+d2t07 - The Squirming Coil
+d2t08 - You Enjoy Myself
+d2t09 - Bathtub Gin
+d2t10 - Mike's Song >
+d2t11 - I Am Hydrogen >
+d2t12 - Weekapaug Groove
+d2t13 - Crowd
+
+Encore:
+d2t14 - Lawn Boy
+d2t15 - Big Black Furry Creature from Mars
+
+*It was brutally freezing cold outside this night and disgustingly hot, sweaty
+ and steamy inside the club, which was small and cramped. Just the way we liked it!
+
+
+SHNTOOL OUTPUT:
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     5:11.36       54945116 B   ---   --   -----    wav  1.0000  ph1990-01-28d1t01.wav
+     7:50.62       83053868 B   ---   --   -----    wav  1.0000  ph1990-01-28d1t02.wav
+     6:35.23       69732140 B   ---   --   -----    wav  1.0000  ph1990-01-28d1t03.wav
+    14:40.74      155406092 B   ---   --   -----    wav  1.0000  ph1990-01-28d1t04.wav
+     5:35.66       59249276 B   ---   --   -----    wav  1.0000  ph1990-01-28d1t05.wav
+     2:25.07       25594508 B   ---   --   -----    wav  1.0000  ph1990-01-28d1t06.wav
+     6:10.49       65383292 B   ---   --   -----    wav  1.0000  ph1990-01-28d1t07.wav
+     6:06.16       64600076 B   ---   --   -----    wav  1.0000  ph1990-01-28d1t08.wav
+     4:31.49       47919692 B   ---   --   -----    wav  1.0000  ph1990-01-28d1t09.wav
+     1:33.44       16508732 B   ---   --   -----    wav  1.0000  ph1990-01-28d2t01.wav
+     3:54.37       41364668 B   ---   --   -----    wav  1.0000  ph1990-01-28d2t02.wav
+     9:39.05      102147404 B   ---   --   -----    wav  1.0000  ph1990-01-28d2t03.wav
+     0:58.15       10266524 B   ---   --   -----    wav  1.0000  ph1990-01-28d2t04.wav
+     3:45.28       39755900 B   ---   --   -----    wav  1.0000  ph1990-01-28d2t05.wav
+     6:54.34       73109612 B   ---   --   -----    wav  1.0000  ph1990-01-28d2t06.wav
+     5:39.37       59886668 B   ---   --   -----    wav  1.0000  ph1990-01-28d2t07.wav
+    17:16.67      182908028 B   ---   --   -----    wav  1.0000  ph1990-01-28d2t08.wav
+     6:17.67       66660428 B   ---   --   -----    wav  1.0000  ph1990-01-28d2t09.wav
+     5:43.66       60660476 B   ---   --   -----    wav  1.0000  ph1990-01-28d2t10.wav
+     2:25.42       25676828 B   ---   --   -----    wav  1.0000  ph1990-01-28d2t11.wav
+     6:18.23       66733340 B   ---   --   -----    wav  1.0000  ph1990-01-28d2t12.wav
+     1:26.23       15224540 B   ---   --   -----    wav  1.0000  ph1990-01-28d2t13.wav
+     2:19.46       24627836 B   ---   --   -----    wav  1.0000  ph1990-01-28d2t14.wav
+     3:24.52       36107948 B   ---   --   -----    wav  1.0000  ph1990-01-28d2t15.wav
+   136:45.68     1447522992 B                            1.0000  (24 files)
+
+
+ffp:
+ph1990-01-28d1t01.flac:a177899ab8eec9aa2ce645c40fd364ba
+ph1990-01-28d1t02.flac:f98e7e4d60ccfdba6d808b79cf725883
+ph1990-01-28d1t03.flac:28c750115539dfc6607a148f87ed7656
+ph1990-01-28d1t04.flac:3090f7cd21a204b40bb4ab749331d743
+ph1990-01-28d1t05.flac:682be7e8960e6894f985e040dba681e7
+ph1990-01-28d1t06.flac:29d123d199e2281920295c580435533f
+ph1990-01-28d1t07.flac:9f064d9727dd5bc7753ce4735200ad62
+ph1990-01-28d1t08.flac:87b301c67929aced13dc944f5ddde748
+ph1990-01-28d1t09.flac:00b8764fbed6b77711c4268f964b74fb
+ph1990-01-28d2t01.flac:046f5e5b1470707ac18def5f52825f57
+ph1990-01-28d2t02.flac:b3630b4d0e2fb49bb145d62c3c32abcf
+ph1990-01-28d2t03.flac:dbc98dc5d6fee3feca4f32f130aba0a6
+ph1990-01-28d2t04.flac:67c4aaa30af82092758ba97f7e1a03c6
+ph1990-01-28d2t05.flac:75e73824bc11e60a1f215f9bbc432a2c
+ph1990-01-28d2t06.flac:8fab3ac7b555a819082fa7b7d009383c
+ph1990-01-28d2t07.flac:9dac73155a795f2bebb34df55fa68ed1
+ph1990-01-28d2t08.flac:da1a601cb8c1eca19c8f3476d3c97dd8
+ph1990-01-28d2t09.flac:c2a2558bc07582bc2ed1f086f855ba53
+ph1990-01-28d2t10.flac:eaa3a5a375247f5bfea31bed2e30c9b9
+ph1990-01-28d2t11.flac:7531ebe27e44482ab783f5f0f1799864
+ph1990-01-28d2t12.flac:0e3e64a20b402e0b368aaf50d3bf9d28
+ph1990-01-28d2t13.flac:0d863043c579524f379c4dff243235c0
+ph1990-01-28d2t14.flac:1361d37aa247b32e3495db96b2f52724
+ph1990-01-28d2t15.flac:68e090e492cb15bc2be766df59c918d0
+
+
+MD5 Checksums:
+07a490eb735e6a4f1a5899b0b102a8c7 *ph1990-01-28d1t01.flac
+803ca81c1d44f4bd08cdd089f63524da *ph1990-01-28d1t02.flac
+26cdbb08132aa00c1cc59a92e04223d9 *ph1990-01-28d1t03.flac
+05214f7ff1a0c214d1eedb28e7241dfb *ph1990-01-28d1t04.flac
+be6ab0878f3b81be2c5aca7e50bbeac6 *ph1990-01-28d1t05.flac
+6755871179a9546967b3bded4db9a3f5 *ph1990-01-28d1t06.flac
+3ac506499e0961fd30145bc135eda357 *ph1990-01-28d1t07.flac
+46efbe98f0ec66b7bcd03fd47a91a5a1 *ph1990-01-28d1t08.flac
+04a9e6d2755833cbeb6f8e21ff4a0b73 *ph1990-01-28d1t09.flac
+ec914b83baaef032d079c28d403d3ed4 *ph1990-01-28d2t01.flac
+d82bc80517e4df69398dc5c27fa31804 *ph1990-01-28d2t02.flac
+3cbf4fe088907a7b946ddda9207674f6 *ph1990-01-28d2t03.flac
+331abd8a6c46ac248c375f0c2fe044ad *ph1990-01-28d2t04.flac
+2ecf63836c74f2ce84ec8e6706385081 *ph1990-01-28d2t05.flac
+feefdb1e19b6d6b60b0ddd733d18dec8 *ph1990-01-28d2t06.flac
+07a87120ba1feb4777b7286e94fdd05f *ph1990-01-28d2t07.flac
+de2a911392ffe7e450e69e55ecb58a83 *ph1990-01-28d2t08.flac
+e167bf46f0f79a085d47f4fd92c841db *ph1990-01-28d2t09.flac
+9f09ce4e640c4f6b508175950ef5b850 *ph1990-01-28d2t10.flac
+8517eb99d637d5828d65de946f79c22b *ph1990-01-28d2t11.flac
+871ace6eaf7cfc34a7271586053a9b98 *ph1990-01-28d2t12.flac
+7de9fddcf2bb21a0c4b453549479bf69 *ph1990-01-28d2t13.flac
+71154c78a10b6f19ae6edc7f59a1dc94 *ph1990-01-28d2t14.flac
+8a668c41138c30f7bd84c83fcd6fcc6a *ph1990-01-28d2t15.flac
+
+
+

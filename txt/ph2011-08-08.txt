@@ -1,0 +1,51 @@
+Phish
+08/08/2011
+Hollywood, California  Hollywood Bowl
+
+Source: Schoeps m934c> M221B> Sonosax SX-M2> Edirol R44 (@24bit/96kHz)
+Location: Section Garden 932, 8' Stand, ORTF, m934c/cardioid
+
+Transfer: SDHC> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (08/09/2011)
+
+
+Set I
+t01 [08:31] Down with Disease >
+t02 [04:09] Cavern >
+t03 [08:42] Possum
+t04 [06:09] Cities
+t05 [03:33] Peaches en Regalia
+t06 [08:06] Kill Devil Falls
+t07 [03:22] Lawn Boy
+t08 [04:06] Tube >
+t09 [08:00] Back on the Train
+t10 [04:18] Wilson >
+t11 [03:24] Axilla >
+t12 [10:30] Split Open and Melt
+t13 [08:25] Backwards Down the Number Line
+
+Set II
+t14 [07:37] Carini>
+t15 [12:28] Crosseyed and Painless>
+t16 [06:53] Twist>
+t17 [08:50] Piper >
+t18 [07:04] Mike's Song>
+t19 [05:49] Joy>
+t20 [06:33] Weekapaug Groove
+t21 [03:53] 50 Ways to Leave Your Lover>
+t22 [01:13] HYHU>
+t23 [02:33] Weekapaug Groove
+t24 [05:59] Character Zero
+t25 [04:55] The Mighty Quinn (Quinn The Eskimo)
+t26 [02:32] crowd
+
+Encore
+t27 [04:26] Stealing Time from the Faulty Plan >
+t28 [07:26] Julius
+
+
+Notes:
+50 Ways to Leave Your Lover (Paul Simon), first time played
+-w/Fishman on mini kit at front & center stage
+Thanks to Chris King (R44) and Adam Downs (SX-M2)
+Set I [1:21:15] Set II [1:16:19] Encore [11:52]

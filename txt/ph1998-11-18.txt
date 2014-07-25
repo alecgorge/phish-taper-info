@@ -1,0 +1,46 @@
+Phish
+11-18-98
+The Bi-Lo Center
+Greenville, SC
+
+Source: Schoeps CMC641->Aerco->SBM-1 @44.1
+Transfer: DA-20 mkii->Delta Dio 2496->Soundforge 6.0->CDWAV->shntool->shn
+
+Transfer by: Brandon Johnston -- http://db.etree.org/bisq
+
+
+Disc 1:
+-Set I-
+1.Back at the Chicken Shack
+2.Birds of a Feather
+3.Farmhouse
+4.My Soul
+5.Guyute
+6.Lawn Boy
+7.Love Me
+8.David Bowie
+9.Carolina
+
+Disc 2:
+-Set II-
+1.Wolfman's Brother ->
+2.The Lizards
+3.The Moma Dance
+4.Albuquerque
+5.Slave to the Traffic Light
+6.Fluffhead >
+7.Character Zero
+8.crowd noise
+
+Disc 3:
+-Encores-
+1.Brian and Robert
+2.Sleep
+3.Dog Faced Boy
+4.The Squirming Coil
+
+Show Notes: Carolina was restarted after Page's miscue and featured a choreographed stage routine at the end.
+
+Tech Notes: Fades at the start of the sets were added in soundforge 6.0. Fades at the ends of the sets were on the original dat.
+
+small bit of diginoise d2t02 ~2:20 fixed with Cool Edit Pro by Matt Vernon

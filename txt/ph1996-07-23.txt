@@ -1,0 +1,61 @@
+Phish
+Markthalle, Hamburg, Germany;
+07-23-1996
+
+Source:   Schoeps CMC6/MK41 > SBM-1 > DA-P1 (said to be)
+Taper:    Unknown
+Transfer: Unknown; This .shn bases on a bad tracked .shn that came in
+          here. I've extracted it to wav and tracked and .shn'ed it new,
+          that's all. The text info of the basis-.shn included just
+          the source info, no transfer info. The md5's of the basis-.shn
+          are listed below for your information (I decided to NOT add
+          them as a MD5-file).
+
+Extracted, tracked new and .shn'ed new by Friedemann Rothfuchs;
+<kushelphish@gmx.de>
+<http://www.phishhook.com/lists/ClancyWiggum>
+
+Disc 1/Set I:   [73:25]
+01: AC/DC Bag >
+02: Foam
+03: Theme from the Bottom
+04: Gumbo
+05: Scent of a Mule->
+06: Down with Disease->
+07: McGrupp and the Watchful Hosemasters
+08: Hello my Baby
+
+Disc 2/Set II:  [73:44]
+01: Also Sprach Zarathustra->
+02: Runaway Jim
+03: Loving Cup
+04: Sparkle
+05: Mike's Song->
+06: I'm Hydrogen->
+07: Weekapaug Groove
+08: HYHU->
+09: Bike->
+10: HYHU
+11: Slave to the Trafficlight
+12: Tuning^
+13: Encore: Rocky Top
+
+^ Encore Break is cut out on the original .shn
+Contrary to common Setlists "Stash" wasn't played at this show
+________________________________________________________________________________
+Old MD5's (just for your complete information) :
+
+daca459e06483df316294c88924265ad *Track01.shn [AC/DC Bag > Foam]
+066ce700ae35138140a276b4766de4e6 *Track02.shn [Theme]
+ba3baa71435ffe07033ca124fcfcef2b *Track03.shn [Gumbo, Scent]
+1ec6d5e8090014941009cd62a782c24a *Track04.shn [Down with Disease]
+be06bf9a06499fc3118f51bece290cab *Track05.shn [McGrupp]
+e1631603ce788768ab94316ffc9fcc39 *Track06.shn [Hello my Baby]
+
+b0e019d0985abdeba0fba55f46c66672 *Track01.shn [Also Sprach > Runaway Jim]
+5708f1430ba874785cb4a1c2ec86d0bd *Track02.shn [Sparkle]
+803833fb62446ed642d16605c9677956 *Track03.shn [Loving Cup]
+2b7311d3b5e92366612aaacb706f0f6b *Track04.shn [Mike's > Hydr. > Weekapaug, HYHU]
+f25b3ddc363f5f96261e7eb65f015601 *Track05.shn [Bike > HYHU]
+2d6dca89800a98c46cacb48b56ec7777 *Track06.shn [Slave]
+d98bdad857634d5122a9a5414f50fad6 *Track07.shn [Rocky Top]

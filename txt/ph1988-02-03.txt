@@ -1,0 +1,36 @@
+Phish 
+February 3rd, 1988
+Gallagher's
+Waitsfield, VT
+
+-Source is a Maxell UDS-II Analog Cassette labeled AUD/?
+-A>D via Nakamichi Dragon>Korg MR1000>Korg Audio Gate>WAV @ 24/96
+-96khz > 44khz sample rate conversion via iZotope SRC 64 bit SRC 
+-24bit > 16bit bit depth conversion via iZotope MBIT+ Dither 
+-Tracking performed in Adobe Audition 3.0
+-FLAC conversion via Trader's Little Helper
+-Thanks to Rob Grego for the source tape.
+
+All transfers by ifthir@hotmail.com (12.14.2010)
+
+1. David Bowie [18:15]
+2. Sympathy For The Devil [6:15]
+3. Fee [5:28]
+4. Run Like An Antelope // [4:21]
+5. AC/DC Bag > [7:27]
+6. Possum [5:11]
+
+Total Time [46:57]
+
+
+Known Flaws:
+
+Cut in Antelope
+Setlist Incomplete
+
+Show Notes:
+
+Bowie appears to end a set.
+Sympathy For The Devil sounds as if it begins the following set.
+AC/DC Bag > Possum may or may not be from this show.
+Setlist Unconfirmed

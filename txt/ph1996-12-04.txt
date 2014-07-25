@@ -1,0 +1,50 @@
+Phish
+December 4, 1996
+Sports Arena
+San Diego, CA
+
+Set 1 source:	FOB Nuemann km 140 -> DA-P1
+		(FOB right side around 3rd to 5th row)
+
+Set 1 transfer:	Fostex D5 -> optical cable -> Hosa ODL-276 -> S/PDIF coax cable -> 
+		EgoSys Waveterminal 2496 -> CoolEdit 2000 (48->44.1kHz, fades) -> 
+		CD Wave v1.71 -> mkwACT 0.97b1
+
+transferred by: Jason Sobel (jasonsobel@hotmail.com)
+
+Set 2 SOURCE:  SBD (set2) > Cass/x > DAT > CDR > EAC > SHN
+
+note: both discs require 80 minute discs.
+
+ - Disc 1 - [78:06.236]
+SET I
+01 - [00:15.853] - intro
+02 - [06:21.213] - My Friend My Friend
+03 - [07:32.413] - Chalk Dust Torture
+04 - [03:45.266] - Horn
+05 - [04:19.920] - Uncle Pen
+06 - [06:21.626] - Timber Ho
+07 - [04:53.173] - Sample in a Jar
+08 - [02:40.266] - Train Song
+09 - [10:20.080] - Guyute
+10 - [05:51.320] - Character Zero
+11 - [10:32.000] - Lizards
+12 - [15:13.106] - David Bowie
+
+ - Disc 2 -
+set 2:			77:25
+01.  HA HA HA		01:39
+02.  MIKE'S SONG >	16:21
+03.  PRINCE CASPIAN >	08:37
+04.  SPARKLE		03:32
+05.  PYITE		07:39
+06.  LIFE ON MARS?	03:26
+07.  REBA		12:39
+08.  THANKS *		01:06
+09.  LAWN BOY		02:44
+10.  WEEKAPAUG 		08:06
+encore:
+11.  JESUS LEFT CHICAGO **	11:35
+
+* band dedicates Lawn Boy to Lisa and Katie, the band's caterers.
+** cut at 7:25, reportedly on master copy.

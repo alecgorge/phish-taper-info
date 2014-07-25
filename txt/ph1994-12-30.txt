@@ -1,0 +1,80 @@
+Phish 12/30/94 Madison Square Garden - New York, NY
+
+Source: 		DAUD/FOB Schoeps mk4(ORTF) > KC5 actives > CMC5 >
+		Sonosax SX-M2 > Apogee AD-500e > Sony D10 @48kHz
+		Set 1: Master (from D10) used in below transfer
+		Set 2: Master > clone(s) (backup) used in below transfer (see below)		
+
+Conversion: 	R500 > Canare Coax > Sek'd Prodif Plus > Soundforge 5.0 
+		(fade in/out/edits/48>44.1 at highest setting[4of4]
+		with anti-alias filter) > CD Wave > mkwACT v0.97
+		(shn files have seek tables appended) **No DAE at all** 		
+
+Detailed info:	This recording was done on a stand in Row M, (aka DFC!).
+
+Minor Edits:	Fades in/out beg/end of sets--3 sec fade-in's and 5 sec fade out's
+		Eliot provided two separate versions of set-2; both clones directly 
+		from the master--which is not around.  One of the clones has a dropout
+		from cloning (weird loss of signal) in Harry Hood (I'll call this clone
+		'clone A' as it is used for most of set-2) the other clone ('clone B') 
+		has a cut at the beginning of Sample.  Hence, we don't have access to the 
+		master anymore and these are the two closest things around.  So, to make 
+		a perfect source from these two nearly perfect clones of the master I 
+		have used clone A up until right before Harry and there I have patched 
+		in clone B for the rest of the show (about 23m23s).  This was done by
+		patching the two sources at the sample level in SF 5.0 during the crowd
+		noise between HYHU and Harry Hood.  More detailed info is provided in the
+		48k .shn's as the timing is pertinent in those files and not here, because
+		all the edits were done at 48k prior to resampling.  No music was disturbed
+		and the patch is done at the sample level so it's inaudible to the human ear,
+		or as close to perfect as it's gonna get.
+		
+Taper: Eliot Byron
+Huge thanks to Eliot who supplied the DATs for this transfer!
+Transferred and uploaded by Jim Raras <jraras@yahoo.com> via Dankseeds
+Please contact me with questions etc.  There are also 48k shn's of this seed for archival.
+____________________________________________________________________________
+*Dankseed Certification received 2002-01-18*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph1994-12-30/
+Listening test performed by *5* danksters
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________
+Disc 1 / Set I 			                        		00:56:13
+
+01. Wilson			                   			04:39
+02. Rift	       			           			05:56 
+03. AC/DC Bag			                   		06:43 
+04. Sparkle			                   		03:56 
+05. Simple			                   			05:35 
+06. Stash				                   		09:35 
+07. Fee 			                   			05:32 
+08. Scent of a Mule		                   			09:09
+09. Cavern					                05:08
+
+Disc 2 / Set II 			                     	 	01:19:37
+
+01. Sample in a Jar		                   			04:58
+02. Poor Heart			                   		02:19 
+03. Tweezer				                   	23:21
+04. I'm Blue I'm Lonesome	                   			02:51
+05. You Enjoy Myself		                   		23:18
+06. Purple Rain	>		                   		05:35 
+07. HYHU				                   		01:14 
+08. Harry Hood			                   		12:27
+09. Tweezer Reprise			                   		03:34
+
+Disc 3 / Encore 			                      	    	00:06:58
+
+01. Encore Break/Crowd			                   	01:45
+02. Frankenstein			                   		05:13
+
+Setlist from "The Phish Companion" http://www.phish.net/mockingbird
+*This show can be fit on two discs (1 74min and 1 80min) by putting Sample and Poor Heart
+on d1 and moving the two tracks from d3 on to the end of d2.  Either way d2 needs an 80min.

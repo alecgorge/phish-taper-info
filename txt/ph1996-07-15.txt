@@ -1,0 +1,35 @@
+Phish
+La Marna, Sesto Calende, Italy;
+Monday, 07-15-1996  
+
+Source: Sennheiser MKE 66 Stereo > Tascam DA-P1
+Lineage a: Tascam DA 20 MK II (master DAT) > Micromega DUO BS2 > TASCAM CD-RW 5000 stand alone pro audio recorder (with Van den Hul M.C.Videolink 75 cables) 
+Lineage b: EAC (secure mode) > Adobe Audition 1.5 (new .wav file) > CD Wave (new tracking) > shntool > flac frontend (level 8)
+Taped and Lineage a by Aldo Torre
+Lineage b by Friedemann Rothfuchs, kushelphish@gmx.de, 08-02-2005
+Thanks to Aldo Torre for providing the CD's.
+
+Disc 1/Set I: [65:56]
+01.  My Friend My Friend
+02.  Punch You In The Eye
+03.  Fast Enough For You
+04.  Guyute
+05.  Possum
+06.  I Didn't Know
+07.  Harry Hood
+08.  Cavern
+  
+Disc 2/Set II: [77:23]
+01.  Down With Disease 
+02.  Maze
+03.  Loving Cup >
+04.  Makisupa Policeman
+05.  It's Ice 
+06.  Julius
+07.  HYHU >
+08.  Purple Rain >
+09.  HYHU  
+10.  Uncle Pen
+11.  Run Like An Antelope
+12.  Pre Encore Crowd Noise
+13.  Encore: Golgi Apparatus 

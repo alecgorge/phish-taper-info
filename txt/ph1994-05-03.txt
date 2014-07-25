@@ -1,0 +1,102 @@
+Phish
+05-03-1994
+Starwood Amphitheater
+Antioch TN
+
+Set I Source:    DAUD/OTS>AKG 460b ck61>AKG B-18 Phantom Power>Sony D-10
+           Pro II(@ 48khz)
+
+Transfer: Master Dat from D-10>Sony DTC-690> Audioquest
+          Optilink 1> SEK'D Prodif Plus> Samplitude v5.5> Soundforge xp
+          4.5 (resample @ 4/4 with anti alias filter)> Cdwav 1.6>
+          flac 
+
+----------------
+
+Set II Source:  SBD>C0>DAT @ 44.1KHz (Unknown DAT generations)
+
+Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                Soundforge 5.0b-> CD Wave 1.61-> mkwACT v0.97
+                **No DAE at all**
+
+Minor Edits:	Fades (in/out at beginning/end of sets and crossfades at cassette flips)
+		Fixed the 2 drop-out's in Harpua using Soundforge.
+----------------
+Transferred by Dan Marquardt <danmarq@msn.com>, please contact me with questions/comments.
+There are also 48KHz shn's of this seed for archival.
+--------------------------------------------------------------------------------------------
+      
+Taped by:      Jeff Jordan
+Transferred by: Chris "sparki" Ace 
+
+Big thanks to Jeff and Lauren Jordan for sending me the dats for transfer
+
+
+Disc One : Set I       [59:40]
+
+01: Rift               [06:32]
+02: Guelah Papyrus     [05:43]
+03: Maze               [10:08]
+04: Sparkle	       [03:43]
+05: Stash	       [10:30]
+06: Squirming Coil     [09:09]
+07: Scent of a Mule    [06:26]
+08: Sample in a Jar    [05:01]
+09: Adeline*           [02:24]
+
+
+CD 1/Set 2a:				60:17
+01. David Bowie				12:28
+02. If I Could**			05:37
+03. Fluffhead				13:36
+04. Down With Disease			07:22
+05. Harpua%				14:52
+06. Chalk Dust Torture			06:21
+
+CD 2/Set 2b:				21:49
+01. HYHU > I Wanna Be Like You->	06:39
+02. HYHU				01:16
+03. Slave to the Traffic Light		09:54
+04. Crowd Noise				02:27
+
+Encore:
+05. Nellie Cane				02:58
+06. Fire				04:35
+
+As an alternative to three discs you can put the encores 
+on the end of disc one.
+
+* Performed acapella
+**With Allison Krauss on vocals (as on the album "Hoist").
+% A Cassette flip and 2 very small drop outs.
+
+"Sunshine of your love" and "Sunshine of My Life" teases in 
+David Bowie and Harpua
+
+The show was originally scheduled to take place on "The Veranda," a stage 
+set up in the concession area. However, due to rain, the show was moved to 
+the main stage. Hank Williams Jr. was rehearsing for an upcoming tour, 
+and his entire rig (PA/sound and lighting systems) was already set up. 
+Phish was granted permission, and did use this equipment. 
+
+
+ph1994-05-03d1t01.flac:6c9289eb5bc90988fcad12243be77d29
+ph1994-05-03d1t02.flac:10d8d80baa4d2f3ba25f411ec9715111
+ph1994-05-03d1t03.flac:63b2c90dd3cfb5ccc1bcb8264ea6ca36
+ph1994-05-03d1t04.flac:fca1c49a50abf7270d4bbd8d17697f4d
+ph1994-05-03d1t05.flac:1709967ef89e991aab6ce178728e8f4c
+ph1994-05-03d1t06.flac:4a35eacb5ad96df75ac95b4f54d26210
+ph1994-05-03d1t07.flac:c0b6a53f5744a36387eb840829fd48a9
+ph1994-05-03d1t08.flac:883675dc82074ea244d62b65d099e7ed
+ph1994-05-03d1t09.flac:476b37ebec3ab9997f0f8a3eceb2036b
+ph1994-05-03d2t01.flac:fd85d714e2429d5bee2b2f948d034e1c
+ph1994-05-03d2t02.flac:c5783366c7d7105dd3b472c5288e4e56
+ph1994-05-03d2t03.flac:5f97df434ffd6a3552f004d227d89c24
+ph1994-05-03d2t04.flac:7f50df0a1c161fb7369ef2b594d31eff
+ph1994-05-03d2t05.flac:8ddfaf4108d8d9053e64c486dca61c67
+ph1994-05-03d2t06.flac:5b01ea5c94a49fda146ad3754723db82
+ph1994-05-03d2t07.flac:a0dba828761ce87d003d3ef15223de80
+ph1994-05-03d2t08.flac:0f9d6145ad972e59afff6fd9d6a66fc2
+ph1994-05-03d3t01.flac:a61e934bdf59646dd55bca2b26035dff
+ph1994-05-03d3t02.flac:e7e936fd92464ba5e97bf0d0aea5fbb0
+ph1994-05-03d3t03.flac:c7ff7f8062c238e65596719bcb9b90c9

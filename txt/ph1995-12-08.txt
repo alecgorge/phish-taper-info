@@ -1,0 +1,68 @@
+
+Phish
+CSU Convocation Center, 
+Cleveland, OH.
+12-08-95
+
+
+Source: (FOB) Schoeps CMC6 Mk4(Schoeps Active Cables)-> 
+	Sonosax SX-M2 P/S-> Panasonic SV-255 ->
+        Sony DT-120 DAT (Mic's In Hat)
+
+Source #2: T/S Schoeps Mk41->Schoeps Box (Believed to be VMS02IB)
+	Sony d7
+
+
+Trasfer: Both Master DAT's-> PanaSonic SV3700->(Digital ASE/EBU)->
+	 Foxtex FR2(Compact Flash)-> SanDisk Flash Reader-> Harddrive
+	 Wave File Converted From 48k->44.1 & Fades In/Outs added 
+         in Wave Lab 6.0 Tracks cut with CD Wave Editor-> 
+	 Flaced with Traders Little Helper(8 Highest)
+
+Tapers:  Pete Ebel and Tom Lake
+
+
+Extra Source Info: 
+Sample In A Jar->Runaway Jim From section with source #2. 
+This was due the Ice and Snow storm that hit the Midwest that evening. 
+The FOB Gear was delayed because of the extra 2 hour travel time. 
+The FOB Source picks up at Fluffhead. 
+A Cross fade was used to make the transition nearly seemless.
+All Tracks are seemless
+
+
+Set 1:
+01: Sample in a Jar
+02: Poor Heart
+03: Simple
+04: Runaway Jim
+05: Fluffhead
+06: It's Ice
+07: Acoustic Army
+08: Prince Caspian
+09: Good Times Bad Times*
+
+Set 2:
+01: Also Sprach Zarathustra-> 
+02: Tweezer-> 
+03: Kung-> 
+04: Tweezer-> 
+05: Love You-> HYHU
+06: The Squirming Coil 
+07: Tweezer Reprise
+08: Run Like an Antelope
+
+09: E: Come Together **
+10: A Day in the Life **
+
+*Dedicated to "the man in the dragon pants" (Jimmy Page). 
+**Encore played in remberance of John Lennon's death 12/08/80 
+
+Show Notes: Good Times Bad Times was dedicated to "the man in the dragon pants," aka 
+Jimmy Page. The encore, which included the first ever Come Together, was played in 
+remembrance of John Lennon's death on December 8, 1980. Antelope included a Brady 
+Bunch theme tease. Love You was played for the first time since December 28, 1994 
+(73 shows).
+
+Notes: Antelope has a small Brady Bunch Theme at start
+

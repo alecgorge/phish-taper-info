@@ -1,0 +1,43 @@
+Phish 
+4-16-91 Rick's American Cafe, Ann Arbor, MI 
+
+Source: 
+SBD > Cass(0) > DAT
+
+Transfer:
+DA-P1 > digicoax > HHb CDR-850 > Peak 2.04 (tracking) > Yamaha 4416
+
+SBEs fixed on 10/10/02 with shntool <ghost@etree.org>
+
+Set 1: 
+1. Golgi Apparatus
+2. You Enjoy Myself
+3. Paul and Silas
+4. Cavern
+5. The Mango Song
+6. Oh Kee Pa Ceremony->
+7. AC/DC Bag
+8. Tela
+9. David Bowie 
+
+Set 2: 
+1. My Sweet One
+2. Reba 
+3. Chalk Dust Torture
+4. Magilla
+5. Buried Alive
+6. Uncle Pen
+7. Tweezer
+8. Runaway Jim
+9. Carolina
+10. Tweezer Reprise 
+Encore: 
+11. HYHU-> If I Only Had a Brain-> HYHU
+12. Good Times Bad Times 
+
+Disc 1, SBD tape flip between track 7 and 8.  
+Disc 2, SBD tape flip between track 7 and 8. 
+
+Transfered by Jason Morneau.
+Tracked and seeded by Matt LaBarge.
+Please don't encode to MP3 or change this .txt file. 

@@ -1,0 +1,101 @@
+Phish
+Comcast Center
+Mansfield, MA
+2010-06-22
+
+Recorded and transferred by Andy Murray
+
+DINa from the OTS DFC 
+Schoeps MK41>KC5>CMC6>Sonosax SX-M2>Apogee Mini-me(aes out@24 bit/96khz)>COAX>Edirol R-44
+SD-HC Card>USB>Soundforge 10(tracking,normalize,fades,resample/dither to 16bit/44.1khz)>FLAC Level 8(sector alignment)
+
+3 Discs
+2 Sets
+
+Disc 1:
+Set 1:
+
+01 Intro
+02 Lit O Bit #
+03 Camel Walk
+04 Possum
+05 The Divided Sky
+06 Dirt
+07 Sample in a Jar
+08 Kill Devil Falls
+09 Dr. Gabel *
+10 Run Like An Antelope
+
+Disc 2:
+Set 2:
+
+01 Intro
+02 Mike's Song> 
+03 I am Hydrogen> 
+04 Weekapaug Groove
+05 Sneaking Sally Through the Alley> 
+06 Light> 
+07 46 Days
+
+Disc 3:
+Set 2 cont...
+
+01 Limb By Limb
+02 Golgi Apparatus
+03 Slave to the Traffic Light
+04 Loving Cup
+
+Encore: 
+
+05 First Tube
+
+# First Time Played (Rita Clarke and The Naturals)
+* First Time Played
+
+ph2010-06-22_mk41_1644_d1t01.flac:2eb0a58e684b1fc047445b52ad03d937
+ph2010-06-22_mk41_1644_d1t02.flac:44262d71d5d260e45f5997531ba9d896
+ph2010-06-22_mk41_1644_d1t03.flac:ab9bbe1097ad3f92718af4b4c8b2bc57
+ph2010-06-22_mk41_1644_d1t04.flac:e5c8f09e45588c9bd622087a67ae90b9
+ph2010-06-22_mk41_1644_d1t05.flac:0255f1003239a4568076dbe5a1f3a9fa
+ph2010-06-22_mk41_1644_d1t06.flac:a8d41006207e4ffaa1a43431d1952e8c
+ph2010-06-22_mk41_1644_d1t07.flac:b9bcf06b337bb11f5d4e8909cce52be7
+ph2010-06-22_mk41_1644_d1t08.flac:87bad5753cbbd7e30987052d62ac2edb
+ph2010-06-22_mk41_1644_d1t09.flac:1a6e54ff0acd0fb2f2edab1a7e2596eb
+ph2010-06-22_mk41_1644_d1t10.flac:a220759b76f8ae9c54a352070d68412d
+ph2010-06-22_mk41_1644_d2t01.flac:21dbb1345dbd3de94ad72853d7f2d5ba
+ph2010-06-22_mk41_1644_d2t02.flac:3fd419341ba75793d44e653b8780dd90
+ph2010-06-22_mk41_1644_d2t03.flac:3b5a7e41b3cad722b924015c393a629c
+ph2010-06-22_mk41_1644_d2t04.flac:39aa6ac4a87c05da3a56ed0f7a1e3b6e
+ph2010-06-22_mk41_1644_d2t05.flac:70b3df292b2b8783ae431dd19238f620
+ph2010-06-22_mk41_1644_d2t06.flac:0f702eaa124034b6abf99d84af91a5db
+ph2010-06-22_mk41_1644_d2t07.flac:4580daa979778ac64c2c3b9445739aec
+ph2010-06-22_mk41_1644_d3t01.flac:dc83507bddf35e907d4c7eeb4569dfb7
+ph2010-06-22_mk41_1644_d3t02.flac:f8df5b2261843df9b84790223ed35d23
+ph2010-06-22_mk41_1644_d3t03.flac:055b19608916af7c7d6ac760011a1503
+ph2010-06-22_mk41_1644_d3t04.flac:fa86e3af22b40d9cb5e67cf3f5587556
+ph2010-06-22_mk41_1644_d3t05.flac:4b6c4b41cd6120596c96c3dcac7ada53
+
+    length     expanded size   cdr  WAVE problems filename
+     1:18.10       13782764    ---   --   -----   ph2010-06-22_mk41_1644_d1t01.wav
+     4:47.29       50695052    ---   --   -----   ph2010-06-22_mk41_1644_d1t02.wav
+     5:25.51       57449996    ---   --   -----   ph2010-06-22_mk41_1644_d1t03.wav
+     9:27.53      100143500    ---   --   -----   ph2010-06-22_mk41_1644_d1t04.wav
+    16:19.56      172827356    ---   --   -----   ph2010-06-22_mk41_1644_d1t05.wav
+     5:08.57       54465308    ---   --   -----   ph2010-06-22_mk41_1644_d1t06.wav
+     5:26.05       57518204    ---   --   -----   ph2010-06-22_mk41_1644_d1t07.wav
+    12:12.43      129225980    ---   --   -----   ph2010-06-22_mk41_1644_d1t08.wav
+     7:10.20       75899084    ---   --   -----   ph2010-06-22_mk41_1644_d1t09.wav
+    12:14.35      129559964    ---   --   -----   ph2010-06-22_mk41_1644_d1t10.wav
+     0:36.35        6432764    ---   --   -----   ph2010-06-22_mk41_1644_d2t01.wav
+     8:08.00       86083244    ---   --   -----   ph2010-06-22_mk41_1644_d2t02.wav
+     3:05.73       32805740    ---   --   -----   ph2010-06-22_mk41_1644_d2t03.wav
+     8:32.73       90488540    ---   --   -----   ph2010-06-22_mk41_1644_d2t04.wav
+     9:51.28      104318300    ---   --   -----   ph2010-06-22_mk41_1644_d2t05.wav
+     9:39.67      102293228    ---   --   -----   ph2010-06-22_mk41_1644_d2t06.wav
+     7:24.16       78359276    ---   --   -----   ph2010-06-22_mk41_1644_d2t07.wav
+     7:50.42       83006828    ---   --   -----   ph2010-06-22_mk41_1644_d3t01.wav
+     4:33.07       48173708    ---   --   -----   ph2010-06-22_mk41_1644_d3t02.wav
+    10:32.22      111536588    ---   --   -----   ph2010-06-22_mk41_1644_d3t03.wav
+     8:07.23       85960940    ---   --   -----   ph2010-06-22_mk41_1644_d3t04.wav
+     8:40.47       91838588    ---   --   -----   ph2010-06-22_mk41_1644_d3t05.wav
+   166:33.42     1762864952 B                     (totals for 22 files, 1.0000 overall compression ratio)

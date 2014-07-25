@@ -1,0 +1,52 @@
+Phish
+July 14, 1994
+Finger Lakes Performing Arts Center
+Canandaigua, NY
+
+source:
+(FOB) AKG 460B/ck61 > custom pre-amp > Sony D7 (@ 48kHz)
+recorded FOB on a stand
+
+transfer:
+Sony PCM-R500 > M-Audio MicroTrack > CF Card > usb > pc > WaveLab 5.01b (fades, resample to 44.1kHz) > CD Wave v1.94.7 > FLAC v1.1.2 (Level 8)
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded February 19, 2006
+
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request
+
+Disc 1 - [77:34]
+Set I
+01 - [07:42] - Runaway Jim
+02 - [03:41] - Bouncing Around the Room 
+03 - [07:06] - Punch You in the Eye ->
+04 - [10:25] - Stash * ->
+05 - [04:00] - TMWSIY ->
+06 - [03:10] - Avenu Malkenu ->
+07 - [01:33] - TMWSIY
+08 - [07:37] - Scent of a Mule
+09 - [14:41] - Fluffhead ->
+10 - [01:31] - The Horse ->
+11 - [05:11] - Silent in the Morning
+12 - [10:57] - Run Like an Antelope
+
+Disc 2 - [53:43]
+Set II
+01 - [03:46] - 2001 ->
+02 - [04:56] - Sample in a Jar
+03 - [10:36] - Maze
+04 - [06:45] - If I Could
+05 - [04:04] - Uncle Pen
+06 - [23:36] - You Enjoy MYself->
+
+Disc 3 - [35:27]
+Set II continued
+01 - [03:50] - Sparkle ->
+02 - [02:47] - Big Ball Jam
+03 - [15:55] - Harry Hood
+04 - [03:33] - Highway to Hell
+05 - [02:09] - encore break
+06 - [07:13] - Chalk Dust Torture
+
+* unfinished. 

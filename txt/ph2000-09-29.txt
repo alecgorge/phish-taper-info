@@ -1,0 +1,68 @@
+phish
+thomas & mack center
+lost wages, nv ~ aka las vegas
+2000-09-29
+
+set 1  
+
+disc 1
+01-Carini, 
+02-Rift, 
+03-Frankenstein, 
+04-Mellow Mood, 
+05-Wilson > 
+06-Spock's Brain > 
+07-Bathtub Gin > 
+08-Character Zero
+
+set 2
+
+disc 2
+01-intro, 
+02-Dinner & a Movie, 
+03-Moma Dance > 
+04-2001, 
+05-Fluffhead > 
+06-Meatstick*, 
+07-Walk This Way**, 
+08-Rapper's Delight**# > 
+09-You Shook Me (all night long)**, 
+E: 
+10-American Band**
+
+* with japanese lyrics and Trey & Mike dancing;  ** with Kid Rock;  # with Trey on drums and Jon on guitar
+
+Show Notes: Wilson included a heavy metal jam, complete with Trey waving his guitar 
+in the air. Kid Rock provided guest vocals frrom Walk This Way through the encore. 
+Walk This Way and Rapper's Delight (with funny stage antics from Fishman, who danced 
+on his knees like Kid's sidekick Joe C.) were debuts. You Shook Me (All Night Long) 
+was played, in its entirety, for the first time, although it had been jammed on other 
+occasions. Walk This Way was also teased during Zarathustra. Spock's Brain (first 
+since June 24, 1995, or 387 shows), Dinner and a Movie (first since March 1, 1997, 
+or 238 shows), and American Band (first since November 16, 1996, or 267 shows) 
+returned after long absences. The Carini opener was preceded by a Wilson tease and 
+saw Trey have several problems with his guitar. Meatstick included Japanese lyrics 
+and Mike and Trey doing the Meatstick dance.
+
+source: akg460b/ck61>V2>SBM1>D8>D7; by JK, john m patch
+transfer: DATmaster>cd(1)>eac>cdwave>flac, by john m 2007-10-06
+
+fingerprint:
+phish2000-09-29d1t01.flac:97ead03d8cafbaee779c46daf4424f00
+phish2000-09-29d1t02.flac:72ca84ccf1bc046de0593d754c6b1cc1
+phish2000-09-29d1t03.flac:a070177970c40f342625a0536516fb5b
+phish2000-09-29d1t04.flac:73b054c7873fc3b50c41f76904206664
+phish2000-09-29d1t05.flac:c0513345c2a2ef6849c46dc2715d2705
+phish2000-09-29d1t06.flac:ec75d29649209c669af59f29bc5c659e
+phish2000-09-29d1t07.flac:d5c5d1f5a1bac7ca65c5dc1e0e72db83
+phish2000-09-29d1t08.flac:556a011b40f37826e1f68846258d5367
+phish2000-09-29d2t01.flac:2b54cf06440d4a9f649a7aec46efba6e
+phish2000-09-29d2t02.flac:2c7866384c9139a00a8dc4296e324301
+phish2000-09-29d2t03.flac:a54b970c7849e7291f8efbd5ef5fbbb3
+phish2000-09-29d2t04.flac:7bf7c8134a74b81f9e80322951eae102
+phish2000-09-29d2t05.flac:e4a9e7e6741e4aca6291edbf4bf3b155
+phish2000-09-29d2t06.flac:784be5ce31bb21a13cc9dced19d86616
+phish2000-09-29d2t07.flac:d4c05cef0bc55e3ed7b3a43b91333348
+phish2000-09-29d2t08.flac:082a401ed6d6250d60235cd41c9e0378
+phish2000-09-29d2t09.flac:7ff0059450d223183e6275a1f4766560
+phish2000-09-29d2t10.flac:682ee7a1710afaa918620f24e978b5bf

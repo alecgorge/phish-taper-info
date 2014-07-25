@@ -1,0 +1,95 @@
+Phish
+DCU Center
+Worcester, Massachusetts
+6/7/2012
+
+Source: Schoeps CCM4V'S(din)>Lunatec V2>Benchmark AD2K>
+Sound Devices 722 (24/48)
+FOB/DFC/KFC/ZFC/AARP Approximately 45'From Stage, 6' High
+DSP: Sound Devices 722>Sound Forge 9.0>CD Wave>flac(16)
+Recorded By: Z-Man
+Seeded By: Z-Man
+
+Disc I 1st Set
+
+01 Buried Alive >
+02 Runaway Jim >
+03 Torn And Frayed
+04 Funky Bitch
+05 Moma Dance >
+06 Rift
+07 Nothin'
+08 Ocelot
+09 Beauty Of A Broken Heart
+10 Possum  
+11 Rocky Top
+
+Disc II 2nd Set
+
+01 Corrini >
+02 *Taste
+03 Ghost >
+04 Boogie On Raggae Woman >
+05 If I Could
+
+Disc III 2nd Set Con't
+
+01 Quinn The Eskimo >
+02 Harry Hood >
+03 Cavern > 
+04 Buried Alive
+Encore:
+05 Loving Cup
+
+* With Norwegian Wood Tease
+
+Flac Fingerprint  
+
+phish2012-06-07d01t01.flac:3601ca7dab79e72221220e2a61a2bf98
+phish2012-06-07d01t02.flac:3e83cb674392b86af9d680960f4c1f96
+phish2012-06-07d01t03.flac:3194e2cba724ac792917f1dc04232fa5
+phish2012-06-07d01t04.flac:b13fd841cbad20fbdc8d70c0c539eaaf
+phish2012-06-07d01t05.flac:111866bd3c4902822ac3f3237cceae2b
+phish2012-06-07d01t06.flac:ca201eda9f8e76d48b2522a1b312b825
+phish2012-06-07d01t07.flac:7dfeae9a1e7504d6822405dee46a95a4
+phish2012-06-07d01t08.flac:d25837eda033c50b569ebdf2c48fdd38
+phish2012-06-07d01t09.flac:a93434b8f032288e39e8abbddbc8e5bf
+phish2012-06-07d01t10.flac:83af536750dc108554b92e0c384701f4
+phish2012-06-07d01t11.flac:ae83390789f19182fb21a63f586332f6
+phish2012-06-07d02t01.flac:8235a96315a8569dd4029c21a5fcf41f
+phish2012-06-07d02t02.flac:f8e97e4fcc2cb929cbf3982f7da74568
+phish2012-06-07d02t03.flac:d324328474e35aa79c1ab92332074cbd
+phish2012-06-07d02t04.flac:a608182251d965c9fd5af18113ef535c
+phish2012-06-07d02t05.flac:3c4b23619b89c69e75f23ba851697426
+phish2012-06-07d03t01.flac:9e51b1cc7e262c3fca9f3cbff67208c2
+phish2012-06-07d03t02.flac:f8932be57855f6538b54f03b73c4fe89
+phish2012-06-07d03t03.flac:aecb64cf9b3d43a84cdba5b09f1c8468
+phish2012-06-07d03t04.flac:8169faf8001277a663a97bc1d6288212
+phish2012-06-07d03t05.flac:d11540cb0c1e8b505cb78cb39da1f862
+
+Shntool 
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     3:05.52       32756348 B   ---   --   ---xx   flac  0.4997  phish2012-06-07d01t01.flac
+     8:38.00       91375244 B   ---   --   ---xx   flac  0.5066  phish2012-06-07d01t02.flac
+     8:15.35       87400364 B   ---   --   ---xx   flac  0.5049  phish2012-06-07d01t03.flac
+     7:55.41       83886476 B   ---   --   ---xx   flac  0.5097  phish2012-06-07d01t04.flac
+     7:30.54       79507052 B   ---   --   ---xx   flac  0.5168  phish2012-06-07d01t05.flac
+     7:14.58       76694060 B   ---   --   ---xx   flac  0.4860  phish2012-06-07d01t06.flac
+     5:52.49       62208092 B   ---   --   ---xx   flac  0.4804  phish2012-06-07d01t07.flac
+    10:33.71      111828236 B   ---   --   ---xx   flac  0.4908  phish2012-06-07d01t08.flac
+     5:08.60       54472364 B   ---   --   ---xx   flac  0.5102  phish2012-06-07d01t09.flac
+     9:43.40      102935324 B   ---   --   ---xx   flac  0.5193  phish2012-06-07d01t10.flac
+     3:14.55       34351004 B   ---   --   ---xx   flac  0.5129  phish2012-06-07d01t11.flac
+    11:46.57      124672508 B   ---   --   ---xx   flac  0.4752  phish2012-06-07d02t01.flac
+     8:08.05       86095004 B   ---   --   ---xx   flac  0.4524  phish2012-06-07d02t02.flac
+    15:06.51      159938396 B   ---   --   ---xx   flac  0.4503  phish2012-06-07d02t03.flac
+    11:50.29      125312252 B   ---   --   ---xx   flac  0.5002  phish2012-06-07d02t04.flac
+     8:05.34       85634012 B   ---   --   ---xx   flac  0.4136  phish2012-06-07d02t05.flac
+     6:33.28       69391100 B   ---   --   ---xx   flac  0.5165  phish2012-06-07d03t01.flac
+    12:04.66      127868876 B   ---   --   ---xx   flac  0.4744  phish2012-06-07d03t02.flac
+     4:17.67       45492428 B   ---   --   ---xx   flac  0.5463  phish2012-06-07d03t03.flac
+     1:29.54       15826652 B   ---   --   ---xx   flac  0.5196  phish2012-06-07d03t04.flac
+     7:05.38       75059420 B   ---   --   ---xx   flac  0.4964  phish2012-06-07d03t05.flac
+   163:42.44     1732705212 B                            0.4887  (21 files)
+

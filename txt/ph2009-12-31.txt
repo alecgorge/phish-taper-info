@@ -1,0 +1,58 @@
+Phish
+12/31/2009
+Miami, Florida  American Airlines Arena
+
+Source: Schoeps mk41> KC5> M222> NT222> SD 722 (@24bit/48kHz)
+Location: OTS, Section 5, Row 13, Seats 12 & 13, 9' Stand, DINA
+
+Transfer: SD 722> Samplitude SE 9.1.1> CDWave> flac(24/48)
+Taped, Transferred & Seeded by: taylorc (01/01/2010)
+
+
+Set I
+t01 [07:00] AC/DC Bag
+t02 [06:55] 46 Days
+t03 [02:59] Water in the Sky
+t04 [10:27] Bathtub Gin
+t05 [07:49] Punch You in the Eye
+t06 [07:17] The Moma Dance
+t07 [11:21] Guyute
+t08 [05:56] Swept Away >
+t09 [04:44] Steep
+t10 [01:54] Demand >
+t11 [08:08] Seven Below
+t12 [02:59] Lawn Boy
+t13 [08:19] Julius
+
+Set II
+t14 [09:33] Rock and Roll >
+t15 [09:55] Piper
+t16 [08:43] Simple >
+t17 [08:07] Theme from the Bottom
+t18 [05:19] Shine a Light
+t19 [13:52] Ghost >
+t20 [03:12] NO2
+t21 [06:38] Suzy Greenberg
+
+Set III
+t22 [06:28] Party Time >
+t23 [01:04] Auld Lang Syne >
+t24 [12:27] Down with Disease
+t25 [04:23] Fishman Bails
+t26 [14:42] Fluffhead
+t27 [04:53] Joy
+t28 [08:24] The Squirming Coil
+t29 [18:25] You Enjoy Myself
+t30 [03:18] crowd
+
+Encore
+t31 [03:54] Blue Moon/banter
+t32 [06:21] Loving Cup
+
+
+Notes:
+Thanks to Jason Lonchar for the tubes
+Swept Away> Steep, last played 07/01/2000 (147 shows)
+Demand, last played 11/14/1996 (443 shows)
+NO2, last played 07/13/1999 (215 shows)
+Set I [1:20:48] Set II [1:05:19] Set III [55:38] Encore [10:15]

@@ -1,0 +1,45 @@
+Phish
+09/26/91
+State Street Theater
+Ithaca, NY
+
+Source: Nakamichi CM300+CP4> ? >CDR>EAC>SHN
+L channel dropout 0:21-0:35 d1t1 repaired by patching from R channel 
+w CoolEdit2000. Level rise 1:22, 2:18 d1t1.
+bmitchel@citlink.net 
+
+Disk 1:
+	Set 1:
+1.  Llama
+2.  Bouncing Around the Room
+3.  Divided Sky
+4.  Fee*
+5.  It's Ice
+6.  My Sweet One
+7.  Guelah Papyrus
+8.  Lizards
+9.  Foam
+10. David Bowie**
+
+Disk 2:
+	Set 2:
+1.  Golgi Apparatus
+2.  The Squirming Coil
+3.  Brother
+4.  Sparkle
+5.  The Landlady >
+6.  Destiny Unbound
+7.  Mike's Song >
+8.  I am Hydrogen >
+9.  Weekapaug Groove
+10. Lawn Boy
+11. Chalk Dust Torture
+	Encore:
+12. Memories
+13. Poor Heart
+14. Sweet Adeline
+
+Comment: 
+* Trey sings verse 2 instead of 3. 
+** Fishman fills in with "Dr. Seuss."
+

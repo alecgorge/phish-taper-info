@@ -1,0 +1,54 @@
+Phish
+April 20, 1991
+University of Rochester
+Rochester, NY
+
+Show Source-
+TAPER: Dave Schanker
+SOURCE: AKG 414-> d5 > Cass1
+TRANSFER: Sony TC-KA3ES > DSP24 @ 24/48 > Wavelab
+
+Patch Source-
+SOURCE: SBD>DAT>Cass/x>DAT>REBA
+TRANSFER: Sony TC-KA3ES > Tascam DA-40 @ 48kHz > REBA
+
+Transfer, editing, mastering, FLAC16 by: Art Haynes- imthemarmar@gmail.com
+Thanks to Todd Ahrens for the source tape!
+
+Set I:
+Runaway Jim
+Reba
+Llama
+Fluffhead
+My Sweet One
+The Landlady
+Esther
+Chalk Dust Torture
+Bouncing Around the Room
+You Enjoy Myself ->
+Setting Sail
+
+Set II:
+*Intro
+The Sloth
+Ya Mar
+Split Open and Melt
+The Squirming Coil
+Paul and Silas
+Cavern
+The Man Who Stepped Into Yesterday >
+Avenu Malkenu >
+The Man Who Stepped Into Yesterday Reprise
+*Tweezer
+The Oh Kee Pa Ceremony >
+Suzy Greenberg
+Sweet Adeline
+*Encore:
+Horn
+Alumni Blues > Letter > Alumni Blues
+
+Show Notes:
+- Fishman led the band in the debut of Setting Sail, which arose out of the vocal jam of YEM.
+* Intro has partial patches to cover missing parts. 
+* Tweezer has a dropout patched. 
+* The encores are both from the patch source.

@@ -1,0 +1,64 @@
+Phish 
+2-20-03
+Allstate Arena
+Chicago, IL
+
+
+Source: 
+	DPA4022(ORTF, FOB in the sweet spot!)>Lunatec V3 (SPDIF out)>
+	USBPre(SPDIF in)>SonyC1VN(24/48) 
+	by Team FOB, Chicago chapter, DPA division  :-)
+
+
+Notes:
+
+	All editing/tracking in Sound Forge 6.0.
+
+
+Transfer for CDR:
+
+	Set 1: 	
+		hard limit @ -3 dB to compress crowd noise, peak normalize to -0.01dB. 
+		Fades added to beginning and end of set
+
+	Set 2: 	
+		spike in set from balloon hitting mics drawn out with pencil tool, 
+		peak normalize to -0.01dB 
+
+	Both sets:
+		Resample at highest quality setting with anti-alias filter, 
+		bit depth conversion with triangular high-pass dither and high-pass contour 
+		noise shaping.
+
+
+note:
+Sector Boundary Errors were present for much of Set II, these were fixed with SHNtool
+ - Jason Sobel (jasonsobel@gmail.com)
+
+
+CDR Tracking
+
+set I:
+
+Phish03-02-20d1t01	Intro
+Phish03-02-20d1t02	Rift >
+Phish03-02-20d1t03	Rock and Roll
+Phish03-02-20d1t04	Guyute
+Phish03-02-20d1t05	Driver
+Phish03-02-20d1t06	Waves >
+Phish03-02-20d1t07	Simple
+Phish03-02-20d1t08	Jiboo
+
+Set II:
+
+Phish03-02-20d2t01	Tweezer >
+Phish03-02-20d2t02	PYITE >
+Phish03-02-20d2t03	Fast Enough
+Phish03-02-20d2t04	Seven Below
+Phish03-02-20d2t05	Pebbles and Marbles
+
+Encore:
+
+Phish03-02-20d3t01	Golgi
+Phish03-02-20d3t02	Anything but Me
+Phish03-02-20d3t03	Tweezer Reprise

@@ -1,0 +1,66 @@
+Phish
+05-21-89 
+320 Spear Street - Burlington, VT 
+'a private house party'
+
+SBD > Cass/0 > DAT > CDR > EAC > SHN
+SHN > WAV > SHNtool (fix SBE's) > FLAC v1.2.1
+
+FLAC tags added with metaflac v1.2.1
+
+Thanks to Brendan K. for the seed.
+SHN conversion: Ben Mohr (bmohr@udel.edu)
+		carini.etree.org
+
+SBE fixes and FLAC conversion: Jason Sobel (October 21, 2007)
+
+note:
+original SHN files had been labeled 05/21/88.
+Since the original circulation, it had been determined that this show was actually 05/21/89.
+The fixed FLAC files renamed with the correct date.
+
+
+--------------
+Disc 1 (41:44)
+--------------
+1. Harry Hood (9:52)
+2. Foam (7:56)
+3. Contact (9:01)
+4. Mike's Song -> (5:53) 
+5. I Am Hydrogen -> (2:33)
+6. Weekapaug Groove (6:29)
+
+--------------
+Disc 2 (60:00)
+--------------
+1. banter (1:18)
+2. Split Open and Melt (7:55)
+3. Dazed and Confused* (6:05)
+4. The Sloth (7:23)
+5. You Enjoy Myself -> (14:51)
+6. Ya Mar (5:46)
+7. AC/DC Bag (5:47)
+8. The Divided Sky** (10:53)
+
+Notes
+*tape flip? at 0:41 in d2t3 Dazed and Confused
+**Divided Sky ends abruptly...from original cassette (seems to be a 100 min master)
+   (most likely it was the end of the cassette and the remainder of the song 
+   was not taped or has been lost)
+
+Fixes
+-Each disc was normalized to 98%.
+-Retracked both discs so that the start of the song appeared at the start of each track.
+-There were a few instances where there was no right channel sound or the right channel 
+  would have sound/static for a few seconds, then drop out, then come back in as 
+  sound/static. This was fixed by mixing the left channel, which was normal, onto the 
+  right channel. Even though this is not PCP-compliant, the tracks were not listenable 
+  to during these periods until the fixes were made.
+  This occurred...
+	0:00-1:30 d1t1 Harry Hood
+	8:38-9:21 d2t2 Dazed and Confused
+	0:00-1:12 d2t3 The Sloth
+-There was some nasty static for about a second at the very beginning of Divided Sky 
+  that I did my best to smooth/edit out but it was a lost cause.  I decided to cut 
+  out that portion in order to not distract from the rest of the show.  The 
+  transition is not noticeable at all.

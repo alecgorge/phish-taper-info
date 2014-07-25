@@ -1,0 +1,76 @@
+Phish - 7-12-91 Set II
+Colonial Theater, Keene, NH 
+
+Set I Source: Unknown Audience Cassette>Audacity 1.2.4 > FLAC16
+Transfer: Duanebase - 9/12/10
+
+Set II Source: Aud/2 - unknown mics (recorded in 1/95)
+
+Transfer: Dennon DRW-840> Sony PCM-r500 at 44.1> Audiophile 2496> CD Wave Editor> FLAC on 4/11/05 by EEE. 
+
+Files renamed to meet etree standards, re-flac'd and seeded to bt.etree 11/10/07 by EEE.
+
+Set One:
+
+Dinner & A Movie >
+Bouncing Around The Room >
+Buried Alive
+Flat Fee
+Reba
+The Landlady
+Bathtub Gin
+Donna Lee
+AC/DC Bag >
+Rocky Top
+Cavern
+David Bowie
+(missing Golgi)
+(missing The Squirming Coil)
+
+disc 1 (Set 2)
+01. Tuning
+02. Golgi Apparatus
+03. The Squirming Coil
+04. Moose the Mooche$*
+05. Tweezer*
+06. My Sweet One*
+07. Gumbo*
+08. Mike's Song->* 
+09. I Am Hydrogen->*
+10. Weekapaug/Groove*
+11. Touch Me*
+12. Oh Kee Pa Ceremony->*
+13. Suzy Greenberg*
+Encore1: 
+14. Sweet Adeline
+15. Frankenstein*
+Encore2:
+16. Fee
+17. Tweezer Reprise*
+
+-tape flip during Weekapaug (joined using Cool Edit Pro)
+-*With The Giant Country Horns
+-$First time played
+-For one disc buring remove Adeline
+
+Support Phish and buy Live 19:
+http://www.phish.com/releases/detail.php?ID=52 
+ 
+Flac Fingerprint: 
+ph1991-07-12d1t15.flac:dde7adcdaebd0c7beef953d43860c65b
+ph1991-07-12d1t16.flac:08c687c3329f3dec645af18b118d5404
+ph1991-07-12d1t17.flac:96746686f6503fb01edb170ffdbdcad6
+ph1991-07-12d1t01.flac:3530656725ef907ae53add42d7d9d952
+ph1991-07-12d1t02.flac:39672b2bdba547ba58e025aff998a447
+ph1991-07-12d1t03.flac:43db61aba6a526930abeab881c245fd3
+ph1991-07-12d1t04.flac:2616400b125b29be88e4461476858db7
+ph1991-07-12d1t05.flac:7ba1a22c5958e925d547944ff8f91660
+ph1991-07-12d1t06.flac:a088629d0227e41ca8a9e2cab1ead1cf
+ph1991-07-12d1t07.flac:e7d0e4a0ceeb89809be29bacb6d7a688
+ph1991-07-12d1t08.flac:903606b813b94010fb5dae45881e867b
+ph1991-07-12d1t09.flac:c5a51259b8d0923b0f591ef9f2f4dac9
+ph1991-07-12d1t10.flac:c67508b44d160f221167e6691f8bb82d
+ph1991-07-12d1t11.flac:4e6adbadb7d671059b03be8e0fc57f12
+ph1991-07-12d1t12.flac:4313fa9c4af20e5d2c1198a93814874e
+ph1991-07-12d1t13.flac:a8bdf601f261526fe337712557141536
+ph1991-07-12d1t14.flac:2d795c5c6a4eda7835a13d9379f6272b

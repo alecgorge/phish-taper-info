@@ -1,0 +1,54 @@
+Phish
+09-24-99
+South Park Meadows, Austin, TX 
+
+field: 
+DFOB Schoeps MK4 (ortf) VMS021B>SBM-1>DA-P1 (in hat)
+taped by: Scorpio Brothers
+
+transfer:
+Sony D7>Oade active 7 pin>Dakota Frontier Soundcard (viaSPDI/F)
+resampled in SF7.0 at 4/4 (highest) with anti-aliasing filter on
+transfer and flac conversion by: Ham
+
+Disc One: 66:11
+Set One
+
+01: First Tube
+02: Punch You in the Eye
+03: Farmhouse
+04: Water in the Sky
+05: The Moma Dance
+06: Down with Disease
+07: Roggae
+08: Back on the Train
+
+Disc Two: 66:02
+Set One (con't)
+
+01: Guyute
+02: Loving Cup 
+
+Set II:
+03: Peaches en Regalia -> 
+04: Possum
+05: Wolfman's Brother -> 
+06: Lizards
+
+Disc Three: 36:38
+Set Two (con't)
+
+01: Sand -> 
+02: Misty Mountain Hop 
+ 
+Encore
+03: Boogie On Reggae Woman -> 
+04: Chalk Dust Torture 
+
+Show Notes: Wolfman's dissolved into a spacy jam from which Lizards arose. 
+Check out the nice segue from Sand into Misty Mountain Hop. 
+
+Known flaws: Right channel has sudden drop due to a cable issue @ 11:43 during Down With Disease and returns during Roggae @ 1:32 . The left channel is fine.
+
+
+

@@ -1,0 +1,39 @@
+Phish
+1995-06-09
+Red Rocks - Morrison, CO
+
+Source: B&K 4006 (8'high/10' spread/5rows back of SBD)>Lunatec 316>Audio Magic cables>Panasonic SV250 @48kHz
+Taper: Marc Nutter
+Transfer: SV3800>Nuendo Multiset>Wave Lab4.0>wav>CDWave>wav>FLAC
+Transferer: Phil Lucks (lucks@sonicsense.com)
+
+Set 1					68:58
+Disk 1:					68:58
+1:  My Friend My Friend			06:26
+2:  The Divided Sky			15:19
+3:  Strange Design			02:45
+4:  Oh Kee Pa Ceremony>			01:43
+5:  AC/DC Bag				08:13
+6:  Theme From the Bottom		10:23
+7:  Taste				06:40
+8:  Sparkle >				03:45
+9:  Run Like an Antelope 		10:41
+
+Set 2					76:45
+Disk 2:					76:45
+1:  Split Open and Melt			13:40
+2:  The Wedge				04:12
+3:  Scent of a Mule			08:58
+4:  Cavern >				04:17
+5:  David Bowie				15:44
+6:  Acoustic Army			04:14
+7:  Sweet Adeline			02:10
+8:  Slave to the Traffic Light 		11:42
+9:  crowd				00:58
+10: E: The Squirming Coil		10:46
+
+Notes
+-Resampled from 48kHz to 44.1 kHz
+-Normalized to 99%
+-Fades added to beginning and end of sets
+

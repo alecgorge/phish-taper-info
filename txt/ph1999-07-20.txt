@@ -1,0 +1,44 @@
+Phish
+07/20/1999
+Toronto, Ontario Molson Amphitheatre
+
+Source: (OTS) Schoeps CMC6/mk4> Apogee AD-1000 (@48kHz)
+Taped by: Chas Patrizia
+
+Transfer: Tascam DA-40> M-Audio Audiophile 2496> Samplitude 7.0 (resample to 44.1kHz, fades)> CDWave> flac
+Transferred & Seeded by: TaylorC (07/23/2007)
+
+
+Set I
+t01 [07:44] Chalkdust Torture
+t02 [05:09] Sample in a Jar >
+t03 [05:02] Cars Trucks Buses
+t04 [04:22] The Sloth
+t05 [16:18] The Divided Sky
+t06 [05:46] Waste >
+t07 [16:25] Ghost
+t08 [06:08] Wilson >
+t09 [24:34] You Enjoy Myself
+
+Set II
+t10 [12:12] Twist >
+t11 [09:03] Moma Dance
+t12 [08:45] What's the Use
+t13 [03:08] Train Song
+t14 [10:03] Also Sprach Zarathustra >
+t15 [15:17] Misty Mountain Hop
+
+Encore
+t16 [11:41] Guyute
+t17 [01:43] Hello My Baby
+
+Show Notes: Misty Mountain Hop debuted at this show, although it had previously been 
+heard at soundchecks.
+
+Notes:
+
+Misty Mountain Hop, first time played
+Set I [1:31:28] Set II [58:28] Encore [13:24]
+Added Fades at start/end of Set I, start of Set II & end of Encore
+CD-R Tracking: D1 (t01-t07), D2 (t08-t12), D3 (t13-t17)
+

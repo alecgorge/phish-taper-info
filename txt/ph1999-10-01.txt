@@ -1,0 +1,49 @@
+Phish
+October 01, 1999
+Hilton Coliseum, 
+Ames, IA
+
+OTS: Schoeps cmc641 > Lunatec V2 > Apogee AD1000 > Hhb PDR1000 > Tascam DA-P1 
+Mastered @ 48 kHz, 16 bit
+
+thanks to Derek for the patch
+patched at show, transfered, and resampled by jadedphan
+tracked, flac'd, and seeded by ChrisJ (Dec 2007)
+
+Transfer: Dat Master > Tascam DA-30 > Monster Coax > M-Audio 24/96 > Sound Forge 9.0
+Resampled in SF 9.0 with anti-aliasing filter on at highest quality setting (4 of 4)
+
+Set I:
+- disc one
+
+01. intro
+02. Chalkdust Torture
+03. Moma Dance >
+04. Sparkle
+05. First tube >
+06. Bathtub Gin
+07. Heavy Things
+08. Limb by Limb
+09. Cavern
+
+Set II:
+- disc two
+
+01. intro
+02. NICU >
+03. Run Like an Antelope
+04. The Horse > 
+05. Silent in the Morning >
+06. Gumbo > 
+07. Mist
+
+- disc three 
+
+08. Julius >
+09. Fluffhead
+10. Slave to the Traffic Light
+11. encore break
+Encore: 
+12. Bold as Love
+
+previous seeds of this source apparently suffer from some sound issues due to improper transfers and/or resampling problems. here is a fresh transfer that hopefully addresses those issues. no re-mastering was done, just a new transfer and resample.

@@ -1,0 +1,68 @@
+
+PHISH
+7-25-93
+WATERLOO VILLAGE MUSIC CENTER, STANHOPE, NJ
+
+===============================================================|
+
+SOURCE: SBD> CASS/x> DAT
+
+CONVERSION: DAT (FOSTEX D-5)> M-AUDIO DELTA DIO 2496 (TOSLINK 
+S/PDIF IN)> SAMPLITUDE 2496 v5.92 (CAPTURE, THEN RESAMPLED TO
+44.1 kHz ON "ULTRA HIGH" SETTING)> CDWAVE (TRACK SPLITS)> SHN
+(WITH SEEK FILES APPENDED) 
+
+NO OTHER EDITING OR PROCESSING WAS PERFORMED. 
+
+===============================================================|
+
+
+DISC 1/SET 1:
+
+01. WILSON >
+02. FOAM
+03. MOUND
+04. STASH
+05. FEE >
+06. RIFT
+07. THE SLOTH
+08. MY MIND'S GOT A MIND OF IT'S OWN
+09. I DIDN'T KNOW 
+10. DAVID BOWIE
+
+
+
+DISC 2/SET 2: (REQUIRES AN 80 MIN. CD)
+
+01. ALSO SPRACH ZARATHUSTRA > 
+02. SUZY GREENBERG
+03. TWEEZER >
+04. THE HORSE >
+05. SILENT IN THE MORNING
+06. MAZE
+07. LIZARDS
+08. BIG BALL JAM
+09. PURPLE RAIN >
+10. HYHU JAM
+11. HARPUA > 
+12. TWEEZER REPRISE
+ENCORE:
+13. CAVERN
+
+Show Notes: Wilson contained "Jeopardy" theme teases and the Simpsons Signal. Sounds 
+of Silence and Donna Lee were quoted in Bowie, which also included an Oom Pa Pa 
+Signal. Harpua included a tease of the theme to Taxi.
+
+KNOWN FLAWS:
+SOME SONIC DEGRADATION DUE TO CASSETTE GENERATIONS THROUGHOUT. 
+
+D1T07 "THE SLOTH" FADES IN A FEW SECONDS LATE (CASSETTE FLIP).
+D2T07 "LIZARDS" CUTS OUT AT 8:43 AND CUTS BACK IN AT 8:46
+      (ALTERNATE CASSETTE FLIP). SOME MUSIC IS MISSING.
+D2T08 "BIG BALL JAM" FADES OUT/IN AT 0:43 (CASSETTE FLIP).      
+
+
+
+===============================================================|
+Seeded 7/29/01 By Robert Brown
+

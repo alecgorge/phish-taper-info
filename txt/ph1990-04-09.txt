@@ -1,0 +1,46 @@
+Phish
+4-9-90 Set 1
+Fly Me to the Moon Saloon - Telluride, CO
+
+Source: SBD > Cass/4 > DAT > CDR > EAC (secure) > shntool > FLAC
+
+CDRs provided by Maria Rogers
+FLAC Conversion by Ben Mohr (benjamin.mohr@ce.gatech.edu)
+
+------------------------------------------------
+ Disc 1:                                (41:03)
+------------------------------------------------
+-Set 1-
+1. Reba                                 (11:51)          
+2. Cavern*                              (04:45)
+3. Oh Kee Pa Ceremony >                 (01:40)
+4. AC/DC Bag                            (05:48)                    
+5. Caravan                              (07:10)
+6. Rocky Top >                          (02:26)
+7. Alumni Blues                         (05:38)
+
+------------------------------------------------
+ Disc 2:                                (41:04)
+------------------------------------------------                  
+1. Ya Mar                               (07:23)
+2. //The Sloth                          (01:02)
+3. McGrupp and the Watchful Hosemasters >09:03)
+4. Dinner and a Movie >                 (03:33)
+5. Bouncin' Around the Room             (03:53)
+6. Runaway Jim                          (05:49)
+7. David Bowie                          (12:06)
+
+* requested by "the man in the front row" and with alternate lyrics (ex: penile erector, etc)
+** audience member requests Melt the Guns (presummably hasn't been played in 3 years) after Ya Mar
+
+Notes:
+-At the end of Reba, Trey says, "...you gotta bring it...bring it tomorrow night" in     reference to something an audience member mummbles...according to phish.net and the     Pharmers Almanac, there was a show played on 4-10-90 at the Moon
+-At the end of Bowie, Trey says, "Thanks, we're going to take a break...please stick around,"   so this is definitely a Set 1
+-I suspect that there is a missing song between Oh Kee Pah and Caravan as there appears to be   a possible cut/splice between the tracks in addition to the fact that that seque has never   been played before or again.
+-slight skip d1t01 10:35
+-Tape flip: d1t07 7:13.282 (possible missing song since there appears to be 0.035sec of the     beginning of Alumni, which is segued in from something)
+-d2t02 fades in quickly (missing part of song...only 1 minute long)
+
+Fixes:
+-Applied pitch shift of -30 cents in Soundforge 4.5c (w/ anti-alias filter)
+-Manually removed frequency peak between 15420-15700 Hz with Samplitude v6

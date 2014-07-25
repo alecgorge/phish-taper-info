@@ -1,0 +1,58 @@
+Phish
+The Sting
+New Britain CT
+5/16/91
+
+Source: Unknown Aud > Cass/x > CDR > EAC > FLAC16
+Transfer: Taperwayne (taperwayne@gmail.com)
+
+Disc #1
+
+01. Intro
+02. Buried Alive
+03. Golgi Apparatus
+04. Foam
+05. Cavern
+06. Divided Sky
+07. Col. Forbin's Ascent >
+08. Fly Famous Mockingbird
+09. Chalkdust Torture
+10. You Enjoy Myself
+11. Magilla *
+12. Llama
+
+Disc #2
+
+01. Runaway Jim
+02. Dinner and A Movie >
+03. Bouncing Around The Room
+04. The Landlady//
+
+* with Bryant Smith on trombone. 
+
+Show Notes: Magilla featured a guest appearance from Bryant Smith on trombone. Adeline was 
+chosen as the encore because of curfew issues. 
+
+Notes: Not a great recording by any means, more for historical and continuity reasons.
+This is exactly how the discs sounded as I got them. I'm not sure who did the original
+cass > CDR tranfer, this is an EAC rip from my discs.
+Wasn't in the database, so I did a transfer to fill the gap till something better turns up.
+
+
+9d8e95f7ee95713c166355ccaeeb8fa0 *ph1991-05-16d1t01.flac
+fc40180a6be2649a313fdceb28482dd9 *ph1991-05-16d1t02.flac
+b88dad071245e578b6fdc8153f966746 *ph1991-05-16d1t03.flac
+0932b6836d885332b53e112455b95c3b *ph1991-05-16d1t04.flac
+0a37269aa30063c982804f510a6d1d80 *ph1991-05-16d1t05.flac
+3036389010a935b08250acc08165d618 *ph1991-05-16d1t06.flac
+f278418b7ea95abe4ae9f950aef1cd0e *ph1991-05-16d1t07.flac
+62630c613067c8e533403d0c63946921 *ph1991-05-16d1t08.flac
+0222d67630f4ddda5f7ba19500889b2a *ph1991-05-16d1t09.flac
+ec30e6b2d61cbc84b415af870540f8ec *ph1991-05-16d1t10.flac
+d3f790738298192931ea11a5617a9214 *ph1991-05-16d1t11.flac
+2470ecdcede52060211b549148a04d29 *ph1991-05-16d1t12.flac
+a90b6f330c9f00f2e1064463e17a5849 *ph1991-05-16d2t01.flac
+e409bb14c70a97fba8ae7f294e1ccee4 *ph1991-05-16d2t02.flac
+58f917db007c0e8d7c169c0cd21cbe45 *ph1991-05-16d2t03.flac
+21765240241917e9a7a1f6bb02383514 *ph1991-05-16d2t04.flac
+

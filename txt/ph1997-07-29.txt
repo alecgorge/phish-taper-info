@@ -1,0 +1,78 @@
+Phish
+July 29, 1997
+Desert Sky Pavilion
+Phoenix, AZ
+
+source:
+Schoeps cmc6/mk4v/mk8 > Sonosax SX-M2 > Sony SBM-1 > Sony TCD-D8 (@ 48 kHz)
+
+post-show mid/side decoding:
+Sony PCM-2600 > AEA MS 38 MK II > Sony PCM-2600 (@ 48 kHz)
+
+transfer:
+Tascam DA-20mkII > Marantz PMD-661 > SDHC card > usb 2.0 > pc > r8brain v1.9 (resample to 44.1 kHz) > CD Wave v1.98 (track splits) > Samplitude SE v9.1.1 (fades) > FLAC v1.2.1 (Level 8)
+
+recorded by Craig Hillwig
+mid/side decoding by Craig Hillwig
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded October 11, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+The original 48 kHz files from the DAT transfer have been archived and are available upon request.
+
+Disc 1 - [60:46]
+Set I
+01 - [09:58] - Theme From the Bottom
+02 - [03:01] - Beauty of My Dreams
+03 - [14:08] - Gumbo
+04 - [03:43] - Dirt
+05 - [03:55] - Sparkle
+06 - [15:12] - Ghost 
+07 - [01:11] - Swept Away >
+08 - [01:56] - Steep 
+09 - [07:43] - Loving Cup
+
+Disc 2 - [79:08]
+Set II
+01 - [02:35] - Olivia's Pool
+02 - [20:40] - Run Like an Antelope
+03 - [06:34] - Wading in the Velvet Sea
+04 - [18:27] - Twist ->
+05 - [11:03] - Taste
+06 - [04:56] - Sample in a Jar
+07 - [02:25] - Rocky Top
+08 - [12:26] - The Squirming Coil
+
+Disc 3 - [14:39]
+Set II continued
+01 - [02:07] - encore break
+02 - [11:34] - Possum
+03 - [00:59] - show outro
+
+-----------------------------------------------------
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     9:57.64         100.58 MB  ---   --   ---xx   flac  0.4943  ph1997-07-29d1t01.flac
+     3:00.59          30.41 MB  ---   --   ---xx   flac  0.4964  ph1997-07-29d1t02.flac
+    14:08.19         142.70 MB  ---   --   ---xx   flac  0.4664  ph1997-07-29d1t03.flac
+     3:43.05          37.53 MB  ---   --   ---xx   flac  0.4636  ph1997-07-29d1t04.flac
+     3:54.46          39.47 MB  ---   --   ---xx   flac  0.4885  ph1997-07-29d1t05.flac
+    15:11.38         153.34 MB  ---   --   ---xx   flac  0.4492  ph1997-07-29d1t06.flac
+     1:11.15          11.98 MB  ---   --   ---xx   flac  0.3956  ph1997-07-29d1t07.flac
+     1:55.56          19.47 MB  ---   --   ---xx   flac  0.4108  ph1997-07-29d1t08.flac
+     7:42.73          77.89 MB  ---   --   ---xx   flac  0.5011  ph1997-07-29d1t09.flac
+     2:34.73          26.07 MB  ---   --   ---xx   flac  0.4538  ph1997-07-29d2t01.flac
+    20:39.54         208.56 MB  ---   --   ---xx   flac  0.4656  ph1997-07-29d2t02.flac
+     6:34.12          66.31 MB  ---   --   ---xx   flac  0.4368  ph1997-07-29d2t03.flac
+    18:27.16         186.26 MB  ---   --   ---xx   flac  0.4397  ph1997-07-29d2t04.flac
+    11:03.34         111.61 MB  ---   --   ---xx   flac  0.4763  ph1997-07-29d2t05.flac
+     4:56.27          49.86 MB  ---   --   ---xx   flac  0.5005  ph1997-07-29d2t06.flac
+     2:25.22          24.44 MB  ---   --   ---xx   flac  0.4953  ph1997-07-29d2t07.flac
+    12:26.25         125.55 MB  ---   --   ---xx   flac  0.4006  ph1997-07-29d2t08.flac
+     2:06.47          21.30 MB  ---   --   ---xx   flac  0.4794  ph1997-07-29d3t01.flac
+    11:33.65         116.73 MB  ---   --   ---xx   flac  0.4625  ph1997-07-29d3t02.flac
+     0:59.00           9.93 MB  ---   --   ---xx   flac  0.4282  ph1997-07-29d3t03.flac
+   154:33.00        1559.98 MB                           0.4599  (20 files)

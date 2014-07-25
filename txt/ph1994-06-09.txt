@@ -1,0 +1,60 @@
+Phish 
+June 9, 1994
+Triad Amphitheater
+Salt Lake City, UT
+
+Set I Source: B&K 4011 > ??? > DA-P1 > ??? > CDR > EAC > CDWAV > Soundforge 4.5 > Shntool > SHN (see source notes)
+Shn Encoding by: Brandon Johnston
+
+Set II Source: SBD> CassX> (recorded 9/95)
+Transfer: Dennon DRW-840> Sony r500> Audiophile 2496> Samplitude 5.5 at 44.1> WAV> FLAC on 6/11/05 by EEE
+Remastering: FLAC > Wavelab (pitch correction/EQ/editing) > FLAC16 by Marmar
+
+Disc 1:
+Set I: 
+1.Llama
+2.Guelah Papyrus
+3.Rift
+4.Down with Disease
+5.It's Ice
+6.If I Could
+7.Maze
+8.Fee
+9.Suzy Greenberg
+
+Disc 2:
+Set II: 
+1.  Split Open and Melt
+2.  Glide
+3.  Julius
+4.  Halley's Comet-> 
+5.  Scent of a Mule
+6.  Ginseng Sullivan* (B&K 4011)
+7.  Mike's Song\\
+8.  \\I am Hydrogen-> 
+9.  Weekapaug Groove
+10.  Golgi Apparatus 
+11. Crowd
+Encore: 
+12. Highway to Hell 
+
+*Acoustic and without mics. 
+Tape flip at the end of Mike's
+
+
+Show Notes: Ginseng Sullivan was performed acoustic without microphones. 
+
+Source Notes: I'm not 100% sure on the source of these discs but this is what 
+the person I got them from thought they were, although they weren't positive.  
+This is the only source I've seen circulating so it is probably true. Some have 
+a Lunatec V2 listed as a preamp but I didn't include that in the lineage because 
+I don't have any real evidence to support this. In any case, the show sounds pretty 
+good and seems to be problem free so I hope we can look past the uncertain source info.
+
+Tech Notes: I extracted the cds as a range and resplit the tracks using CDWAV. The EAC 
+logs for each disc are included. There was one fade between discs that I removed. There 
+was enough overlapping music allowing me to join the 2 tracks together and resplit them 
+without any fade. There was also a fade that eliminated some crowd noise between the 
+second set and encore that I left in. I also added fades at the beginning and end of 
+each set in soundforge. No other processing was done on my part except for running the 
+fileset through shntool in order to remove SBE's that existed due to t

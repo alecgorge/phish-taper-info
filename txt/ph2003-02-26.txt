@@ -1,0 +1,52 @@
+Phish
+February 26, 2003
+Worcester Centrum Centre
+Worcester, MA
+
+source:
+Schoeps mk41 > kc5 > cmc6 > Sonosax SX-M2 > Apogee AD-1000 > Tascam DA-P1 (@ 44.1 kHz)
+
+transfer:
+Sony PCM-R500 > Tascam HD-P2 > CF Card > usb > pc > WaveLab 5.01b (fades) > CD Wave v1.94.7 > FLAC v1.1.2 (Level 8)
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded July 3, 2006
+
+note:
+The master DATs were used in this transfer, thanks Dave!
+
+Disc 1 - [69:02]
+Set I
+01 - [24:06] - You Enjoy Myself
+02 - [04:34] - Clone *
+03 - [09:15] - Roggae
+04 - [09:16] - Drifting *
+05 - [03:00] - Blue Skies *
+06 - [14:26] - The Moma Dance
+07 - [04:26] - Final Flight *
+
+Disc 2 - [66:24]
+Set I continued
+01 - [16:26] - Maze
+Set II
+02 - [00:50] - set II intro
+03 - [19:24] - Stash
+04 - [17:17] - Ghost ** -> Low Rider ->
+05 - [03:46] - Makisupa Policeman ^ ->
+06 - [08:41] - Ya Mar
+
+Disc 3 - [51:10]
+Set II continued
+01 - [10:02] - Guyute
+02 - [09:30] - Waves >
+03 - [07:08] - Prince Caspian ->
+04 - [05:10] - Frankenstein >
+05 - [04:41] - Golgi Apparatus
+06 - [02:28] - encore break
+07 - [11:11] - Loving Cup
+08 - [00:59] - outro
+
+* first time played by Phish
+** with "Low Rider" jam
+^ referenced the fire at the band's hotel in Cincinnati a week earlier

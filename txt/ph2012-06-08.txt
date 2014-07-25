@@ -1,0 +1,104 @@
+Phish
+DCU Center
+Worcester, Massachusetts
+6/8/2012
+
+Source: Schoeps CCM4V'S(din)>Lunatec V2>Benchmark AD2K>
+Sound Devices 722 (24/48)
+FOB/DFC/KFC/ZFC/AARP Approximately 45'From Stage, 6' High
+DSP: Sound Devices 722>Sound Forge 9.0>CD Wave>flac(16)
+Recorded By: Z-Man
+Seeded By: Z-Man
+
+Disc I 1st Set
+
+01 Tuning
+02 Free
+03 Kill Devil Falls
+04 Roses Are Free >
+05 Theme From The Bottom >
+06 Axilla >
+07 Julius
+08 Bouncin' Around The Room
+09 Maze
+10 Bathtub Gin
+
+Disc II 2nd Set
+
+01 Down With Disease >
+02 Sand >
+03 Nellie Kane 
+04 Mike's Song >
+05 Makasupa Policeman >
+06 Weekapaug Groove
+
+Disc III 2nd Set Con't
+
+01 Wading In The Velvet Sea
+02 Also Sprach Zarathustra
+03 Character Zero
+Encore:
+04 The Oh Kee Pa Ceremony >
+05 Suzy Greenberg
+
+Flac Fingerprint 
+
+phish2012-06-08d01t01.flac:4b65f99c4c2427ae076ebf01fb365387
+phish2012-06-08d01t02.flac:3965ff95ef22523b23ce33adb84f928d
+phish2012-06-08d01t03.flac:6e1828155441c6bbeb2d23562ae6f60a
+phish2012-06-08d01t04.flac:28fbc75a346a02b3eef8ad9ace4b5439
+phish2012-06-08d01t05.flac:24fca21e99e30e3df5800b00a1a32ffe
+phish2012-06-08d01t06.flac:a434684fb97d462bfeaff979eb9f92db
+phish2012-06-08d01t07.flac:20329e44619669ed92ef2f1d621a8b59
+phish2012-06-08d01t08.flac:fd676edb3cbec633072e87211e7421d8
+phish2012-06-08d01t09.flac:79d83dedd003cd2060e27718a177b80c
+phish2012-06-08d01t10.flac:0e42fa254556604a2faf0440ab93600f
+phish2012-06-08d02t01.flac:52ad3243dadeb4f93c26a28c0ad019cd
+phish2012-06-08d02t02.flac:d4c53c876128aecffd1b1cb5d81dec64
+phish2012-06-08d02t03.flac:7d0f8be7da4eeea2473e34bf0ed73bef
+phish2012-06-08d02t04.flac:e6b2a35a54e335099cdfb756b1d25a2e
+phish2012-06-08d02t05.flac:1ee15c91c17d98f8909b3be962827500
+phish2012-06-08d02t06.flac:574d5161caa34db62b9f4b42a7084627
+phish2012-06-08d03t01.flac:f6e49e86d2832a2cc76a5bbedfd02d95
+phish2012-06-08d03t02.flac:bbc2ba0002f11806e5839ea98bc2bfc4
+phish2012-06-08d03t03.flac:0443568cb43419c99d158450e7307083
+phish2012-06-08d03t04.flac:08c04acb7dbf6f470439ee7b321e569e
+phish2012-06-08d03t05.flac:820e516567b98d8dc02b083073ba0c83
+
+Shntool 
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:19.12        3379868 B   ---   --   ---xx   flac  0.4240  phish2012-06-08d01t01.flac
+     8:45.37       92697068 B   ---   --   ---xx   flac  0.4804  phish2012-06-08d01t02.flac
+     9:54.50      104899244 B   ---   --   ---xx   flac  0.5170  phish2012-06-08d01t03.flac
+    10:12.10      107980364 B   ---   --   ---xx   flac  0.4913  phish2012-06-08d01t04.flac
+     8:22.66       88708076 B   ---   --   ---xx   flac  0.4758  phish2012-06-08d01t05.flac
+     3:25.63       36310220 B   ---   --   ---xx   flac  0.5370  phish2012-06-08d01t06.flac
+    10:35.60      112155164 B   ---   --   ---xx   flac  0.4829  phish2012-06-08d01t07.flac
+     3:58.74       42157292 B   ---   --   ---xx   flac  0.4641  phish2012-06-08d01t08.flac
+    10:38.18      112585580 B   ---   --   ---xx   flac  0.5116  phish2012-06-08d01t09.flac
+    12:47.45      135404684 B   ---   --   ---xx   flac  0.4837  phish2012-06-08d01t10.flac
+    14:51.04      157181852 B   ---   --   ---xx   flac  0.4799  phish2012-06-08d02t01.flac
+     8:20.44       88303532 B   ---   --   ---xx   flac  0.4699  phish2012-06-08d02t02.flac
+     3:21.38       35545820 B   ---   --   ---xx   flac  0.4840  phish2012-06-08d02t03.flac
+     7:46.23       82256540 B   ---   --   ---xx   flac  0.5178  phish2012-06-08d02t04.flac
+     5:49.64       61714172 B   ---   --   ---xx   flac  0.4549  phish2012-06-08d02t05.flac
+     6:29.64       68770172 B   ---   --   ---xx   flac  0.5278  phish2012-06-08d02t06.flac
+     7:31.01       79558796 B   ---   --   ---xx   flac  0.4298  phish2012-06-08d03t01.flac
+     9:37.25      101841644 B   ---   --   ---xx   flac  0.5065  phish2012-06-08d03t02.flac
+     8:03.31       85274156 B   ---   --   ---xx   flac  0.5199  phish2012-06-08d03t03.flac
+     1:54.70       20274284 B   ---   --   ---xx   flac  0.4179  phish2012-06-08d03t04.flac
+     7:47.05       82390604 B   ---   --   ---xx   flac  0.5025  phish2012-06-08d03t05.flac
+   160:33.54     1699389132 B                            0.4901  (21 files)
+
+
+ 
+
+
+
+
+
+
+
+
+

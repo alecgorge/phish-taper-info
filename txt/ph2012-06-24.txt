@@ -1,0 +1,42 @@
+Phish
+June 24, 2012
+Blossom Music Center
+Cuyahoga Falls, OH
+
+source: Schoeps mk41 (DINa) > kcy > Sonosax SX-M2-LS2 > Mytek 192 > Tascam HD-P2 (24/48)
+transfer: CF > Sound Studio > xACT > .flac (16/44)
+
+Set 1
+d1t01 Sample In A Jar
+d1t02 Tube
+d1t03 Axilla
+d1t04 Bathtub Gin
+d1t05 Roses Are Free >
+d1t06 Limb By Limb
+d1t07 Free >
+d1t08 NICU >
+d1t09 Possum >
+d1t10 The Wedge
+d1t11 Corinna
+d1t12 Meatstick
+
+Set 2
+d2t01 Intro
+d2t02 Golden Age >
+d2t03 Ghost >
+d2t04 Sweet Virginia
+d2t05 Rift >
+d2t06 Tweezer > (1)
+d2t07 Walk Away > (2)
+d2t08 The Horse >
+d2t09 Silent In The Morning >
+d3t01 Piper >
+d3t02 Waste >
+d3t03 Run Like An Antelope
+d3t04 Crowd
+Encore
+d3t05 Loving Cup >
+d3t06 Tweezer Reprise
+
+(1) with Another Brick In The Wall Part 2, Under Pressure, Meatstick teases
+(2) with Tweezer jam

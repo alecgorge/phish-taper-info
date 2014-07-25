@@ -1,0 +1,35 @@
+Phish - 7/17/96
+Theater Antique - Vienne, France
+
+Source: AKG391's> Sound Devices> DAT> D5
+
+Transfer Cass/2> Dennon DRW-840>Audiophile 2496>FLAC 6/7/06 by EEE
+
+My Cass/2 was recorded in 10/96 from my friend Miles Abrahm's master cassette tape. 
+
+1.  Divided Sky
+2.  Sample In A Jar
+3.  David Bowie
+4.  Ya Mar
+5.  Funky Bitch
+
+-Opening for Santana
+-Divided Sky levels go up and overload from 3:42-3:43.
+-Tape flip was between Sample and Bowie, no music lost.
+
+FFP:
+ph1996-07-17d1t01.flac:eaa72f5cb2421eed04ad4bd38413fb19
+ph1996-07-17d1t02.flac:01bd62c4b3b41ca658a1f3dbb9df87e3
+ph1996-07-17d1t03.flac:06b5bfb5e2a571d0d8dcc12a5b775f7c
+ph1996-07-17d1t04.flac:c573bfde5503cd12c19f73e4ba7518b2
+ph1996-07-17d1t05.flac:16865a0167a8d3102da3a13e72f2f776
+
+SHNTOOL Output:
+    length     expanded size   cdr  WAVE problems filename
+    13:46.18      145748780    ---   --   -----   ph1996-07-17d1t01.wav
+     4:46.33       50528060    ---   --   -----   ph1996-07-17d1t02.wav
+    11:45.52      124484348    ---   --   -----   ph1996-07-17d1t03.wav
+     5:01.46       53204636    ---   --   -----   ph1996-07-17d1t04.wav
+     4:24.38       46659020    ---   --   -----   ph1996-07-17d1t05.wav
+    39:44.37      420624844 B                     (totals for 5 files, 1.0000 ov
+erall compression ratio)

@@ -1,0 +1,70 @@
+phish 
+hampton coliseum
+hampton, va
+1995-11-25
+
+set 1 (~61 min.)
+
+disc 1
+Poor Heart, 
+A Day in the Life > 
+David Bowie, 
+Billy Breathes > 
+Taste That Surrounds, 
+Bouncing Around the Room > 
+Rift, 
+Wolfman's Brother,
+Runaway Jim
+
+set 2 (~92 min.)
+
+disc 2
+Timber Ho > 
+Kung 
+Mike's Song > 
+Rotation Jam* > 
+Mike's Song, 
+My Long Journey Home**, 
+Blue & Lonesome**, 
+Strange Design > 
+Weekapaug Groove, 
+Harry Hood, 
+
+disc 3 (this will fit at the end of disc 1)
+Hello Ma Baby, 
+Poor Heart***, 
+crowd
+E: Poor Heart reprise***, 
+Fire
+
+*first ever band rotation during this jam.   **Acoustic.   ***Slow shuffle version.  
+
+source:  akg460b/ck61>b18>denon dtr80p, by chad clark and JK
+transfer:  DAT(1)>cd(1)>eac>cdwave>flac, by john m 2007-08-01
+
+notes:  this one suffers from second set sickness....  
+
+phish1995-11-25d1t01.flac:49b4b3760bef2f7bac7f363ed0ba4851
+phish1995-11-25d1t02.flac:1e3229f064f8fee5b0a5fe7d28089245
+phish1995-11-25d1t03.flac:45c3671b4bc2cba58c56b0f19a8d5e8b
+phish1995-11-25d1t04.flac:a709c0c560d8adcce6807a0c56191422
+phish1995-11-25d1t05.flac:272cbdcf18c7bd3b77e8301298910614
+phish1995-11-25d1t06.flac:a0cf469ba9ece23a9b60bdee79013267
+phish1995-11-25d1t07.flac:ea69356e4321f024917ce2fb2cd89ae0
+phish1995-11-25d1t08.flac:4b9428cdbddcb69c6c4e63ca66865710
+phish1995-11-25d1t09.flac:18df69065610458d124bc2c28181165e
+phish1995-11-25d2t01.flac:7ec7f5d4907614514f3f73bf40d42166
+phish1995-11-25d2t02.flac:291bf96529b2d78636df8a9882437054
+phish1995-11-25d2t03.flac:3f2d569180ff670d54546e1cfdc4206f
+phish1995-11-25d2t04.flac:d3d81c51085ffc672adceb3a834a8a7a
+phish1995-11-25d2t05.flac:8561cea32be97aba865ef0d669cace27
+phish1995-11-25d2t06.flac:5e3d628a06112534dfaa4d2c15c7edfc
+phish1995-11-25d2t07.flac:4a0256514622975d41955ae7f7d2d5a4
+phish1995-11-25d2t08.flac:c3d13a1fcce189ee59296e60aa186f16
+phish1995-11-25d2t09.flac:dc33b9a492baf5b69a52b471985eecb3
+phish1995-11-25d2t10.flac:706bea36c5ea8238ea989841ea288c1e
+phish1995-11-25d3t01.flac:c402b1c8bbbc7e5b86905b450309531c
+phish1995-11-25d3t02.flac:df45a3c0b306cba0b6235efe4861734a
+phish1995-11-25d3t03.flac:8f007b6db7c0ae71db3068f51d83abb4
+phish1995-11-25d3t04.flac:7dc7902e17a72969447dd857fcfd2a4a
+phish1995-11-25d3t05.flac:37f8e624ba2e62d9df015c6b7f16fffd

@@ -1,0 +1,87 @@
+PHiSH
+07-23-88 
+Peter Danforth's House - Underhill, VT 
+"Pete's Fabulous Phish Fest"
+
+Source: SBD > Cass/3 > DAT
+Transfer: Tascam DA20 mkII > ZA2 > SF4.5 > CDWav > SHN
+
+enjoy!!!
+jimmy sellers
+pjimmy@delanet.com
+
+--------------------------------------
+ Disc 1:		      (71:27)
+--------------------------------------
+-Set 1-
+1. /Intro Jam		      (05:36)
+2. Colonel Forbin's Ascent -> (06:50)
+3. Famous Mockingbird	      (07:10)
+4. Mike's Song ->	      (08:43)
+5. I Am Hydrogen ->	      (02:29)
+6. Weekapaug Groove	      (06:37)
+7. Lizards/	              (07:51)
+8. On Your Way Down	      (06:04)
+9. AC/DC Bag		      (07:46)
+10. Possum		      (08:39)
+11. Walk Away		      (03:42)
+
+--------------------------------------
+ Disc 2:		      (63:05)
+--------------------------------------
+1. Bold as Love		      (06:13)
+2. No Dogs Allowed -> 	      (04:58)
+3. Divided Sky Jam/	      (08:17)
+4. The Sloth		      (04:11)
+5. Fire*		      (06:05)
+-Set 2-
+6. The Curtain With > Dave's Energy Guide > The Curtain With	      (21:09)
+7. Wilson		      (07:06)
+8. Terrapin		      (05:03)
+
+--------------------------------------
+ Disc 3:		      (45:28)
+--------------------------------------
+1. Run Like an Antelope       (13:00)
+2. Satin Doll^                (06:05)
+3. Blue Bossa^                (11:49)
+4. La Grange                  (05:37)
+5. Alumni Blues (LtJP)        (06:05)
+6. Peaches en Regalia/	      (02:52)
+
+--------------------------------------
+ Disc 4:		      (66:22)
+--------------------------------------
+-Set 3-
+1. You Enjoy Myself	      (20:30)
+2. Contact		      (06:20)
+3. Harry Hood		      (13:53)
+4. Dinner and a Movie	      (04:00)
+5. Slave to the Traffic Light (09:26)
+6. Curtis Lowe		      (05:24)
+7. Good Times Bad Times       (06:49)
+
+* With Cameron McKenney on sax. 
+^ With Vincent on horns and Peter Danforth on sax
+
+Notes:
+-The HPB says Set 2 ends with the Sky Jam (after the cut), but after Fire, 
+  Fish? says, "We're going to take a break...". So, I believe, the set ends 
+  after Fire and have noted that in the file.
+-Few tracks cut at beginning or end due to analog tape flips, except for 
+  the cut at the end of d3t06.
+-Tape flips
+  d1t07 7:51 (45:16)
+  d2t03 8:13 (45:45)
+  d3t02 3:05 (49:26)
+  d4t01 13:23 (42:45)
+-Diginoise/Static 
+  d2t08 4:38-4:43, 4:46-4:47  
+  d3t02 2:26-2:28 (spotty) 
+  d3t05 5:37-6:00
+  Will be looking for clean tracks and will replace these as soon as I can 
+  track them down.
+
+Fixes:
+-Removed 5 dropouts in d1t10 5:59-6:03 (slight missed beats due to dropouts)
+-Replaced left channel diginoise in d4t01 1:49 (0.028s) with clean right channel

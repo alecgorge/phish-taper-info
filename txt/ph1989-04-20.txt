@@ -1,0 +1,53 @@
+Phish
+04-20-89
+Full Moon at The Zoo, Humphries House, Amherst, MA
+
+Source: SBD > Cass/x > Nak DR-1 > DAT 
+Transfer: Sony PCM R500 > HHb 800 > CDR (master) > EAC (secure) > SF4.5 > FLAC
+
+FLAC Conversion by Ben Mohr (benjamin.mohr@ce.gatech.edu)
+
+---------------------------------------------------
+ Disc 1:                                   (47:40)
+---------------------------------------------------
+-Set 1-
+1. //AC/DC Bag                             (05:01)
+2. Fluffhead                               (07:22)
+3. fire alarm announcement//               (00:14)
+4. You Shook Me All Night Long Jam ->      (01:41)
+5. Fluffhead                               (08:04)
+6. Fire                                    (06:15)
+7. Esther                                  (09:18)
+8. Suzy Greenberg                          (05:50)
+9. The Sloth                               (03:55)
+
+---------------------------------------------------
+ Disc 2:                                   (54:05)
+---------------------------------------------------
+-Set 1 cont.-
+1. Possum                                  (08:06)  
+2. McGrupp and the Watchful Hosemasters -> (09:08)
+3. Foam                                    (08:01)
+4. David Bowie                             (11:48)
+-Set 2-
+5. //Divided Sky                           (11:54)
+6. Walk Away                               (05:08)
+
+---------------------------------------------------
+ Disc 3:                                   (68:20)
+---------------------------------------------------
+-Set 2 cont.-
+1. You Enjoy Myself                        (14:31)
+2. Split Open and Melt                     (09:06)
+3. The Lizards                             (10:10)
+4. Mike's Song >                           (06:23)
+5. I Am Hydrogen >                         (02:18)
+6. Weekapaug Groove                        (06:37)
+7. Love You                                (05:42)
+8. Harpua//                                (13:33)
+
+Tape flips: d1t08 5:45 (44:02), d3t02 9:06 (40:56), d3t08 13:33 (45:00)
+
+Fixes:
+-Removed diginoise d3t01 12:40.790 (0.238s; prior to pitch shift)
+-Pitch shift of +15cents with anti-alias filtering and max accuracy in SF4.5

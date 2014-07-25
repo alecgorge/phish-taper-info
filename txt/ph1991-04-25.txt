@@ -1,0 +1,61 @@
+Phish
+Field House
+University of New Hampshire
+Durham, NH 
+4/25/91 
+
+TAPER: John Redmond
+SOURCE Nak 300s > D5 
+
+AUD MCass (Maxell MX 90 min)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +~10dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)>
+Mastering (see notes)> SHNv3
+
+Transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 11/23/2003)
+Mastering, editing and WAV > SHN were performed on REBA by Arty- imthemarmar@stny.rr.com
+
+**24/48 Masters do exist at the unedited/pre-processed level**
+
+*DISC 1*
+Set 1:
+01. Sweet Adeline
+02. The Landlady
+03. Runaway Jim
+04. The Curtain >
+05. Cavern >
+06. Poor Heart
+07. Reba//
+08. Llama
+09. Ok Kee Pa Ceremony >
+10. Suzy Greenberg
+11. David Bowie
+
+*DISC 2*
+Set 2:
+01. "Lost Wallet"
+02. Buried Alive
+03. My Sweet One
+04. Mike's Song >
+05. I am Hydrogen >
+06. Weekapaug Groove
+07. Tela
+08. Dinner and a Movie
+09. Stash
+10. Bouncing Around the Room
+11. Divided Sky
+12. Big Black Furry Creatures from Mars
+Encore: 
+13. Take the A-Train
+14. Highway to Hell
+
+Notes
+-The Aquarium Rescue Unit Opened
+-The tape flips were edited as smooth as possible.
+-This show didn't need much done to it...just sweetened the bottom end and dusted off the top end with the BBE unit. There are points were there is some severe mic overload, but it's bearable.
+
+**Mastering**
+24bit/48kHz FLAC's > Wavelab 4.01b on REBA > Editing in Wavelab > BBE > 192kHz Stereo Resampler 48>44.1kHz > L1+ (dither to 16bit/Level 1/normal) > Tracking in Wavelab > SHNv3 appended
+
+
+Seeded to FurthurNet (www.furthurnet.org)

@@ -1,0 +1,67 @@
+PHISH  5-9-92
+THE ARMORY, SYRACUSE, NY
+
+=========================================================|
+
+Set I SOURCE: 2 Nak300's > DAT 
+
+CONVERSION: CTD8000H-S > DAT2WAV > SOUNDFORGE 5.0 
+(Resampling from 48kHz to 44.1kHz, level 4 w/anti
+alias filtering) > CD WAVE  (track splits)  > SHN
+-------------------------------------------------
+Set II Source: SBD>Cass/0>DAT>CTD8000H-S > DAT2WAV > SOUNDFORGE 5.0 >
+WAVELAB 3.3>CD WAVE>SHN>WAV>CDR
+
+Lineage: CDR>EAC>wav>flac frontend>flac 16 bit (level 8)
+
+discocape@yahoo.com
+I was unable to track down a shn copy of Robert's transfer, just 
+an audio CDR hence the EAC.
+
+=========================================================|
+
+DISC 1:
+
+SET 1:
+01. RUNAWAY JIM
+02. FOAM
+03. SPARKLE
+04. SPLIT OPEN AND MELT
+05. GUELAH PAPYRUS 
+06. RIFT
+07. FEE 
+08. MAZE
+
+
+DISC 2:
+
+01. THE SQUIRMING COIL
+02. I DIDN'T KNOW 
+03. RUN LIKE AN ANTELOPE
+
+Set 2:
+
+01. Suzy Greenberg 		[05:02]
+02. The Divided Sky		[13:28]
+03. Tela 			[06:49]
+04. Tweezer			[14:30]
+05. Harpua			[13:04]
+06. Llama			[04:36]
+07. Cold As Ice			[01:15]
+08. Cracklin' Rosie >		[02:42]
+09. HYHU			[01:19]
+10. Golgi Apparatus		[04:55]
+
+Encore:
+11. Poor Heart 			[02:47]
+12. Tweezer Reprise 		[03:23]
+
+
+
+
+Notes:
+Removed dropout: d3t08 at 01:57
+
+=========================================================|
+
+Seeded 4/10/01 by Robert Brown (rshn@twcny.rr.com)

@@ -1,0 +1,62 @@
+Phish 7/27/2013
+Gorge Amphitheatre - George, WA
+
+Source: DPA 4027(split 16.5'@9' directly in front of SBD)->V2->Busman HD-P2(24/96)->UV22HR(16/44.1)->CDWave->FLAC
+
+Recorded and tranferred by Scott Schneider
+
+Disc 1 (65:28):
+1. Crowd
+2. Architect
+3. Golgi Apparatus
+4. The Curtain With
+5. Kill Devil Falls >
+6. The Moma Dance >
+7. Maze
+8. Beauty of a Broken Heart
+9. Roses Are Free
+
+Disc 2 (76:46):
+1. Say Something
+2. Ocelot
+3. After Midnight
+--Set 2--
+4. Down With Disease >
+5. Undermind >
+6. Light >
+7. Sneakin' Sally Thru the Alley >
+8. 2001 >
+
+Disc 3 (49:40):
+1. Walls of the Cave >
+2. Fluffhead >
+3. Run Like an Antelope
+4. Encore break
+5. (E)Show Of Life
+6. (E)Good Times, Bad Times
+
+Thanks to Tim Dobert for guarding the stand on the other end of the split. 
+
+ph2013-07-27dpa4027-split-d1t01.flac:b0bdf1d86d0056b24e94b6ac95b135ab
+ph2013-07-27dpa4027-split-d1t02.flac:0c81af6cf30f926cdebc1c4db35b85d6
+ph2013-07-27dpa4027-split-d1t03.flac:46f368a89846738a08264a1794b2e9f7
+ph2013-07-27dpa4027-split-d1t04.flac:cd70fd5abf1bc20ceec6ffa2bacea78e
+ph2013-07-27dpa4027-split-d1t05.flac:ff68fbcec2c9bcb58ba127cbbc4e0351
+ph2013-07-27dpa4027-split-d1t06.flac:f2e5a34d177687ac7e4e08338fca13e3
+ph2013-07-27dpa4027-split-d1t07.flac:71e7bea3286fd992d80ebe6c9c6aea4d
+ph2013-07-27dpa4027-split-d1t08.flac:e22ff021907142a708b5d00407089e17
+ph2013-07-27dpa4027-split-d1t09.flac:3dea96a5e4e53e234ff4736802c3ed04
+ph2013-07-27dpa4027-split-d2t01.flac:58a05b016d35e2ebf70b3f886a4b6630
+ph2013-07-27dpa4027-split-d2t02.flac:519d5996df2d993649724fe357e2b28e
+ph2013-07-27dpa4027-split-d2t03.flac:62d67416e752df1dc7878da0b46801bf
+ph2013-07-27dpa4027-split-d2t04.flac:027af8b6c52d832aaada39ab6054d254
+ph2013-07-27dpa4027-split-d2t05.flac:f76794049e150680bbd10a3226febef4
+ph2013-07-27dpa4027-split-d2t06.flac:f245007e199916e99608e6b0dffa17e9
+ph2013-07-27dpa4027-split-d2t07.flac:0afde2f592fdba7246eb7dad2c6aa830
+ph2013-07-27dpa4027-split-d2t08.flac:9abd47f96933dbc51660644984aa342f
+ph2013-07-27dpa4027-split-d3t01.flac:ad0abc27a287c5e8d689bd6904781c9b
+ph2013-07-27dpa4027-split-d3t02.flac:333f8304316c03e62dc0a550ddda4808
+ph2013-07-27dpa4027-split-d3t03.flac:203560eee90614b055e513451da76098
+ph2013-07-27dpa4027-split-d3t04.flac:f73f3ad2231478edf3d3e0f21c75b2c1
+ph2013-07-27dpa4027-split-d3t05.flac:527a599c1b2ca9d70aba28f06d989aa7
+ph2013-07-27dpa4027-split-d3t06.flac:153e2b8847b7bb276086c007c1df68b9

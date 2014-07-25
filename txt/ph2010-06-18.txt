@@ -1,0 +1,48 @@
+Phish
+6/18/2010
+Meadows Music Theatre
+Hartford, CT
+
+**16 bit**
+Source: DPA 4023>Sonosax SX-M2>Sound Devices 722 (24/96)
+Config/Location: DIN/OTS/DFC 7.5' stand  
+Transfer: 722>Firewire>Macbook>
+Sound Studio 3(fades, normalize peak, track, bit depth conversion, resample)>xACT(align on sector boundaries, encode, tag, fingerprint)>flac16
+Taped & transferred by: Lenny Stubbe
+
+Set I: (1:23:15)
+
+01. Fee>
+02. Rift
+03. Wolfman's Brother
+04. Summer Of '89*
+05. Foam
+06. Possum>
+07. Moma Dance>
+08. Julius
+09. Reba
+10. Cavern
+
+Set II: (1:32:15)
+
+01. intro
+02. Halley's Comet>
+03. Light>
+04. Billy Breathes
+05. Tweezer>
+06. Theme From The Bottom>
+07. Harry Hood>
+08. Wading in the Velvet Sea
+09. Stealing Time From The Faulty Plan
+10. encore break
+11. Sleeping Monkey>**
+12. Tweezer Reprise
+13. Tweezer Reprise***
+
+Notes:
+- * First time played, original
+- ** Dedicated to the guy holding the elaborate sign the night before. "We're the all request band" - Trey
+- *** Played twice to make up for running out of time in Hershey Park 6/13/10.  "This is for Hershey Park" - Trey
+- Thanks to Mike Kutik for the clamp space
+
+Seeded to etree on: 6/19/2010

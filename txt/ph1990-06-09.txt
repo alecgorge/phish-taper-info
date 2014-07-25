@@ -1,0 +1,54 @@
+Phish
+6-9-90
+The Wetlands Preserve
+New York City, NY
+
+Source: MCS > AD1000 > DAT
+Transfer: MCS > AIWA AD-F850 3-Head Cassette Deck > Apogee AD1000 > Tascam DA-302 DAT Deck
+	  Tascam DA-302 > HHB CDR-850
+Encoding: CD > EAC (secure Mode) > WAV > SHNTool > Flac (1.1.0)
+
+Disc 1
+Set I
+01. Possum
+02. Lawn Boy 
+03. Reba
+04. Dinner and a Movie
+05. Bouncing Arount the Room
+06. Tweezer
+07. Uncle Pen
+08. Mike's Song >
+09. Hydrogen >
+10. Weekapaug Groove
+
+Disc 2
+Set II
+01. Whole Lotta Love Jam* >
+02. Harry Hood
+03. T.M.W.S.I.Y. >
+04. Avenu Malkenu >
+05. La Grange
+06. Fee >
+07. Foam
+08. Oh Kee Pah >
+09. Suzy Greenburg >
+10. Run Like an Antelope
+11. HYHU >
+12. Terrapin >
+13. HYHU
+
+Disc 3
+01. Harpua
+02. Good Times, Bad Times
+Encore:
+03. Take the A-Train  >
+04. Contact
+
+
+* - Phish came out onto the stage for the second set and the D.J. was still playing music out into the house speakers-the tune was Led Zep Whole Lotta Love. As a means to warm up a lil', Phish started playing along with the record playing in the house speakers. The D.J. noticed they were on stage and faded out the Led Zep leaving Phish alone playing Whole Lotta Love-that jam ends and they go directly into Harry Hood.
+
+Show taped by Dan Chapman (thedanimal@adelphia.net)
+Transferred by Chris Warren (hip_school_preppie@yahoo.com)
+Flac'd by Mark Kerchoff (Mark@Kerchoff.com)
+
+Thanks to Dan for the analog tapes!

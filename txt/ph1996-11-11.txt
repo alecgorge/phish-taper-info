@@ -1,0 +1,72 @@
+Phish
+Van Andel Arena
+Grand Rapids, Michigan 
+11/11/96
+
+
+cmc62 > Sonosax > HHb (48)
+
+DAT transfer on 5/18/09: DA-302 > Audiophile USB > Wavelab (fades) > CDWave > flac
+
+Recording by ???.  DAT transfer by Leo Samouilidis
+
+
+Set One
+ 1. Chalkdust Torture		( 6:42)
+ 2. Guelah Papyrus		( 6:09)
+ 3. Cars, Trucks and Buses	( 4:14)
+ 4. AC/DC Bag 			( 8:39)
+ 5. Sparkle			( 3:42)
+ 6. Brother			( 4:57)
+ 7. Theme From The Bottom	( 9:07)
+ 8. Axilla			( 4:13)
+ 9. Runaway Jim			( 8:45)
+
+
+Set Two
+ 1. Timber (Jerry)		( 6:16)
+ 2. Divided Sky	*		(15:37)
+ 3. Gumbo			( 6:06)
+ 4. The Curtain			( 6:00)
+ 5. Sample In A Jar 		( 4:42)
+ 6. Tweezer			(15:19)
+ 7. Swept Away >		( 1:08)
+ 8. Steep 			( 2:09)
+ 9. Maze			(11:12)
+10. Contact			( 6:09)
+11. Slave to The Traffic Light	(10:34)
+12. encore break		( 2:49)
+13. Waste			( 5:50)
+14. Cavern			( 5:08)
+
+
+* with All Fall Down signal
+
+*** note: these are 48kHz files, NOT 44.1 (not CD files) ***
+
+
+ffp:
+ph1996-11-11.cmc62.set1.t01.flac:de3ef5c65210105f8e095ce2b1e0e247
+ph1996-11-11.cmc62.set1.t02.flac:50c6e2247206fd652401ed3a9f4316e3
+ph1996-11-11.cmc62.set1.t03.flac:e76f6a5531acf376938fd403ff1a1c7b
+ph1996-11-11.cmc62.set1.t04.flac:950eb1bacb20988c0b4b2883570f7c8a
+ph1996-11-11.cmc62.set1.t05.flac:a9a249e27da17717cb2f1c4cf8113657
+ph1996-11-11.cmc62.set1.t06.flac:8d70ddb64f379d1d331b30ce1d91c97b
+ph1996-11-11.cmc62.set1.t07.flac:900459568077c2f5fc6da587a5f16782
+ph1996-11-11.cmc62.set1.t08.flac:dcf26772d59910bbfdcb547e748bffb4
+ph1996-11-11.cmc62.set1.t09.flac:f84d63f34c7f7d0a86227ec370c3679d
+ph1996-11-11.cmc62.set2.t01.flac:fe84a43fe47c77217fa086faff80bad0
+ph1996-11-11.cmc62.set2.t02.flac:96801e38617d5035c929a12f47686f25
+ph1996-11-11.cmc62.set2.t03.flac:24eb39922502aa6e956005dcb07e3f18
+ph1996-11-11.cmc62.set2.t04.flac:c723dc6260fc130f123ed5fd7747af9a
+ph1996-11-11.cmc62.set2.t05.flac:3009b566b3b1f538fb6971b63725e342
+ph1996-11-11.cmc62.set2.t06.flac:372b815c265e0c16ce2a7cb35ee6c05f
+ph1996-11-11.cmc62.set2.t07.flac:34acc934e74dcc5eabfe0ea237cd8cb9
+ph1996-11-11.cmc62.set2.t08.flac:54c4d31f7b3918de8302be96f27181a7
+ph1996-11-11.cmc62.set2.t09.flac:651e1c8f1741a7b4aca81f83df314927
+ph1996-11-11.cmc62.set2.t10.flac:5a82111a813ee1ed3fd766a97b40c143
+ph1996-11-11.cmc62.set2.t11.flac:0632c80974d8dbff6eff6f4b03889ba1
+ph1996-11-11.cmc62.set2.t12.flac:642e75e92e303843ba7ce8d20b77d113
+ph1996-11-11.cmc62.set2.t13.flac:af6a428f3a0978b8f819cde1d07b5111
+ph1996-11-11.cmc62.set2.t14.flac:204722059a67de8b580cf403f0ffecd3
+

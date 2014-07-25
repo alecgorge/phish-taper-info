@@ -1,0 +1,115 @@
+Phish
+The Front
+Burlington, VT
+3/11/90
+
+***Mix of Two Sources***
+
+
+
+Main Source: SBD > Cass/2 > DAT (master)
+A>D Transfer: Denon 3-head deck > Fostex D5 @44.1kHz
+DAT>SHN Transfer: CTD8000H-S > DAT2WAV  > SHN > CDWav > SHN
+A>D Transfer by Jon Epstein 
+DAT>SHN Transfer by Robert Brown
+Tracking and Fixes by Ben Mohr (benjamin.mohr@ce.gatech.edu)
+
+
+Patch Source: SBD > Cass/? > CDWAV > Audacity 1.2.4 > FLAC16 (tracks marked with *)
+Trasnfer and editing by: Taperwayne (taperwayne@gmail.com)
+
+HUGE thanks to Greg Peeler for the patch source! 
+
+ Disc 1:                        
+
+1. Contact                     
+2. Oh Kee Pah Ceremony >        
+3. Suzy Greenberg               
+4. TMWSIY >                     
+5. Avenu Malkenu >              
+6. Reba//                       
+[La Grange - still missing]
+7. Mike's Song >               
+8. I Am Hydrogen >              
+9. Weekapaug Groove             
+10. The Squirming Coil >        
+11. Lizards                     
+12. Possum                     
+
+Disc 2:                       
+
+
+01. //Carolina*
+02. Roll Like a Cantaloupe*
+03. My Sweet One*
+04. Bouncing Around the Room*
+05. Dinner and a Movie*
+06. Take the A Train *
+07. The Sloth                   
+08. Ya Mar                       
+09. Split Open and Melt         
+10  Harpua     
+
+Disc #3                
+01 Slave To The Traffic Light*
+02. AC/DC Bag*
+03. David Bowie//*
+
+Harpua contains Foxy Lady (Jimi Hendrix) teases
+
+Notes on source #1
+-The Phish Companion does not list d1t11 Lizards for this show but it is definitely 
+  part of the show since they are no cuts before and there is a nice segue into the 
+  song.
+-This is the first time this show exists digitally and is the most complete source  
+  with a known cassette generation.
+-Tape flips
+  d1t11 8:03 (38:56)
+  d2t05 2:15 (46:49)
+   **From the second tape flip, it seems that the supposed first 6 songs of the second 
+     set were not recorded.  
+-Levels slighly high at start of d2t01 but are lowered eventually.
+
+Fixes:
+-Removed pop R channel d1t02 0:29.661, 0:29.691 (<<0.001sec) with SF4.5 pencil tool 
+-Removed pop R channel d1t03 2:55.083 (<<0.001sec) with SF4.5 pencil tool 
+-Removed pop d1t11 5:17.861 (<0.001sec) with SF4.5 pencil tool
+-Removed pop L channel d1t12 8:09.356, 8:09.386 (<<0.001sec) with SF4.5 pencil tool
+-Replaced R channel diginoise d1t12 8:09.353 (0.036sec) with clean L channel
+-Removed diginoise d1t12 8:09.353 (0.014sec)
+
+Notes on source #2
+
+The first few seconds of Carolina were trashed due to tape rot. The end of Bowie was cut, so I added a fade out. 
+The quality of the patch source was comparable to the original shn filesets, however the exact linage of the analog used is
+not known. Hopefully this will be considered a more complete upgrade, especially considering the inclusion of the missing songs, 
+especially the ultra rare Roll Like A Canteloupe. Again - huge thanks to Greg Peeler for digging this up!
+Enjoy! Any questions, feel free to email me. 
+
+
+40d5e5b8c412c4d1b04589d4cce57c2e *ph1990-03-11completeD1T01.flac
+8b119d064e36e7538b1ecb3a30cfb202 *ph1990-03-11completeD1T02.flac
+c92185063b93c628c50af94d90a50db8 *ph1990-03-11completeD1T03.flac
+159ea358e78a1a5a07c9e60aa856c8aa *ph1990-03-11completeD1T04.flac
+414b4ce520302c4de3190c47ce1d3555 *ph1990-03-11completeD1T05.flac
+078fb7de6c6185e2e0326fc33bd02b13 *ph1990-03-11completeD1T06.flac
+ce26ccf0301658c9c8e73ccdab1fd261 *ph1990-03-11completeD1T07.flac
+66ebe7bff1036ee7c14b903f0b4464dd *ph1990-03-11completeD1T08.flac
+a6a9a599d19cc706a3ba6a1ceafbb647 *ph1990-03-11completeD1T09.flac
+d2ee51d75335a980e1d20b751eb92e0d *ph1990-03-11completeD1T10.flac
+5a1ee24042183016cb37c6571589401e *ph1990-03-11completeD1T11.flac
+dfdaf39c132c8dd237115489fe1f55ba *ph1990-03-11completeD1T12.flac
+8bec5a24163a9ecfd2ced2af392d130b *ph1990-03-11completeD2T01.flac
+b2b766c4f2cc6a2ed5a456c1fd7065a4 *ph1990-03-11completeD2T02.flac
+68bea5de71c3ad68e64b10ac1e131b3e *ph1990-03-11completeD2T03.flac
+d4639332e9c885ecab6d9bb3d835f679 *ph1990-03-11completeD2T04.flac
+8160a0178cab12f1ccda719c3467875b *ph1990-03-11completeD2T05.flac
+bc1d1561c74768fd6c26b7bfa655dbff *ph1990-03-11completeD2T06.flac
+d6284535d51b0da605dee90a2c1b4877 *ph1990-03-11completeD2T07.flac
+a2fa43b2ea45fcb72ff10dff65fe0aa2 *ph1990-03-11completeD2T08.flac
+99bb0cce5d851f1d4bc0c5d0a1f90f2d *ph1990-03-11completeD2T09.flac
+88e46a4d3b5ce94e6676acb0f2a5f852 *ph1990-03-11completeD2T10.flac
+5101a1fe5eb29ba67e3159da88aadde2 *ph1990-03-11completeD3T01.flac
+07c93cc29f6214129c305572c2940daa *ph1990-03-11completeD3T02.flac
+bae85658bd46159d69451491422ee0ef *ph1990-03-11completeD3T03.flac
+

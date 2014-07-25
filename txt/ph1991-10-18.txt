@@ -1,0 +1,102 @@
+Phish 
+10-18-1991 
+Great American Music Hall, San francisco, CA 
+
+
+Source: SBD>Cass/0>DAT>CDR>EAC(Secure)>SHN>CDR>EAC>mkwACT>SHN 
+orginal Seed provided by E.Tipton. EAC>SHN by J.Barnes (heyitsmejess@aol.com) 
+
+This show is most likely a re-rip from SHN ID: 17904, I got this in a trade years ago. After
+some research it seems a lot of people have this same source so I figured I'd enter this 
+into the DB since the point of the DB is to keep track of all sources circulated. Also the
+source previously listed for this show was SDB>Cass/0 and it most certainly is not a SBD so I
+entered the source as an unknown AUD. I also verifed files didn't have any SBE's.
+
+
+DISC ONE 
+Set 1: 
+1.Runaway Jim 
+2.Foam 
+3.Paul and Silas 
+4.Reba 
+5.Wilson > Llama 
+6.Lizards 
+7.Sweet Adeline 
+8.Run Like an Antelope 
+
+DISC TWO 
+Set 2: 
+1.Brother 
+2.Uncle Pen 
+3.Guelah Papyrus 
+4.Dinner and a Movie 
+5.Mike's Song > 
+6.I am Hydrogen > 
+7.Weekapaug Groove 
+8.I Didn't Know 
+9.Fee > 
+10.Split Open and Melt 
+11.My Sweet One 
+12.Cavern 
+
+E:
+13.Sparkle 
+14.Walk Away 
+The song we're not going to play 
+
+DISC THREE 
+E (continued): 
+1.The Squirming Coil
+
+
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     7:28.29       79095452 B   ---   --   ---xx    shn  0.7186  c:\shows\ph1991
+-10-18.shnf.17904\d1Track01.shn
+     8:53.58       94157660 B   ---   --   ---xx    shn  0.6965  c:\shows\ph1991
+-10-18.shnf.17904\d1Track02.shn
+     3:17.03       34757900 B   ---   --   ---xx    shn  0.7014  c:\shows\ph1991
+-10-18.shnf.17904\d1Track03.shn
+    11:38.55      123256604 B   ---   --   ---xx    shn  0.7020  c:\shows\ph1991
+-10-18.shnf.17904\d1Track04.shn
+     9:08.48       96780140 B   ---   --   ---xx    shn  0.7108  c:\shows\ph1991
+-10-18.shnf.17904\d1Track05.shn
+    10:24.70      110238284 B   ---   --   ---xx    shn  0.6747  c:\shows\ph1991
+-10-18.shnf.17904\d1Track06.shn
+     1:49.63       19375820 B   ---   --   ---xx    shn  0.5105  c:\shows\ph1991
+-10-18.shnf.17904\d1Track07.shn
+    10:11.59      107919212 B   ---   --   ---xx    shn  0.7040  c:\shows\ph1991
+-10-18.shnf.17904\d1Track08.shn
+     7:18.54       77390252 B   ---   --   ---xx    shn  0.6312  c:\shows\ph1991
+-10-18.shnf.17904\d2Track01.shn
+     4:06.00       43394444 B   ---   --   ---xx    shn  0.6248  c:\shows\ph1991
+-10-18.shnf.17904\d2Track02.shn
+     6:47.47       71905388 B   ---   --   ---xx    shn  0.6342  c:\shows\ph1991
+-10-18.shnf.17904\d2Track03.shn
+     3:30.22       37095788 B   ---   --   ---xx    shn  0.6725  c:\shows\ph1991
+-10-18.shnf.17904\d2Track04.shn
+     6:48.60       72112364 B   ---   --   ---xx    shn  0.7026  c:\shows\ph1991
+-10-18.shnf.17904\d2Track05.shn
+     2:44.34       29009612 B   ---   --   ---xx    shn  0.6495  c:\shows\ph1991
+-10-18.shnf.17904\d2Track06.shn
+     6:16.11       66352316 B   ---   --   ---xx    shn  0.6842  c:\shows\ph1991
+-10-18.shnf.17904\d2Track07.shn
+     3:21.62       35602268 B   ---   --   ---xx    shn  0.6178  c:\shows\ph1991
+-10-18.shnf.17904\d2Track08.shn
+     5:21.00       56624444 B   ---   --   ---xx    shn  0.6398  c:\shows\ph1991
+-10-18.shnf.17904\d2Track09.shn
+     7:34.50       80203244 B   ---   --   ---xx    shn  0.6910  c:\shows\ph1991
+-10-18.shnf.17904\d2Track10.shn
+     2:22.08       25067660 B   ---   --   ---xx    shn  0.6579  c:\shows\ph1991
+-10-18.shnf.17904\d2Track11.shn
+     4:47.24       50683292 B   ---   --   ---xx    shn  0.6746  c:\shows\ph1991
+-10-18.shnf.17904\d2Track12.shn
+     4:06.05       43406204 B   ---   --   ---xx    shn  0.6600  c:\shows\ph1991
+-10-18.shnf.17904\d2Track13.shn
+     4:23.10       46416764 B   ---   --   ---xx    shn  0.6908  c:\shows\ph1991
+-10-18.shnf.17904\d2Track14.shn
+     0:25.56        4541756 B   ---   --   ---xx    shn  0.5544  c:\shows\ph1991
+-10-18.shnf.17904\d2Track15.shn
+     7:46.49       82317692 B   ---   --   ---xx    shn  0.6292  c:\shows\ph1991
+-10-18.shnf.17904\d3Track01.shn
+   140:33.52     1487704560 B                            0.6743  (24 files)

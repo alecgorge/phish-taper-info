@@ -1,0 +1,91 @@
+Phish
+Cheel Arena
+Clarkson University
+Potsdam, NY
+4/24/93
+
+Source: SBD > Cass/3
+Transfer: Playback: JVC TD-W354 > CDWAV > Audacity 1.2.4 > FLAC16
+
+*Patch source for d3t01: NAK 100 shotguns; Tascam DA-20MKII > Tascam
+HD-P2 > WaveLab 5.01b (fades, de-emphasis, 48 to 44.1 kHz, patch) > CD Wave 
+v1.96.1 > FLAC v1.2.1 (Level 8); Transferred by Jason Sobel 
+
+Transfer: Taperwayne
+Huge thanks to Randy Dupuis for the source tapes!
+
+Disc #1
+*set 1*
+
+01. Chalkdust Torture
+02. Guelah Papyrus
+03. Poor Heart >
+04. Stash
+05. The Horse >
+06. Silent In The Morning
+07. R//ift >
+08. Caravan
+09. When Something is Wrong With My Baby
+10. Sparkle
+11. Run Like An Antelope
+
+Disc #2
+*set 2*
+
+01. Llama
+02. Foam
+03. Bathtub Gin
+04. Dinner And A Movie >
+05. Mound >
+06. Big Ball Jam
+07. YEM
+08. Hold Your Head Up > 
+09. Bike >
+10. Hold Your Head Up
+
+Disc #3
+*set 2 ctd.*
+
+01. Harry Hood*
+02  Cavern*
+03. Amazing Grace
+04. Good Times Bad Times
+
+*audience sourced.
+
+Notes: 
+d1t07: Beginning clipped, missing a few notes
+d3t01: Only about the first two seconds of Harry Hood was on the source tape, therefore I used the NAK 100 source to edit the song in, as best that I could, so that the show was complete.
+d3t02: Boosted levels, brings out tape hiss.
+
+This tape was plagued with clicks and pops that was likely from a loose cable from the board, to the deck used. I did the best I could to get rid of as many as possible, but a few may have snuck by me.
+No soundboard source of this show previously circulated.
+There is a fair amount of tape hiss, especially on the second tape.
+This source is meant to be an alternate source to those that circulate.
+Enjoy it for what it is. 
+Thanks again to Randy for hooking me up with his analog tapes!
+
+ph1993-04-24.sbd.d1t01.flac:fd321fbdd555c32bb12e0e598539a1fb
+ph1993-04-24.sbd.d1t02.flac:62d97ebe472c5b424caa76a8855c017a
+ph1993-04-24.sbd.d1t03.flac:e39767ecf8a3adc52a4e3fd0cfbb6fc1
+ph1993-04-24.sbd.d1t04.flac:d7428aa6cb6877a3502f8a14d4e94497
+ph1993-04-24.sbd.d1t05.flac:be738ad95d0af1e26104ee39a78ac637
+ph1993-04-24.sbd.d1t06.flac:a9e67da9ace438e1193f3f9b10ae199c
+ph1993-04-24.sbd.d1t07.flac:d6a6056d83d4e292bdf7268b16a5daa2
+ph1993-04-24.sbd.d1t08.flac:bc0d7a631ae3ce877ba660448d3b7588
+ph1993-04-24.sbd.d1t09.flac:53e49e40907d9364c4e2b0ef9488e0a3
+ph1993-04-24.sbd.d1t10.flac:235fb94af95dbbaf8766640707da4a6e
+ph1993-04-24.sbd.d1t11.flac:279970603bf468c5c1b30c665c0bb4bc
+ph1993-04-24.sbd.d2t01.flac:7a9f3a8678afa0dc623d221d9fd9d05c
+ph1993-04-24.sbd.d2t02.flac:61e0000d6ceb11743d29fbb1ffbe1028
+ph1993-04-24.sbd.d2t03.flac:802abc816f918c56e3b58a35ba46d213
+ph1993-04-24.sbd.d2t04.flac:212d05c177ce8abdacfdc72996a5f82f
+ph1993-04-24.sbd.d2t05.flac:8af3604cc91bfc706b8410ec83097e56
+ph1993-04-24.sbd.d2t06.flac:f171e19d7a01de877b5026923cc4f17b
+ph1993-04-24.sbd.d2t07.flac:5657f973b5a26b6cf2aa516d7698c2da
+ph1993-04-24.sbd.d2t08.flac:6e48a6a3385268c9144c61b387366e70
+ph1993-04-24.sbd.d3t01.flac:d45d7345ee2b9270a44046de156b5c6d
+ph1993-04-24.sbd.d3t02.flac:3a193ef6b6fa1bc39e2e0e3952fdbd6c
+ph1993-04-24.sbd.d3t03.flac:1ac761637db046320a8d3a70cf07d802
+
+            

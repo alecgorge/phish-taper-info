@@ -1,0 +1,78 @@
+Phish
+December 29, 1997
+Madison Square Garden
+New York, NY
+
+source:
+(FOB) Schoeps mk4 > Sonosac SX-M2 > Teac DA-P20 (@ 48 kHz)
+recorded from Row V, center
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > WaveLab 5.01b (de-emphasis, fades, resample to 44.1 kHz) > CD Wave v1.96.1 > FLAC v1.2.1 (Level 8)
+
+FLAC tags added with metaflac v1.2.1
+
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded December 29, 2007
+
+notes:
+The original DAT recording was made with pre-emphasis.
+The Waves Q10 Paragraphic EQ (v5.0) plug-in was used to de-emphasize the recording.
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+Big thanks to Eliot Byron for letting me borrow his DAT tape!
+
+Disc 1 - [73:38]
+Set I
+01 - [06:08] - NICU
+02 - [04:42] - Golgi Apparatus
+03 - [05:07] - Crossroads
+04 - [05:33] - Cars Trucks Buses
+05 - [03:02] - Train Song
+06 - [12:29] - Theme From the Bottom
+07 - [16:33] - Fluffhead
+08 - [04:06] - Dirt
+09 - [15:59] - Run Like an Antelope
+
+Disc 2 - [53:39]
+Set II
+01 - [23:19] - Down with Disease ->
+02 - [19:48] - David Bowie >
+03 - [10:31] - Possum *
+
+Disc 3 - [37:36]
+Set II continued
+01 - [10:55] - Tube
+02 - [18:27] - You Enjoy Myself
+03 - [01:06] - encore break
+04 - [07:07] - Good Times Bad Times
+
+* with a "Can't Turn You Loose" jam, which was reprised after the song.
+
+notes:
+the beginning of MINU is muffled, as the taper is still getting his gear ready.
+everything gets worked out around [00:47], and the rest of the show sound great.
+there was a cut in the encore break.
+I cross-faded the two sides of the cut to make it smoother.
+
+----------------------------------------------------------------------------------------
+
+SHNtool output:
+
+    length     expanded size   cdr  WAVE problems filename
+     6:08.07       64931708    ---   --   ---xx   ph1997-12-29d1t01.flac
+     4:41.53       49693100    ---   --   ---xx   ph1997-12-29d1t02.flac
+     5:07.12       54183068    ---   --   ---xx   ph1997-12-29d1t03.flac
+     5:32.43       58665980    ---   --   ---xx   ph1997-12-29d1t04.flac
+     3:01.45       32034284    ---   --   ---xx   ph1997-12-29d1t05.flac
+    12:28.62      132093068    ---   --   ---xx   ph1997-12-29d1t06.flac
+    16:32.48      175101740    ---   --   ---xx   ph1997-12-29d1t07.flac
+     4:06.36       43479116    ---   --   ---xx   ph1997-12-29d1t08.flac
+    15:58.69      169153532    ---   --   ---xx   ph1997-12-29d1t09.flac
+    23:19.25      246842444    ---   --   ---xx   ph1997-12-29d2t01.flac
+    19:48.04      209572652    ---   --   ---xx   ph1997-12-29d2t02.flac
+    10:31.15      111343724    ---   --   ---xx   ph1997-12-29d2t03.flac
+    10:55.35      115624364    ---   --   ---xx   ph1997-12-29d3t01.flac
+    18:26.71      195265436    ---   --   ---xx   ph1997-12-29d3t02.flac
+     1:06.36       11727116    ---   --   ---xx   ph1997-12-29d3t03.flac
+     7:06.56       75278156    ---   --   ---xx   ph1997-12-29d3t04.flac
+   164:52.17     1744989488 B                     (totals for 16 files, 0.5385 overall compression ratio)

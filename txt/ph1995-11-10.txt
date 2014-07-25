@@ -1,0 +1,48 @@
+Phish
+November 10, 1995
+The Fox Theatre
+Atlanta, GA
+
+source:
+(FOB) Schoeps mk4 > kc5 > cmc6 > Sonosax SX-M2 > Teac DA-P20 (@ 48kHz)
+
+transfer:
+Sony PCM-R500 > Tascam HD-P2 > CF card > usb > pc > WaveLab 5.01b (de-emphasis, fades, resample to 44.1kHz) > CD Wave v1.95 > FLAC v1.1.2 (Level 8)
+
+recorded by Ryan Varnum
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded October 29, 2006
+
+notes:
+The original DAT recording was made with pre-emphasis. The Waves 5.0 Paragraphic EQ plug-in was used to de-emphasize the recording.
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+Thanks to Ryan for taping these shows, and thanks to Dave Flaschner for letting me borrow the DATs!
+
+Disc 1 - [62:05]
+Set I
+01 - [04:16] - Bouncing Around the Room
+02 - [08:55] - Runaway Jim
+03 - [07:53] - Taste That Surrounds
+04 - [02:57] - The Old Home Place
+05 - [08:55] - It's Ice
+06 - [02:09] - Dog Faced Boy
+07 - [11:09] - Maze
+08 - [10:55] - Guyute
+09 - [04:57] - Cavern
+
+Disc 2 - [73:16]
+Set II
+01 - [09:32] - Free
+02 - [13:02] - Scent of a Mule
+03 - [14:25] - You Enjoy Myself ->
+04 - [02:44] - Crossroads ->
+05 - [11:52] - You Enjoy Myself
+06 - [02:52] - Strange Design
+07 - [03:50] - Sparkle
+08 - [10:58] - AC/DC Bag
+09 - [01:50] - Sweet Adeline
+10 - [02:10] - encore break
+
+Disc 3 - [17:49]
+Set II continued
+01 - [17:49] - Harry Hood

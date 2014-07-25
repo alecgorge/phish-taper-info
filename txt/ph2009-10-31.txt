@@ -1,0 +1,62 @@
+Phish
+10/31/2009
+Indio, California  Empire Polo Club, Festival 8
+
+Source:
+Schoeps mk22> KC5> M222> NT222> Apogee Mini-Me> SD 744t (@24bit/96kHz)
+Location: FOB, DFC, 60' from stage, 6' Stand, ORTF
+
+Transfer: SD 722> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44)
+Taped, Transferred & Seeded by: taylorc (11/03/2009)
+
+
+Set I
+t01 [05:50] Sample in a Jar
+t02 [16:30] The Divided Sky
+t03 [03:43] Lawn Boy
+t04 [09:14] Kill Devil Falls
+t05 [12:38] Bathtub Gin
+t06 [08:16] The Squirming Coil
+t07 [07:03] Runaway Jim
+t08 [08:59] Possum
+t09 [11:07] Run Like an Antelope
+
+Set II
+t10 [06:10] Intro/Montage
+t11 [05:10] Rocks Off
+t12 [02:53] Rip This Joint
+t13 [04:37] Shake Your Hips
+t14 [06:12] Casino Boogie
+t15 [05:51] Tumbling Dice
+t16 [05:07] Sweet Virginia
+t17 [08:55] Torn and Frayed
+t18 [04:08] Sweet Black Angel
+t19 [07:50] Loving Cup
+t20 [04:21] Happy
+t21 [04:10] Turd On the Run
+t22 [05:32] Ventilator Blues>
+t23 [07:15] I Just Want to See His Face
+t24 [06:46] Let It Loose
+t25 [05:39] All Down the Line
+t26 [04:38] Stop Breaking Down
+t27 [05:46] Shine a Light
+t28 [06:49] Soul Survivor
+
+Set III
+t29 [12:06] Backwards Down the Number Line>
+t30 [14:46] Fluffhead
+t31 [13:50] Ghost
+t32 [06:03] When the Circus Comes
+t33 [21:36] You Enjoy Myself
+t34 [04:03] crowd
+
+Encore
+t35 [11:51] Suzy Greenberg
+
+
+Notes:
+Thanks to Jason Lonchar for the Schoeps tubes & Scott Gordon for the KC5's
+Set II, Exile on Main Street (The Rolling Stones)
+Set II & Encore w/Dave Guy (trumpet), David Smith (trombone), Tony Jarvis (sax)
+and Saundra Williams & Sharon Jones (backup vocals)
+Set I [1:23:20] Set II [1:47:49] Set III [1:12:24] Encore [11:51]

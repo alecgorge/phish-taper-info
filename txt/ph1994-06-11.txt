@@ -1,0 +1,44 @@
+Phish
+Red Rocks Amphitheater, Morrison, CO 
+June 11, 1994
+
+Source:  FM Broadcast-> DAT-> CDR
+
+Original extraction and conversion by Phulcrum.  Edits (as noted below) by Jimbo.
+
+Disc 1, Set 1:
+01. Wilson >
+02. Chalk Dust Torture
+03. You Enjoy Myself >
+04. Rift
+05. Down With Disease
+06. It's Ice >
+07. Tela
+08. Stash 
+
+Disc 2, Set 2:
+01. Also Sprach Zarathustra-> 
+02. Run Like an Antelope
+03. Fluffhead
+04. Scent of a Mule
+05. Split Open and Melt
+06. The Squirming Coil 
+07. Maze
+
+Disc 3, Set 2:
+01. Contact-> 
+02. Frankenstein 
+Encore:
+03. Suzy Greenberg 
+
+
+The following edits have been made to the original etree seeds using an FM Broadcast DAT:
+1.  Rift - Dropout at 4:39 corrected.
+2.  It's Ice - Diginoise at 4:58 and skip at 7:37 corrected.
+3.  The Squirming Coil - Skip at 6:03 corrected.
+4.  Maze/Contact - missing segment (with station ID) replaced.
+5.  Suzy Greenberg - missing beginning added
+
+In addition, some extra intro/outro crowd noise was added for continuity.  The two Set 2
+discs have NOT been faded to allow the set to be put together seamlessly.  All three discs
+have been retracked using CDWave.

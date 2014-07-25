@@ -1,0 +1,36 @@
+Phish
+12-1-95
+Hershey Park Stadium
+Hershey, PA
+
+Source:  AKG 414's->DA-P1 (no other info given)
+Transfer: DA-20->Delta Dio 2496->Soundforge 4.5 (resampled 48>44.1 on highest accuracy setting w/anti alias filter)->CDWAV->SHN
+Transfer by: Brandon Johnston
+
+Disc 1: (70:25.65)
+Set I:
+1.Buried Alive
+2.Down with Disease
+3.Theme From the Bottom
+4.Poor Heart
+5.Wolfman's Brother
+6.Chalk Dust Torture
+7.Colonel Forbin's Ascent -> 
+8.Fly Famous Mockingbird
+9.Stash
+10.Cavern
+
+Disc 2: (76:08.19)
+Set II:
+1.Halley's Comet ->
+2.Mike's Song->
+3.Weekapaug Groove
+4.The Mango Song >
+5.Wilson >
+6.Suspicious Minds > HYHU
+7.David Bowie-> Catapult-> David Bowie
+8.crowd noise
+9.E: Suzie Greenberg
+
+Notes: Removed a small glitch at 33:00.500 of set II using soundforge. I love this show but have never found a
+good quality audience recording.  This one is as good as I've heard.

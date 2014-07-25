@@ -1,0 +1,61 @@
+PHiSH 
+8-17-96
+The Clifford Ball Day 2 
+Plattsburgh Air Force Base
+Plattsburgh, NY
+
+Source: DSBD -> DAT (99% of the show)
+Old Home Place: Pre-FMSBD DAT
+PYITE: 1st 1:05 DAUD DAT 
+Suzie Greenberg: 1st second taken from DAUD DAT
+Slave Source: FMSBD Broadcast -> DAT -> CD -> EAC 
+
+Transfer:
+All work was done on "Reba" which is the name for my DAW. DAT's transfered by TASCAM DA-40 -> Behringer DDX3216 Digital Mixer -> MARK OF THE UNICORN 896 HDR  -> Dual XENON @ 800mHz PC...and a whole buch of other stuff.
+
+All Editing done in the digital domain using Steinberg Wavelab 4.0f, CubaseVST/32 5.1
+
+**NOTES**
+I previously seeded this show in 2000, and after reading some of the user comments I was compelled to do a re-seed of this show. After listening real carefully and comparing the SBD portion to 3 different FMSBD sources, I have concluded that the soundboard portion is "flat" or runs slower than the FM source. So, from the point where it changes in PYITE > Golgi & all of disc 3 I took tuning measurements and discovered the DSBD was flat by 20cents. The pitch correction was done in Wavelab using the highest quality settings possible. Then PYITE was missing the fist minute from the DAT I had due to the taper "patching in" to the SBD feed from the Pre-FM source. The missing portion of Suzie was also repaired using the DAUD DAT I got my hands on. All edits were performed AFTER the DC Offset was removed from all material. The Slave came from Morgan Bell, who was nice enough to send me the FM source to use. The levels of Slave had to be adjusted to match the DSBD material. The Slave was edited in using exacting methods I would rather not go into here...the main changes are level reduction, DC Offset removal, and slight dithering. So here it is...after 80+hrs of listening and relistening, the best source available for this show IMHO.
+
+Questions, comments: imthemarmar@stny.rr.com
+
+Disc 1:
+My Old Home Place (Pre-FM SOURCE, CRISP AND CLEAN)
+PYITE
+Reba >
+Cars Trucks Buses
+Lizards
+Sample In A Jar
+Taste
+Fee >
+Maze
+Suzie Greenberg
+
+(Disc 1 is tracked for 80min)
+
+Disc 2:
+The Curtain
+Runaway Jim
+It's Ice
+Brother
+Fluffhead
+Antelope
+Golgi
+Slave
+
+(Disc 2 is tracked for 80min)
+
+Disc 3:
+Wilson
+Frankenstein
+Scent Of A Mule
+Tweezer***
+A Day In The Life
+Possum >
+Tweezer Reprise
+-ENCORE-
+Harpua
+
+
+***Digi-static not noted on previous SHN's...exists on DAT's

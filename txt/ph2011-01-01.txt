@@ -1,0 +1,44 @@
+Phish
+01/01/2011
+New York, New York  Madison Square Garden
+
+Source: Schoeps mk41> KC5> M222> NT222> Aeta PSP-3> SD 744t (@24bit/96kHz)
+Location: Section 10, Row B, Seat 2, 9' Stand, NOS
+
+Transfer: SD 744t> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (01/02/2011)
+
+
+Set I
+t01 [00:42] Intro
+t02 [05:53] My Soul
+t03 [04:39] Tube
+t04 [07:33] Runaway Jim
+t05 [08:15] Foam
+t06 [05:44] Guelah Papyrus >
+t07 [15:34] The Divided Sky
+t08 [05:22] Round Room >
+t09 [06:48] Walk Away >
+t10 [10:13] Gotta Jibboo >
+t11 [12:24] Reba
+t12 [13:15] Walls of the Cave
+
+Set II
+t13 [01:22] Intro
+t14 [11:55] Crosseyed and Painless >
+t15 [09:47] Twist >
+t16 [11:45] Simple
+t17 [09:27] Sneakin' Sally through the Alley >
+t18 [07:31] Makisupa Policeman >
+t19 [11:35] David Bowie
+t20 [03:30] crowd
+
+Encore
+t21 [06:09] Fee
+t22 [05:03] Frankenstein
+
+
+Notes:
+Thanks to Jason Lonchar for the Schoeps tubes
+Round Room, last played 07/13/2003 (140 shows)
+Set I [1:36:22] Set II [1:06:52] Encore [11:12]

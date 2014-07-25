@@ -1,0 +1,75 @@
+Phish
+November 29, 2003
+Wachovia Spectrum
+Philadelphia, PA
+
+source:
+Schoeps mk41 > kc5 > cmc6 > Lunatec V2 > Apogee AD-1000 > Sony D100 (@ 44.1 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > WaveLab 5.01b (fades) > CD Wave v1.95.1 > FLAC v1.1.4 (Level 8)
+
+FLAC tags added with metaflac v1.1.4
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded May 19, 2007
+
+notes:
+Big thanks to Dave for letting me borrow the master DATs!
+
+Disc 1 - [70:38]
+Set I
+01 - [05:41] - Wilson >
+02 - [04:16] - Cars Trucks Buses
+03 - [09:29] - Limb By Limb
+04 - [04:34] - Dirt
+05 - [12:57] - Seven Below
+06 - [15:40] - The Divided Sky
+07 - [07:28] - Fast Enough For You
+08 - [10:33] - Julius
+
+Disc 2 - [79:18]
+Set II
+01 - [17:56] - Twist >
+02 - [08:32] - Simple
+03 - [09:26] - Taste
+04 - [04:48] - Makisupa Policeman
+05 - [02:27] - Buffalo Bill* >
+06 - [12:46] - David Bowie
+07 - [03:12] - Strange Design
+08 - [08:02] - Character Zero
+09 - [03:30] - encore break
+10 - [07:43] - Friday
+11 - [00:55] - outro
+
+** with Tom Marshall on vocals
+
+
+
+
+    length     expanded size   cdr  WAVE problems filename
+     5:40.65       60128924    ---   --   ---xx   ph2003-11-29d1t01.flac
+     4:15.61       45125516    ---   --   ---xx   ph2003-11-29d1t02.flac
+     9:28.74      100369292    ---   --   ---xx   ph2003-11-29d1t03.flac
+     4:34.26       48394796    ---   --   ---xx   ph2003-11-29d1t04.flac
+    12:57.26      137123996    ---   --   ---xx   ph2003-11-29d1t05.flac
+    15:39.38      165729020    ---   --   ---xx   ph2003-11-29d1t06.flac
+     7:28.24       79083692    ---   --   ---xx   ph2003-11-29d1t07.flac
+    10:32.61      111628316    ---   --   ---xx   ph2003-11-29d1t08.flac
+    17:56.33      189884060    ---   --   ---xx   ph2003-11-29d2t01.flac
+     8:32.14       90349772    ---   --   ---xx   ph2003-11-29d2t02.flac
+     9:26.34       99922412    ---   --   ---xx   ph2003-11-29d2t03.flac
+     4:48.01       50805596    ---   --   ---xx   ph2003-11-29d2t04.flac
+     2:27.17       25970828    ---   --   ---xx   ph2003-11-29d2t05.flac
+    12:46.31      135195356    ---   --   ---xx   ph2003-11-29d2t06.flac
+     3:11.66       33847676    ---   --   ---xx   ph2003-11-29d2t07.flac
+     8:02.27       85088348    ---   --   ---xx   ph2003-11-29d2t08.flac
+     3:29.59       37006412    ---   --   ---xx   ph2003-11-29d2t09.flac
+     7:42.45       81602684    ---   --   ---xx   ph2003-11-29d2t10.flac
+     0:54.48        9638540    ---   --   ---xx   ph2003-11-29d2t11.flac
+   149:56.00     1586895236 B                     (totals for 19 files, 0.5499 overall compression ratio)
+
+
+
+

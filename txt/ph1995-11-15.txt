@@ -1,0 +1,70 @@
+Phish
+11-15-95
+Sundome
+Tampa, FL
+
+Source: Neumann KM140 (no other info given)
+
+Transfer: DA-20mkii->Delta Dio 2496->Soundforge 6.0 (resampled 48>44.1 on highest accuracy setting w/anti alias filter)->CDWAV->shntool->shn
+
+Transfer by: Brandon Johnston -- http://db.etree.org/bisq
+
+
+Disc 1: 
+-Set I-
+1.Poor Heart
+2.AC/DC Bag
+3.Fast Enough for You
+4.Rift
+5.Prince Caspian
+6.Sparkle
+7.Split Open and Melt
+8.Sweet Adeline
+9.The Squirming Coil
+
+Disc 2:
+-Set II- 
+1.Wilson
+2.Theme From the Bottom
+3.Scent of a Mule
+4.Mike's Song >
+5.Life on Mars
+6.Weekapaug Groove
+7.Fee
+8.While My Guitar Gently Weeps
+9.crowd noise
+
+Disc 3:
+-Encore-
+1.Suzy Greenberg
+
+
+Show Notes: At this show, the band won the first chess game with the audience.
+
+
+Audio CD Notes: Disc 3 can be combined with disc 1 to fit the show on two 80 minute discs.
+
+Tech Notes: I removed a small piece of diginoise at 2:10.667 of Scent of a Mule. This noise spot was also on the circulating EAC'd neumann source. Fades were added in soundforge 6.0. 
+
+Shntool output:
+    length     expanded size   cdr  WAVE  probs   filename
+     3:01.68      32088380     ---   --    ---    ph1995-11-15d1t01.wav
+     9:35.64     101580572     ---   --    ---    ph1995-11-15d1t02.wav
+     8:27.10      89458364     ---   --    ---    ph1995-11-15d1t03.wav
+     5:54.08      62464460     ---   --    ---    ph1995-11-15d1t04.wav
+     3:07.53      33111500     ---   --    ---    ph1995-11-15d1t05.wav
+     3:42.11      39186716     ---   --    ---    ph1995-11-15d1t06.wav
+    13:45.15     145565324     ---   --    ---    ph1995-11-15d1t07.wav
+     2:10.41      23028476     ---   --    ---    ph1995-11-15d1t08.wav
+    12:14.02     129482348     ---   --    ---    ph1995-11-15d1t09.wav
+     5:45.68      61017980     ---   --    ---    ph1995-11-15d2t01.wav
+    10:33.23     111715340     ---   --    ---    ph1995-11-15d2t02.wav
+    12:11.65     129101324     ---   --    ---    ph1995-11-15d2t03.wav
+    18:38.62     197361068     ---   --    ---    ph1995-11-15d2t04.wav
+     3:21.53      35581100     ---   --    ---    ph1995-11-15d2t05.wav
+    11:42.12     123861068     ---   --    ---    ph1995-11-15d2t06.wav
+     5:37.48      59559740     ---   --    ---    ph1995-11-15d2t07.wav
+     6:05.24      64442492     ---   --    ---    ph1995-11-15d2t08.wav
+     2:25.39      25669772     ---   --    ---    ph1995-11-15d2t09.wav
+     6:15.64      66300572     ---   --    ---    ph1995-11-15d3t01.wav
+   144:36.55    1530576596 B                      (totals for 19 files)

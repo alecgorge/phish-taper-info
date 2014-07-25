@@ -1,0 +1,45 @@
+Phish
+12/28/2009
+Miami, Florida  American Airlines Arena
+
+Source: Schoeps mk41> KC5> M222> NT222> Lunatec V3> SD 722 (@24bit/48kHz)
+Location: OTS, Section 5, Row 15, Seats 12 & 13, 9' Stand, DINA
+
+Transfer: SD 722> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44)
+Taped, Transferred & Seeded by: taylorc (12/29/2009)
+
+
+Set I
+t01 [05:41] Sample in a Jar
+t02 [05:06] NICU >
+t03 [06:56] My Soul
+t04 [10:04] Roggae
+t05 [07:10] Undermind
+t06 [03:48] Bouncing Around the Room
+t07 [02:06] Poor Heart
+t08 [15:07] Stash
+t09 [05:35] I Didn't Know
+t10 [05:41] Beauty of a Broken Heart
+t11 [08:41] Possum
+
+Set II
+t12 [09:38] Mike's Song>
+t13 [12:26] Light>
+t14 [02:49] I am Hydrogen>
+t15 [06:26] Weekapaug Groove
+t16 [08:17] Alaska
+t17 [08:54] Backwards Down the Number Line
+t18 [08:46] Makisupa Policeman>
+t19 [18:13] Harry Hood>
+t20 [06:31] Contact>
+t21 [08:18] Character Zero
+t22 [03:19] crowd
+
+Encore
+t23 [09:14] First Tube
+
+
+Notes:
+My Soul, last played 10/07/2000 (108 shows)
+Roggae, last played 04/15/2004 (62 shows)
+Set I [1:15:55] Set II [1:33:37] Encore [9:14]

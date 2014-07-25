@@ -1,0 +1,71 @@
+Phish
+July 10, 1992
+Empire Court
+Syracuse, NY
+
+source:
+AKG 460B/ck63 > Crown power supply > Tascam Porta-1 (as pre-amp only) > Sony D3 (@ 48 kHz)
+Sony D3 (master DAT) > Sony D5 (master cassette) > Sony D3 (DAT @ 48 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > WaveLab 5.01b (fades, patch) > r8brain v1.9 (resample to 44.1 kHz) > CD Wave v1.95.1 > FLAC v1.1.4 (Level 8)
+
+FLAC tags added with metaflac v1.1.4
+
+recorded by Tim Kreytak and Tim's brother
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded June 13, 2007
+
+notes:
+the 48kHz files from the DAT transfer have been archived, and are available upon request.
+Big thanks to Dave Flaschner for letting me borrow his DATs!
+
+total - [71:20]
+01 - [04:03] - Bouncing Around the Room
+02 - [04:41] - Llama
+03 - [11:48] - Reba
+04 - [04:07] - Sparkle
+05 - [09:03] - Maze
+06 - [04:37] - Golgi Apparatus
+07 - [10:11] - The Lizards
+08 - [08:47] - Cavern > Vacuum Solo
+09 - [11:20] - Run Like an Antelope
+(encore)
+10 - [02:44] - My Sweet One
+
+
+* with Fishman vacuum solo
+
+show notes:
+This show was part of the HORDE tour. 
+
+tech notes:
+The story behind the analog cassette generation is this:
+Shortly after the show, Tim and his brother made a cassette from the original DAT.
+Shortly thereafter, the master DAT was lost.  So Tim and his brother made a new DAT 
+copy from the master cassette that they had made.  The master cassette back to DAT transfer 
+occurred way back in '92, and the master DAT has never been found, so it's very unlikely 
+that it will ever surface, and this will be the best that is available from this source.  
+Regardless of the cassette generation, the sound on this is very nice.
+
+There was a short drop-out on the DAT towards the start of Cavern.
+I used the circulated AKG 460 source to patch in this segment.
+The patch source was used from [00:09] to [00:18].
+
+---------------------------------------------------------------------------------------------------
+
+SHNtool output
+
+    length     expanded size   cdr  WAVE problems filename
+     4:02.41       42785276    ---   --   ---xx   ph1992-07-10t01.flac
+     4:40.39       49483772    ---   --   ---xx   ph1992-07-10t02.flac
+    11:48.26      124952396    ---   --   ---xx   ph1992-07-10t03.flac
+     4:06.60       43535564    ---   --   ---xx   ph1992-07-10t04.flac
+     9:02.47       95719388    ---   --   ---xx   ph1992-07-10t05.flac
+     4:37.18       48905180    ---   --   ---xx   ph1992-07-10t06.flac
+    10:11.34      107860412    ---   --   ---xx   ph1992-07-10t07.flac
+     8:46.53       92911100    ---   --   ---xx   ph1992-07-10t08.flac
+    11:19.39      119867372    ---   --   ---xx   ph1992-07-10t09.flac
+     2:44.18       28971980    ---   --   ---xx   ph1992-07-10t10.flac
+    71:20.00      754992440 B                     (totals for 10 files, 0.5291 overall compression ratio)
+

@@ -1,0 +1,51 @@
+Phish
+08/18/2012
+San Francisco, California  Bill Graham Civic Auditorium
+
+Source: Schoeps m934c> M221B> PS> Aeta PSP-3> SD 722 (@24bit/96kHz)
+Location: FOB, DFC, DIN, m934c/cardioid
+
+Transfer: SD 722> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (08/19/2012)
+
+
+Set I
+t01 [00:46] Intro
+t02 [07:40] Runaway Jim
+t03 [11:41] Wolfman's Brother
+t04 [03:16] Nellie Kane
+t05 [04:58] Beauty of a Broken Heart
+t06 [09:30] Ocelot
+t07 [08:44] Maze
+t08 [03:35] I Didn't Know >
+t09 [07:26] 46 Days
+t10 [04:37] Tube
+t11 [05:25] When the Circus Comes
+t12 [06:16] Sugar Shack
+t13 [11:39] Split Open and Melt
+t14 [04:45] Cavern
+
+Set II 
+t15 [08:32] Golden Age>
+t16 [06:00] Piper>
+t17 [08:27] Mike's Song>
+t18 [12:43] Simple>
+t19 [07:19] Backwards Down the Number Line>
+t20 [05:22] Carini>
+t21 [04:28] Wilson>
+t22 [05:25] Weekapaug Groove
+t23 [01:12] The Horse>
+t24 [04:45] Silent in the Morning>
+t25 [07:02] Also Sprach Zarathustra>
+t26 [15:14] Fluffead>
+t27 [07:04] Loving Cup
+t28 [02:52] crowd
+
+Encore
+t29 [05:34] Show of Life
+t30 [06:52] Character Zero
+
+
+Notes:
+Sugar Shack, last played 10/29/2010 (68 shows)
+Set I [1:30:26] Set II [1:36:25] Encore [12:26]

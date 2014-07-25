@@ -1,0 +1,44 @@
+Phish
+06-22-94
+Veterans Memorial Auditorium, Columbus, OH 
+
+Source: SBD>DAT>C0>DAT @ 48Khz
+Transfer: Tascam DA-20MkII>Turtle Beach Montego Home Studio>Soundforge 4.5>resampled @ level 4>WAV>SHN
+seeded by: danmarq@home.com
+
+CD 1:
+1) Llama				[3:56]
+2) Guelah Papyrus			[5:44]
+3) Rift				[6:05]
+4) Gumbo >				[4:31]
+5) Maze				[10:24]
+6) If I Could			[5:38]
+7) Scent of a Mule			[6:54]
+8) Stash				[10:57]
+9) Golgi Apparatus 			[4:37]
+
+Encore:
+Carolina (acoustic, not on CD or DAT)
+10) Cavern			[4:43]
+
+CD 2: (REQUIRES an 80min CD!!!)
+1) Also Sprach Zarathustra->		[3:04]
+2) Mike's Song->			[2:36]
+3) Simple-> Midnight Rider->			[1:20]
+4) Catapult->			[3:45]
+5) Simple->			[6:14]
+6) Icculus->			[3:34]
+7) Simple->			[3:52]
+8) Mike's Song->		[1:41]
+9) I Am Hydrogen->			[1:09]
+10) Weekapaug Groove		[3:05]
+11) TMWSIY->			[3:30]
+12) Avenu Malkenu->			[4:22]
+13) TMWSIY-> Digital Delay Loop Jam->			[2:46]
+14) Fluffhead			[13:35]
+15) My Sweet One*		[4:25]
+16) Big Ball Jam->			[2:13]
+17) Jesus Juts Left Chicago		[10:07]
+18) Sample in a Jar 			[4:49]
+
+*Acoustic and without mics. 

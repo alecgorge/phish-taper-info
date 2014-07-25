@@ -1,0 +1,66 @@
+Phish
+April 4, 1998
+Providence Civic Center
+Providence, RI 
+
+Source: OTS Schoeps CMC641>VMS02IB>SBM-1>Master DAT @ 44.1K>
+DAT(1)>R500>S/PDIF>VX Pocket>Soundforge 5.0 (Fades and 
+edits only)>CDWAV 1.53>MKW 0.97b>.shn w/ seek tables appended
+
+Show was transferred twice and inverted, 
+no transfer errors were audible
+
+No DAE or resampling was performed
+
+Recording by Derek Gregory
+Transfer by Jamie Lutch
+Thanks to Mike Fischer for the setlist and comments 
+
+___________________________________________________________________________
+
+*Dankseed Certification received 2002-08-18*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph1998-04-04.OTS-MK41-VMS-SBM/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+Passes SHNTool- OK
+
+negative criteria met:
+DAE- NO
+Unecessary resampling- NO
+Diginoise- NO
+___________________________________________________________________________
+
+
+Disc I				65:12
+	~Set I~
+1. Tweezer ->			16:40
+2. Taste			11:19
+3. Bouncing Around the Room 	03:50
+4. Funky Bitch			06:58
+5. Ginseng Sullivan 		04:39
+6. Limb by Limb			10:07
+7. Lawn Boy			02:57
+8. Character Zero 		08:43
+
+Disc 2				48:07
+	~Set II~
+1. Crowd			01:22
+2. Birds of a Feather ->	15:20
+3. Also Sprach Zarathustra* ->	16:40
+4. Brother^			14:44
+
+Disc 3				65:24
+
+1. Ghost^^ ->			16:02
+2. Lizards			13:21
+3. David Bowie 			19:13
+4. E: Harry Hood 		16:47
+
+ 
+*Unfinished (only one "verse"). 
+^After the song, Trey said, "we're going to play that again", and they played a one-minute instrumental version of "Brother".  Then Trey said, roughly, "That was the single-edit radio-friendly version.  This next song is radio-unfriendly; it's long and slow." 
+^^With tease/jam of "I Can't Turn You Loose" (originally by Otis Redding, but associated with The Blues Brothers; see also 12-29-97).

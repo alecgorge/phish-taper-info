@@ -1,0 +1,80 @@
+Phish 5-1-92 - Set I only
+
+The Rave at Central Park
+Milwaukee, WI
+
+Seeded by Kevin Kress <Kevin@Kress.com> on 4/30/2001
+
+Set 1 Source:  Bootleg CD > EAC (secure mode w/ C2 error checking) > WAV > SHN (v3.1)
+
+Set 2 Source:  Neumann RSM191A-S > Neumann MTX191A > Panasonic SV-255(@48kHz) > CD
+      Transfer: EAC > Wavelab (re-mastering) > FLAC16
+      EAC, re-mastering and FLAC 16 by: Marmar
+
+Track listing:
+
+ 1. Suzie Greenberg 		(5:24)
+ 2. My Friend, My Friend	(6:34)
+ 3. Poor Heart			(2:58)
+ 4. The Landlady		(3:27)
+ 5. NICU			(5:36)
+ 6. The Sloth			(3:42)
+ 7. Divided Sky		       (13:06)
+ 8. Guelah Papyrus		(1:21)
+ 9. It's Ice		       (10:07)
+10. Horn			(3:41)
+11. I Didn't Know(*)		(3:23)
+12. Possum(**)		       (12:05)
+
+Disc 2/Set 2: 
+Sanity
+Buried Alive
+Wilson
+All Things Reconsidered
+My Sweet One
+Mike's Song >
+I Am Hydrogen >
+Weekapaug Groove
+Mound
+The Lizards
+Llama
+
+Disc 3/Set 2:
+Cold as Ice >
+Terrapin > Cold as Ice
+Golgi Apparatus > Crowd
+      Encore: 
+Lawn Boy
+Good Times Bad Times > Crowd
+      Encore 2: 
+Rocky Top
+Announcements
+
+(*)  with "sans bag" bagpipe solo, from "The Piper" (Fishman)
+(**) with extensive "secret language" in the intro
+
+
+Show Notes: I Didn't Know featured Fishman on the Bag-Vac in what was the 
+instrument's last known appearance. 
+
+Set I:
+
+This is the Italian-import bootleg CD titled simply "SLOTH."  My girlfriend-at-the-time gave
+this to me as a gift, around five years ago.
+
+It should be noted that I would personally NEVER buy a bootleg CD (you shouldn't, either)--
+nor would I support bootlegging (i.e., profiting off the music) in any way.  Bootleggers
+disgust me.  Therefore, I am making these tunes available (free-of-charge, of course!) on
+ETree.  Long live ETree!
+
+EAC log is included in separate text file EAC-log-ph1992-05-01.I.TXT.  Track 5 had three (3)
+suspicious positions (3:33, 3:39, and 3:44) but ended up sounding fine anyway.  Even after
+thoroughly cleaning the CD, I couldn't do better, sorry.  (The CD has been abused in the
+past.)
+
+Track 8 (Guelah Papyrus) is only 1:21.  This is the way it appeared on the disc.  It might
+be more appropriately titled "Guelah Papyrus Reprise" as they only play a small portion
+of the song!  You be the judge.
+
+Any comments or questions, e-mail me (address is above).  Thanks.
+-- KK  http://db.etree.org/raisingoo/

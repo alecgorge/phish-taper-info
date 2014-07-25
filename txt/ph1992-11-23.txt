@@ -1,0 +1,81 @@
+PHISH      11-23-92
+BROOME COUNTY FORUM, BINGHAMPTON, NY
+
+=========================================================|
+
+SOURCE: 2 AKG460b/ck63 > DAT (Teac DA-P20)
+
+
+CONVERSION: CTD8000H-S > DAT2WAV > SOUNDFORGE 5.0 
+(Resampling from 48kHz to 44.1kHz, level 4 w/anti
+alias filtering) > CD WAVE  (track splits)  > SHN
+
+=========================================================|
+
+DISC 1:
+
+SET 1:
+01. RUNAWAY JIM
+02. FOAM
+03. GLIDE
+04. SPLIT OPEN AND MELT
+05. RIFT
+06. GUELAH PAPYRUS *
+07. THE DIVIDED SKY
+08. MOUND
+09. BOUNCING AROUND THE ROOM
+10. MEMORIES +
+11. STAGE BANTER
+
+DISC 2:
+
+01. DAVID BOWIE INTRO >
+02. THE UNIVERSAL LIFE FORCE
+03. DAVID BOWIE %
+SET 2:
+04. POOR HEART
+05. STASH
+06. SQUIRMING COIL
+07. I WALK THE LINE
+08. LLAMA
+09. WEIGH >
+10. MIKE'S SONG >
+11. I AM HYDROGEN >
+12. WEEKAPAUG GROOVE >
+13. BIG BALL JAM >
+14. WEEKAPAUG GROOVE
+15. HYHU JAM
+
+DISC 3:
+
+01. FISHMAN SPEAKS
+02. LENGTHWISE # >
+03. HYHU JAM
+04. CAVERN
+Encore:
+05. SLEEPING MONKEY
+06. ROCKY TOP
+
+
+* Trey explains the Big Ball Jam during the pause
++ acapella, no amplification. audible only if you
+  crank up your volume level.
+% Trey speaks during the intro
+# w/ Mimi Fishman
+
+
+=========================================================|
+
+Seeded by Robert Brown 4/01
+
+
+
+
+
+
+
+
+
+
+
+

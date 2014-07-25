@@ -1,0 +1,68 @@
+Band : Phish
+Date : December 4, 1992
+City : Saint Louis, Missouri, United States Of America
+Venue : Mississippi Nights
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Recorded (December 1992):
+Realistic PZM microphones (12v each, even with SBD, spread approx 10') >  Marantz PMD-430 (DBX NR ENCODE)> Maxell XLII, XLII-S CrO2 master cassettes
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Transcribed (September 2004):
+Maxell cassette masters> Marantz PMD430 Cassette deck (DBX NR DECODE) > Audiomedia III PCI card @44.1 KHz> Powermac G3/266 > Protools 4.1.1 for tracking > .WAV files > Shorten 1.1a3 > .SHN files + MD5's
+
+(June 2007):
+SHN files > xACT1.5.9 (SBE adjustment + flac encoding) > FLAC files
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Setlist with times:
+
+Disc 1 Total: 73:31.33
+Set I:
+d1t01	4:15	Llama
+d1t02	8:42	Foam
+d1t03	2:51	Poor Heart
+d1t04	9:40	Stash
+d1t05	4:32	Glide
+d1t06	4:07	Sparkle
+d1t07	5:38	Fast Enough For You (master cassette flip)
+d1t08	8:28	Maze
+d1t09	20:36	Colonel Forbin's Ascent > Fly Famous Mockingbird
+d1t10	4:37	Cavern
+
+Disc 2 Total: 76:12.38
+set II:
+d2t01	6:05	Suzie Greenberg >
+d2t02	14:14	David Bowie
+d2t03	9:27	Esther
+d2t04	11:48	Possum (master cassette flip)
+d2t05	8:06	It's Ice
+d2t06	9:11	The Squirming Coil
+d2t07	3:05	Carolina
+d2t08	14:12	Harry Hood
+
+Disc 3 Total: 38:48.17
+d3t01	6:07	HYHU -> Faht (master cassette swap) >
+d3t02	1:04	HYHU outtro
+d3t03	19:54	You Enjoy Myself
+Encores:
+d3t04	6:01	Fee
+d3t05	5:40	Rocky Top
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+shntool results:
+
+    length     expanded size   cdr  WAVE problems filename     4:15.00       44982044    ---   --   ---xx   d1t01.flac     8:42.14       92113772    ---   --   ---xx   d1t02.flac     2:51.48       30277340    ---   --   ---xx   d1t03.flac     9:40.30      102382604    ---   --   ---xx   d1t04.flac     4:32.72       48150188    ---   --   ---xx   d1t05.flac     4:07.14       43603772    ---   --   ---xx   d1t06.flac     5:38.51       59743196    ---   --   ---xx   d1t07.flac     8:28.60       89752364    ---   --   ---xx   d1t08.flac    20:36.55      218159804    ---   --   ---xx   d1t09.flac     4:37.64       49013372    ---   --   ---xx   d1t10.flac     6:05.61       64529516    ---   --   ---xx   d2t01.flac    14:14.27      150709148    ---   --   ---xx   d2t02.flac     9:27.52      100141148    ---   --   ---xx   d2t03.flac    11:48.39      124982972    ---   --   ---xx   d2t04.flac     8:06.10       85753964    ---   --   ---xx   d2t05.flac     9:11.45       97302284    ---   --   ---xx   d2t06.flac     3:05.60       32775164    ---   --   ---xx   d2t07.flac    14:12.44      150396332    ---   --   ---xx   d2t08.flac     6:07.34       64818812    ---   --   ---xx   d3t01.flac     1:04.48       11402540    ---   --   ---xx   d3t02.flac    19:54.36      210706316    ---   --   ---xx   d3t03.flac     6:01.17       63720428    ---   --   ---xx   d3t04.flac     5:40.32       60051308    ---   --   ---xx   d3t05.flac   188:32.13     1995468388 B                     (totals for 23 files, 0.5601 overall compression ratio)
+
+flac fingerprints:
+d1t01.flac:f219137dd266396c3b2af57e539b179bd1t02.flac:210ae55033a83853087a614bb15e961fd1t03.flac:fe46f60d70383c7dba70aedee254e7edd1t04.flac:1c151de77f47ae82dc44505ea4a747e6d1t05.flac:ccf3f6f426418ac8b58ae7676dc832cdd1t06.flac:f619e5df3acf21a0f3031e3eb0e2f292d1t07.flac:e4150eb1ae65e6e4fa162c1da98ef852d1t08.flac:8849ca235bcfe9148f9245e8c033c796d1t09.flac:76b8d255056a25273c3ac1d4ceca971ad1t10.flac:9ac8785573343f8c762219a7e896b04dd2t01.flac:7266e38e73c41a38dd5b692dedcce739d2t02.flac:e65bf17a9efc15eb470b63fc9716c8b8d2t03.flac:da0a8580f51468f27b1f050c68b8e11ad2t04.flac:52230342508e1d21544603cfccdf76d5d2t05.flac:85a0bb3c7dacb412f105303682cfab0dd2t06.flac:0d7e1192efacfdfaaa79212e3364a497d2t07.flac:0312603f28d884ae0d3b9d214eea4fc6d2t08.flac:8315b4d8feb7efb34def2855544d8fd2d3t01.flac:d19b0240b1170a3a010803bbf7879796d3t02.flac:2d9fecfed67428bbcaec88162bf01bfbd3t03.flac:e2d9ee68a24624e9747bb8b2feabd928d3t04.flac:6098fef577755a2a227018169c36c4ecd3t05.flac:060bd2b8d4cda0e57a9931d53546c551
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Soundscape Preservation Society Founded 1991
+http://www.iamtypingwithonefinger.com/SPS.html
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-

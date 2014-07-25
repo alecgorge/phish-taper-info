@@ -1,0 +1,87 @@
+Phish
+2013-07-07
+Saratoga Performing Arts Center
+Saratoga Springs, NY
+
+DPA 4011 > V3 Digital > R44 (24/96)
+SDHC Card > Sound Forge Pro 10.0 (fades, Normalize, resample iZotope 64-Bit SRC, dither iZotope MBIT+ Dither) > CD Wav (tracking) > TLH > Flac (level 8)
+OTS/a bit LOC, clamped to back rail of FOH/DIN/8' high
+Tags added in Foobar2000
+
+Taped and Transferred by Brian V
+
+Set 1
+
+01. AC/DC Bag >
+02. Back on the Train >
+03. Divided Sky
+04. Free >
+05. It's Ice >
+06. Mound
+07. Maze
+08. Limb By Limb
+09. Walls of the Cave
+
+Set 2
+
+01. Down with Disease% >
+02. Ghost& >
+03. Piper@ >
+04. Wading in the Velvet Sea >
+05. Run Like an Antelope# >
+06. Meatstick$ >
+07. You Enjoy Myself
+08. encore break
+09. Loving Cup
+
+% Unfinished.
+& Jumpin' Jack Flash teases.
+@ DEG tease from Trey.
+# Lyrics changed to reference Meatstick.
+$ Japanese lyrics.
+
+Trey teased Call to the Post prior to the start of DWD. DWD was unfinished. Ghost contained Jumpin' Jack Flash teases. Piper contained a DEG tease from Trey. The lyrics to Antelope were changed throughout to reference Meatstick that would ensue. Meatstick included the Japanese lyrics. 
+
+thanks to Andy for the clamp space
+
+flac fingerprints
+ph2013-07-07s1t01.flac:699c0aac0bdb4361b8ba41735e8a0e35
+ph2013-07-07s1t02.flac:8939d6eb04baac92961e6800d35f9aaf
+ph2013-07-07s1t03.flac:9b46321980798a43482a74194bf5e471
+ph2013-07-07s1t04.flac:b2d969e789f9aa077021e5ecfb1edb27
+ph2013-07-07s1t05.flac:4867da7329fb3adbeef6c2fd7efdc698
+ph2013-07-07s1t06.flac:3fef140b175962b9ce6c6e4d248c3462
+ph2013-07-07s1t07.flac:fc57d7f536e4f0a9f14de7868d63aba0
+ph2013-07-07s1t08.flac:9163967086e615fea95d9d90c021bd4e
+ph2013-07-07s1t09.flac:275573edaeeee236eda41f6942e2749a
+ph2013-07-07s2t01.flac:5bc7894cce46a34f55936a6045511e26
+ph2013-07-07s2t02.flac:733f8b4149746d3a06f8a3c821aeef5e
+ph2013-07-07s2t03.flac:b24737ba08b0fb0faa3ffad84de0d306
+ph2013-07-07s2t04.flac:796728727fb33ff980e03b8584e550ec
+ph2013-07-07s2t05.flac:1b19ec8aed52454f4ec066f4da99c919
+ph2013-07-07s2t06.flac:47819cccfe55f0e17c8f4f94dd70de7b
+ph2013-07-07s2t07.flac:b96b165629e1d76b177ac8b90f530ac0
+ph2013-07-07s2t08.flac:c45490df07981c95dfd8223187137509
+ph2013-07-07s2t09.flac:1c984b770fe9221cac80599600045663
+
+shntool output
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     7:12.38       76294220 B   ---   --   ---xx   flac  0.5527  ph2013-07-07s1t01.flac
+    10:08.05      107263004 B   ---   --   ---xx   flac  0.5393  ph2013-07-07s1t02.flac
+    16:50.31      178236956 B   ---   --   ---xx   flac  0.5352  ph2013-07-07s1t03.flac
+     7:23.04       78154652 B   ---   --   ---xx   flac  0.5702  ph2013-07-07s1t04.flac
+     7:42.68       81656780 B   ---   --   ---xx   flac  0.5563  ph2013-07-07s1t05.flac
+     6:07.31       64811756 B   ---   --   ---xx   flac  0.5632  ph2013-07-07s1t06.flac
+    10:51.09      114857612 B   ---   --   ---xx   flac  0.5611  ph2013-07-07s1t07.flac
+     8:38.12       91403468 B   ---   --   ---xx   flac  0.5411  ph2013-07-07s1t08.flac
+    11:52.25      125655644 B   ---   --   ---xx   flac  0.5589  ph2013-07-07s1t09.flac
+    14:13.17      150509228 B   ---   --   ---xx   flac  0.5473  ph2013-07-07s2t01.flac
+    11:05.63      117454220 B   ---   --   ---xx   flac  0.5378  ph2013-07-07s2t02.flac
+     9:49.73      104071340 B   ---   --   ---xx   flac  0.5584  ph2013-07-07s2t03.flac
+     5:43.45       60611084 B   ---   --   ---xx   flac  0.5200  ph2013-07-07s2t04.flac
+     9:49.64      104050172 B   ---   --   ---xx   flac  0.5544  ph2013-07-07s2t05.flac
+     6:39.01       70385996 B   ---   --   ---xx   flac  0.5547  ph2013-07-07s2t06.flac
+    19:46.33      209288060 B   ---   --   ---xx   flac  0.5289  ph2013-07-07s2t07.flac
+     2:14.13       23668220 B   ---   --   ---xx   flac  0.5411  ph2013-07-07s2t08.flac
+     6:43.52       71211548 B   ---   --   ---xx   flac  0.5592  ph2013-07-07s2t09.flac
+   172:51.59     1829583960 B                            0.5472  (18 files)

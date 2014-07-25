@@ -1,0 +1,52 @@
+Phish 
+7-19-91
+Somerville Theatre
+Somerville, MA
+
+Set I Source: SBD > ? > cass/x
+Transfer: cass/TDK TD-W444(mod) > Edirol UA-3 > Audacity(32 bit float) > Dell P4 2.33ghz 
+
+Set II Source: FOB Neumann KM-86 > ? > CDR > EAC (secure) > FLAC 
+Mastering, re-tracking, FLAC16 by Marmar- imthemarmar@gmail.com
+Thanks to Brandon Johnston for the source discs.
+
+Entire show with The Giant Country Horns
+
+Disc One-
+Set One:
+01. /Golgi Apparatus
+02. The Landlady >
+03. Bouncing Around The Room
+04. David Bowie
+05. Fee >
+06. Cavern
+07. The Squirming Coil
+08. You Enjoy Myself
+09. Gumbo
+10. Touch Me
+
+Disc Two-
+Set Two:
+01. Suzy Greenberg
+02. The Divided Sky
+03. I Didn't Know*
+04. My Sweet One
+05. Magilla
+06. Tweezer
+07. The Mango Song
+08. Big Black Furry Creature From Mars
+-Encore-
+09. Lawn Boy
+10. Runaway Jim
+
+Show Notes: This entire show featured the Giant Country Horns. I Didn't Know featured 
+Mimi Fishman on vacuum. The hi-hat segment of Bowie included Bouncing teases and YEM 
+included Frankenstein teases. This long, strong Tweezer featured a Divided Sky tease 
+from Trey, as well as lots of impromptu rapping. The band introduced the horns during 
+BBFCFM, which also included a quick tease of the "I Love Lucy" theme. Runaway Jim was 
+sung as "Runaway Yim" and Lawn Boy featured a trumpet solo.
+
+*with Mimi Fishman on vacuum
+
+**Set II Mastering**
+BBE 1.5/2/0, then the volume was raised 5db using the L3 MultiMaximizer and dithered to 16bit/mode1/ultra, re-tracked and FLAC'd on 3/31/2005.

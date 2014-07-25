@@ -1,0 +1,26 @@
+Phish
+August 16, 1997
+The Great Went - "Disco Set"
+Loring Air Force Base
+Limestone, ME
+
+source:
+(FOB) AKG 460b/ck61 > Sonosax SX-M2 > Tascam DA-P1 (@ 48 kHz)
+mics were hand-held, about 15-20 feet back, dead center
+             
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > r8brain v1.9 (resample to 44.1 kHz) > WaveLab 5.01b (fades) > FLAC v1.1.4 (Level 8)
+
+FLAC tags added with metaflac v1.1.4
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded July 18, 2007
+
+notes:
+the 48kHz files from the DAT transfer have been archived, and are available upon request.
+Big thanks to Dave for letting me borrow the master DAT!
+
+total time - [46:36]
+01 - [46:36] - Disco Set
+

@@ -1,0 +1,79 @@
+Phish 
+South Park Meadows 
+Austin, TX
+July 7th, 1997
+
+Taper: Greg Holtz
+
+Source: Nakamichi CM300 & PZM 30D mix-> Niles Audiomixer-> D3 @ 48kHz
+
+Transfer: (By JAZ) DAT Master-> PCM-R300-> Coax-> M-Audio Delta 1010Lt->  Wave Lab 5.0, OZone3, Fades, L2Dither 44.1kHz-> Traders Little Helper flac8
+
+ Set I
+1.Limb By Limb 
+2.Dogs Stole Things
+3.Poor Heart
+4.Stash
+5.Billy Breathes
+6.Cars Trucks Buses 
+7.Dirt 
+8.You Enjoy Myself-> 
+9.Izabella
+
+ Set II
+10.Timber (Jerry) -> 
+11.David Bowie
+12.Harry Hood-> 
+13.Blister in the Sun Jam-> 
+14.Harry Hood-> 
+15.Free
+16.Waste->   
+17.Johnny B. Goode 
+
+ Enocore: 
+18.Bouncing Around the Room
+19.Cavern
+
+ FLAC FINGERPRINT:
+Phish1997-07-26trk01.flac:3d16f3f521e0c9b4fa47aea6aefc3e15
+Phish1997-07-26trk02.flac:a0fe9490c8690a8131e130efd92cfe58
+Phish1997-07-26trk03.flac:450ccbde3ea026719b16179343777a16
+Phish1997-07-26trk04.flac:a158ab8bb425690feb49d1b84bc41019
+Phish1997-07-26trk05.flac:6935a3c6ce52cee310edbc8d6e4194aa
+Phish1997-07-26trk06.flac:ffb02a93be87c3268f57c47eb7cf363b
+Phish1997-07-26trk07.flac:b17b1ae3ae266fbf50649ec5f2c70705
+Phish1997-07-26trk08.flac:f945e15f2f0f1b201565421f285acbd0
+Phish1997-07-26trk09.flac:b250acda40f3969179c0711343b6a616
+Phish1997-07-26trk10.flac:ded09cd3de26f9f6345d6a0aeac58b5f
+Phish1997-07-26trk11.flac:daba05e7664a31d13191806ba3740bb8
+Phish1997-07-26trk12.flac:ef4083d2a30f9734f961308c2bfc8b08
+Phish1997-07-26trk13.flac:dd63870a20105314cd1726b1ca278992
+Phish1997-07-26trk14.flac:1fd4f3f605c1a9ccfc7fcd6000245318
+Phish1997-07-26trk15.flac:d44618e009b02c3eb548639c38bc6112
+Phish1997-07-26trk16.flac:5d1c6ed6ac8b80b9ee20ccf941b8ea05
+Phish1997-07-26trk17.flac:ba680b24f0813c4c19a52baad4fd9c3b
+Phish1997-07-26trk18.flac:38f8eeac321d985229d09322ae71504c
+Phish1997-07-26trk19.flac:d6200fd48c6faafbac04310d392bcbfb
+
+ SHNTOOL:
+    length     expanded size   cdr  WAVE problems filename
+    12:02.04      127370252    ---   --   ---xx   Phish1997-07-26trk01.flac
+     4:41.21       49617836    ---   --   ---xx   Phish1997-07-26trk02.flac
+     3:17.57       34884908    ---   --   ---xx   Phish1997-07-26trk03.flac
+    15:03.44      159392732    ---   --   ---xx   Phish1997-07-26trk04.flac
+     7:11.43       76129580    ---   --   ---xx   Phish1997-07-26trk05.flac
+     5:25.35       57412364    ---   --   ---xx   Phish1997-07-26trk06.flac
+     4:21.18       46082780    ---   --   ---xx   Phish1997-07-26trk07.flac
+    17:28.40      184961324    ---   --   ---xx   Phish1997-07-26trk08.flac
+     4:23.49       46508492    ---   --   ---xx   Phish1997-07-26trk09.flac
+    17:20.51      183575996    ---   --   ---xx   Phish1997-07-26trk10.flac
+    21:44.41      230122076    ---   --   ---xx   Phish1997-07-26trk11.flac
+     7:06.53       75271100    ---   --   ---xx   Phish1997-07-26trk12.flac
+     1:51.60       19721564    ---   --   ---xx   Phish1997-07-26trk13.flac
+     4:01.73       42684140    ---   --   ---xx   Phish1997-07-26trk14.flac
+    12:38.64      133861772    ---   --   ---xx   Phish1997-07-26trk15.flac
+     7:02.07       74457308    ---   --   ---xx   Phish1997-07-26trk16.flac
+     8:20.14       88232972    ---   --   ---xx   Phish1997-07-26trk17.flac
+     3:40.68       38967980    ---   --   ---xx   Phish1997-07-26trk18.flac
+     5:53.01       62271596    ---   --   ---xx   Phish1997-07-26trk19.flac
+   163:35.68     1731526772 B                     (totals for 19 files, 0.5420 overall compression ratio)

@@ -1,0 +1,96 @@
+Phish
+November 27, 1992
+Capitol Theatre
+Port Chester, NY
+
+source:
+NAK 300 > Sony TCD-D3 (@ 48 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > Samplitude SE v9.1.1 (fades, track splits, volumes adjustments, resample to 44.1 kHz) > FLAC v1.2.1 (Level 8)
+
+recorded by Eliot Byron
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded February 28, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+The volume of "Memories" was raised by 30dB.
+The volume of "Faht" was raised by 12dB.
+Eliot stopped the DAT during the encore break.  I cross-faded the crowd noise to make it appear seamless.
+The original 48 kHz files from the DAT transfer have been archived and are available upon request.
+Big thanks to Eliot for letting me borrow his master DATs!
+
+Disc 1 - [78:46]
+Set I
+01 - [06:42] - Rift >
+02 - [06:10] - Wilson >
+03 - [16:45] - The Divided Sky >
+04 - [13:14] - Colonel Forbin's Ascent >
+05 - [06:32] - The Famous Mockingbird
+06 - [10:02] - Split Open and Melt
+07 - [02:31] - Lawn Boy
+08 - [12:26] - Reba
+09 - [04:25] - Llama
+
+Disc 2 - [72:14]
+Set I continued
+01 - [07:05] - Mound
+02 - [00:54] - Memories
+03 - [07:31] - Runaway Jim
+Set II
+04 - [00:44] - set 2 intro
+05 - [03:59] - Axilla
+06 - [02:50] - Poor Heart >
+07 - [10:39] - Possum
+08 - [04:40] - Glide
+09 - [07:53] - It's Ice >
+10 - [08:44] - McGrupp and the Watchful Hosemasters >
+11 - [03:12] - I Walk The Line ->
+12 - [14:02] - David Bowie
+
+Disc 3 - [30:15]
+Set II continued
+01 - [01:39] - The Horse >
+02 - [07:45] - Silent in the Morning
+03 - [04:18] - Faht
+04 - [04:51] - Take the A-Train >
+05 - [05:02] - Cavern
+06 - [00:46] - encore break
+07 - [05:06] - Bold As Love
+08 - [00:47] - outro
+_________________________________________________________________________
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     6:41.52          67.58 MB  ---   --   ---xx   flac  0.5380  ph1992-11-27d1t01.flac
+     6:09.55          62.20 MB  ---   --   ---xx   flac  0.5254  ph1992-11-27d1t02.flac
+    16:45.05         169.08 MB  ---   --   ---xx   flac  0.5330  ph1992-11-27d1t03.flac
+    13:14.33         133.65 MB  ---   --   ---xx   flac  0.5142  ph1992-11-27d1t04.flac
+     6:31.54          65.90 MB  ---   --   ---xx   flac  0.5108  ph1992-11-27d1t05.flac
+    10:02.13         101.30 MB  ---   --   ---xx   flac  0.5292  ph1992-11-27d1t06.flac
+     2:31.01          25.40 MB  ---   --   ---xx   flac  0.4591  ph1992-11-27d1t07.flac
+    12:25.72         125.49 MB  ---   --   ---xx   flac  0.5301  ph1992-11-27d1t08.flac
+     4:24.46          44.52 MB  ---   --   ---xx   flac  0.5693  ph1992-11-27d1t09.flac
+     7:04.38          71.41 MB  ---   --   ---xx   flac  0.4936  ph1992-11-27d2t01.flac
+     0:53.49           9.03 MB  ---   --   ---xx   flac  0.5182  ph1992-11-27d2t02.flac
+     7:31.33          75.94 MB  ---   --   ---xx   flac  0.5246  ph1992-11-27d2t03.flac
+     0:43.48           7.34 MB  ---   --   ---xx   flac  0.3965  ph1992-11-27d2t04.flac
+     3:59.21          40.25 MB  ---   --   ---xx   flac  0.5954  ph1992-11-27d2t05.flac
+     2:50.22          28.65 MB  ---   --   ---xx   flac  0.5065  ph1992-11-27d2t06.flac
+    10:38.54         107.45 MB  ---   --   ---xx   flac  0.5281  ph1992-11-27d2t07.flac
+     4:40.31          47.17 MB  ---   --   ---xx   flac  0.4907  ph1992-11-27d2t08.flac
+     7:53.24          79.63 MB  ---   --   ---xx   flac  0.5052  ph1992-11-27d2t09.flac
+     8:44.05          88.16 MB  ---   --   ---xx   flac  0.4686  ph1992-11-27d2t10.flac
+     3:12.11          32.32 MB  ---   --   ---xx   flac  0.4299  ph1992-11-27d2t11.flac
+    14:02.08         141.67 MB  ---   --   ---xx   flac  0.5104  ph1992-11-27d2t12.flac
+     1:39.10          16.68 MB  ---   --   ---xx   flac  0.3850  ph1992-11-27d3t01.flac
+     7:45.10          78.25 MB  ---   --   ---xx   flac  0.4582  ph1992-11-27d3t02.flac
+     4:17.38          43.32 MB  ---   --   ---xx   flac  0.4538  ph1992-11-27d3t03.flac
+     4:51.06          48.97 MB  ---   --   ---xx   flac  0.4538  ph1992-11-27d3t04.flac
+     5:02.02          50.81 MB  ---   --   ---xx   flac  0.5720  ph1992-11-27d3t05.flac
+     0:46.34           7.81 MB  ---   --   ---xx   flac  0.4395  ph1992-11-27d3t06.flac
+     5:06.09          51.50 MB  ---   --   ---xx   flac  0.5321  ph1992-11-27d3t07.flac
+     0:47.21           7.95 MB  ---   --   ---xx   flac  0.4510  ph1992-11-27d3t08.flac
+   181:14.55        1829.44 MB                           0.5111  (29 files)

@@ -1,0 +1,61 @@
+Phish
+12/30/2009
+Miami, Florida  American Airlines Arena
+
+4-channel Source:
+
+Source 1: Schoeps mk5(omni)> KCY> Schoeps VMS02IB> Apogee Mini-Me> SD 722 (@24bit/48kHz)
+Location: OTS, Section 5, Row 13, Seats 12 & 13, 9' Stand, 0 Degrees, 16" Spread
+
+Source 2: Schoeps mk41> KC5> M222> NT222> Lunatec V3> SD 722 (@24bit/48kHz)
+Location: OTS, Section 7, Row 13, Seats 12 & 13, 9' Stand, DINA
+
+Transfer: SD 722> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44)
+Taped, Transferred & Seeded by: taylorc (12/31/2009)
+
+
+Set I
+t01 [04:52] Soul Shakedown Party
+t02 [07:37] Runaway Jim
+t03 [08:37] Jesus Just Left Chicago
+t04 [02:38] Dixie Cannonball
+t05 [05:35] Stealing Time from the Faulty Plan
+t06 [06:01] Corinna
+t07 [05:40] What's the Use
+t08 [08:05] Tela
+t09 [05:19] Gone
+t10 [02:43] Rocky Top
+t11 [07:24] Chalk Dust Torture
+t12 [11:21] David Bowie
+
+Set II
+t13 [13:13] Sand
+t14 [13:03] The Curtain With
+t15 [07:51] Lifeboy
+t16 [17:11] Back on the Train >
+t17 [05:15] Wading in the Velvet Sea
+t18 [01:37] HYHU >
+t19 [06:20] Love You >
+t20 [02:23] HYHU
+t21 [07:45] Free
+t22 [06:01] Boogie on Reggae Woman
+t23 [09:38] Run Like an Antelope
+t24 [03:09] crowd
+
+Encore
+t25 [04:48] Frankenstein
+
+
+Notes:
+Thanks to Jason Lonchar for the mk5's, tubes & V3
+Soul Shakedown Party, last played 04/17/2004 (62 shows)
+Jesus Just Left Chicago, last played 07/13/2003 (90 shows)
+Dixie Cannonball, first time played (Hank Williams)
+Corinna, last played 02/24/2003 (100 shows)
+What's the Use, last played 11/28/2003 (73 shows)
+Tela, last played 11/24/1998 (232 shows)
+Gone, first time played
+Rocky Top, last played 07/19/2003 (86 shows)
+Lifeboy, last played 08/09/2004 (54 shows)
+Love You, last played 04/16/2004 (63 shows)
+Set I [1:15:52] Set II [1:33:26] Encore [4:48]

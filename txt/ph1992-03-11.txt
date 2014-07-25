@@ -1,0 +1,95 @@
+Phish
+3-11-1992
+Colonial Theater 
+Keene, NH
+
+Source & Conversion Information: 
+Unknown Lineage>CDR>EAC [100%]>FLAC frontend [level7]
+
+Source discs provided by taperwayne. 
+Converted and seeded to etree by shoreline99 (shoreline@email.com) on 6/22/06. 
+
+Thanks again, Wayne, for the discs.
+
+Disc 1:
+Set 1:
+01. Suzie Greenberg [5:42]
+02. My Friend My Friend [7:38]
+03. Paul and Silas [3:16]
+04. Reba [12:16]
+05. Maze [8:41]
+06. Fee [5:27]
+07. Split Open and Melt [7:50]
+08. Mound [6:16]
+09. Divided Sky [13:42]
+10. Cavern [4:54]
+Total Time: 75:42
+
+Disc 2:
+Set 2:
+01. Crowd [1:00]
+02. Llama [4:34]
+03. NICU [8:55]
+04. The Sloth [3:54]
+05. Lizards [10:19]
+06. Bathtub Gin [8:10]
+07. My Mind's Got a Mind of its Own [2:37]
+08. Brother [5:18]
+09. Cold as Ice -> [2:12]
+10. Baby Lemonade* -> [4:32]
+11. Cold as Ice / Trey [1:57]
+12. All Things Reconsidered [3:06]
+13. Harry Hood [11:47]
+14. Rocky Top [2:37]
+Total Time: 70:58
+
+
+Disc 3:
+Encore: 
+01. Sanity [5:16]
+02. Memories [0:31]
+03. Carolina [1:11]
+04. Sleeping Monkey [6:02]
+Total Time: 13:00
+
+*First time played. With Fishman on bagpipes.
+
+Notes:
+D1T1: Mic Dropout at (0:37).
+D1T2: Dedicated to Steve E. and his friends.
+D1T5: Page makes a No Smoking announcement at beginning of song.
+D1T7: Tape Distortion for first several seconds of SOAM. (0:00-0:14)
+D2T1: Second announcement regarding smoking in the building. Contains a tease of 'Smoke on the Water'.
+D2T11: Trey introduces All Things Reconsidered
+
+Listen for the Idiot yelling for 'Dark Star' during the second set...
+
+
+ph1992-03-11d1t01.flac:81a1d9c75a62328ac26e5130d45437d3
+ph1992-03-11d1t02.flac:eb6be66da850004b739822c966cd8243
+ph1992-03-11d1t03.flac:aec0a63ccac83e7d418b38b60252e796
+ph1992-03-11d1t04.flac:b80c4c89b439627b73e47f9692c35ee6
+ph1992-03-11d1t05.flac:fbc26e96d123ab8a1918f8d1c71ed8e5
+ph1992-03-11d1t06.flac:dad71a358e10974bf7861122b03039bb
+ph1992-03-11d1t07.flac:ab431673c570ed0f34a5aad397bea1bb
+ph1992-03-11d1t08.flac:f21343b3597140ed9aa09be97cea1cd6
+ph1992-03-11d1t09.flac:c8c9bb656209a27ef2f966b7d0dca3c4
+ph1992-03-11d1t10.flac:ef542220153e4f60f50c66e5d72b1bd9
+ph1992-03-11d2t01.flac:88b8c130461b0f637b4f32c08e022be1
+ph1992-03-11d2t02.flac:fed1bbd05990a3080c6e9840bcf09dfa
+ph1992-03-11d2t03.flac:afc681448def99efc6b9b849168f4a4b
+ph1992-03-11d2t04.flac:c7a8f6242a8c3cab14c95a205a818b58
+ph1992-03-11d2t05.flac:fbec43f0b2dccb161f3b5ff38a139ac3
+ph1992-03-11d2t06.flac:3aada6de1e6f5eb9ff6668e23d7d6d85
+ph1992-03-11d2t07.flac:478152825bd2a3f23a9fec667eeecb7a
+ph1992-03-11d2t08.flac:765d4326cb171c43780895d8c4911f7c
+ph1992-03-11d2t09.flac:b8d153531f92ad5c7d8cb0fca39d651d
+ph1992-03-11d2t10.flac:7066a78c4988f3d79a47f147c0dfb3b7
+ph1992-03-11d2t11.flac:f6f505e47daa37ab237f5b50f9d374ff
+ph1992-03-11d2t12.flac:909080754e84275dca3818a0ac54524d
+ph1992-03-11d2t13.flac:4e94c49c2a22dd68116d6f6e13305461
+ph1992-03-11d2t14.flac:e07371dc5d31b13ba087b5d7b6050c87
+ph1992-03-11d3t01.flac:c9c1fb89d41f1dd148a176f129991d7e
+ph1992-03-11d3t02.flac:a5f24a21b19a9b46fe55f487065562b4
+ph1992-03-11d3t03.flac:c759192bb7543101d71b39e7a316562e
+ph1992-03-11d3t04.flac:1e2d6519fe3a1177cef3ca1e5dc8eb3b

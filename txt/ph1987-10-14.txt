@@ -1,0 +1,45 @@
+Phish
+10-14-87
+Hunt's Club - Burlington, VT
+
+Source: SBD > Cass/x > CDR > EAC > SF XP 4.5 > mkwACT > SHN > Cool Edit NR > SHN 
+
+Seed provided by Wayne Lane
+Fixes and encoding to SHN by Brendan Komala (yamar3@hotmail.com)
+
+Additional fixes by Ben Mohr (bmohr@udel.edu)
+
+---------------------------------------------------------------------
+ Disc 1:                              			(79:57)
+---------------------------------------------------------------------
+1. //Peaches en Regalia					(02:03)
+2. Take the A-Train					(03:24)
+3. You Enjoy Myself >					(11:21)
+4. Golgi Apparatus 					(04:52)
+5. Slave to the Traffic Light >				(05:52)
+6. The Chase >						(01:11)
+7. Fluffhead >						(08:23)
+8. Dave's Energy Guide 					(01:44)
+9. Possum						(05:46)
+10. David Bowie	>					(11:43)
+11. AC/DC Bag >						(05:52)
+12. Divided Sky >					(03:50)
+13. McGrupp and the Watchful Hosemasters >		(03:48)
+14. Clod >						(06:43)
+15. Makisupa Policeman (cut)				(03:22)
+
+
+Notes:
+-Tape Flip
+  end of d1t09
+-Removed dropout at 07:33.10 of d1t07.  There is some music missing here and 
+  the end of the track is a bit chunchy - just be aware
+-Removed dropout at 00:28.96 of d1t08
+-Removed spikes at 00:07.61 and 04:46.30 of d1t09
+-There is feedback on the master tape throughout d1t09
+-Removed dropout at 10:58.37 of d1t10
+
+Fixes (Ben):
+-Applied Cool Edit Hiss Redution based on floor sample at end of Peaches (pure hiss).
+  Removed maximum amount of his possible without degrading sound quality. I'm still not 
+  pleased with the sound quality but this is all we have for now.

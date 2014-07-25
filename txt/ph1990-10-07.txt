@@ -1,0 +1,45 @@
+Phish
+10/07/90 
+Club Bene
+South Amboy, NJ
+
+Source: SBD > ? > CDR > EAC > SHN
+
+This show as received had lots of flaws. There are missing sections 
+between some songs I can't do anything about. Lots of tracks were cut 
+wrong and were merged with CoolEdit then recut with CDWave. There's a 
+major dropout in La Grange. The silent section is obviously the wrong 
+length but I left that alone. There were various other smaller things 
+that were done before running the whole thing through shntool to fix 
+sector boundaries. I hope you enjoy the less than perfect results.
+bmitchel@citlink.net
+
+Disk 1:
+	Set 1: 
+1.  Divided Sky 
+2.  Uncle Pen
+3.  Stash
+4.  The Landlady
+5.  Destiny Unbound
+6.  Colonel Forbin's Ascent >
+7.  Fly Famous Mockingbird
+8.  The Asse Festival
+9.  The Squirming Coil
+10. Mike's Song >
+11. I am Hydrogen >
+12. Weekapaug Groove
+
+Disk 2:
+1.  Magilla
+2.  La Grange
+	Set 2:
+3.  Buried Alive >
+4.  Bouncing Around the Room
+5.  Tweezer
+6.  My Sweet One
+7.  I Didn't Know
+8.  Lizards
+9.  Good Times Bad Times
+10. Golgi Apparatus
+	Encore: 
+11. Contact

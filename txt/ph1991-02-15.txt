@@ -1,0 +1,61 @@
+Phish
+Colonial Theater
+Keene, NH
+2/15/91 
+
+TAPER: John Redmond
+SOURCE: Nak 300s > D5 
+
+AUD MCass (Sony Metal-SR 100 min)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +~10dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)>
+Mastering (see notes)> SHNv3
+
+Transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 11/23/2003
+Mastering, editing, and WAV > SHN performed on REBA by Arty- imthemarmar@stny.rr.com
+
+**24/48 Masters do exist at the unedited/pre-processed level**
+
+*DISC 1*
+Set 1:
+01. //The Curtain >
+02. Wilson >
+03. The Divided Sky
+04. Split Open and Melt
+05. Fee >
+06. Buried Alive
+07. //The Mango Song
+08. //The Sloth
+09. Dinner and a Movie
+10. Magilla
+11. Llama 
+
+*DISC 2*
+Set 2:
+01. David Bowie
+02. Bathtub Gin
+03. Ya Mar
+04. Guelah Papyrus
+05. My Sweet One
+06. Oh Kee Pa Ceremony >
+07. AC/DC Bag//
+
+*DISC 3*
+Set 2 cont'd:
+01. Harry Hood
+02. Terrapin
+03. Chalk Dust Torture//
+Encore 1: 
+04. Caravan
+05. Big Black Furry Creature From Mars
+Encore 2:
+06. //Contact
+07. Golgi Apparatus
+
+Notes
+- The sets were reconstructed and all cuts or tape flips (indicated by //) have been seemlessly crossfaded. Each cut did have minimal music/material loss at each point. Don't let this inhibit listening to this show, you won't notice the flips.
+
+**Mastering Notes**
+24bit/48kHz FLAC > Wavelab on REBA  > Editing > Waves Q4-Paragraphic EQ > BBE 5/2.5/unity > Waves C4 > Waves L1+ > 24/48kHz wav > Resmapled from 48kHz>44.1kHz and moved from 24>16bit via tc electronics Finalizer 96k > Tracking in Wavelab > SHNv3 appended
+
+Seeded to FurthurNet (www.furthurnet.org)

@@ -1,0 +1,38 @@
+PHiSH - 10/17/96
+Bryce Jordan Center, Penn State U, Stage College, PA
+
+source: Microtech Geffel M210 > Beyer MV100 > DAP1 > DAP1(m) - x/y mid center OTS
+transfer: Tascam DAP1 > M-Audio 24/96 via Coax SPDIF > Wavelab (fades, normalize, sample rate conversion) > CD-WAV > SHNv3
+
+transfer by shakedown@furthurnet.org on 11/08/03
+
+DISC ONE
+set one:
+01. 2001 >
+02. Funky Bitch
+03. Sparkle
+04. Tweezer >
+05. Theme from the Bottom
+06. Talk
+07. Punch You In The Eye
+08. Character Zero
+09. A Day in the Life
+10. Tweezreprise
+
+DISC TWO
+set two:
+01. Yamar
+02. Chalkdust Torture
+03. Bathtub Gin
+04. Scent of a Mule
+05. Free
+06. Lizards
+07. Star Spangled Banner
+08. David Bowie
+encore:
+09. Golgi Apparatus
+
+Show Notes:
+Talk was performed with Trey on acoustic guitar.  Star Spangled Banner was performed for the first time, sung in prepartion for the L.A. Lakers game.
+
+Read Charlie Dirksen's Tweezer review here: http://www.phish.net/reviews/tweezer/10-17-96.html

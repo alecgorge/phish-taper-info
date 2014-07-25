@@ -1,0 +1,79 @@
+Phish - 8/17/1992
+Coach House - San Juan Capistrano, CA
+
+	Set I
+		01	Crowd				(00:25)
+		02	Buried Alive			(02:12)
+		03	Poor Heart			(03:39)
+		04	The Landlady			(03:58)
+		05	Reba				(12:16)
+		06	Rift				(06:41)
+		07	Wilson $ >			(07:47)
+		08	All Things Reconsidered		(03:11)
+		09	Foam //				(07:36)
+		10	My Friend My Friend		(07:46)
+		11	Bouncin Around the Room 	(03:52)
+		12	David Bowie			(12:58)
+
+	Set II
+		01	Crowd/Band Banter		(01:40)
+		02	Suzy Greenberg			(06:08)
+		03	It's Ice			(07:53)
+		04	Tweezer				(10:46)
+		05	Esther				(08:55)
+		06	Mike's Song >			(08:50)
+		07	I am // Hydrogen >		(02:58)
+		08	Weekapaug Groove		(08:33)
+		09	Horn				(03:39)
+		10	HYHU >				(02:19)
+		11	Terrapin % >			(06:11)
+		12	HYHU				(00:48)
+
+		01	Take the A-train & >		(05:18)
+		02	Somewhere Over the Rainbow	(02:38)
+		03	Cavern *			(07:18)
+	
+	Encore
+		04	Squirming Coil			(10:26)
+Notes:
+	Ninja Custodian opened
+	$ w/ Simpson's, All Fall Down and Random Note Language
+	% w/ Ninja Mike on drums
+	& w/ Flinstones theme teases
+	* w/ Somewhere over the Rainbow tease
+
+Source:	SBD>C1>DAT
+Xfer:	ARCHIVE Python>vDAT>WaveLab4>CDWave>Flac/CDR
+
+48 KHZ Flacs have been archived.
+Transferred and tracked by rusty@ontheflyrecording.com
+
+
+ph1992-08-17d3t04.flac:c09234ff239aecd8a1f3da0cc2dcfdea
+ph1992-08-17d1t02.flac:b1bf28a89f94087f189d6a650d8c5f24
+ph1992-08-17d1t03.flac:c6b75f48d91942d0bd1b1ede477a310e
+ph1992-08-17d1t04.flac:6e330cc7b6f55500e97ca535f17e8083
+ph1992-08-17d1t05.flac:da77b0b5f09ed44f300f8c0bfcdae5b4
+ph1992-08-17d1t06.flac:ba2854e7eb80d2ab1753ef96751c28d8
+ph1992-08-17d1t07.flac:9f66987adc36ce85231b712ac7a8c188
+ph1992-08-17d1t08.flac:3eaf3b34ae7ab527fdcddb06956938da
+ph1992-08-17d1t09.flac:89f7b0754ff5f7e041a475efa0f05ac8
+ph1992-08-17d1t10.flac:5675af2f07a6247170aa4c1554a23cbc
+ph1992-08-17d1t11.flac:a34864d93c3d300048db3a4d84b87ffc
+ph1992-08-17d1t12.flac:0a8f62bd5a3fedfccf4b07732eaa359a
+ph1992-08-17d2t01.flac:cad016ef6465c618bd0d560058725912
+ph1992-08-17d2t02.flac:df82b19bf5e61fc6ac930d735c7c4f19
+ph1992-08-17d2t03.flac:d1c3a281e3aed2ea56ec817e54bf349c
+ph1992-08-17d2t04.flac:2ac992bb0801713651a3c9d611414048
+ph1992-08-17d2t05.flac:75bde4c257404661ff903f6dc195fa8d
+ph1992-08-17d2t06.flac:60f1416d3deff932f0c66fab2d2cb3d5
+ph1992-08-17d2t07.flac:a6cdb0d32159454325a39f3c74e9e4bc
+ph1992-08-17d2t08.flac:a03227cce0bf93de12ec488a6ad5d9e4
+ph1992-08-17d2t09.flac:3548715270e19b3ba133408e03c95e42
+ph1992-08-17d2t10.flac:2058bb2b22bcb50dce1dd270e7f70ca5
+ph1992-08-17d2t11.flac:6555c29c109fc96abae4ae066f1476fd
+ph1992-08-17d2t12.flac:23dff2e2bfa34d591f36379ed5b22150
+ph1992-08-17d3t01.flac:e58fb792797e73d87d462974015e7acb
+ph1992-08-17d3t02.flac:26c0b3abac1241965e344ff7b6b2a33d
+ph1992-08-17d3t03.flac:82909f85c8809a174bc2af5f1ec222e3
+ph1992-08-17d1t01.flac:616684f2b8c1a697a0f474370acbb9de

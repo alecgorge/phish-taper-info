@@ -1,0 +1,100 @@
+Phish
+November 28, 1992
+Capitol Theatre
+Port Chester, NY
+
+source:
+NAK 300 > Sony TCD-D3 (@ 48 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > Samplitude SE v9.1.1 (fades, splice) > r8brain v1.9 (resample to 44.1 kHz) > CD Wave v1.97 (track splits) > FLAC v1.2.1 (Level 8)
+
+recorded by Eliot Byron
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded March 1, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+The original 48 kHz files from the DAT transfer have been archived and are available upon request.
+Big thanks to Eliot for letting me borrow his master DATs!
+
+Disc 1 - [73:48]
+Set I
+01 - [04:42] - My Sweet One
+02 - [09:44] - Foam
+03 - [10:17] - Stash
+04 - [10:13] - Esther
+05 - [06:47] - Chalk Dust Torture
+06 - [03:57] - Sparkle
+07 - [05:21] - Fast Enough for You
+08 - [02:48] - All Things Reconsidered
+09 - [09:23] - Mike's Song >
+10 - [03:54] - I Am Hydrogen >
+11 - [06:44] - Weekapaug Groove
+
+Disc 2 - [62:17]
+Set II
+01 - [05:24] - Suzy Greenberg
+02 - [03:48] - Paul and Silas
+03 - [12:40] - Tweezer ->
+04 - [04:03] - The Man Who Stepped Into Yesterday >
+05 - [03:10] - Avenu Malkenu ->
+06 - [09:54] - Maze ->
+07 - [01:30] - The Man Who Stepped Into Yesterday Reprise
+08 - [03:39] - Bouncing Around the Room
+09 - [08:30] - The Squirming Coil
+10 - [08:26] - Love You >
+11 - [01:12] - HYHU
+
+Disc 3 - [30:36]
+Set II continued
+01 - [13:44] - Harpua
+02 - [04:34] - Golgi Apparatus
+03 - [01:33] - encore break
+04 - [07:27] - Contact ->
+05 - [03:17] - Tweezer Reprise
+
+splice notes:
+there was a small drop-out on Eliot's DAT right at the beginning of "Golgi Apparatus"
+I used for the following source to replace the missing portion:
+
+(FOB) Schoeps mk4 > Reuthelhuber power supply > Panasonic SV-255 (@ 48 kHz)
+recorded by Joe LeClair
+http://db.etree.org/shn/85857
+
+The Schoeps source was used at the following spots:
+Harpua: [13:43] to [13:44]
+Golgi Apparatus: [00:00] to [00:06]
+_________________________________________________________________________
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     4:42.30          47.51 MB  ---   --   ---xx   flac  0.4585  ph1992-11-28d1t01.flac
+     9:43.64          98.22 MB  ---   --   ---xx   flac  0.5184  ph1992-11-28d1t02.flac
+    10:16.47         103.73 MB  ---   --   ---xx   flac  0.5585  ph1992-11-28d1t03.flac
+    10:12.46         103.06 MB  ---   --   ---xx   flac  0.5021  ph1992-11-28d1t04.flac
+     6:46.67          68.45 MB  ---   --   ---xx   flac  0.5660  ph1992-11-28d1t05.flac
+     3:56.58          39.83 MB  ---   --   ---xx   flac  0.5250  ph1992-11-28d1t06.flac
+     5:20.62          53.97 MB  ---   --   ---xx   flac  0.5021  ph1992-11-28d1t07.flac
+     2:47.73          28.26 MB  ---   --   ---xx   flac  0.5019  ph1992-11-28d1t08.flac
+     9:22.47          94.65 MB  ---   --   ---xx   flac  0.5423  ph1992-11-28d1t09.flac
+     3:53.40          39.29 MB  ---   --   ---xx   flac  0.4592  ph1992-11-28d1t10.flac
+     6:43.66          67.94 MB  ---   --   ---xx   flac  0.5435  ph1992-11-28d1t11.flac
+     5:24.32          54.58 MB  ---   --   ---xx   flac  0.5430  ph1992-11-28d2t01.flac
+     3:48.13          38.39 MB  ---   --   ---xx   flac  0.4946  ph1992-11-28d2t02.flac
+    12:39.55         127.81 MB  ---   --   ---xx   flac  0.5214  ph1992-11-28d2t03.flac
+     4:03.14          40.91 MB  ---   --   ---xx   flac  0.4028  ph1992-11-28d2t04.flac
+     3:09.65          31.94 MB  ---   --   ---xx   flac  0.5183  ph1992-11-28d2t05.flac
+     9:54.09          99.95 MB  ---   --   ---xx   flac  0.5335  ph1992-11-28d2t06.flac
+     1:29.48          15.08 MB  ---   --   ---xx   flac  0.3951  ph1992-11-28d2t07.flac
+     3:38.72          36.84 MB  ---   --   ---xx   flac  0.5121  ph1992-11-28d2t08.flac
+     8:29.61          85.76 MB  ---   --   ---xx   flac  0.4611  ph1992-11-28d2t09.flac
+     8:26.31          85.19 MB  ---   --   ---xx   flac  0.4662  ph1992-11-28d2t10.flac
+     1:12.27          12.17 MB  ---   --   ---xx   flac  0.4437  ph1992-11-28d2t11.flac
+    13:43.67         138.60 MB  ---   --   ---xx   flac  0.4764  ph1992-11-28d3t01.flac
+     4:34.32          46.17 MB  ---   --   ---xx   flac  0.5293  ph1992-11-28d3t02.flac
+     1:33.16          15.68 MB  ---   --   ---xx   flac  0.4554  ph1992-11-28d3t03.flac
+     7:27.21          75.25 MB  ---   --   ---xx   flac  0.4451  ph1992-11-28d3t04.flac
+     3:17.02          33.15 MB  ---   --   ---xx   flac  0.5318  ph1992-11-28d3t05.flac
+   166:40.40        1682.37 MB                           0.5049  (27 files)

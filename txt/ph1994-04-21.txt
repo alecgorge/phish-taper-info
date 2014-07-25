@@ -1,0 +1,54 @@
+Phish
+04/21/1994
+Lawrence Joel Veterans Memorial Coliseum
+Winston-Salem, NC
+
+SOURCE:AKG 460 CARDS>TEAC>DAT
+DAT CLONING:Panasonic 3700>COAX>Panasonic 3700 
+DAT>SHN TRANSFER:Technics SV 260A>COAX>WAV>CDWAV>SHN:
+Via MKW.These SHN files are seekable in your SHNamp.
+I have include both WAV and SHN md5s
+Linda Webster
+http://db.etree.org/linda95
+
+Disc 1 Set 1
+{1}Chalkdust(6:42:66),
+{2}Sparkle(3:44:65),
+{3}Foam(8:48:39),
+{4}Glide(4:20:36),
+{5}Split Open and Melt(10:02:49),
+{6}Lizards(10:15:53),
+{7}Down w/Disease > (8:13:59),
+{8}If I Could(5:55:65),
+{9}Cavern(4:30:61).
+TOTAL: 62:35:13  or  75:77:63....
+This show will drop on 2 80 min cds with some
+"creative burning".If you add tracks 1&2 from
+Disc 2,this disc becomes 75:77:63..See notes for Disc 2.
+
+Disc 2 Set 2
+{1}2001 > (3:51:61),
+{2}Maze(9:50:44),
+{3}Fluffhead(13:50:44),
+{4}Mike's Song >(10:42:44),
+{5}Hydrogen >(2:49:19),
+{6}Weekapaug Groove(6:37:04),
+{7}Scent of a Mule(7:02:57),
+{8}Big Ball Jam >(2:19:30),
+{9}Possum(11:34:10),
+{10}Amazing Grace(2:21:17),
+{11}Crowd(2:17:44),
+TOTAL: 73:16:74  or  79:17:49....
+If you added Tracks 1&2 to the end of Disc 1,you're
+next step is Tracks 3-10 from Disc 2 and 
+Tracks 1&2 from Disc 3 for an 80 min. Disc 2.
+You will need to leave off Track 11(Crowd) or
+Disc 2 will not fit on an 80.See notes for Disc 1.
+
+Disc 3
+{1}E: Drums > Jam Featuring DMB w/Phish >(10:41:01),
+{2}E: All Along The Watchtower Featuring DMB w/Phish
+(11:19:48).
+TOTAL: 22:00:49  or 00:00:00....
+If you burned in 80 min. format,these 2 Tracks
+would end Disc 2.

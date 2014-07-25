@@ -1,0 +1,70 @@
+Phish
+February 24, 2003
+Continental Airlines Arena
+East Rutherford, NJ
+
+source:
+Schoeps cmc6/mk41 > Lunatec V3 > Sonic AD2K+ > Tascam DA-P1 (@ 44.1 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > WaveLab 5.01b (fades) > CD Wave v1.96.1 > FLAC v1.2.0 (Level 8)
+
+FLAC tags added with metaflac v1.2.0
+
+recorded by Jamie Lutch & Scott Gordon
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded September 3, 2007
+
+Disc 1 - [66:36]
+Set I
+01 - [15:34] - Down with Disease
+02 - [06:03] - Corinne Corrina
+03 - [09:59] - Wolfman's Brother >
+04 - [11:35] - Limb by Limb
+05 - [23:24] - Everyday I Have the Blues *
+
+Disc 2 - [66:26]
+Set I continued
+01 - [18:23] - The Thrill is Gone *
+02 - [12:15] - Rock Me Baby *
+Set II
+03 - [14:14] - Halley's Comet >
+04 - [13:34] - Harry Hood >
+05 - [08:00] - Heavy Things
+
+Disc 3 - [55:10]
+Set II continued
+01 - [18:16] - Twist
+02 - [04:56] - All of These Dreams
+03 - [08:30] - Waves >
+04 - [04:53] - Sample In A Jar >
+05 - [09:26] - Chalk Dust Torture
+06 - [02:35] - encore break
+07 - [06:34] - Farmhouse
+
+* with B.B. King, first time played by Phish
+
+---------------------------------------------------------------------------------------------------------
+
+SHNtool output:
+
+    length     expanded size   cdr  WAVE problems filename
+    15:34.29      164825852    ---   --   ---xx   ph2003-02-24d1t01.flac
+     6:03.37       64120268    ---   --   ---xx   ph2003-02-24d1t02.flac
+     9:59.26      105724796    ---   --   ---xx   ph2003-02-24d1t03.flac
+    11:34.38      122511020    ---   --   ---xx   ph2003-02-24d1t04.flac
+    23:23.69      247651532    ---   --   ---xx   ph2003-02-24d1t05.flac
+    18:22.58      194529260    ---   --   ---xx   ph2003-02-24d2t01.flac
+    12:14.43      129578780    ---   --   ---xx   ph2003-02-24d2t02.flac
+    14:14.05      150657404    ---   --   ---xx   ph2003-02-24d2t03.flac
+    13:34.28      143655500    ---   --   ---xx   ph2003-02-24d2t04.flac
+     8:00.37       84759068    ---   --   ---xx   ph2003-02-24d2t05.flac
+    18:16.05      193346204    ---   --   ---xx   ph2003-02-24d3t01.flac
+     4:56.01       52216796    ---   --   ---xx   ph2003-02-24d3t02.flac
+     8:29.63       89935820    ---   --   ---xx   ph2003-02-24d3t03.flac
+     4:53.32       51760508    ---   --   ---xx   ph2003-02-24d3t04.flac
+     9:25.58       99802460    ---   --   ---xx   ph2003-02-24d3t05.flac
+     2:34.73       27337340    ---   --   ---xx   ph2003-02-24d3t06.flac
+     6:33.73       69496940    ---   --   ---xx   ph2003-02-24d3t07.flac
+   188:12.00     1991909548 B                     (totals for 17 files, 0.5446 overall compression ratio)
+

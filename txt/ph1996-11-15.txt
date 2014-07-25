@@ -1,0 +1,45 @@
+PHiSH - 11/15/96
+Kiel Center - St. Louis, MO
+
+source: Schoeps CMC6/MK41 > Beyer MV-100 > SBM-1 > D7
+transfer: Casio DA-R100 > M-Audio 24/96 via Coax SPDIF > Wavelab (fades, normalize, sample rate conversion) > CD-WAV > SHNv3
+
+transfer by shakedown@furthurnet.org on 10/16/03
+
+DISC ONE
+set I:
+01. pre-show music/applause
+02. Wilson
+03. The Divided Sky
+04. Bouncin'
+05. Character Zero
+06. Punch You in the Eye >
+07. Prince Caspian
+08. Ginseng Sullivan
+09. Trainsong
+10. Chalkdust Torture
+11. Taste
+12. Cavern
+
+DISC TWO
+set II:
+01. Makisupa Policeman >
+02. Maze
+03. McGrupp and the Watchful Hosemasters
+04. Split Open and Melt
+05. TMWSIY > 
+06. Avenu Malkenu
+07. My Mind's Got a Mind of it's Own
+08. Mike's Song
+09. Sleeping Monkey
+10. Mean Mr. Mustard
+11. Weekapaug Groove
+encore:
+12. Funky Bitch
+
+show notes: Mean Mr. Mustard was a first time played.  Trey announced that the show was brought to you by the letter "M" and the number "420".  John Popper on harmonica for Mean Mr. Mustard. 
+
+anomolies: the DAT had digi-noise during Wilson & PYITE, only one one of the 2 channels though; I swapped the left with the noisy right in these spots.
+
+Thanks to Lenny Stubbe for all the sick DATs, please contact me if you have Fall 96 Phish DATs!
+-Matt aka shakedown@furthurnet.org

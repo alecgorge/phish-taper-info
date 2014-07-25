@@ -1,0 +1,48 @@
+Phish
+07/13/1999
+Mansfield, Massachusetts Great Woods Amphitheatre
+
+Source: (OTS) Schoeps CMC6/mk41> Apogee AD-1000> Tascam DA-P1 (@44.1kHz)
+Taped by: Taylor Caine
+
+Transfer: Tascam DA-40> M-Audio Audiophile 2496> Samplitude 7.0 (fades)> SoundForge 6.0 (repair)> CDWave> flac
+Transferred & Seeded by: TaylorC (07/20/2007)
+
+
+Set I
+t01 [06:23] NICU
+t02 [06:30] The Curtain
+t03 [14:34] Halley's Comet>
+t04 [06:49] Roses are Free>
+t05 [05:49] NO2
+t06 [03:21] Lawn Boy
+t07 [15:24] Reba>
+t08 [07:24] Carini>
+t09 [08:06] Funky Bitch
+
+Set II
+t10 [21:46] Wolfman's Brother>
+t11 [08:24] Piper
+t12 [10:00] Bug
+t13 [06:30] Mountains in the Mist
+t14 [11:43] Run Like an Antelope >
+t15 [11:40] Possum
+
+Encore
+t16 [08:52] Tuesday's Gone
+
+Show Notes: NO2 was played for the first time since July 16, 1994 (355 shows) and, 
+for the first known time, included the instrumental ending originally included on The 
+White Tape. Reba was unfinished and dissolved into Carini. Antelope included Meatstick 
+teases and Trey welcoming his friends Dave and Luann Abrahams. Scott Murawski, guitarist 
+for Max Creek, joined the band on Possum and the debut of Tuesday's Gone.
+Notes:
+
+NO2, last played 07/16/1994 (355 Shows)
+Possum & Tuesday's Gone w/Scott Murawski on guitar, first Tuesday's Gone
+-Repair: (t03 @ 8:57) Copied 625ms of Left Channel over Right Channel
+-some knucklehead came climbing through the section crawling over seats
+-the person's foot hit the Apogee and caused a glitch in the right channel
+Set I [1:14:20] Set II [1:10:03] Encore [08:52]
+Added Fades at start/end of Set I, start of Set II & end of Encore
+CD-R Tracking: D1 (t01-t09), D2 (t10-t16)

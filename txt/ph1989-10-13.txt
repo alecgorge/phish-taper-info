@@ -1,0 +1,54 @@
+Phish
+10-13-1989
+Orange Grove
+Syracuse, NY
+
+Source: SBD>cass/x
+Transfer: Sony TC-KA3ES > Lucid AD 9624 A/D > REBA @ 24/48kHz
+
+-SET 2-
+^DISC 1^
+01. McGrupp*
+02. Divided Sky
+03. Reba^
+04. Mike's Song >
+05. I am Hydrogen >
+06. Weekapaug Groove//
+07. \\Curtis Lowe
+08. Alumni Blues
+09. Contact
+^DISC 2^
+10. Lizards
+-Encore-
+11. David Bowie
+12. Swing Low Sweet Chariot Jam
+
+* Has the portion of Fluffhead known as "Who Do? We Do!" in it...
+^ 2nd time it was played live...VERY different from the Reba we know now....
+Tape flip indicated by // and \\ there is a good portion of Weekapaug and the start of Curtis Lowe missing....
+
+~Mastering~
+Stereo Montage to reconstruct set > Edits and Fades for the tape flip > 10 Band Paragraphic EQ > BBE 0/2/0 > Waves R-Bass @ 35Hz 0db > Waves L1+ > 192kHz Stereo ReSampler (48>44.1) > L1+ (24>16bit) Mode 1/Ultra > FLAC16
+
+~NOTES~
+This show has some *recorded* distortion....hard to tell if it's present on the board or if the levels on the tape were too high....I'll have to assume the latter because I can't imagine Phish sounding like that out of a PA....This sounds very similar to 8-21-87 Ian's in the way Mike is WAY up in the mix and overloads the recording at times....Still, this show is a must have for all the diehards out there...LawnGirl provided me with the tape that was used for the txfer and according to her she got it from someone who dubbed it from a copy that Mimi Fishman had. Below is an excerpt of an email exchange with Kevin Shapiro about the show:
+
+art (marmar):
+
+10/12/89 is mabel brown room at keene state college and they didn't play buried that night so no confusion.  10/13 is likely syracuse but i don't know the history of the place's name except it's been the source of confusion as you can see below.  mockingbird's lists for the first three syracuse gigs are in italics below.  it's obvious if your tape (with mike's groove) is a complete set, then their different list also containing mike's groove is incorrect.
+
+i'm tempted to believe you have a set of 10/13/89 syracuse for three reasons:
+
+1. 10/1/89 is the first reba and 10/20 is a lot of gigs between the first and second play of the song.
+2. the show is listed in the 10/89 newsletter as copperfield's in syracuse
+3. mimi probably would have attended the show and would have known the correct date and venue at
+        the time.
+
+i'm also tempted to think it probably was at orange grove because of reason 3 but i know little to nothing about syracuse venues.  i actually suspect copperfield's may have also or later been known as orange grove.  here's what i know:  phish's first syracuse gig or gigs (depending whether they played 5/12 and 5/13 or just 5/13 - a whole other inquiry) were at copperfield's and/or hungry charlie's respectively.
+
+my suspicion is one venue may have had multiple names - ie: copperfield's could have been called that in 5/89 but called orange grove in october and still been the same location, leading to a misprint in the newsletter.  it's also possible management thought the 10/89 gig was going to be at copperfield's at press time but venue changed between newsletter and gig.  unfortunately i don't have much more to work from.  your tape is a good find and sheds more light on the date and reba's history, but not the venue name.
+
+-ks-
+
+Thanks to LawnGirl for the tape used for the transfer.
+Transfered, mastered, edited, and FLAC'd on REBA by Marmar- imthemarmar@stny.rr.com

@@ -1,0 +1,163 @@
+Phish - May 4th, 1990
+Keene Colonial Theater - Keene, NH
+
+
+Recording:
+SBD -> Sony WM-D6C (Maxell XL-IIS 90's) Cassette Master
+
+Transfer:
+Nak CR-3A -> Audigy 2 -> Audition 3.0 -> 16/44.1k -> TLH -> Flac16
+
+
+Taped, transfered and remastered by Tim Leavy
+footbear@msn.com
+August 11th, 2008
+
+
+Notes:
+-- I removed Approx. 25 seconds of dead air between Carolina and Funky Bitch.
+   Paul had pulled down the Masters before the band began playing the tune.
+-- Funky Bitch fades in
+-- Tape flip in Reba is crossfaded and invisible
+-- Tape flip in I Am Hydrogen is crossfaded and very smooth
+-- Shortened/crossfaded the crowd noise between Highway to Hell and Antelope
+-- No NR filters or EQ processing was applied to this transfer. I wanted to
+   keep it as true as possible.
+
+
+Sound Check:
+d1t01 - Carolina
+d1t02 - Funky Bitch
+
+Set 1:
+d1t03 - Whipping Post
+d1t04 - Sweet Adeline
+d1t05 - The Man Who Stepped Into Yesterday >
+d1t06 - Avenu Malkenu >
+d1t07 - Bouncing Around the Room
+d1t08 - Possum
+d1t09 - Metal Bagel Death
+d1t10 - Reba
+d1t11 - My Sweet One
+d1t12 - You Enjoy Myself
+d2t01 - Lizards
+
+Set 2:
+d2t02 - Runaway Jim
+d2t03 - Sloth
+d2t04 - Uncle Pen
+d2t05 - Tweezer
+d2t06 - Bathtub Gin
+d2t07 - Oh Kee Pa Ceremony >
+d2t08 - Mike's Song ->
+d2t09 - I Am Hydrogen ->
+d2t10 - Weekapaug Groove
+d3t01 - Caravan
+d3t02 - If I Only Had a Brain
+d3t03 - Highway to Hell
+
+Encores:
+d3t04 - Run Like an Antelope
+d3t05 - Contact
+
+
+Just for the record; There has been some confusion and debate among people concerning the order
+of these sets because of a comment Trey makes after Whipping Post ("Welcome to the second set, sorry
+we took such a long break..."). It was meant as a joke. At the Keene State College Show prior to this
+one, the band was not allowed to play a second set because of a fire alarm activation due to people smoking
+in the building, which was subsequently closed after the first set. The Fire Marshall was pissed. Having attended both that show and this one, I'm here to tell you quite indisputably That the set/song order listed here is
+correct. Also, Highway to Hell ended the second set. The band left the stage, then came back out and
+played a double encore.
+
+
+SHNTOOL OUTPUT:
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     2:29.67       26441228 B   ---   --   -----    wav  1.0000  ph1990-05-04d1t01.wav
+     3:36.37       38189468 B   ---   --   -----    wav  1.0000  ph1990-05-04d1t02.wav
+     9:53.59      104744012 B   ---   --   -----    wav  1.0000  ph1990-05-04d1t03.wav
+     2:42.38       28666220 B   ---   --   -----    wav  1.0000  ph1990-05-04d1t04.wav
+     3:26.40       36432524 B   ---   --   -----    wav  1.0000  ph1990-05-04d1t05.wav
+     3:14.49       34336892 B   ---   --   -----    wav  1.0000  ph1990-05-04d1t06.wav
+     4:02.52       42811148 B   ---   --   -----    wav  1.0000  ph1990-05-04d1t07.wav
+     9:18.52       98553548 B   ---   --   -----    wav  1.0000  ph1990-05-04d1t08.wav
+     0:40.64        7206572 B   ---   --   -----    wav  1.0000  ph1990-05-04d1t09.wav
+    12:07.35      128325164 B   ---   --   -----    wav  1.0000  ph1990-05-04d1t10.wav
+     2:28.00       26107244 B   ---   --   -----    wav  1.0000  ph1990-05-04d1t11.wav
+    17:01.07      180120908 B   ---   --   -----    wav  1.0000  ph1990-05-04d1t12.wav
+    10:07.25      107133644 B   ---   --   -----    wav  1.0000  ph1990-05-04d2t01.wav
+     6:43.50       71206844 B   ---   --   -----    wav  1.0000  ph1990-05-04d2t02.wav
+     3:54.33       41355260 B   ---   --   -----    wav  1.0000  ph1990-05-04d2t03.wav
+     4:22.00       46216844 B   ---   --   -----    wav  1.0000  ph1990-05-04d2t04.wav
+     9:43.62      102987068 B   ---   --   -----    wav  1.0000  ph1990-05-04d2t05.wav
+     7:16.44       77013932 B   ---   --   -----    wav  1.0000  ph1990-05-04d2t06.wav
+     1:46.00       18698444 B   ---   --   -----    wav  1.0000  ph1990-05-04d2t07.wav
+     7:32.00       79732844 B   ---   --   -----    wav  1.0000  ph1990-05-04d2t08.wav
+     2:16.37       24077468 B   ---   --   -----    wav  1.0000  ph1990-05-04d2t09.wav
+     6:48.66       72126476 B   ---   --   -----    wav  1.0000  ph1990-05-04d2t10.wav
+     7:49.67       82889228 B   ---   --   -----    wav  1.0000  ph1990-05-04d3t01.wav
+     4:04.43       43142780 B   ---   --   -----    wav  1.0000  ph1990-05-04d3t02.wav
+     4:08.04       43756652 B   ---   --   -----    wav  1.0000  ph1990-05-04d3t03.wav
+    11:32.28      122134700 B   ---   --   -----    wav  1.0000  ph1990-05-04d3t04.wav
+     6:57.40       73652924 B   ---   --   -----    wav  1.0000  ph1990-05-04d3t05.wav
+   166:06.24     1758060036 B                            1.0000  (27 files)
+
+
+ffp:
+ph1990-05-04d1t01.flac:43d26db30075b066e40f0cbc1550cef5
+ph1990-05-04d1t02.flac:48e2c07d31c3762357843435c99b1c65
+ph1990-05-04d1t03.flac:7af0b5da358c6cf2588a8a0f77226e70
+ph1990-05-04d1t04.flac:1c52c727058d4fc43d91fddb3483650a
+ph1990-05-04d1t05.flac:7aa9a267842f054cbaebc64b7823b93c
+ph1990-05-04d1t06.flac:ef86c955a1e7aa09d31310734469d68f
+ph1990-05-04d1t07.flac:e8dc9ef2e0a50f9305c08c3c22bdd50c
+ph1990-05-04d1t08.flac:50f615b1c5539767ff5aca8716f56bcd
+ph1990-05-04d1t09.flac:a0156b9d1e6defe45a3f64213dc22d38
+ph1990-05-04d1t10.flac:85bc8a62da3ca381091626ed4554fe72
+ph1990-05-04d1t11.flac:ad2ddc294669293fc8edb17be6af0b6f
+ph1990-05-04d1t12.flac:b5967490672fe86a8128b4364659c62e
+ph1990-05-04d2t01.flac:c6aa9f02843d5be82389ae7a6a23d76a
+ph1990-05-04d2t02.flac:1a7749fdffe78472257de66502ff1370
+ph1990-05-04d2t03.flac:d42e535b1486c7c14b24d599dbf21fd5
+ph1990-05-04d2t04.flac:6b5b648f289022b0679b36bdc6d8c158
+ph1990-05-04d2t05.flac:d37ad932dbdb14bae5200bf202ceddfd
+ph1990-05-04d2t06.flac:668f5ab1da2bd5281a23b1d7f176bcb9
+ph1990-05-04d2t07.flac:eca5672e24144c0db4317b65ed0237a6
+ph1990-05-04d2t08.flac:1350ffa00f6ca46e14a3a8233e372c45
+ph1990-05-04d2t09.flac:a65f8bddea043a98a5f43c7b27cce5c5
+ph1990-05-04d2t10.flac:c7e75b19bc100139b628e90c20615538
+ph1990-05-04d3t01.flac:ca24cd30e7051ccbe6b706e1d68e1633
+ph1990-05-04d3t02.flac:7e530d85be3c5f8d305a5337750cdb98
+ph1990-05-04d3t03.flac:549a950fcdcf9eab63d8174be1ade7a9
+ph1990-05-04d3t04.flac:6f95ef7f77a62aa44b7ca827b1fc61e5
+ph1990-05-04d3t05.flac:5dd82db9b7d5ec3f426a6447205ba17c
+
+
+
+md5 CHECKSUMS:
+874b7ec9b670c148c7edc20adde6f47e *ph1990-05-04d1t01.flac
+bde579939d0df05724522f5805ec4c19 *ph1990-05-04d1t02.flac
+6c70374fc2c7f2d3a7f636619f38150f *ph1990-05-04d1t03.flac
+5c2e8ff0e057ac7bf48078f982e24f76 *ph1990-05-04d1t04.flac
+6c448200f440a4ee31a99ceefe5c0257 *ph1990-05-04d1t05.flac
+a4a6196d9b0f621f0428a494dfb30da6 *ph1990-05-04d1t06.flac
+694e17d4e831be164e9a9ec559ceb9b4 *ph1990-05-04d1t07.flac
+a1d3cb625ac9ed102af28f4459ff553a *ph1990-05-04d1t08.flac
+ed3d2eadfc950e936ddd88155f726628 *ph1990-05-04d1t09.flac
+853ac2c7c5a7ea9b45d654ff77773c09 *ph1990-05-04d1t10.flac
+749d07da32009d0e5701f0b28ae0e8ae *ph1990-05-04d1t11.flac
+0be3cfda11917a1e4b8e80f5a5160870 *ph1990-05-04d1t12.flac
+cf9aac88715b286da86e2361406f7c55 *ph1990-05-04d2t01.flac
+ee27eb15680274b9246b579d9253604e *ph1990-05-04d2t02.flac
+95c8231cab24a38bd422cf9344fc0ebe *ph1990-05-04d2t03.flac
+79c3e654112808605bc6fc62979eaa99 *ph1990-05-04d2t04.flac
+a0537a13a5ae2112417fad49fc70e0a9 *ph1990-05-04d2t05.flac
+020711116da65899c032c7935594b270 *ph1990-05-04d2t06.flac
+21697ecc7d55b9720145d65f12d7eb71 *ph1990-05-04d2t07.flac
+d32aa45e48bd8092883b17a737f561ed *ph1990-05-04d2t08.flac
+efa8d562860fcdc17368960a29011dd8 *ph1990-05-04d2t09.flac
+eb3a78baef10ba31620d15e4abc1c05b *ph1990-05-04d2t10.flac
+423efde8c47bc26aeb4ac574105bfeaa *ph1990-05-04d3t01.flac
+6bfbae9bb09a533c39bf7eff6cc53f64 *ph1990-05-04d3t02.flac
+a82bf4b8a17b7af5a9b0e18dcba514b4 *ph1990-05-04d3t03.flac
+c3f29ceb9f4a8a3403dda6293638ba61 *ph1990-05-04d3t04.flac
+c47e6f99279e24b410ef00c414af911d *ph1990-05-04d3t05.flac

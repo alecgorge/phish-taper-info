@@ -1,0 +1,53 @@
+Phish - 12-7-94
+Spreckles Theatre, San Diego CA
+
+Welcome to my mastercopies of this show.
+I taped them myself,here's my setup:
+13 Ft. Pole; Front Row; Center Right(12-7): Center Left(12-8)
+AKG 460 Cards>10ft XLR's>Power Supply>3 ft XLR's>
+Technics SV 260A>DAT.
+
+Their journey to SHN:
+Technics SV 260A>COAX>WAV>CDWAV>SHN>
+I have used the MKW audio compression tool.
+These SHN files are seekable in your SHNamp.
+Also,I have included the md5 for the wav files.
+Please use it to verify yours.
+Please use the audio file provided when
+trading in the audio fromat.
+
+I hope you enjoy listening to these shows as much as I
+enjoyed taping them.I taped,transferred,and
+compressed these as a set.I request you keep them
+as a set when trading or sharing them.
+
+PEACE  LOVE  AND  PHISH!!!
+Linda Webster
+http://db.etree.org/linda95
+My "Dat Only List" aka My "SHN Only List".
+
+12-7-94
+Disc 1 Set 1
+{1}Peaches en Regallia > (3:21:39),
+{2}Runaway Jim(8:36:74),
+{3}Sloth(3:47:62),
+{4}Yamar(7:54:54),
+{5}Split Open and Melt(11:34:36),
+{6}Guyute(10:02:65),
+{7}Lifeboy(8:18:53),
+{8}Chalkdust(6:47:54).
+TOTAL: 60:24:62
+
+Disc 2 Set 2
+{1}Rift(5:45:25),
+{2}Frankenstein(4:20:10),
+{3}Divided Sky(13:47:27),
+{4}Fee > (5:10:13),
+{5}Julius(9:10:12),
+{6}Blue and Lonesome(2:49:07),
+{7}Long Journey Home(3:21:02),
+{8}Amazing Grace(2:01:73),
+{9}YEM(22:13:45),
+{10}E: Cavern(4:31:72).
+TOTAL: 73:10:61
+

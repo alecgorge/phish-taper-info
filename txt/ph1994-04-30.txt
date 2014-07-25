@@ -1,0 +1,71 @@
+Phish
+04-30-94
+The Edge, Orlando, FL 
+--------------------------------------------------------------------------------------------
+This show is included in the 1994 Phish Project.
+http://94project.webhop.net
+----------------
+
+Set I Source:   [DFOB]
+                AKG 460-> DAT
+
+Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                Soundforge 7 (48KHz->44.1KHz at highest setting [4 of 4],
+                with anti-alias filter)-> CD Wave 1.91-> mkwACT v0.97
+                **No DAE**
+
+Minor Edits:	Fades (in/out at beginning/end of sets and before encore)
+----------------
+Transferred by Dan Marquardt <danmarq@msn.com>, please contact me with questions/comments.
+--------------------------------------------------------------------------------------------
+
+Set II Source:  DSBD>DAT>?>DAT>clone>clone used for transfer
+
+Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                Soundforge 5.0b (48KHz->44.1KHz at highest setting [4 of 4],
+                with anti-alias filter)-> CD Wave 1.62-> mkwACT v0.97
+                **No DAE at all**
+
+Minor Edits:	Fades in/out at cassette flip, as well as the start/end of set.
+----------------
+Transferred by Dan Marquardt <danmarq@msn.com>, please contact me with questions/comments.
+There are also 48KHz shn's of this seed for archival.
+--------------------------------------------------------------------------------------------
+
+CD/Set 1:					51:29
+01. Chalk Dust Torture				06:30
+02. Mound					05:50
+03. Stash					11:06
+04. Poor Heart					02:29
+05. Sample in a Jar				05:10
+06. Punch You in the Eye			07:33
+07. Rift					07:19
+08. Ginseng Sullivan*				03:42
+09. Sweet Adeline*				01:50
+
+CD 1/Set 2 ONLY:			70:26
+01. Wilson->				05:55
+02. Wimoweh Jam				05:02
+03. David Bowie				13:52
+04. Wolfman's Brother			06:22
+05. Peaches en Regalia			03:14
+06. Harry Hood%				11:45
+07. Crowd Noise				00:26
+08. Axilla [Part II]#			03:09
+09. McGrupp				09:01
+10. Possum				11:35
+
+CD 2/Set 2 Cont'd:			19:53
+01. Purple Rain-> HYHU			07:37
+02. Big Black Furry Creature From Mars	06:38
+
+Encore:
+03. Sleeping Monkey			05:37
+04. Highway to Hell (AUD Source)	03:46
+
+Total Running Time				2:27:11
+--------------------------------------------------------------------------------------------
+*Acoustic and without mics.
+%Cassette flip (last few seconds of Hood cut).
+#Possible second cassette flip.
+&Last few seconds of Monkey cut.

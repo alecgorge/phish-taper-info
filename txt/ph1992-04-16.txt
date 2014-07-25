@@ -1,0 +1,92 @@
+Phish
+4/16/1992
+Anaconda Theater, UCSB - Santa Barbara, CA
+
+Source 1: SBD > cass/? > CD (Liberated Bootleg - "Follow Me To Gamehenge")
+Source 2: SBD > cass/1 > Tascam 103 > Event Gina @44.1/32bits > PC
+
+Set 1 (Source 1): CD > .wav > .shn by brett at bmhollander@home.com  11/26/2000
+Pitch corrected, patched and retracked on 3/13/2005 by J. Treworgy (jamie@treworgy.com)
+
+Set 2 (Source 2): Transferred from cassette and mastered by J. Treworgy on 5/6/2005
+
+NOTES: This show has widely circulated as a "liberated bootleg" that sounds very good, 
+but has many speed/pitch problems and cuts. I had a very nice cassette that generally 
+sounds at as good as the bootleg, and is of known lineage. For Set I, the cassette had
+a few analog-related problems so I decided to work with the bootleg as the primary source.
+For Set II, the cassette had very different sonic characteristics. The bootleg for Set II 
+has a lot of reverb added that is not found in my cassette, and basically the cassette just
+sounded better. So I used it as the primary source for Set II and patched the tape flip 
+using the bootleg.
+
+Widespread Panic opened the show
+
+Suggested CD splits:
+
+CD1: Set 1 Tracks 01-06
+CD2: Set 1 Tracks 07-12
+CD3: Set 2 All
+
+Set I [88:42]
+
+01. Buried Alive >
+02. Possum
+03. It's Ice
+04. Bouncing Around the Room
+05. Split Open and Melt
+06. Rift
+07. Fee > 
+08. Maze
+09. Colonel Forbin's Ascent >
+10. Icculus > 
+11. Famous Mockingbird
+12. Run Like an Antelope
+
+Set 2 [76:45]
+
+01. Sanity
+02. Llama
+03. Lizards 
+04. Mike's Song >
+05. I Am Hydrogen >
+06. Weekapaug Groove
+07. Horn
+08. Poor Heart
+09. Cold as Ice >
+10. Terrapin > Cold as Ice
+11. Carolina
+12. Memories
+13. Sweet Adeline
+14. Suzie Greenberg
+
+
+Encore:
+15. Encore Break
+16. Sleeping Monkey
+
+Mastering notes
+
+Set 1:
+
+1) Pitch adjustments:
+  -80 cents Buried Alive->Split
+  -25 cents for Rift
+  -80 cents for Fee
+  -25 cents for Maze 
+  -60 cents for Forbin-Antelope
+2) Restored beginning of Fee  
+3) Patched from last verse of Fee to beginning of Maze (cut on bootleg)
+4) Patched Maze jam (edited on bootleg)
+5) Patched Antelope ending (edited on bootleg)
+
+Set 2:
+
+1) Tape flip between Weekapaug and Horn patched from bootleg source. Pitch corrected patch source 
+(bootleg) -20 cents to match cassette
+
+Editing was done using Adobe Audition 1.5. All files converted to 32 bit before 
+pitch correction. All digital processing done at highest quality settings. Transitions 
+between sources, and between pitch-corrected segments, were crossfaded briefly.
+
+No cassette noise reduction was attempted, nor do I think it's necessary, but I left a few seconds of 
+pure tape hiss at the end of Set 2 in case someone wants to try it in the future.

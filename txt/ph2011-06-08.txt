@@ -1,0 +1,56 @@
+Phish
+06/08/2011
+Darien Lake Performing Arts Center
+Darien Center, NY
+
+**16 bit**
+
+Source: DPA 4023>Sonosax SX-M2>Sound Devices 722 (24/96)
+Config/Location: DIN/LOC 12' stand just to the left of and behind the board on the aisle
+Transfer: 722>Firewire>Macbook>
+Sound Studio 3.6(fades, normalize peak, +gain, track)>
+Wave Editor (iZotope Resampler/MBIT+ Dither)>
+xACT 2.12(align on sector boundaries, encode, tag, fingerprint)>flac16 (level 8 )
+Taped & transferred by: Lenny Stubbe
+
+Set I: (1:27:31)
+
+01. intro
+02. Nellie Kane
+03. Mellow Mood
+04. Buffalo Bill
+05. Kill Devil Falls
+06. Wolfman's Brother
+07. Rift
+08. Undermind
+09. Ride Captain Ride
+10. It's Ice>
+11. Dog Faced Boy
+12. Brian and Robert>
+13. 46 Days
+14. Limb By Limb
+15. Character Zero
+
+Set II: (1:24:23)
+
+01. intro
+02. Golden Age>
+03. Mike's Song>
+04. Fast Enough For You>
+05. Weekapaug Groove
+06. What's The Use?>
+07. Theme From the Bottom>
+08. Backwards Down the Number Line>
+09. 2001>
+10. Harry Hood
+
+11. encore break
+12. Good Times Bad Times
+
+Notes:
+- Golden Age teases in Weekapaug
+- Golden Age, Happy Birthday, and What's The Use teases in 2001
+- There was no OTS this show. Tapers were scattered in single seats in all areas left, right and back of pavilion. 
+
+Seeded to etree on:
+06/09/2011

@@ -1,0 +1,56 @@
+Phish
+March 12, 1993
+Daubson Arena
+Vail, CO
+
+Source: SBD > DAT > Cass/x > ? > CD > EAC > Mastering > FLAC
+Mastering and FLAC by Marmar- imthemarmar@gmail.com
+
+Disc One:
+Set 1-
+01. Buried Alive
+02. Poor Heart
+03. Cavern
+04. Possum
+05. Guelah Papyrus
+06. Rift
+07. Stash/
+08. \Fluffhead
+09. The Horse >
+10. Silent in the Morning
+11. David Bowie
+
+
+Disc Two:
+Set 2-
+01. Crowd
+02. AC/DC Bag
+03. My Friend My Friend
+04. Sparkle
+05. YEM
+06. Mound
+07. Big Ball Jam/ 
+08. \Chalkdust Torture
+09. HYHU > 
+10. Lengthwise > HYHU
+11. Harry Hood
+12. Golgi Apparatus/
+
+Disc 3:
+Encores:
+01. \"Eric the Viking"
+02. Sweet Adeline
+03. Carolina
+04. Rocky Top**
+
+*According to most setlists, Axilla was played between My Friend and Sparkle. There is no break between songs, so it was either slickly edited out or not played at all.
+
+** The Rocky Top comes from an AUD patch from eee.
+
+@Mastering@
+First the files were constructed back into full sets. The / and \ indicates a place where there was a tape flip while this was in the analog realm. The flips in the first set were not missing any music, so the crowd noise was crossfaded. The flip in the second set does cut the start of Chalkdust. This cut was crossfaded, avoiding as much musical loss as possible without a jarring transition. 
+
+The show was off pitch and sped up. This was corrected in wavelab using the Time Stretch feature (High Quality, Pitch corrected, Audio was not set to quantize) before the actual sound processing began:
+
+Waves Q10 Input= -3db, HF Shelf +4db @ 1000Hz/Q=7, Output= -4db > Waves RBass +1db @ 50Hz > BBE 0/1.5/0 > Waves L3 MultiMaximizer 16bit/Type 1/Normal
+

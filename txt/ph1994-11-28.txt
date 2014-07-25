@@ -1,0 +1,47 @@
+Phish
+11-28-94
+Field House at Montana State University, Bozeman, MT 
+--------------------------------------------------------------------------------------------
+This show is included in the 1994 Phish Project.
+http://people.atl.mediaone.net/danmarq/1994_phish_project.html
+----------------
+
+Source:         Coresound Binurals>DAT>clone>clone used for transfer
+
+Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                Soundforge 5.0b (48KHz->44.1KHz at highest setting [4 of 4],
+                with anti-alias filter)-> CD Wave 1.62-> mkwACT v0.97
+                **No DAE at all**
+
+Minor Edits:	Fades in/out at the start/end of set.
+----------------
+Transferred by Dan Marquardt <danmarq@msn.com>, please contact me with questions/comments.
+There are also 48KHz shn's of this seed for archival.
+--------------------------------------------------------------------------------------------
+
+CD/Set 1 (Part):	42:56
+01. %Scent of a Mule	08:01
+Stash#
+02. Guyute		09:40
+03. Sparkle		03:35
+04. Simple*		07:25
+05. The Divided Sky	14:13
+Sweet Adeline#
+
+CD/Set 2: (80min CD)	75:44
+01. Suzy Greenberg >	05:35
+02. NICU		05:10
+03. Tweezer		44:01
+04. Sleeping Monkey	05:21
+05. Julius		07:08
+
+Encore:
+06. Fee			05:11
+07. Tweezer Reprise	03:16
+
+--------------------------------------------------------------------------------------------
+
+Not on DAT: Chalk Dust Torture, Also Sprach Zarathustra (Set 1)
+%The start is cut.
+#Not on DAT.
+*With Cameron McKinney on saxophone.

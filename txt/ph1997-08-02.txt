@@ -1,0 +1,46 @@
+Phish
+August 2, 1997
+The Gorge
+George, WA
+
+source:
+(FOB) Neumann km140 > Sonosax SX-M2 > Tascam DA-P1 (@ 48 kHz)
+
+transfer:
+Sony PCM-R500 > Tascam HD-P2 > CF card > usb > pc > WaveLab 5.01b (fades, resample to 44.1 kHz) > CD Wave v1.95 > FLAC v1.1.2 (Level 8)
+
+recorded by Jim Cowan
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded November 18, 2006
+
+note:
+Clones from the master DATs were used in this transfer.
+The original 48 kHz files from the DAT transfer have been archived and are available upon request.
+Thanks to Jim for making a great recording, and thanks to Dave Flaschner for letting me borrow the DATs.
+
+Disc 1 - [72:16]
+Set I
+01 - [11:26] - Theme From the Bottom
+02 - [03:55] - Ginseng Sullivan
+03 - [18:08] - Ghost
+04 - [04:27] - Dogs Stole Things
+05 - [15:51] - The Divided Sky
+06 - [18:28] - Wolfman's Brother
+
+Disc 2 - [64:41]
+Set I continued
+01 - [03:49] - Water in the Sky
+02 - [15:02] - Split Open and Melt
+Set II
+03 - [17:05] - Down with Disease ->
+04 - [18:46] - Tweezer ->
+05 - [06:00] - Johnny B. Goode >
+06 - [03:59] - Sparkle
+
+Disc 3 - [38:41]
+Set II continued
+01 - [07:42] - Wading in the Velvet Sea
+02 - [07:28] - Loving Cup >
+03 - [03:30] - Tweezer Reprise
+04 - [02:07] - encore break
+05 - [17:53] - Harry Hood

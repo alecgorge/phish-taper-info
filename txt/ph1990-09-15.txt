@@ -1,0 +1,59 @@
+PHiSH 1990-09-15
+Colonial Theater - Keene, NH
+
+NAK300s > Sony D-10 > metal tape > TDK hi-bias tape > mixed on a Trident board w/EQ to a G4 Mac using Logic Audio > 
+splice edit beginning of YEM (first 2:16 from 6-16-90) > tracking, stereo spread and intelligent tape hiss reduction using Waveburner Pro > Waveburner Pro master disc image > Master CDR
+
+CD > EAC[secure] > WAV > FLAC16
+
+
+CD > FLAC transfer by mbalch
+http://db.etree.org/car
+
+Seeded to the SHNfamily Phish Project 6/13/04
+http://db.etree.org/SHNfamily
+http://www.SHNshare.org
+
+
+Disc 1 [68:25]
+::set 1::
+01 Buried Alive >			[02:38]
+02 The Divided Sky			[14:04]
+03 Paul and Silas			[04:37]
+04 The Landlady				[04:54]
+05 Fee					[05:32]
+06 Tube					[03:28]
+07 The Oh Kee Pa Ceremony >		[01:47]
+08 AC/DC Bag				[07:52]
+09 The Asse Festival			[02:55]
+10 David Bowie				[15:31]
+11 Golgi Apparatus			[05:07]
+
+Disc 2 [79:43]
+::set 1 cont::
+01 Stash				[09:45]
+02 Magilla				[06:39]
+03 The Squirming Coil			[05:48]
+::set 2::
+04 Split Open and Melt			[10:44]
+05 Eliza*				[01:35]
+06 My Sweet One				[02:44]
+07 Bathtub Gin				[07:56]
+08 Foam					[10:16]
+
+Disc 3 [53:59]
+::set 2 cont::
+01 Minute by Minute			[08:02]
+02 Harry Hood 				[12:04]
+03 Possum				[11:25]
+::encore::
+04 Communication Breakdown		[05:37]
+05 You Enjoy Myself**			[16:51]
+
+* first time played
+** first 2:16 spliced in from 6/16/90
+
+note:			
+not the greatest sounding source, but it is almost complete and is quite listenable
+
+

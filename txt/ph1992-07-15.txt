@@ -1,0 +1,54 @@
+DISC INFO
+
+Phish
+
+07/15/92 - Trax; Charlottesville, VA (3 CDs)
+
+-----------------------------------
+DISC ONE:                   [73:40]
+-----------------------------------
+    SET I:
+01. Glide                   [04:21]
+02. Oh Kee Pa Ceremony >    [01:44]
+03. Suzie Greenberg         [05:07]
+04. Foam                    [08:08]
+05. My Friend My Friend     [06:53]
+06. Uncle Pen               [04:07]
+07. Split Open And Melt     [09:10]
+08. The Horse >             [01:14]
+09. Silent In The Morning   [05:22]
+10. Chalkdust Torture       [06:20]
+11. Lizards                 [09:54]
+12. Run Like An Antelope    [11:20]
+-----------------------------------
+DISC TWO:                   [67:41]
+-----------------------------------
+    SET II:
+01. The Sloth               [04:36]
+02. Divided Sky             [12:30]
+03. Esther                  [09:11]
+04. My Sweet One            [02:37]
+05. Stash                   [09:50]
+06. McGrupp And The 
+    Watchful Hosemasters >  [08:50]
+07. All Things Reconsidered [02:53]
+08. Harry Hood              [12:26]
+09. Golgi Apparatus         [04:48]
+-----------------------------------
+DISC THREE:                 [16:50]
+-----------------------------------
+    ENCORE:
+01. Possum > Vaccum > Possum[16:50]
+-----------------------------------
+
+SOURCE:
+
+Soundboard > CAS0 > DAT (48k).
+
+DAT>CD conversion by Dave Pecoraro (davepeck79@home.com):
+
+Tascam DA-P1 > Turtle Beach Montego II > Sound Forge 4.5  
+(resample 48k > 44.1k, Interpolation accuracy 4, with 
+ anti-alias filtering) > CDWave > SHN
+
+Enjoy!

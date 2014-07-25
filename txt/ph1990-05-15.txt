@@ -1,0 +1,80 @@
+Phish
+5/15/90
+McKewen Quad
+Hamilton College
+Clinton, NY
+
+Set I SOURCE: SBD>Cass1
+TRANSFER: SBD Cass/1 (Maxell XLII-S 90 min)> Sony TC-WE805S > Art DI/O (48Khz, Input gain +16dB, No "Tube Warmth")> Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)
+
+PATCH SOURCE: SBD>CassX
+TRANSFER: Sony TC-KA3ES>DSP24(24/48kHz)>Wavelab
+Thanks to Todd Ahrens for the source tape!
+
+Cass1 transfer by: Weave - Weave@furthurnet.org on 10/5/2003
+CassX transfer by: Marmar- imthemarmar@gmail.com 
+
+Editing, mastering, and FLAC16 by: Marmar
+----------------------------------------------
+Set II Taper: Owen Dodge
+Source: Unknown boombox placed on stage
+Transfer: Cass2>?>FLAC
+
+Source files via Chris Bailey/Rob Livingston
+Seeded by Terry Larkin on 07/17/10
+----------------------------------------------
+
+-DISC 1-
+Soundcheck:
+//Sweet Adeline
+Beer Corral
+Funky Bitch
+
+Fee
+Reba*
+Alumni Blues > Letter to Jimmy Page > Alumni Blues
+Foam
+Mike's Song->*
+I Am Hydrogen->
+Weekapaug Groove/*
+-DISC 2-
+/Rain Delay
+Uncle Pen
+Bouncing Around the Room
+Split Open and Melt
+Runaway Jim
+
+Show Notes:
+- Outdoor show. Cut short due to rain.
+- Funky Bitch contains alternate lyrics.
+- * these tracks contain patches with a CassX SBD...there is substantial hiss durring these portions, but it does make the show more complete than previously.
+
+Set II-
+ 
+/Take the A Train
+Tweezer
+Harry Hood
+Caravan
+The Divided Sky
+David Bowie
+Contact
+
+
+Show/Set II story via Rob Livingston:
+
+"Anyway, as we arrived for soundcheck, there were about 10 of us hanging out under overcast skies. 
+Marley was running around and it was a great vibe. When the show started, 
+it started raining lightly which became steadier throughout the set. 
+Trey seemed to be playing the storm as the peaks occurred as the rain became sheets. 
+The crowd grew throughout the set but to no larger than 50-60 people. 
+Then came the thunder and a few shots of lightning. When it got to be its worst, 
+Trey announced that due to the storm, they would be unable to finish the show." 
+
+"While all were bummed (and most tripping), we understand and went back to our rooms to plan alternate activities. 
+After about 30 minutes, word of mouth spread that they had agreed to play a second set in the Co-op lounge. 
+All their equipment was packed away so they agree to use the gear of our campus cover band "Pi". 
+When I arrived at the co-op there were about 10 of us and the set had just started. 
+This was an extremely tight room (similar to the size of Nectar's upstairs). 
+Probably another 30 people or so were able to cram in with the overflow listening outside. 
+Pizza was ordered and a keg bought and brought in and the show continued to conclusion. It was amazing."
+

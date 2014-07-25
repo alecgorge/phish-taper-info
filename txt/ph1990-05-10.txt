@@ -1,0 +1,50 @@
+PHiSH - 5/10/90
+Pearl St - Northampton, MA
+
+SOURCE SBD > Nak CR-3A
+
+SBD MCass (Maxell XLII-S 90min)> Sony TC-WE805S > 
+Art DI/O (48Khz, Input gain +~14dB, No "Tube Warmth")> 
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)
+(transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 09/27/2003)
+
+Mastering Notes:
+The 24/48 FLACs were converted to .WAV with FLAC v1.1.0 and loaded into Steinberg's WaveLab.  The first step was to correct some anomolies in the original recording.  There were small volume reductions in the left channel (a dirty spot on a record head maybe?) for all of Suzy Greenberg & Uncle Penn.  After several approaches I decided to create a dual-mono mix of the right channel.  There was another noteable change towards the front of Bouncin' and into the quiet section of Divided Sky.  The tonal change was compensated for w/ the BBE Sonic Maximizer, with the settings @ 2 for Lo Contour and 3 for Process.  The next step was to use Waves X-Noise on each seperate file and render each seperately.  The files were loaded into Wavelab's Audio Montage, crossfades were performed at each tape flip and the following mastering processes were applied: Waves 2-band EQ, high pass @ 40Hz, Blue Tubes FA770 compressor, BBE Sonic Maximizer (Lo Contour = 3, Process = 3), Blue Tubes LM2S limiter.  The resulting .WAV was tracked in CD-WAV and converted to SHNv3 (seek tables appended).
+
+All mastering/edits performed @ Bunker 8 Digital Labs by Dr. Shakedown and Sigmund Droid
+shakedown@furthurnet.org
+
+
+DISC ONE
+set I:
+01. intro/tuning
+02. Suzy Greenberg
+03. Uncle Penn
+04. Bouncin'
+05. Divided Sky
+06. Tweezer
+07. My Sweet One//
+08. //Bathtub Gin
+09. Possum
+set II:
+10. tuning/mic checks
+11. Funky Bitch
+12. Runaway Jim
+
+DISC TWO
+set II(cont):
+01. Harry Hood
+02. //Caravan
+03. Reba
+04. Oh Kee Pa>
+05. AC/DC Bag
+06. Good Times Bad Times
+encore: 
+07. "Henrietta"
+08. Whipping Post
+
+Notes:
+NO tracking/editing/alterations performed before archiving to 24-bit FLAC
+(except to trim silence from the ends).
+
+Seeded to FurthurNet (www.furthurnet.org) by Shakedown

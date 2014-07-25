@@ -1,0 +1,27 @@
+Phish  
+03-12-88  
+Nectar's - Burlington, VT  
+"Story Time at Nectar's" - first live Gamehendge narration   
+
+SBD > Cass/0 > DAT > CDR > EAC > SF4.5 pitch shift > SHN>WAV>Final Cut Pro for pitch correction>SHN   
+Second pitch correction by Hunter Seamons   Thanks to Ben Mohr for the seed!   ---------------- 
+
+Disc 1  
+1. Jump Monk (6:55) 
+2. McGrupp and the Watchful Hosemasters > (8:48) 
+3. Lizards > (11:01) 
+4. Tela > (8:02) 
+5. Wilson > (6:37) 
+6. AC/DC Bag > (6:19) 
+7. Colonel Forbin's Ascent > (6:48) 
+8. Famous Mockingbird > (7:20) 
+9. The Sloth > (4:27) 
+10. Possum (7:28) 
+-------------------------------------------- 
+Disc 2  
+01. Run Like an Antelope (8:48)   
+
+PREVIOUS SEEDER NOTES:  *This recording is by no means perfect, though the sound quality is really good, but I haven't heard anything else so until I can uncover something better, this is all I have.  Notes: -t04 3:27-3:34 level fluctuations  -t05 1:53-1:54 level fluctuations  -t06 diginoise at very beginning  -t07 some minor skipping  -t08 recording problems at end during banter (not narration) -t09 recording cuts at 8:21 - on all copies that I have seen  -During very quiet sections, it seems that background music can be heard --  either there was music in the background at the show or the taper did  not use a new tape, so there was bleeding from a previous recording.  Who knows, maybe there is a lost recording underneath this show. :-)   Fixes:  -Applied SF4.5 Pitch Shift at a setting of -80 cents to all tracks to    compensate for the sped up recording.  -Retracked entire show so the beginning of the music starts at the beginning    of each track.   NEW NOTES by Hunter Seamons  Even after the first pitch correction by Ben Mohr, the pitch was still noticeably off. Pitch was subsequently reduced by 5%. Due to slight length increase, two discs must now be used :(. Enjoy this classic and beautiful show! Good quality SBD.    
+
+
+74900f81cc80aa917a6259d8d0b465fe *ph88-03-12d1t01.shn 727080dad590d89485f95fab4e8490c7 *ph88-03-12d1t02.shn 58bd3f871e932a6455800da5255e94e3 *ph88-03-12d1t03.shn 3072400d3231007a3a569bf45cbdd648 *ph88-03-12d1t04.shn 35325d409f814161ad7131d6ae15f8cf *ph88-03-12d1t05.shn 1311c859dcbb8043e99e14e20568253b *ph88-03-12d1t06.shn 350032785a3c27b6725da802327c0523 *ph88-03-12d1t07.shn 1ce404752d7e0960d0fbbd694a6469f0 *ph88-03-12d1t08.shn 2cee0c5d87aef3783ef371b8e56fb078 *ph88-03-12d1t09.shn 8a1a58b410405aeb0a4a138074b0ca42 *ph88-03-12d1t10.shn 658fc68078da9e114207db06664647c1 *ph88-03-12d2t01.shn 

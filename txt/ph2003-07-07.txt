@@ -1,0 +1,38 @@
+Phish
+2003-07-07
+Cricket Pavilion
+
+Source: DPA 4022s (DFCTS/DIN)>Lunatec V3>Benchmark 2402 (@24/96)>RME Multiset>Vaio>WaveLab 4.0>.wav
+Taper: Phil Lucks (lucks@sonicsense.com)
+Transfer: WaveLab 4.0>UV22HR>Dither to 16bit/44.1kHz>wav>CDWAve>wav>FLAC
+Transferer: Phil Lucks
+
+
+Set 1
+Disk 1:					74:36
+1:  Stash				11:45
+2:  Sample in a Jar			05:43
+3:  Billy Breathes			05:05
+4:  Waves				10:39
+5:  Spices				08:25
+6:  Anything But Me			06:22
+7:  David Bowie				12:03
+8:  Dirt				05:18
+9:  Possum				09:11
+
+Set 2
+Disk 2:					76:36
+1:  Birds of a Feather			09:09
+2:  Wolfman's Brother>			13:58
+3:  Scents & Sublte Sounds		11:18
+4:  TMWSIY>				03:56
+5:  Avenu Malkenu >			03:14
+6:  Walls of the Cave>			15:35
+7:  Prince Caspian			09:47
+8:  crowd				02:05
+9:  E: Character 0			07:32
+
+
+Notes
+-Fades added to beginning and end of sets
+-Resampled from 24bit/96kHz to 16bit/44.1kHz

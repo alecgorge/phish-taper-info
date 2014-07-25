@@ -1,0 +1,47 @@
+PHiSH
+6-29-2010
+CMAC Performing Arts Center
+Canandaigua, NY
+
+
+Field: Sennheiser MD441U > Edirol R4Pro ( Oade preamp mod ) @ 24/88.2
+config: pointed slightly outside PA array, OTS,  1 seat left of center aisle, 13 feet high.
+
+Path: R4Pro > WaveBurner ( track, fade, SRC, BRC ) > xACT ( to flac, tagging and checksums )
+
+Recorded, processed and let loose by Mike Kutik ( padelimike at mac dot com )
+
+Set the First:
+01 crowd in
+02 The Connection
+03 Down With Disease >
+04 Sample in a Jar
+05 Ocelot
+06 Reba
+07 Horn
+08 Funky Bitch
+09 Undermind
+10 The Ballad of Curtis Loew
+=========================     disc break (apply fade tracks)
+11 David Bowie
+12 we'll be back
+
+Set the Second:
+01 lights out
+02 Oh! Possum
+03 Mike's Song >
+04 Simple >
+05 I am the Walrus >
+06 Weekapaug Groove >
+07 Limb By Limb >
+08 Joy
+========================== disc break (apply fade tracks)
+09 Harry Hood >
+10 Golgi Apparatus
+11 encore break
+
+12 First Tube
+13 crowd out
+
+
+Special thanks to the CMAC venue supervisor who reaLLy came through for the intrepid OTS-ers ! His involvement moved us all up 20 rows to seats just behind the FOH position.

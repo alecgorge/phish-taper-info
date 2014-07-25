@@ -1,0 +1,55 @@
+PHiSH
+11-30-94
+Campus Rec. Center at Evergreen College - Olympia, WA 
+
+Set I Source: Schoeps CMC521 > Sonosax > Sony D10
+Conversion: Sony R300 > optical SPDIF > Zoltrix Nightingale @ 48 kHz > CD Wave > Sound Forge 4.5g (resampled at highest quality setting w/ anti-alias filter, then normalized to 0.0 peak value) > CD Wave > mkwACT 0.97 w/ seeking.  Transferred, edited and seeded by Rob Garland (rob@allstarupgrades.com).  See editing notes at bottom.
+
+Set II Source: unknown sbd
+
+Disc One - Set I [68:52]               
+===================================================
+ 01. Frankenstein                         - (04:57)
+ 02. Poor Heart                           - (02:14)
+ 03. My Friend My Friend                  - (08:21)
+ 04. Reba                                 - (13:03)
+ 05. Colonel Forbin's Ascent>VOL>Forbin-> - (12:38)
+ 06. Famous Mockingbird                   - (06:08)   
+ 07. Down With Disease                    - (10:01)
+ 08. Bouncing Around the Room             - (05:42)
+ 09. I'm Blue I'm Lonesome*               - (02:55)
+ 10. Long Journey Home*                   - (02:49)
+
+Disc Two - Set II+E [73:39]
+===================================================
+1. Crowd
+2. Halley's Comet-> 
+3. Run Like an Antelope-> 
+4. My Sweet One-> 
+5. Run Like an Antelope**-> 
+6. Fixin' To Die-> 
+7. Ya Mar-> 
+8. Mike's Song-> 
+9. Catapult-> 
+10. McGrupp and the Watchful Hosemasters->
+11. Cavern 
+
+12. E: The Horse-> Silent in the Morning
+13.    Amazing Grace 
+
+* Acoustic
+** Unfinished
+*** no mics
+
+EDITING NOTES
+========================
+The following edits were performed using Sound Forge 4.5g:
+ 1. Resampled to 44.1 kHz at the best quality setting.  Anti-alias filter was applied to minimize noise.
+ 2. Normalized to 0.0 db peak value with anti-alias filter applied.
+ 3. Removed a dropout which occurs during the crowd noise at the end of d1t6
+ 4. Removed a dropout which occured during the crowd noise at the end of d1t8; five second cross-fade was applied to mask volume change.
+ 5. Boosted volume of d2t12 (acapella, no mics).  Before the edit this track could barely be heard even at high volumes.  I applied fades at the beginning and end to minimize the effect of the volume changes.  
+
+Known flaw: d2t03 (MSO) has a brief "blip" at 1:16.  
+
+Unedited versions of tracks d1t6, d1t8, & d2t12 are included for purists, but I believe the edited tracks are preferable for optimum listening pleasure and to maintain the live experience.  Every effort was made to make the edits unnoticable to the listener.  I believe I succeeded in this goal, but you can be the judge of that yourself!

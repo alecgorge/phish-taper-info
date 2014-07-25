@@ -1,0 +1,54 @@
+Phish
+May 16, 1992
+The Orpheum Theater
+Boston, MA
+
+source 1(set1/set2 thru Runaway Jim): SBD->denon dtr-80p(dat)->sonyd5 (cass0)
+source 1 transfer: cass0-> Apogee AD-1000-> Echo MIA-> SF7.0-> CDWave -> flac
+transfer by krunchy (aka crunchy)
+source 2(It's Ice thru Encore): SBD > Cass/x
+source 2 transfer: Yamaha KX-R470 > DSP24 > Wavelab > flac
+transfer by marmar
+
+Edits, mastering, and FLAC16 by: Marmar- imthemarmar@gmail.com
+Thanks to Todd Ahrens for the SBD source2 tape!
+
+DISC 1:
+1. Maze
+2. Foam
+3. Glide
+4. Split Open and Melt
+5. Bouncing Around the Room
+6. My Sweet One
+7. Horn
+8. Golgi Apparatus
+9. Lizards
+10. Cavern >
+
+DISC 2:
+1. David Bowie
+set 2:
+2. Runaway Jim
+3. It's Ice
+4. Paul and Silas
+5. Tweezer
+6. Squirming Coil
+
+DISC 3:
+1. You Enjoy Myself 
+2. The Horse->
+3. Silent in the Morning
+4. Oh Kee Pa Ceremony->
+5. AC/DC Bag->
+6. Cold as Ice->
+7. Cracklin' Rosie->
+8. HYHU
+9. Poor Heart
+10. Tweezer Reprise
+encores:
+11. Sweet Adeline (AUD)
+12. Suzy Greenberg 
+
+Tech Note:
+- The SBD for set 2 had a flip in almost the same place as the AUD source. The AUD source was used as it was missing less music. There is another one later in YEM that was patched with the AUD source.
+- Sweet Adeline is from the AUD source.

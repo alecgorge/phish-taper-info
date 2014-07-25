@@ -1,0 +1,66 @@
+Phish
+October 12, 1991
+Roseland Theater
+Portland, OR
+
+source:
+soundboard > Nakamichi BX-300 > Cass/1 > Nakamichi DR-1 > Sony PCM-R500 (w/ SBM-1 at 48 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > r8brain v1.9 (resample to 44.1 kHz) > Samplitude SE v9.1.1 (fades, tracking) > FLAC v1.2.1 (Level 8)
+
+FLAC tags added with metaflac v1.2.1
+
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded March 20, 2008
+
+notes:
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+These DATs were sent to me by Brett Stone, who received his DAT clones from Clay Ellwood in Feb. 1999.
+Big thanks to Brett for sending me his DATs to transfer!
+
+Disc 1 - [73:06]
+Set I
+01 - [01:58] - Buried Alive >
+02 - [07:58] - Possum
+03 - [08:06] - Foam
+04 - [02:18] - My Sweet One
+05 - [08:34] - Stash
+06 - [09:51] - Esther
+07 - [11:52] - The Divided Sky
+08 - [05:45] - Guelah Papyrus
+09 - [16:44] - You Enjoy Myself
+
+Disc 2 - [53:36]
+Set II
+01 - [09:05] - Tweezer
+02 - [04:10] - Uncle Pen
+03 - [14:10] - Fluffhead
+04 - [06:00] - Chalk Dust Torture
+05 - [05:54] - Take the A-Train
+06 - [03:37] - Dinner and a Movie
+07 - [04:33] - Brother
+08 - [01:41] - HYHU >
+09 - [03:25] - If I Only Had a Brain * >
+10 - [01:01] - HYHU *
+
+Disc 3 - [33:41]
+Set II continued
+01 - [10:36] - Harry Hood *
+02 - [03:00] - Tweezer Reprise *
+03 - [01:41] - encore break #1
+04 - [02:29] - Lawn Boy *
+05 - [02:44] - Rocky Top *
+06 - [01:40] - encore break #2
+07 - [06:06] - Contact
+08 - [04:38] - Golgi Apparatus
+09 - [00:48] - outro
+
+notes:
+* with by Artis the Spoonman
+
+tech notes:
+A short portion of the beginning of each set is cut (Buried Alive and Tweezer)
+tape flip cuts at the following spots:
+The Divided Sky at [07:53]
+Brother at [03:48]

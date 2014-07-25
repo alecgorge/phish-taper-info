@@ -1,0 +1,41 @@
+Phish
+Times Union Center
+Albany, NY
+2009-11-28
+
+Source: Microtech Gefell M210's(DIN)>Audio Magic Hyper-Conductors>Edirol R-4(Oade T mod) @ 24/96
+
+Mic Placement: OTS, center
+
+Transfer: R-4>USB>pc>Sound Forge 7(track, resample and dither to 16/44.1)> Flac Frontend 1.7.1
+
+Taped and Transferred by Jason Adler Jason at Galactic-Trading dotcom
+
+
+Set One
+
+01. Party Time
+02. Stealing Time From The Faulty Plan
+03. Uncle Pen
+04. Sanity
+05. Foam
+06. Walk Away
+07. NICU
+08. Alaska
+09. Split Open and Melt
+10. Joy
+11. Vultures
+12. Backwards Down the Number Line
+
+Set Two
+
+01. Seven Below >
+02. Ghost
+03. Cool It Down >
+04. Gotta Jibboo
+05. Let Me Lie
+06. Wolfman's Brother
+07. Julius
+08. encore break
+09. You Enjoy Myself
+

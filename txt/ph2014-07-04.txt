@@ -1,0 +1,42 @@
+Phish
+07/04/2014
+Saratoga Springs, New York  Saratoga Performing Arts Center
+
+Source: Schoeps m934c > M221B > PS > Aeta 4MinX (@24bit/96kHz)
+Location: DFC, 6' Stand, Section 8, Row GG, Seat 14, Cardioid/DIN/32cm
+
+Transfer: SDHC > Samplitude SE 9.1.1(dither/resample) > CDWave > flac(16/44.1)
+Taped & Seeded by: taylorc (07/05/2014)
+
+
+Set I
+t01 [01:13] Intro
+t02 [02:15] The Star Spangeled Banner
+t03 [06:55] 555
+t04 [08:16] Kill Devil Falls
+t05 [07:14] The Moma Dance
+t06 [14:01] Reba
+t07 [05:26] Waiting All Night
+t08 [08:05] Runaway Jim
+t09 [06:30] 46 Days
+t10 [06:27] Rift
+t11 [11:34] Split Open and Melt
+t12 [09:22] The Squirming Coil
+
+Set II
+t13 [00:48] Intro
+t14 [19:30] Fuego >
+t15 [13:57] Down with Disease >
+t16 [08:52] Twist >
+t17 [11:47] Light >
+t18 [07:36] Theme From the Bottom
+t19 [08:26] Backwards Down the Number Line
+t20 [08:07] First Tube
+t21 [02:02] crowd
+
+Encore
+t22 [05:53] Character Zero
+
+
+Notes:
+Set I [1:27:24] Set II [1:21:09] Encore [5:53]

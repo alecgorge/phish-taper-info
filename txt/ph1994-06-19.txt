@@ -1,0 +1,70 @@
+Phish
+06-19-94
+State Theater
+Kalamazoo, MI
+
+Source: DAUD/OTS>AKG 460b ck61>AKG B-18 Phantom Power>Sony D-10
+Pro II(@48kHz)
+
+Transfer: Master Dat from D-10>Sony DTC-690>Audioquest
+Optilink 1>SEK'D Prodif Plus>Samplitude v5.5>Soundforge xp
+4.5 (resample @ 4/4 with anti alias filter)>Cdwav 1.6>
+Mkw act 0.97b1
+
+
+Edits: Five second fade in/out of sets. 
+
+Notes: Disc Two, Tracks 7 was performed acoustic with no 
+amplification and thus is very hard to hear. You will have to
+turn up the volume. 
+
+Taped by: Jeff Jordan
+Transfered by: Chris "sparki" Ace .
+
+Big thanks to Jeff and Lauren Jordan for sending me the dats for transfer.
+
+48k archive shns available.
+
+___________________________________________________________________________
+
+*Dankseed Certification received 2002-03-11*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph1994-06-19
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________
+
+
+Disc 1 / Set I [64:08] 
+1. Crowd/Tuning [00:39]
+2. Suzie Greenburg [06:02]
+3. Julius [07:12]
+4. Lizards [10:45]
+5. Axilla II [03:42]
+6. The Curtain [06:04]
+7. Fast Enough For You [05:51]
+8. Scent Of A Mule [07:20]
+9. Stash [11:57]
+10. Golgi Apparatus [04:46]
+
+Disc 2 / Set II [70:24]
+1. Faht [03:33]
+2. Run Like An Antelope [13:55]
+3. If I Could [06:05]
+4. Reba [13:35]
+5. Makisupa Policeman [08:30]
+6. Squirming Coil [11:20]
+7. My Sweet One * [02:30]
+8. Highway To Hell [03:37]
+9. Encore Break/Crowd [02:51]
+10. Freebird [04:28]
+
+* Acoustic/No Amplification 

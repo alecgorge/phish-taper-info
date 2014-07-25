@@ -1,0 +1,53 @@
+Phish 4/14/89 Chez Pierre (Base Lodge), Johnson State College 
+- Johnston, VT  Source: SBD > D6 (Cass/0) > DAT(x3) 
+
+Transfered: Tascam DA20 mkII > ZA2 > SF4.5 > CDWav > SHN  
+
+Transfer by Jimmy Sellers (pjimmy@delanet.com) 
+
+Fixes by Ben Mohr (bmohr@udel.edu)  !!BOTH DISCS TRACKED FOR AND FIT ON 80min CD'S!!  
+
+-----------------------------------  
+Disc 1:                 (75:02) 
+----------------------------------- 
+-Soundcheck- 
+1. Time Loves a Hero     (06:56) 
+-Set 1- 
+2. AC/DC Bag ->          (05:35) 
+3. Foam                  (08:19) 
+4. Walk Away             (04:38) 
+5. Fluffhead             (14:24) 
+6. Fee                   (05:18) 
+7. Haleys Comet ->       (05:26) 
+8. Run Like an Antelope  (10:37) 
+9. Contact               (07:35) 
+10. Fire                 (06:14)  
+----------------------------------  
+Disc 2:                 (75:23) 
+---------------------------------- 
+-Set 2- 
+1. You Enjoy Myself      (16:26) 
+2. Bold as Love          (05:19) 
+3. Lizards               (10:15) 
+4. Sloth                 (04:03) 
+5. Possum                (09:31) 
+6. If I Only Had a Brain (03:17) 
+7. Mike's Song ->        (06:56) 
+8. I Am Hydrogen >       (02:38) 
+9. Weekapaug Groove      (07:12) 
+10. Esther               (09:47)  
+
+Notes: 
+-d1t01 minor subtle static 1:49-1:54 
+-d1t02 minor channel problems up to 0:40 (sound quality increases afterwards) 
+-d1t02 channel volume discrepency 2:05 
+
+-Tape flips    
+-between d1t05/d1t06    
+-d2t05 8:33 (44:36)  
+
+Fixes: 
+-Removed dropout d1t02 0:23.616 (0.011 sec) 
+-Removed dropout d1t03 7:56.358 (0.008 sec) 
+-Fixed variety of minor L/R channel problems (all <0.100 sec) 
+-Normalized each set to 98%

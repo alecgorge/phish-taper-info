@@ -1,0 +1,68 @@
+PHiSH
+3-1-91 Set 2 SBD
+Georgia Theatre
+Athens,GA
+
+Set I Source:
+cass SBD > HHB > CD > FLAC
+-----
+Set II Source:
+SBD>Uknown cass. gen>CDR>CE-P2>CDWAV>FLAC
+Transfer:SonyES7 Cassette Deck>Tascam CDRW4U>CE-P2>CDWAV>FLACw/SB aligned
+
+Disc 1: 
+
+Soundcheck
+1. Sweet Adeline (cut into, and restarted)
+2. Funky Bitch (brief)
+3. Llama (has a cut)
+
+Set One
+4. Wilson >
+5. Foam
+6. Divided Sky*
+7. Cavern
+8. Squirming Coil... (CUTS)
+9. ...Tweezer (fade into it; missing opening)
+10. Dinner and a Movie >
+11. Bouncin'
+12. Buried Alive >
+
+Disc 2
+Set One continued
+
+01. Mike's Song >
+02. I Am Hydrogen >
+03. Weekapaug Groove (small cut)
+
+04. Filler: 9/24/88-2 David Bowie (CUTS)
+
+Set 2:(73:08)
+1.Golgi
+2.Landlady
+3.Reba
+4.Llama
+5.Guelah Papyrus
+6.Runaway Jim
+7.Sloth
+8.Pos//sum*
+9.HYHU>Love You >Whole Lotta Love#>HYHU
+10.Bowie
+11.Crowd
+12.E:Oh Kee Pah>
+13.Suzy G.
+
+Set I Notes:
+* Divided Sky contains a tease of Dave's Energy Guide by Trey and somewhat 
+
+Mike (beginning at 9:38).
+
+Thanks very much to Zac Rutter of Burlington for providing the analog cassette 
+seed. It is a relatively low gen soundboard but there are some flaws: the soundcheck unsurprisingly has some level and channel flaws (and Llama has a 
+cut); Wilson has channel/level flaws in the intro and first verses as well; Divided may have a minor phasing issue at one point, unless I imagined it; Page's piano solo in Coil is largely cut/missing (likely because of a tape flip at the show), and there's some minor tape warbling before the fade out; Tweezer's entire opening section is missing (perhaps also due to the tape flip); there are some very slight level issues here and there during the set, and there's a cut in Weekapaug. I also did not edit out the post-soundcheck, pre-first-set banter, even though it's nearly impossible to hear. There may be other flaws.
+
+Set II Notes:
+*Tape Flip(not much missing)
+#WLL  is a few lyrics from Fishman and then a quick jam 
+
+744 mb WAV/444 mb FLAC

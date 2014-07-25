@@ -1,0 +1,65 @@
+Phish 11/1/2013
+Boardwalk Hall - Atlantic City, NJ
+
+Source: DPA 4022(POS@30cm/DFC/OTS@11')->V2->M10(24/96)->UV22HR(16/44.1)->CDWave->FLAC
+
+Recorded and transferred by Scott Schneider
+
+Disc 1 (74:41):
+1. Crowd
+2. Cavern >
+3. Runaway Jim
+4. Sand
+5. Banter
+6. Halfway to the Moon
+7. Halley's Comet
+8. Tube
+9. Possum
+10. When the Circus Comes
+11. Sugar Shack
+12. Jesus Just Left Chicago
+
+Disc 2 (72:42):
+1. David Bowie
+--Set 2--
+2. Twist >
+3. Gotta Jibboo >
+4. Makisupa Policeman >
+5. Light >
+6. Chalk Dust Torture
+
+Disc 3 (44:09):
+1. Meatstick >
+2. Boogie On Reggae Woman >
+3. The Wedge
+4. Slave to the Traffic Light
+5. Encore break
+6. (E)Sneakin' Sally Through the Alley
+
+Thanks to Tim Dobert for the clamp space.
+
+ph2013-11-01dpa4022-d1t01.flac:7d278f7a9bf4f0255236580feebbd859
+ph2013-11-01dpa4022-d1t02.flac:f2053a192bad371cd4f642c44547111f
+ph2013-11-01dpa4022-d1t03.flac:1ee8239908241f889fe4584afb8aa435
+ph2013-11-01dpa4022-d1t04.flac:bf3d68a9e5142ecf6d208163849a268d
+ph2013-11-01dpa4022-d1t05.flac:c96861941bff83c403705e2d7c886960
+ph2013-11-01dpa4022-d1t06.flac:303e13dbb139044722efedc71ffc7d0a
+ph2013-11-01dpa4022-d1t07.flac:ab660b6d17f1b692602e5093f39d6ef1
+ph2013-11-01dpa4022-d1t08.flac:9232f9a0efb3ae472521588cbf99a89d
+ph2013-11-01dpa4022-d1t09.flac:631367342f02b39ca33cb0a33c6afaff
+ph2013-11-01dpa4022-d1t10.flac:5bdf3f5b92ec1307dfcb15d68b8ee8ed
+ph2013-11-01dpa4022-d1t11.flac:bd199765fe3a9d26f8f46c78ee5bf015
+ph2013-11-01dpa4022-d1t12.flac:97278b5e2af0cafd3a09c204426b51b8
+ph2013-11-01dpa4022-d2t01.flac:3213d21cc335c83abd4d473db602e9e1
+ph2013-11-01dpa4022-d2t02.flac:21a0256f0b5a7b94649e09a5590e3774
+ph2013-11-01dpa4022-d2t03.flac:60cca23e0ce2b137e8dd6b5e7ba0caf2
+ph2013-11-01dpa4022-d2t04.flac:77fa9cdf4a674cebbed3513c054fc93e
+ph2013-11-01dpa4022-d2t05.flac:e2931e3ddae589d2ccf5bf8021392d14
+ph2013-11-01dpa4022-d2t06.flac:35217446155823a64d4dfa225af3c93c
+ph2013-11-01dpa4022-d3t01.flac:fb2c9eafd98512768510e58e92c780bf
+ph2013-11-01dpa4022-d3t02.flac:d9276f478553970d35f93d1fae1cfa00
+ph2013-11-01dpa4022-d3t03.flac:ba65a7bf14fddbb30dfc235d9bf2f413
+ph2013-11-01dpa4022-d3t04.flac:fd5de18953367d24e7484b0549e50b19
+ph2013-11-01dpa4022-d3t05.flac:31c563a34eabb8ebd1598c754b8433c7
+ph2013-11-01dpa4022-d3t06.flac:e0f9d4e63e966202a7572213740e5f89
+

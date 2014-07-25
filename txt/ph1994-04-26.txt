@@ -1,0 +1,50 @@
+Phish
+04-26-94
+Purple Dragon Recording Studios, Atlanta, GA 
+--------------------------------------------------------------------------------------------
+Source:         FM>C?>DAT (Unknown DAT generations)
+
+Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                Soundforge 5.0b (48KHz->44.1KHz at highest setting [4 of 4],
+                with anti-alias filter)-> CD Wave 1.62-> mkwACT v0.97
+                **No DAE at all**
+
+Minor Edits:	3 second fades in/out at the start/end of set.
+----------------
+Transferred by Dan Marquardt <danmarq@msn.com>, please contact me with questions/comments.
+There are also 48KHz shn's of this seed for archival.
+--------------------------------------------------------------------------------------------
+
+____________________________________________________________________________
+
+*Dankseed Certification received 01-10-21*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph94-04-14/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________
+
+
+
+CD 1/All:			51:49
+01. Sample in a Jar		05:28
+02. Bouncing Around the Room	03:49
+03. Maze			10:51
+04. Down with Disease		06:55
+05. Fluffhead%			14:28
+06. Carefree*			10:06
+
+--------------------------------------------------------------------------------------------
+
+For a radio show called "Live X" on 99.7 WNNX.
+%Cassette tape speed fluxations in the last minute of Fluffhead.
+*Sun Ra tune; some distortion at 2:33-2:34 which is not an artifact of the transfer,
+also there is a patch of static/noise in the left channel at about 6:13.

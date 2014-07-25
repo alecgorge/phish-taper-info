@@ -1,0 +1,58 @@
+phish
+E Centre
+Camden, NJ
+2000-07-04
+
+set 1 (71:05)
+
+disc 1
+01-Star Spangled Banner, 
+02-Farmhouse, 
+03-Rift, 
+04-It's Ice, 
+05-Bouncing Around the Room, 
+06-Stash, 
+07-Lizards, 
+08-TMWSIY > Avenu Malkanu > TMWSIY >
+09-Julius
+
+set 2 (79:54)
+01-Gotta Jiboo > 
+02-I Saw It Again > 
+03-Magilla > 
+04-Twist > 
+05-Slave, 
+E: 
+06-Lawn Boy*, 
+07-Good Times Bad Times*
+
+* with fireworks
+
+Show Notes: It's Ice included a Star Spangled Banner tease. Lawn Boy included a 
+fireworks display on stage and in the pavilion, as well as well-wishes from Page; 
+the fireworks signalled the beginning of GTBT. Four breakouts dotted the setlist: 
+Saw It Again (first since September 10, 1999, or 57 shows), Rift (first since 
+August 1, 1999, or 59 shows), Star Spangled Banner (first since July 4, 1999, 
+or 79 shows), and Magilla (first since August 1, 1998, or 123 shows). This massive 
+Jibboo was almost 30 minutes long . 
+
+source: akg460b/ck61>V2>SBM1>D8, by JK
+transfer: DATmaster>cd(1), by JK - cd(1)>eac>cdwave>flac, by john m 2007-10-03
+
+fingerprint:
+phish2000-07-04d1t01.flac:2ccac85afe223e294b237e966a2f590d
+phish2000-07-04d1t02.flac:75a008e8888ff029ebf37ae5f3b974ff
+phish2000-07-04d1t03.flac:45c0f608bd40242b4e4284cb77bf02bc
+phish2000-07-04d1t04.flac:ee6f06718e16ae1b3ba0c6fa37490d3d
+phish2000-07-04d1t05.flac:9ab28c42b5af2a2f6fcff1c3d93e9477
+phish2000-07-04d1t06.flac:03f3a3c0777d0cd02121d7aeeb6bda66
+phish2000-07-04d1t07.flac:9204722c5fd1fcbc727f1da9876e1a7e
+phish2000-07-04d1t08.flac:d0008830bb9165ea7001d3199797c436
+phish2000-07-04d1t09.flac:771a517bee4b9be1f8485d3e7d8de783
+phish2000-07-04d2t01.flac:88dc5b77ffde2d36ee3e3ab0dd7bfe27
+phish2000-07-04d2t02.flac:94dfc06c74c24fbc4c8cb8493193d0b0
+phish2000-07-04d2t03.flac:fe8c9e7ceb8c9e32f874216fd457a628
+phish2000-07-04d2t04.flac:c1e31aa74063f35e4457c06444534a45
+phish2000-07-04d2t05.flac:abd49aa9c4ac0432e8a40c591e71e9c6
+phish2000-07-04d2t06.flac:0d4fa184544ead14c5c67d303d74625c
+phish2000-07-04d2t07.flac:7e5f9140f0ab6eeb3c8e8795fffa13a0

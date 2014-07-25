@@ -1,0 +1,43 @@
+Phish
+07/02/2010
+Charlotte, North Carolina  Verizon Wireless Amphitheatre
+
+Source: Schoeps mk4v> KCY> Schoeps VMS02IB> SD 744t (@24bit/96kHz)
+Location: FOB, Section 2, Row M, Seats 15 & 16, NOS
+
+Transfer: SD 744t> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (07/03/2010)
+
+
+Set I
+t01 [03:26] Buried Alive >
+t02 [06:45] AC/DC Bag >
+t03 [06:22] Vultures
+t04 [08:52] Wolfman's Brother
+t05 [10:05] Back on the Train
+t06 [07:06] The Wedge
+t07 [04:27] Mexican Cousin
+t08 [11:55] Stash
+t09 [03:58] Sparkle >
+t10 [07:46] Chalk Dust Torture
+
+Set II
+t11 [13:21] Drowned >
+t12 [07:15] 46 Days >
+t13 [07:51] Twenty Years Later >
+t14 [10:34] The Lizards
+t15 [05:07] Carini >
+t16 [03:59] Fuck Your Face >
+t17 [06:55] Also Sprach Zarathustra >
+t18 [18:31] You Enjoy Myself >
+t19 [03:47] Proud Mary > Get Back
+t20 [02:18] crowd
+
+Encore
+t21 [05:06] A Day in the Life
+
+
+Notes:
+Fuck Your Face, last played 04/29/1987 (1,413 shows)
+Proud Mary (vocal jam), last played 03/01/2003 (113 shows)
+Set I [1:10:42] Set II [1:19:38] Encore [5:06]

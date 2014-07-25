@@ -1,0 +1,46 @@
+Phish
+3-16-91 
+Ten Mile Room - Breckenridge, CO 
+
+Source:  dSbd
+Transfer:  Tascam DA-20MKII>Hosa ODL 276>JB3>wav>SF6>CDWave>wav>FLAC
+Tranfered: Phil Lucks (luckspATcomcastDOTnet)
+
+
+Set1
+Disk1:
+1:  TMWSIY-> 
+2:  Avenu Malkenu-> 
+3:  TMWSIY
+4:  Golgi Apparatus 
+5:  Reba 
+6:  The Landlady > 
+7:  Bathtub Gin 
+8:  The Curtain >
+9:  Rocky Top
+10: Colonel Forbin's Ascent-> 
+11: Famous Mockingbird
+12: Oh Kee Pa Ceremony-> 
+13: Suzy Greenberg
+14: Run Like an Antelope 
+
+
+Set2
+Disk 2:
+1:  Llama 
+2:  The Divided Sky 
+3:  Guelah Papyrus
+4:  My Sweet One
+5:  Split Open and Melt
+6:  Magilla-> 
+7:  Buried Alive
+8:  The Squirming Coil
+9:  Cavern
+10: You Enjoy Myself 
+11: E: Manteca-> 
+12: Possum 
+
+notes:
+-fades added in SF6
+-Llama has no crowd intro on DAT copy, but it seems to not miss anything.  
+-resampled

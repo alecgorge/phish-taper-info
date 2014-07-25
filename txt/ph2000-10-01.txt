@@ -1,0 +1,77 @@
+Phish
+October 1, 2000
+Desert Sky Pavilion
+Phoenix, AZ
+
+source:
+Schoeps cmc6/mk41v > Lunatec V2 > Sonic AD2K+ > Sony TCD-D100 (@ 48 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > r8brain v1.9 (resample to 44.1 kHz) > CD Wave v1.97 (track splits) > Samplitude SE v9.1.1 (fades) > FLAC v1.2.1 (Level 8)
+
+patch-taped by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded November 17, 2008
+
+notes:
+FLAC tags added with metaflac v1.2.1
+The original 48 kHz files from the DAT transfer have been archived and are available upon request
+Dave didn't run his own gear on this night, but rather, took a patch from someone else's recording gear.
+Big thanks to Dave for letting me borrow his patch-master DATs!
+
+Disc 1 - [72:15]
+Set I
+01 - [09:50] - First Tube >
+02 - [11:25] - Wolfman's Brother
+03 - [05:34] - Back on the Train
+04 - [03:01] - Beauty of My Dreams
+05 - [08:16] - Vultures
+06 - [03:10] - The Inlaw Josie Wales
+07 - [07:48] - Billy Breathes
+08 - [09:07] - Llama
+09 - [03:12] - Lawn Boy
+10 - [10:52] - Runaway Jim
+
+Disc 2 - [68:18]
+Set II
+01 - [05:53] - Roses are Free
+02 - [07:31] - Piper ->
+03 - [15:07] - Guy Forget >
+04 - [05:17] - When the Circus Comes >
+05 - [05:59] - Camel Walk
+06 - [03:39] - Driver
+07 - [15:27] - David Bowie
+08 - [02:49] - encore break
+09 - [06:36] - Waste
+
+Show Notes: Trey introduced the band during Llama (including Fishman as "Bob Weaver") 
+before encouraging the audience to clap along with him. He slapped himself on the 
+forehead and encouraged fans to slap the foreheads of the person next to them, but 
+no one did. Piper was unfinished and morphed into the debut of Guy Forget. Paged 
+handled the closing lick at the end of Bowie while Trey played with his pedals.
+
+-------------------------------------------------------------------------------------------------
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     9:49.48          99.19 MB  ---   --   ---xx   flac  0.5724  ph2000-10-01d1t01.flac
+    11:24.71         115.23 MB  ---   --   ---xx   flac  0.5297  ph2000-10-01d1t02.flac
+     5:33.73          56.18 MB  ---   --   ---xx   flac  0.4989  ph2000-10-01d1t03.flac
+     3:01.37          30.53 MB  ---   --   ---xx   flac  0.5143  ph2000-10-01d1t04.flac
+     8:15.64          83.42 MB  ---   --   ---xx   flac  0.5363  ph2000-10-01d1t05.flac
+     3:09.53          31.91 MB  ---   --   ---xx   flac  0.3947  ph2000-10-01d1t06.flac
+     7:48.27          78.79 MB  ---   --   ---xx   flac  0.4909  ph2000-10-01d1t07.flac
+     9:06.58          91.98 MB  ---   --   ---xx   flac  0.5518  ph2000-10-01d1t08.flac
+     3:12.08          32.32 MB  ---   --   ---xx   flac  0.4405  ph2000-10-01d1t09.flac
+    10:52.11         109.71 MB  ---   --   ---xx   flac  0.5291  ph2000-10-01d1t10.flac
+     5:53.11          59.41 MB  ---   --   ---xx   flac  0.5238  ph2000-10-01d2t01.flac
+     7:31.16          75.91 MB  ---   --   ---xx   flac  0.5547  ph2000-10-01d2t02.flac
+    15:06.65         152.56 MB  ---   --   ---xx   flac  0.5172  ph2000-10-01d2t03.flac
+     5:16.40          53.25 MB  ---   --   ---xx   flac  0.4788  ph2000-10-01d2t04.flac
+     5:59.13          60.42 MB  ---   --   ---xx   flac  0.4999  ph2000-10-01d2t05.flac
+     3:39.24          36.90 MB  ---   --   ---xx   flac  0.4194  ph2000-10-01d2t06.flac
+    15:27.34         156.02 MB  ---   --   ---xx   flac  0.5183  ph2000-10-01d2t07.flac
+     2:48.42          28.36 MB  ---   --   ---xx   flac  0.4678  ph2000-10-01d2t08.flac
+     6:35.55          66.57 MB  ---   --   ---xx   flac  0.4925  ph2000-10-01d2t09.flac
+   140:33.00        1418.67 MB                           0.5151  (19 files)

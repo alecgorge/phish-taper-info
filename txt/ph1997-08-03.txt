@@ -1,0 +1,65 @@
+Phish
+August 3, 1997
+The Gorge
+George, WA
+
+source:
+(FOB) Neumann km140 > Sonosax SX-M2 > Tascam DA-P1 (@ 48 kHz)
+
+transfer:
+Sony PCM-R500 > Tascam HD-P2 > CF card > usb > pc > WaveLab 5.01b (fades, resample to 44.1 kHz, patch) > CD Wave v1.95 > FLAC v1.1.2 (Level 8)
+
+recorded by Jim Cowan
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded November 26, 2006
+
+note:
+Clones from the master DATs were used in this transfer.
+The original 48 kHz files from the DAT transfer have been archived and are available upon request.
+Thanks to Jim for making a great recording, and thanks to Dave Flaschner for letting me borrow the DATs.
+
+Disc 1 - [66:36]
+Set I
+01 - [12:05] - Bathtub Gin >
+02 - [12:10] - Foam
+03 - [02:14] - Samson Variation
+04 - [03:50] - Dirt
+05 - [08:23] - Vultures
+06 - [03:58] - My Mind's Got a Mind of its Own
+07 - [11:54] - Twist >
+08 - [12:02] - Jesus Just Left Chicago
+
+Disc 2 - [67:26]
+Set I continued
+01 - [11:47] - Limb by Limb
+02 - [08:35] - Character Zero
+Set II
+03 - [13:12] - Julius
+04 - [10:39] - Simple
+05 - [14:48] - Fluffhead
+06 - [08:25] - Lifeboy
+
+Disc 3 - [39:16]
+Set II continued
+01 - [12:53] - Taste
+02 - [01:28] - Hello My Baby
+03 - [04:42] - Frankenstein
+04 - [01:35] - encore break
+05 - [03:39] - Bouncing Around the Room
+06 - [14:59] - Slave to the Traffic Light
+
+show notes:
+The first set included the debut of the instrumental Samson Variation.
+
+patch notes:
+there were a several very drop-outs/digi-errors during "Bathtub Gin"
+these were present on the DAT and were fixed by patching in the following source:
+AKG C 568 EB's -> Aerco Pre-Amp -> Sony D-8
+http://db.etree.org/shninfo_detail.php?shnid=29566
+
+the patch source was used at the following locations in Bathtub Gin:
+[01:36.2] to [01:41.0]
+[04:18.3] to [04:21.5]
+[05:10.5] to [05:14.0]
+[05:50.5] to [05:54.2]
+at each point, I cross-faded the patched source to make the transition smooth.

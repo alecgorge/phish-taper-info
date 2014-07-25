@@ -1,0 +1,46 @@
+Phish
+06/04/2011
+Cuyahoga Falls, Ohio  Blossom Music Center
+
+Source: Schoeps mk4v> KC5> M222> NT222> Lunatec V2> SD 744t (@24bit/96kHz)
+Location: Section 35, Row A, Seat 11, DFC, DIN, 7' Stand
+
+Transfer: SD 744t> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (06/05/2011)
+
+
+Set I
+t01 [01:31] Intro
+t02 [08:41] Kill Devil Falls
+t03 [11:06] Guyute
+t04 [02:19] Fuck Your Face>
+t05 [10:32] Foam
+t06 [11:24] Ocelot
+t07 [04:55] Rocket in My Pocket
+t08 [08:25] Back on the Train>
+t09 [07:01] Guelah Papyrus
+t10 [04:47] Tube>
+t11 [11:50] Run Like an Antelope
+
+Set II
+t12 [01:04] Intro
+t13 [07:23] Birds of a Feather
+t14 [10:21] Possum>
+t15 [08:09] Steam>
+t16 [07:33] Piper>
+t17 [11:06] The Lizards
+t18 [13:01] Sneakin' Sally Through the Alley>
+t19 [08:59] Harry Hood>
+t20 [02:33] Have Mercy>
+t21 [03:53] Harry Hood>
+t22 [07:58] Character Zero
+t23 [02:11] crowd
+
+Encore
+t24 [10:32] Slave to the Traffic Light
+
+
+Notes:
+Steam, first time played
+Thanks to Jason Lonchar for the Schoeps tubes
+Set I [1:22:31] Set II [1:24:11] Encore [10:32]

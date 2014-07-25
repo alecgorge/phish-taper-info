@@ -1,0 +1,56 @@
+Phish
+July 27th, 1991
+The Variety Playhouse, Atlanta, GA
+
+-Source is a Maxell XLII-S Master Analog Cassette
+-Taper Parker H. 
+-Unknown AKG microphones > Marantz deck
+-A>D via Nakamichi Dragon>Korg MR1000>Korg Audio Gate>WAV @ 24/96
+-96khz > 44khz sample rate conversion via iZotope SRC 64 bit SRC 
+-24bit > 16bit bit depth conversion via iZotope MBIT+ Dither 
+-Tracking performed in Adobe Audition 3.0
+-FLAC conversion via Trader's Little Helper
+-Thanks to @TMWSIY for the source tape.
+
+All transfers by ifthir@hotmail.com (3.9.2011)
+
+
+
+1. Llama [4:38]
+2. Foam [7:52]
+3. Oh Kee Pa Ceremony > [1:46]
+4. Suzy Greenberg [5:29]
+5. Cavern [4:51]
+6. Flat Fee [3:08]
+7. Poor Heart [3:17]
+8. Stash [7:37]
+9. TMWSIY > [3:33]
+10. Avenu Malkanu > [3:11]
+11. TMWSIY [1:21]
+12. Possum [8:25]
+13. I Didn't Know [3:31]
+14. Landlady [5:55]
+15. Mike's Song > [7:01]
+16. I Am Hydrogen > [2:39]
+17. Weekapaug Groove [5:54]
+
+Encore
+
+18. Touch Me [3:42]
+
+Encore2
+
+19. Contact [7:01]
+
+Total Time [1:30:51]
+
+
+Known flaws:
+
+Tape flip at the end of TMWSIY, before Possum.
+Some cut at the end of Landlady during the onstage banter.
+
+Show notes:
+
+One set show. Opened for Aquarium Rescue Unit.
+Features the Giant Country Horns.

@@ -1,0 +1,64 @@
+Phish 8/29/2012
+Zoo Amphitheater - Oklahoma City, OK
+
+Source: DPA 4027(NOS/DFC/FOB 55' from stage)->V2->Mytek 192->DR-680(24/96)->UV22HR(16/44.1)->CDWave->FLAC
+
+Recorded and transferred by Scott Schneider
+
+Disc 1 (71:04):
+1. Kill Devil Falls >
+2. Rift
+3. Wilson >
+4. Backwards Down the Number Line >
+5. Moma Dance >
+6. Divided Sky
+7. Wolfman's Brother >
+8. Axilla I >
+9. 46 Days
+10. Ya Mar
+
+Disc 2 (55:02):
+1. Stealing Time From the Faulty Plan >
+2. Run Like an Antelope
+--Set 2--
+3. Down With Disease >
+4. Birds of a Feather >
+5. My Friend, My Friend >
+6. Rock & Roll >
+7. Twist Around
+
+Disc 3 (55:22):
+1. If I Could
+2. Light >
+3. Harry Hood >
+4. Character Zero >
+5. Suzy Greenberg
+6. Encore break
+7. (E)Slave to the Traffic Light >
+8. (E)Loving Cup
+
+ph2012-08-29dpa4027-d1t01.flac:79e8bed91bc903cd44a7f7791bf50b6c
+ph2012-08-29dpa4027-d1t02.flac:9ca7dd559ab9d6456cd4b98c00d9501b
+ph2012-08-29dpa4027-d1t03.flac:0acd01da3b1b361d13200976e909a987
+ph2012-08-29dpa4027-d1t04.flac:3c8800289a5bbdc606eb98aebdad0a54
+ph2012-08-29dpa4027-d1t05.flac:2514f230bb473ff04d8dc35edbd619b9
+ph2012-08-29dpa4027-d1t06.flac:0253c16ed751e077f1d4551d272c04ce
+ph2012-08-29dpa4027-d1t07.flac:8a547cdff6eb870277a815276febf934
+ph2012-08-29dpa4027-d1t08.flac:ccc4d0c1b3208dccd421825170350666
+ph2012-08-29dpa4027-d1t09.flac:43b1c091b7bc65f17671eeda93258fec
+ph2012-08-29dpa4027-d1t10.flac:786e9ff3518b0496087094a759eebefe
+ph2012-08-29dpa4027-d2t01.flac:1c159197bc4ea44b8f14f59e4f478628
+ph2012-08-29dpa4027-d2t02.flac:a7d2bd948e5f5583b79c8f36edab88df
+ph2012-08-29dpa4027-d2t03.flac:e41fe8a8203ffeac00fc30f8caba91de
+ph2012-08-29dpa4027-d2t04.flac:761018347dd6b261a827c79d88317336
+ph2012-08-29dpa4027-d2t05.flac:d503e563cee0754012d2b203bb999bf4
+ph2012-08-29dpa4027-d2t06.flac:cebdcd4333442715ef041d9b5d4ab937
+ph2012-08-29dpa4027-d2t07.flac:9c8d53713e60cde2bc95b060908d171d
+ph2012-08-29dpa4027-d3t01.flac:c578450b5ff41948610b0b807159e64c
+ph2012-08-29dpa4027-d3t02.flac:742c60f34ff1bb02f5fbb5c861fc108f
+ph2012-08-29dpa4027-d3t03.flac:e2c7ce53ce2678d517b3066a2ff86062
+ph2012-08-29dpa4027-d3t04.flac:4cdf25a96e577ad6d379260115a8d9f7
+ph2012-08-29dpa4027-d3t05.flac:0c991aec6ff5d9d0943d530a921de3be
+ph2012-08-29dpa4027-d3t06.flac:1232f9d09d469f6cb7426a9ffb9f5fe4
+ph2012-08-29dpa4027-d3t07.flac:00c41170399162d0cf90de826751fab7
+ph2012-08-29dpa4027-d3t08.flac:f3ef4dd5205aa08ad3a489f8852ed82f

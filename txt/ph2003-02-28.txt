@@ -1,0 +1,47 @@
+Phish 
+February 28th 2003
+Nassau Coliseum - Uniondale, NY
+
+
+Source: AKG 480/ck61 (90 degree XY) > DMIC-20 > D8@48kHz
+	Justin Trinkes (stoner_fee@taping.org)
+
+Conversion: D8 > Waveterminal 2496 > SF 4.5 > CDWav 1.52 > mkw .97> flac v1.1.0
+
+Enditing: Sound Forge used for fade in/out and
+	  to resample 48 > 44.1kHz (4of4 w/ anti-alias)
+	 
+
+
+Disc 1
+Set 1:
+01. Birds of a Feather
+02. Destiny Unbound*
+03. Horn >
+04. Bathtub Gin
+05. Sleep
+06. Back on the Train
+07. Bouncing Around the Room
+08. Walls of the Cave
+
+
+Disc 2
+Set 2:
+01. Tweezer >
+02. Soul Shakedown Party > **
+03. David Bowie
+04. Round Room >
+05. Harry Hood
+
+Disc 3
+encore:
+01. ovation
+02. Contact
+03. Mexican Cousin
+04. Tweezer Reprise
+
+
+
+Comment: 
+*not played in 788 shows since 11/15/91
+**Last played 2/20/97, only third time ever

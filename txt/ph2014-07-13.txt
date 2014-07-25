@@ -1,0 +1,431 @@
+Phish
+Randall's Island
+New York, New York
+7/13/2014 
+
+Source: Schoeps CCM4V'S(din)>Lunatec V2>Benchmark AD2K>
+Sound Devices 722 (24/48)
+FOB/DFC/KFC/ZFC/AARP 70' From Stage, 6 1/2' High
+DSP: Sound Devices 722>Sound Forge 10.0>CD Wave>flac(16)
+ID3 Tagged In Foobar 2000
+Recorded By: Z-Man
+Seeded By: Z-Man
+
+Disc I 1st Set
+
+01 Sand
+02 Winterqreen
+03 Reba
+04 Birds Of A Feather
+05 Water In The Sky
+06 Possum >
+07 Runaway Jim
+08 Bouncing Around The Room >
+09 Maze
+
+Disc II 1st Set Con't
+
+01 Split Open And Melt
+2nd Set:
+02 Chalkdust Torture >
+03 *Light >
+04 Tweezer
+
+Disc III 2nd Set Con't
+
+01 Wading In The Velvet Sea
+02 Sing Monica
+03 Slave To The Traffic Light
+Encore:
+04 Page Thanks The Crowd
+05 Backwards Down The Number Line >
+06 Tweezer Reprise
+
+* With Dear Prudence And Divided Sky Jams
+
+phish2014-07-13d01t01.flac:00a5e0bff73781ce29c2e0c7f84c5af0
+phish2014-07-13d01t02.flac:38db4002c326b4df7640bdd51ddcfea1
+phish2014-07-13d01t03.flac:6b011c680f89a124c4aaf71c07f75a50
+phish2014-07-13d01t04.flac:8541045c4d338e106f4b39acb4e122d5
+phish2014-07-13d01t05.flac:0807cd78e82d72208b1f2dfb6c90301a
+phish2014-07-13d01t06.flac:48e2d8697a87adaf875bf88f36491dba
+phish2014-07-13d01t07.flac:d5bad1a16365e4eda014f7003776495f
+phish2014-07-13d01t08.flac:0a244d0eaca37a9b6e7eee48a1a98c74
+phish2014-07-13d01t09.flac:47076c03fbbd97cb90b72679b098f824
+phish2014-07-13d02t01.flac:cd26dd5561e3374be266d4e82612cb43
+phish2014-07-13d02t02.flac:0f2f8418e46567d0051701aa1b19d0b6
+phish2014-07-13d02t03.flac:7c3b00cf6468baf57bdecf40507a2d70
+phish2014-07-13d02t04.flac:34174a5645aeaef0523af11fa2b1041c
+phish2014-07-13d03t01.flac:e215d84092b715051af047b0ca3676c3
+phish2014-07-13d03t02.flac:c149dbf1d48086add42dcb2702420c75
+phish2014-07-13d03t03.flac:89b5d2a7fc926e84e37c1f10cd49d348
+phish2014-07-13d03t04.flac:112d70156de9caf2a75edac7be31e2d5
+phish2014-07-13d03t05.flac:c5ea1866ae2d8b980b663f329ff2d235
+phish2014-07-13d03t06.flac:147222723e735c14d8a72998310072b0
+
+   length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     9:25.73       99837740 B   ---   --   ---xx   flac  0.4865  phish2014-07-13d01t01.flac
+     8:52.20       93891884 B   ---   --   ---xx   flac  0.4308  phish2014-07-13d01t02.flac
+    14:04.07      148898108 B   ---   --   ---xx   flac  0.4716  phish2014-07-13d01t03.flac
+     6:23.00       67561244 B   ---   --   ---xx   flac  0.5053  phish2014-07-13d01t04.flac
+     3:29.19       36912332 B   ---   --   ---xx   flac  0.4897  phish2014-07-13d01t05.flac
+     9:07.18       96533180 B   ---   --   ---xx   flac  0.5126  phish2014-07-13d01t06.flac
+     9:10.18       97062380 B   ---   --   ---xx   flac  0.5103  phish2014-07-13d01t07.flac
+     3:49.41       40492076 B   ---   --   ---xx   flac  0.4663  phish2014-07-13d01t08.flac
+     9:20.41       98880476 B   ---   --   ---xx   flac  0.5151  phish2014-07-13d01t09.flac
+    13:23.23      141703340 B   ---   --   ---xx   flac  0.4944  phish2014-07-13d02t01.flac
+    27:56.51      295766396 B   ---   --   ---xx   flac  0.4748  phish2014-07-13d02t02.flac
+    11:36.03      122781500 B   ---   --   ---xx   flac  0.4696  phish2014-07-13d02t03.flac
+    16:00.31      169416956 B   ---   --   ---xx   flac  0.5051  phish2014-07-13d02t04.flac
+     8:26.09       89279612 B   ---   --   ---xx   flac  0.4134  phish2014-07-13d03t01.flac
+     5:53.02       62273948 B   ---   --   ---xx   flac  0.5015  phish2014-07-13d03t02.flac
+    10:23.44      110000732 B   ---   --   ---xx   flac  0.4432  phish2014-07-13d03t03.flac
+     1:02.29       11005052 B   ---   --   ---xx   flac  0.3741  phish2014-07-13d03t04.flac
+     5:53.65       62422124 B   ---   --   ---xx   flac  0.4863  phish2014-07-13d03t05.flac
+     4:09.55       44053004 B   ---   --   ---xx   flac  0.5182  phish2014-07-13d03t06.flac
+   178:27.24     1888772084 B                            0.4808  (19 files)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

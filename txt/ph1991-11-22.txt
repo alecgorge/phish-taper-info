@@ -1,0 +1,47 @@
+Phish
+University of Southern Maine Gym 
+Portland, ME
+11/22/91
+
+Source: FOB Nak 300/CP1 > Sony D5
+Transfer: Aiwa AD-F850 3-Head > Apogee AD1000 > Tascam DA-302 > HHB CDR-850
+Conversion: EAC (Secure Mode) > WAV > ShnTool > FLAC (1.7.1)
+All tracks were extracted with 100% quality.
+
+Disc 1:
+Set I
+01. Possum
+02. Cavern
+03. sparkle
+04. Brother
+05. Fee
+06. Foam
+07. Divided Sky
+08. Lawn Boy
+09. Dinner and a Movie
+10. Stash
+11. Rocky Top
+
+Disc 2:
+Set II
+01. Tube
+02. My Sweet One
+03. Landlady
+04. Bathtub Gin
+05. Antelope
+06. Squirming Coil
+07. I Didn't Know
+08. Llama
+09. Lizards
+10. You Enjoy Myself
+Encore:
+11. Glide
+12. Suzy Greenburg
+
+
+Patched by Dan Chapman (Thanks for the tapes!!!)
+Transferred and converted by Chris Warren (hip_school_preppie@yahoo.com)
+Seeded to bt.etree.org 9/21/2004 by Mark (Mark@Kerchoff.com)
+
+Enjoy!
+

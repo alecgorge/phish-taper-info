@@ -1,0 +1,60 @@
+Phish
+University of Massachusetts
+Amherst, MA
+09/22/90 
+
+TAPER: John Redmond
+SOURCE Nak 300s > D5 
+
+AUD MCass (Cass 1 - Maxell MX 100, Cass2&3- Maxell XLII-S 90 min)>
+Sony TC-WE805S > Art DI/O (48Khz, Input gain +12dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (archived) > Mastering > SHNv3
+
+Mastering Notes:
+There was a very bad humming noise for the 1st 2 minutes of the show, I removed it with X-Noise, there was also some sortof adjustment made during Buried Alive after which everything sounds really nice.  For the tuning and first minute of Buried Alive I adjusted volume (gain from the FA770) and bass levels (BBE lo contour) to make it somewhat listenable, there is a tiny crossfade at the switch point to make it smooth.  
+
+The tape was stopped in Wilson, it picks back up almost right away, I deleted the blank spot and bumped the 2 sections together.  There is a crossfade in Landlady to cover the tapeflip.  The tape flip right after Coil before Tweezer was quick, you can't tell it's there with the crossfade in place.  The final tapeflip after Bouncin' cut no music, only crowd noise.  2dB was added to the second set to match the levels from the first.  
+
+The following mastering processes were rendered: Waves REQ (rolloff @ 40Hz), FA770 Compressor, BBE Sonic Maximizer (0.5, 2.5, -1), Waves L2 Ultramaximzer.  The 192kHz stereo resampler was used to downsample, UV22 HR was used to dither to 16-bits.
+
+Transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 10/23/2003
+All edits and mastering were peformed on Doomtooth by shakedown@furthurnet.org on 11/03/03.
+
+DISC ONE
+set I:
+01. intro/tuning
+02. Buried Alive
+03. My Sweet One
+04. Divided Sky
+05. Tela
+06. Oh Kee Pah >
+07. Suzy Greenberg
+08. Magilla
+09. Wilson
+10. The// Landlady
+11. I Did'nt Know
+12. David Bowie > Mo' Better Blues > David Bowie
+
+DISC TWO
+set II:
+01. tuning/crowd
+02. Squirming Coil
+03. //Tweezer
+04. Destiny Unbound
+05. Fee
+06. Uncle Pen
+07. Bouncin'
+08. Stash
+09. Lizards
+10. Lawn Boy
+11. Possum 
+encore: 
+12. The Asse Festival
+13. Golgi Apparatus
+
+Notes:
+Trey must have been listening to Vangelis on the way to the gig; Golgi, Possum, Suzy Greenberg, Magilla and David Bowie all have Chariots of Fire teases.  A really nice jam opens up after the first teases in the (very playful) David Bowie intro.
+
+NO tracking/editing/alterations performed before archiving to 24-bit FLAC (except to trim silence from the ends).  
+
+Seeded to FurthurNet (www.furthurnet.org)

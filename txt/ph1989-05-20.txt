@@ -1,0 +1,54 @@
+Phish - 5/20/89 Set I
+Northfield Mt. Hermon School - Northfield, MA 
+
+Set I Source: SBD> Cass/X (recorded ?/94)
+Transfer: Dennon DRW-840> Sony r500> Audiophile 2496> Samplitude 5.5 at 44.1> WAV> FLAC on 6/14/05 by EEE
+
+Set II Source: SBD > (possible DAT stage) > Cass/2 (XL II-100)
+Transfer: Sony TC-KA3ES > Lucid AD 9624 A/D > REBA @ 24/48kHz
+Mastering: REBA > Wavelab Stereo Montage > Crossfaded Tape flip > Editing > Rendered 24/48 No alterations. 
+24/48kHz waves > Waves Linear Wideband EQ > Waves RBass +2 @ 32Hz > BBE 0/3/0 > Waves L1+ > 24/48kHz processed wave.
+24/48Khz processed wave > 192kHz Resampler- 48/44.1 > L1 > reduced to 16bit w/TPDF > SHN V3
+**24/48 FLAC archives of the unedited transfer are available**
+
+Disc 1 / Set I : 68:11
+1. AC/DC Bag
+2. Alumni Blues > LtJP > Alumni Blues
+3. You Enjoy Myself
+4. Lizards*
+5. Wil\\son*#
+6. Divided Sky*
+7. I Didn't Know
+8. Possum 
+
+-Set 2-
+01. Bold as Love
+02. Mike's Song >
+03. I am Hydrogen >
+04. Weekapaug Groove
+05. Foam
+06. Contact
+07. Take the A-Train//
+08. David Bowie
+09. Golgi Apparatus 
+ENCORE: 
+10. Good Times Bad Times
+
+*with Gamehendge narration
+#tape flip
+
+SHNTOOL OUTPUT
+
+    length     expanded size   cdr  WAVE problems filename
+     4:40.56       49523756    ---   --   -----   ph1989-05-20s1d1t01.wav
+     5:33.39       58832972    ---   --   -----   ph1989-05-20s1d1t02.wav
+    16:04.42      170148428    ---   --   -----   ph1989-05-20s1d1t03.wav
+    11:06.70      117647084    ---   --   -----   ph1989-05-20s1d1t04.wav
+     5:19.08       56290460    ---   --   -----   ph1989-05-20s1d1t05.wav
+    13:12.60      139849964    ---   --   -----   ph1989-05-20s1d1t06.wav
+     3:38.08       38474060    ---   --   -----   ph1989-05-20s1d1t07.wav
+     8:24.64       89056172    ---   --   -----   ph1989-05-20s1d1t08.wav
+     0:11.24        1996892    ---   --   -----   ph1989-05-20s1d1t09.wav
+    68:11.71      721819788 B                     (totals for 9 files, 1.0000 ov
+erall compression ratio)
+

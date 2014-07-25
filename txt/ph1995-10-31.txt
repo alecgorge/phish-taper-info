@@ -1,0 +1,74 @@
+Phish
+October 31, 1995
+Rosemont Horizon
+Chicago, IL
+
+source:
+AKG 460B/ck61 > Sonosax SX-M2 > Teac DA-P20 (@ 48 kHz)
+
+transfer:
+Sony PCM-R500 > Tascam HD-P2 > CF Card > usb > pc > WaveLab 5.01b (de-emphasis, fades, resample to 44.1kHz) > CD Wave v1.94.7 > FLAC v1.1.2 (Level 8)
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded May 6, 2006
+
+notes:
+The original DAT recording was made with pre-emphasis. The Waves 5.0 Paragraphic EQ plug-in was used to de-emphasize the recording.
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+
+Disc 1 - [68:38]
+Set I
+01 - [03:46] - Icculus
+02 - [15:08] - The Divided Sky
+03 - [04:43] - Wilson
+04 - [08:16] - Ya Mar
+05 - [03:44] - Sparkle
+06 - [09:39] - Free
+07 - [10:42] - Guyute
+08 - [12:41] - Run Like an Antelope
+
+Disc 2 - [56:48]
+Set I continued
+01 - [14:22] - Harpua
+Set II
+02 - [03:31] - I Am the Sea
+03 - [03:22] - The Real Me
+04 - [06:08] - Quadrophenia
+05 - [03:50] - Cut My Hair
+06 - [04:54] - The Punk Meets the Godfather
+07 - [03:17] - I'm One
+08 - [05:40] - The Dirty Jobs
+09 - [02:21] - Helpless Dancer
+10 - [05:43] - Is It in My Head?
+11 - [03:40] - I've Had Enough
+
+Disc 3 - [40:52]
+Set II continued
+01 - [06:25] - 5:15
+02 - [03:30] - Sea and Sand
+03 - [04:55] - Drowned
+04 - [04:34] - Bell Boy
+05 - [08:34] - Doctor Jimmy
+06 - [06:36] - The Rock
+07 - [06:18] - Love, Reign O'er Me
+
+Disc 4 - [71:39]
+Set III
+01 - [01:43] - intro
+02 - [40:32] - You Enjoy Myself
+03 - [09:18] - Jesus Just Left Chicago *
+04 - [04:35] - A Day in the Life
+05 - [07:28] - Suzy Greenberg **
+06 - [03:11] - encore break
+07 - [04:52] - My Generation#
+
+
+Set 2 is performed with The Giant Country Horns (Alan Parchley, Don Glasco, Joey Somerville, Dave "The Truth" Grippo).
+
+* with The Giant Country Horns
+** with Dave Grippo
+# acoustic
+
+Before "My Generation" they set up a Keith Moon replica drum set.  Then Fish and Trey destroy the drum set Who-style.
+Finally a stagehand brings Trey a large plunger, Trey depresses it, setting of a big explosion backstage.

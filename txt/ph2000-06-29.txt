@@ -1,0 +1,76 @@
+Phish
+June 29, 2000
+PNC Bank Arts Center
+Holmdel, NJ
+
+source:
+B&K 4021 > Apogee AD-1000 > HHb PDR-1000 (@ 44.1 kHz)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > WaveLab 5.01b (fades) > CD Wave v1.96.1 > FLAC v1.2.1 (Level 8)
+
+FLAC tags added with metaflac v1.2.1
+
+recorded by Eric Vandercar
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded March 5, 2008
+
+notes:
+Big thanks to Eliot Byron for letting me borrow his DATs!
+
+Disc 1 - [53:12]
+Set I
+01 - [07:05] - Funky Bitch >
+02 - [06:49] - Wilson
+03 - [12:36] - Limb by Limb
+04 - [18:25] - Drowned ->
+05 - [08:17] - Rock and Roll
+
+Disc 2 - [44:50]
+Set II
+01 - [14:35] - Birds of a Feather ->
+02 - [04:06] - Catapult >
+03 - [06:56] - Heavy Things
+04 - [19:13] - Sand
+
+Disc 3 - [58:59]
+Set II continued
+01 - [11:19] - Meatstick >
+02 - [05:43] - Cities ->
+03 - [03:37] - Walk Away >
+04 - [15:11] - Run Like an Antelope >
+05 - [05:21] - Frankenstein
+06 - [08:51] - Wading in the Velvet Sea
+07 - [08:57] - (encore) Character Zero
+
+Show Notes: Birds, which contained a tease of A Love Supreme, was unfinished and 
+melted into an atypical jam. Catapult was sung over this jam, which then led to 
+Heavy Things. Brad Sands brought out Page's wife, Sofi, to dance with the band 
+during Meatstick.
+
+note:
+there was a cut on the DAT during the encore break.
+I cross-faded the short crowd noise that was there between Velvet Sea and Character Zero to make it seem seamless.
+
+------------------------------------------------------------------------------------------
+
+SHNtool len mode output:
+
+    length     expanded size   cdr  WAVE problems filename
+     7:04.55       74923004    ---   --   ---xx   ph2000-06-29d1t01.flac
+     6:49.08       72166460    ---   --   ---xx   ph2000-06-29d1t02.flac
+    12:36.36      133443116    ---   --   ---xx   ph2000-06-29d1t03.flac
+    18:24.65      194898524    ---   --   ---xx   ph2000-06-29d1t04.flac
+     8:16.59       87633212    ---   --   ---xx   ph2000-06-29d1t05.flac
+    14:34.56      154305356    ---   --   ---xx   ph2000-06-29d2t01.flac
+     4:06.33       43472060    ---   --   ---xx   ph2000-06-29d2t02.flac
+     6:55.46       73314236    ---   --   ---xx   ph2000-06-29d2t03.flac
+    19:13.08      203408060    ---   --   ---xx   ph2000-06-29d2t04.flac
+    11:18.73      119770940    ---   --   ---xx   ph2000-06-29d3t01.flac
+     5:42.40       60422924    ---   --   ---xx   ph2000-06-29d3t02.flac
+     3:36.52       38224748    ---   --   ---xx   ph2000-06-29d3t03.flac
+    15:11.21      160749836    ---   --   ---xx   ph2000-06-29d3t04.flac
+     5:21.24       56680892    ---   --   ---xx   ph2000-06-29d3t05.flac
+     8:51.02       93673148    ---   --   ---xx   ph2000-06-29d3t06.flac
+     8:57.20       94773884    ---   --   ---xx   ph2000-06-29d3t07.flac
+   157:00.73     1661860400 B                     (totals for 16 files, 0.5311 overall compression ratio)

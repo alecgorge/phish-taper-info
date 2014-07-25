@@ -1,0 +1,103 @@
+Phish
+UIC Pavillion, Chicago, IL
+June 18th, 1994
+
+Remastered Version  02/10/2002
+SBD>Cass1>DAT>CD>EAC>Cool Edit 2000 (Editing)>SHN  (See below for complete details)
+
+Sector Boundary Errors fixed with SHNTOOL on discs 1 & 3.  9/10/02.
+new set of md5s added to db.etree.org
+
+
+D1:
+1. Wilson			(04:38)
+2. Rift				(06:01)
+3. AC/DC Bag			(06:35)
+4. Maze				(11:29)
+5. Mango Song			(07:29)
+6. Down With Disease		(07:19)
+7. It's Ice			(08:52)
+8. Dog Faced Boy		(02:00)
+9. Divided Sky			(14:41)
+10. Sample in a Jar 		(05:05)
+
+D2:
+1. Peaches En Regalia>		(03:41)
+2. David Bowie> Mind Left Body Jam> David Bowie (18:41)
+3. Horn>			(04:10)
+4. McGrupp>			(09:15)
+5. Tweezer> 			(14:26)
+6. Lifeboy			(08:28)
+
+D3:
+1. You Enjoy Myself		(21:06)
+2. Chalk Dust Torture		(06:45)
+3. Bouncin' (ENCORE)		(03:40)
+4. Tweezer Repris (ENCORE)	(03:19)
+
+
+
+
+
+*******************************
+*******ABOUT THIS SOURCE*******
+*******************************	
+
+
+This is an attempt to patch together a variety of sources and achieve the best possible 
+combination of sources of this great show. Here are the details:
+
+__________________________________________________________________________
+Source #1: 
+SBD>Cass1>DAT>Editing (audience patches in It's Ice, Tweezer and first few seconds of Lifeboy)>CDR
+Tranfer/Editing: Kevin Shapiro
+
+NOTES: Sorry, I don't have any further info as to the audience tape source or the equipment
+used in the audience patch.  It is likely from the AKG460 rig that he often used in '94.
+However, this is all the information included with the discs that I recieved.
+__________________________________________________________________________
+
+Source #2: 
+SBD>Cass1>DAT>CDR (complete Tweezer, missing end of It's Ice [fades out at 7:56])
+
+NOTES: An inferior sounding SBD copy to the one above. Plays fast, levels are saturated, etc.
+Unknown tranfer info.
+__________________________________________________________________________
+
+
+Because Kevin's source (Source #1) was the better of the two sources, I've used as much of it
+as possible for the recording.  This means that everything except the changes described below
+has been extracted (using EAC in secure mode) from the copies that Kevin provided.  The following
+is a summary of the edits that I did, using Cool Edit 2000 and CDWav. 
+
+Fixes:
+
+1. Fixed the speed for It's Ice on Source #2 (stretch ratio of 102)
+
+2. Patched the SBD portion that Source #1 was missing from It's Ice (@4:11), and then the remaining
+missing part of the track from the Aud source (@8:11). This makes the most complete SBD source, 
+with the proper ending supplied from the audience tape.
+
+3. Tracking for Horn fixed on Source #1
+
+4. Fixed the speed for Tweezer on Source #2 (stretch ratio of 102)
+
+5. Patched the missing SBD segment of Tweezer on Source #1 with the fixed Source #2 Tweezer (@10:24).
+
+6. Patched ~4 missing seconds from YEM (@ 11:26), using same procedures as above.
+____________________________________________________________________________
+
+Known Flaws:
+
+There are still a few anomalies on the recording which I didn't bother trying to fix, for fear of
+over-editing. Specifically:
+-a fast fade-out after Dog Faced Boy 
+-a slightly rough switch to the Source #1 audience recording at the very beginning of Lifeboy. 
+____________________________________________________________________________
+
+
+
+This is all the info I have at the moment. While this is by no means a perfect SBD recording
+I'm sure you'll enjoy the end result!
+
+If you have questions or comments, email me at blane_at_canada.com

@@ -1,0 +1,201 @@
+Phish
+First Avenue
+Minneapolis, MN
+1992-04-29
+
+Set I
+Source:  audience, Audix cardioids > TC-D5M (mic pre-amp, 
+         pass-thru) > Cass/0 (WM-D6C, TDK SA-X, Dolby C)
+          
+Transfer:  Original master cassettes (Cass/0) played back in JVC TD-V541 
+           (dual capstan, 3 head, Dolby C decoding) > Tascam DA-20 
+           (pass-thru), SPDIF/optical converter >
+           Creative Nomad Jukebox 3 > Firewire > CDWAV > FLAC
+
+Set II
+Source: SDBD>CASS0
+Transfer: CASS0>HB850>EAC>CDwav>SHN(Chris Jonus)
+
+
+Taped and transferred (9/2008) by Pat Volkerding <volkerdi@gmail.com>
+
+Set One:
+1.  Suzie Greenburg
+2.  Foam
+3.  Sparkle
+4.  It's Ice
+5.  Runaway Jim
+6.  Guelah Papyrus
+7.  Rift
+8.  Bouncing Around the Room
+9.  Take the A-Train
+10. David Bowie > Secret Language Instructions >
+11. David Bowie
+
+
+Set 2: 
+1. The Landlady->
+2. Possum, 
+3. Mound->
+4. Oh Kee Pa Ceremony
+5. Llama
+6. Lizards 
+7. Mike's Song->
+8.  I Am Hydrogen->* 
+9. Weekapaug Groove
+10. Cold as Ice-> Love You-> Cold as Ice 
+11. Golgi Apparatus 
+
+12. E: Horn
+13. Rocky Top 
+
+*Tape flip at the very beginning of the transition to I Am Hydrogen, the track break is the flip point- I have not altered the wavs in any way from the master cassette.
+
+
+FLAC fingerprints:
+ph1992-04-29d1t01.flac:58b5de3c5091f9156e9068e61dd98cfb
+ph1992-04-29d1t02.flac:05fd98e8534ce718468852aaf28699d3
+ph1992-04-29d1t03.flac:47db0984b9b6ff2a4e5e2b2d78619e0e
+ph1992-04-29d1t04.flac:5a1cb68b3dddfe639d6386fc0e72ea0d
+ph1992-04-29d1t05.flac:c606f14c7c81e9f3f16db037ec112bf0
+ph1992-04-29d1t06.flac:c88ebc1415b48152b0804c4ed300b75d
+ph1992-04-29d1t07.flac:1955f7587afcf36833c00a2cb9c59799
+ph1992-04-29d1t08.flac:f24931136629b715a177eca9016ba185
+ph1992-04-29d1t09.flac:2dd8ca9f130fa7b7dcab2cf996e036e7
+ph1992-04-29d1t10.flac:e5a17d74a97927d7ebbb674d7174f3af
+ph1992-04-29d1t11.flac:c33602f61963dde636b4de2a12702772
+ph1992-04-29d2t01.flac:638d96fc4a466ce916cfc7c3926700b8
+ph1992-04-29d2t02.flac:494d34f09c60463d8c2b726981baeb2d
+ph1992-04-29d2t03.flac:037bc1b595e960ba985b7f6c2fd23570
+ph1992-04-29d2t04.flac:52b76c167b241df7078a2a64255e33fc
+ph1992-04-29d2t05.flac:61586433d3cbb40ce70ae57428199834
+ph1992-04-29d2t06.flac:fa8d9133beaf90ab977493d3b2097fba
+ph1992-04-29d2t07.flac:68b4022a44c9a413b88595fb03c43ed4
+ph1992-04-29d2t08.flac:c20ab630cd7862f011f1477735da49d9
+ph1992-04-29d2t09.flac:1bed84d83e33f597ac70f2185453cfc0
+ph1992-04-29d2t10.flac:78cdb929f129da7cc79ca7581ab634bc
+ph1992-04-29d2t11.flac:7140ada17ea7975019b4f2681336338e
+ph1992-04-29d2t12.flac:397731db5af2c85ffd566a9a30142e3b
+ph1992-04-29d2t13.flac:b86ab765ef6ac16b26e1d5f1d8b580a3
+
+MD5:
+37c60b5b582ceb30286137df98b3a5c2 *ph1992-04-29d1t01.flac
+72e42c055afa88927a05e85a3ae00c5e *ph1992-04-29d1t02.flac
+4e46d9b9dffa3620f93152bce342686d *ph1992-04-29d1t03.flac
+00cac234276b043e13bc258fc209accc *ph1992-04-29d1t04.flac
+9afd751e8f30a00faecb1b3fcaa45902 *ph1992-04-29d1t05.flac
+5a9b2126ca32a6daa543c41d6f8e8565 *ph1992-04-29d1t06.flac
+0863840692c7d5fffa0d97b3de2791e1 *ph1992-04-29d1t07.flac
+15afa04c34b40640370819a63ae1c45b *ph1992-04-29d1t08.flac
+a7babd26f1898ab9e0404f705aa89232 *ph1992-04-29d1t09.flac
+1b9aa484bd5356c66da44dff58687965 *ph1992-04-29d1t10.flac
+ac7ecd852139a07bb3e13eb788b2fc56 *ph1992-04-29d1t11.flac
+adecb120e9ee2fe9eed91137172125ee *ph1992-04-29d2t01.flac
+c967a5321b10010f220ed9cc56ba4d33 *ph1992-04-29d2t02.flac
+927ed645498bbe66621bc8a5e1f33606 *ph1992-04-29d2t03.flac
+30faca62542b6d4faba5b6365c0c7c48 *ph1992-04-29d2t04.flac
+59b7f6a6c9edfa5025f8d6d52b854d83 *ph1992-04-29d2t05.flac
+f656a0aa0db4960d832930661a802c09 *ph1992-04-29d2t06.flac
+e61f9832cbab0326f43db15c7bae15e4 *ph1992-04-29d2t07.flac
+0df4c2eea1a0cc7ebdfbaf3ce2ebc21a *ph1992-04-29d2t08.flac
+2a13f0408fef79d98090c7931bd99f75 *ph1992-04-29d2t09.flac
+1075ede823ca8966e25490597feb36b2 *ph1992-04-29d2t10.flac
+247697875e7e6280184942c35f2209e0 *ph1992-04-29d2t11.flac
+406e7cfc891a625521af941a13a871f3 *ph1992-04-29d2t12.flac
+685bab20ed962a9c6a8152b746dd447a *ph1992-04-29d2t13.flac
+
+shntool output:
+    length     expanded size   cdr  WAVE problems filename
+     5:23.23       57031340    ---   --   ---xx   ph1992-04-29d1t01.flac
+     8:32.52       90439148    ---   --   ---xx   ph1992-04-29d1t02.flac
+     4:01.55       42641804    ---   --   ---xx   ph1992-04-29d1t03.flac
+     8:39.11       91577516    ---   --   ---xx   ph1992-04-29d1t04.flac
+     7:32.19       79777532    ---   --   ---xx   ph1992-04-29d1t05.flac
+     5:52.30       62163404    ---   --   ---xx   ph1992-04-29d1t06.flac
+     6:59.70       74076284    ---   --   ---xx   ph1992-04-29d1t07.flac
+     3:46.01       39868796    ---   --   ---xx   ph1992-04-29d1t08.flac
+     4:59.74       52917692    ---   --   ---xx   ph1992-04-29d1t09.flac
+     6:52.47       72787388    ---   --   ---xx   ph1992-04-29d1t10.flac
+    10:50.10      114683564    ---   --   ---xx   ph1992-04-29d1t11.flac
+     3:57.51       41926796    ---   --   ---xx   ph1992-04-29d2t01.flac
+    10:55.49      115657292    ---   --   ---xx   ph1992-04-29d2t02.flac
+     6:01.03       63687500    ---   --   ---xx   ph1992-04-29d2t03.flac
+     1:43.10       18192764    ---   --   ---xx   ph1992-04-29d2t04.flac
+     4:54.56       51993356    ---   --   ---xx   ph1992-04-29d2t05.flac
+     9:46.24      103426892    ---   --   ---xx   ph1992-04-29d2t06.flac
+     6:41.10       70759964    ---   --   ---xx   ph1992-04-29d2t07.flac
+     2:03.45       21803084    ---   --   ---xx   ph1992-04-29d2t08.flac
+     6:36.53       69979100    ---   --   ---xx   ph1992-04-29d2t09.flac
+     8:40.22       91779788    ---   --   ---xx   ph1992-04-29d2t10.flac
+     5:04.47       53736188    ---   --   ---xx   ph1992-04-29d2t11.flac
+     3:46.21       39915836    ---   --   ---xx   ph1992-04-29d2t12.flac
+     2:42.69       28739132    ---   --   ---xx   ph1992-04-29d2t13.flac
+   146:24.27     1549562160 B                     (totals for 24 files, 0.5271 overall compression ratio)
+
+
+Notes:
+A couple of seconds are missing from the beginning of "Suzie Greenburg".  
+Sorry for the late start.  There are two short gaps at the end of Rift 
+where the taper ahead of me in the chain flipped without warning -- my own 
+tape ran out moments before the song ended and needed to be flipped, too.  
+Tape flip in the second set as I Am Hydrogen begins.  Paul's deck was 
+leading the chain and ran out.  He was busy mixing, so it was a few 
+seconds before he could be alerted that the tape needed to be flipped.
+
+Editing: 
+Essentially, none.  There was no EQ, digital noise reduction, or other 
+digital post-processing applied.  Normalization was achieved with the 
+DA-20 level control and level margin indicator (and repeated transfer 
+attempts until the levels were just exactly perfect).  Regarding 
+"essentially" -- two tracks were taken into Cool Edit for very minor 
+repair.  "Possum" -- one pop was carefully removed the first time they all 
+sing "Possum" together in the first chorus.  "Love You" had a few pops in 
+it, possibly microphone overload (this is evident in the first set 
+audience tape, so it was not brickwalling anywhere in the tape chain).  
+These pops were removed where Fishman (I mean Henrietta) says "Hello 
+Minneapolis" and "Peter" (as in Peter Schall).  There were a couple of 
+mild snapping noises during the Electrolux solo, but these were left alone 
+as IMHO they are part of the authentic sound.
+
+All tracks have been checked for correct CD sector boundaries.
+
+The story behind this tape lineage:
+My friend Brad told me I should come out for this show since it was only 
+200 some miles from where I lived, and to bring my deck and cables to 
+patch from the board.  So, I didn't bring my mic rig with me.  I got 
+there, attempted to stealth my gear in and was caught (only time that ever 
+happened -- fooled by the ominous NO TAPING sign)...  told them the band 
+said it was OK.  They checked, came back, said something like "Aww, I 
+wanted a new tape deck", and let me in.  Col. Bruce Hampton was getting 
+ready to play, so I settled down with a beer.  Didn't see Brad anywhere.  
+After the set, I talked to Paul and told him Brad said it would be all 
+right to patch in.  Paul said he'd have to hear that from Brad.  Well...  
+I held out about as long as I could waiting to Brad to turn up, but no...  
+so, just as set one began I patched into a D5 that belonged to someone I'd 
+just met there.  Some time after flipping the tape during the first set, I 
+see Brad and Paul chatting at the board and wander over.
+
+"Hey, got your patch right?"
+"No."
+(some discussion)
+"Want it?"
+"Well...  I'd rather not interrupt a rolling tape.  Can I get it for set two?"
+"Sure."
+
+So, for set two I was patched out of Chris Kuroda's D6 (and it was also my 
+job to run his deck while he handled the lights -- masterfully as always).  
+Kind of a shame the first set patch did not materialize, but I'm glad to 
+have got what I got.  I checked the other decks and none of them were 
+using noise reduction.  I've always liked to use that (dbx usually) and 
+leave plenty of headroom, so my guess is that this second set may be a 
+sonic upgrade from what previously circulated.  The first set has not, to 
+my knowledge, circulated previously as a digital copy of this audience 
+master;  only as cassette copies.
+
+When the other audience tapers saw I'd gotten a patch, they all wanted to 
+patch with me.  I nearly had to fend them off with a shillelagh.  ;-)  I 
+promised some of them copies, but nobody ever contacted me.  Analog copies 
+of the whole show were circulated back in the day.  Now, enjoy the whole 
+thing direct from the masters.  Remind me not to take 16 years to get 
+stuff out next time...
+

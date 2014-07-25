@@ -1,0 +1,86 @@
+Phish
+The Cotton Club
+Atlanta, GA
+06-01-1990
+
+SOURCE: Unknown AUD > ? > CD > EAC > SHN > Mastering > FLAC
+
+Thanks to Alec Swensen for the source SHN's!
+
+01. Crowd
+02. Rocky Top
+03. Uncle Pen
+04. Run Like an Antelope
+05. Mike's Song >
+06. I Am Hydrogen >
+07. Weekapaug Groove
+08. HYHU > Fee
+09. Terrapin > HYHU
+10. Possum
+11. Fee
+12. Big Black Furry Creature from Mars
+13. Contact
+
+Show Notes: Rocky Top through Antelope featured the Reverend Jeff Mosier on banjo; Antelope also featured Oteil Burbridge on bass. This show features one of the most humorous moments ever caught on tape! It started when the crowd chanted for Fee as Fishman took the stage during HYHU. Fish sounded perplexed, and remarked that he doesn't sing Fee, but Trey and Page started the song up anyway and left Fishman on the spot. He tried his best and got through the first verse before falling apart during the chorus.
+
+*note*
+There is some distortion on the set...it starts durring the fishman part and continues to the end. I lowered the volume to lessen the crackle, but it's still distorted. This is pretty much for historical purposes only...and it is pretty darn funny to boot!
+
+EAC LOG:
+Track  1
+   Peak level 73.3 %
+   Track quality 99.9 %
+   Copy CRC C9915CBC
+   Copy OK
+Track  2
+   Peak level 62.3 %
+   Track quality 100.0 %
+   Copy CRC 205841CB
+   Copy OK
+Track  3
+   Peak level 52.6 %
+   Track quality 100.0 %
+   Copy CRC 137DFEF7
+   Copy OK
+Track  4
+   Peak level 58.7 %
+   Track quality 99.9 %
+   Copy CRC CEDE3DC6
+   Copy OK
+Track  5
+   Peak level 70.0 %
+   Track quality 99.9 %
+   Copy CRC C43F6D6C
+   Copy OK
+Track  6
+   Peak level 69.7 %
+   Track quality 100.0 %
+   Copy CRC E9B2D965
+   Copy OK
+Track  7
+   Peak level 77.6 %
+   Track quality 100.0 %
+   Copy CRC 858B02F1
+   Copy OK
+Track  8
+   Peak level 87.9 %
+   Track quality 99.9 %
+   Copy CRC 44602289
+   Copy OK
+Track  9
+   Peak level 80.6 %
+   Track quality 99.9 %
+   Copy CRC F57421F8
+   Copy OK
+Track 10
+   Peak level 92.5 %
+   Track quality 100.0 %
+   Copy CRC B456C744
+   Copy OK
+Track 11
+   Peak level 67.7 %
+   Track quality 100.0 %
+   Copy CRC 4DC699A8
+   Copy OK
+No errors occured
+End of status report

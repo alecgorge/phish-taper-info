@@ -1,0 +1,38 @@
+Phish
+08/07/2009
+George, Washington  The Gorge Amphitheatre
+
+Source: Schoeps mk22> KCY> Schoeps VMS02IB> Apogee Mini-Me> SD 722 (@24bit/96kHz)
+Location: FOB, DFC, ORTF
+
+Transfer: SD 722> Samplitude SE 9.1.1(resample/dither)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (08/08/2009)
+
+
+Set I
+t01 [09:05] Down with Disease
+t02 [10:06] Ocelot
+t03 [08:25] Pebbles and Marbles
+t04 [08:54] Possum
+t05 [02:43] Sleep
+t06 [07:22] Destiny Unbound
+t07 [14:15] Stash
+t08 [17:49] Sneakin' Sally Through the Alley
+t09 [04:39] Cavern
+
+Set II
+t10 [08:24] The Moma Dance
+t11 [13:18] Light>
+t12 [08:24] Taste
+t13 [14:57] Fluffhead
+t14 [05:33] Joy
+t15 [18:00] Bathtub Gin>
+t16 [16:11] Harry Hood
+t17 [02:57] crowd
+
+Encore
+t18 [10:02] Slave to the Traffic Light
+
+
+Notes:
+Set I [1:23:18] Set II [1:27:44] Encore [10:02]

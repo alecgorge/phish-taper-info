@@ -1,0 +1,77 @@
+Phish
+05-25-94
+Warfield Theater, San Francisco, CA
+--------------------------------------------------------------------------------------------
+This show is included in the 1994 Phish Project.
+http://people.atl.mediaone.net/danmarq/1994_phish_project.html
+----------------
+
+Source:         [DFOB; Master DAT]
+                Schoeps CMC5/Mk4 (ORTF)-> Sonosax SX-M2-> Apogee AD-500E-> Sony D-10 @ 48KHz
+
+Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                Soundforge 5.0b (48KHz->44.1KHz at highest setting [4 of 4],
+                with anti-alias filter)-> CD Wave 1.61-> mkwACT v0.97
+                **No DAE at all**
+
+Minor Edits: Fades (in/out at beginning/end of sets)
+----------------
+Transferred by Dan Marquardt , please contact me with questions/comments.
+There are also 48KHz shn's of this seed for archival.
+--------------------------------------------------------------------------------------------
+
+____________________________________________________________________________
+
+*Dankseed Certification received 01-07-28*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph94-05-25/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________
+
+
+CD/Set 1: 68:36.69
+01. The Curtain-> 06:55.04
+02. Sample in a Jar 04:56.65
+03. Uncle Pen 04:08.64
+04. Stash 10:27.66
+05. Colonel Forbin's Ascent-> 11:09.53
+06. Famous Mockingbird 06:03.20
+07. Axilla [Part II] 03:12.44
+08. Scent of a Mule 08:25.27
+09. My Sweet One* 03:41.67
+10. Sweet Adeline* 02:14.40
+11. Chalk Dust Torture 07:20.69
+
+----------------------------------------
+
+CD 2/Set 2a: 63:55.66
+01. Rift 06:22.69
+02. Tweezer > 14:33.53
+03. Lifeboy 08:34.09
+04. Maze 10:12.15
+05. Contact-> 06:15.27
+06. Big Ball Jam 02:57.59
+07. Julius 06:53.48
+08. HYHU-> Purple Rain-> HYHU 08:06.11
+
+----------------------------------------
+
+CD 3/Set 2b 24:28.27
+01. The Squirming Coil 13:38.35
+
+Encore:
+02. Sleeping Monkey > 05:54.37
+03. Tweezer Reprise 04:55.30
+
+--------------------------------------------------------------------------------------------
+
+*Acoustic and without mics.

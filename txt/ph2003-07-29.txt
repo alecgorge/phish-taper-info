@@ -1,0 +1,74 @@
+Phish
+Post Gazette Pavilion @ Star Lake
+Burgettstown, PA
+2003-07-29
+
+Source: Nakamichi CM700/CP701's > Sound Devices MP-2 > Graham Patten ADC-20(48kHz) > Sony D8  
+
+Mic setp and location: ORTF, 1st row OTS, stand taped to railing behind SBD
+
+Transfer: Sony DTC-60Es > M-Audio FireWire 410 (via coax SPDIF) > SoundForge 8.0 
+          (normalized, fades at begining and end of sets, resampled 48>44.1kHz w/highest 
+          setting(4) & anti-alias filter on) > CDWav v1.95.1 (tracked) > FLAC lVl8     
+
+Taped & transfered by: Rodeo (soamike@hotmail.com)
+
+=Set I=
+01 "Tuning"
+02 Daniel (Saw the Stone)
+03 Camel Walk
+04 Gotta Jibboo
+05 Cool it Down
+06 Scent of a Mule
+07 Fee >
+08 Timber (Jerry) >
+09 When the Circus Comes
+10 McGrupp and the Watchful Housemasters
+11 Golgi Apparatus
+
+=Set II=
+01 "Tuning"
+02 Crosseyed and Painless >
+03 Thunderhead
+04 Brother
+
+-Disc 3-
+01 Harpua >
+02 Bittersweet Motel
+03 Harpua
+04 I Fooled Around and Fell in Love* >
+05 HYHU >
+06 Harpua >
+07 David Bowie
+08 "Audience"
+=Encore=
+09 Farmhouse
+
+* First time played
+
+-FLAC ffp-
+
+Phish2003-07-29d1t01.flac:a08560ab007f854cd355bdf0dfe6a2aa
+Phish2003-07-29d1t02.flac:5be2816bca11f27443946d31b40b8ed8
+Phish2003-07-29d1t03.flac:6eddd2fad3a3126ef2146752641a9cab
+Phish2003-07-29d1t04.flac:4c61904185a90aad02352838fdf64750
+Phish2003-07-29d1t05.flac:d34762f43227bfac1855391c8d620b3a
+Phish2003-07-29d1t06.flac:bad1435ce3f5961b1f667120ecbb3894
+Phish2003-07-29d1t07.flac:270ca09d2c1c057b7f6c466a3b09e581
+Phish2003-07-29d1t08.flac:3abefb5127c0553a9b305534422d8c73
+Phish2003-07-29d1t09.flac:e85ff29952d98d42cebff0c5ed28808a
+Phish2003-07-29d1t10.flac:19bd098b9cdbf8c3831f990b56d66e3c
+Phish2003-07-29d1t11.flac:e1696fe0fae2cd3a3689379171ea505f
+Phish2003-07-29d2t01.flac:0f2a2d83e143e132e7bc01a1ff45cd82
+Phish2003-07-29d2t02.flac:0c1a7e33ebafc5b9f0099a1688941efb
+Phish2003-07-29d2t03.flac:440a7a99ef4116822da1311b039385d2
+Phish2003-07-29d2t04.flac:9c7df2220f474f756280eb475e21b1f0
+Phish2003-07-29d3t01.flac:d525b0a79be7c956e32ad5b272ac9ec3
+Phish2003-07-29d3t02.flac:a3bfef101c8178dd6c7191a3f2fc6a13
+Phish2003-07-29d3t03.flac:954d55b8b630c0d824ce8014a53ecc6d
+Phish2003-07-29d3t04.flac:e52454547329193fe710d95771cdb6ba
+Phish2003-07-29d3t05.flac:b8c2ea681f6a40ee60d4fdd4450d04f0
+Phish2003-07-29d3t06.flac:5fce383307acb55e60a21c3717b95ced
+Phish2003-07-29d3t07.flac:e56f966bf2dc0dac534eaa613cb6dbd9
+Phish2003-07-29d3t08.flac:4f633818baf234528b3e3ecc57797124
+Phish2003-07-29d3t09.flac:1db11eda46d3e4373ad2665ffed01a96

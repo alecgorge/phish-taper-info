@@ -1,0 +1,105 @@
+Phish
+04-26-1991
+Hartman Union Activities Center, Plymouth State University, Plymouth, NH
+
+
+Source: Unknown AUD
+
+Transfer: CDR > EAC > WAV > FLAC
+
+
+Disc One:
+
+ Soundcheck:
+01. Poor Heart				3:23
+02. Paul and Silas			3:31
+03. Paul and Silas			2:28
+04. Funky Bitch				4:24
+ Set I:					
+05. Chalkdust Torture #			6:29
+06. Squirming Coil			6:14
+07. The Sloth				3:50
+08. Possum				8:28
+09. Fluffhead ##			13:34
+10. Poor Heart				2:58
+11. Foam >				8:22
+
+Disc Two:
+
+01. YEM >				17:08
+02. Llama				5:08
+ Set II:
+03. Uncle Pen				4:30
+04. Split Open and Melt			6:48
+05. Bouncing Around the Room		3:50
+06. My Sweet One			2:16
+07. Guelah ###				5:54
+08. The Landlady 			4:02
+09. I didn't Know			3:30
+10. Harry Hood ####			11:37
+11. Harpua				14:00
+
+Disc Three:
+		
+ Encore:		
+01. Donna Lee > Fire			8:39
+
+
+Soundcheck is a bit spotty, The right channel cuts out during the end of Paul and Silas and there is static during the beginning of Funky Bitch. Also the encore can be placed at the end
+of Disc one to make this fit on two discs.
+
+# A bit of static in a few spots
+## Tape flip, fades out
+### Minor drop out 1:30
+#### Tape flip, cuts at end+
+
+shntool output:
+
+     3:23.52       35931548 B   ---   --   -----    wav  1.0000  c:\shows\ph1991
+-04-26.flac\ph91-04-26d1t01.wav
+     3:31.37       37307468 B   ---   --   -----    wav  1.0000  c:\shows\ph1991
+-04-26.flac\ph91-04-26d1t02.wav
+     2:28.73       26278940 B   ---   --   -----    wav  1.0000  c:\shows\ph1991
+-04-26.flac\ph91-04-26d1t03.wav
+     4:24.64       46720172 B   ---   --   -----    wav  1.0000  c:\shows\ph1991
+-04-26.flac\ph91-04-26d1t04.wav
+     6:29.06       68633756 B   ---   --   -----    wav  1.0000  c:\shows\ph1991
+-04-26.flac\ph91-04-26d1t05.wav
+     6:14.39       66065372 B   ---   --   -----    wav  1.0000  c:\shows\ph1991
+-04-26.flac\ph91-04-26d1t06.wav
+     3:50.41       40668476 B   ---   --   -----    wav  1.0000  c:\shows\ph1991
+-04-26.flac\ph91-04-26d1t07.wav
+     8:28.29       89679452 B   ---   --   -----    wav  1.0000  c:\shows\ph1991
+-04-26.flac\ph91-04-26d1t08.wav
+    13:34.29      143657852 B   ---   --   -----    wav  1.0000  c:\shows\ph1991
+-04-26.flac\ph91-04-26d1t09.wav
+     2:58.35       31481564 B   ---   --   -----    wav  1.0000  c:\shows\ph1991
+-04-26.flac\ph91-04-26d1t10.wav
+     8:22.53       88677500 B   ---   --   -----    wav  1.0000  c:\shows\ph1991
+-04-26.flac\ph91-04-26d1t11.wav
+    17:08.44      181442732 B   ---   --   -----    wav  1.0000  c:\shows\ph1991
+-04-26.flac\ph91-04-26d2t01.wav
+     5:08.63       54479420 B   ---   --   -----    wav  1.0000  c:\shows\ph1991
+-04-26.flac\ph91-04-26d2t02.wav
+     4:30.12       47656268 B   ---   --   -----    wav  1.0000  c:\shows\ph1991
+-04-26.flac\ph91-04-26d2t03.wav
+     6:48.36       72055916 B   ---   --   -----    wav  1.0000  c:\shows\ph1991
+-04-26.flac\ph91-04-26d2t04.wav
+     3:50.21       40621436 B   ---   --   -----    wav  1.0000  c:\shows\ph1991
+-04-26.flac\ph91-04-26d2t05.wav
+     2:16.38       24079820 B   ---   --   -----    wav  1.0000  c:\shows\ph1991
+-04-26.flac\ph91-04-26d2t06.wav
+     5:54.07       62462108 B   ---   --   -----    wav  1.0000  c:\shows\ph1991
+-04-26.flac\ph91-04-26d2t07.wav
+     4:02.67       42846428 B   ---   --   -----    wav  1.0000  c:\shows\ph1991
+-04-26.flac\ph91-04-26d2t08.wav
+     3:30.02       37048748 B   ---   --   -----    wav  1.0000  c:\shows\ph1991
+-04-26.flac\ph91-04-26d2t09.wav
+    11:37.26      123011996 B   ---   --   -----    wav  1.0000  c:\shows\ph1991
+-04-26.flac\ph91-04-26d2t10.wav
+    14:00.28      148241900 B   ---   --   -----    wav  1.0000  c:\shows\ph1991
+-04-26.flac\ph91-04-26d2t11.wav
+     8:39.68       91711580 B   ---   --   -----    wav  1.0000  c:\shows\ph1991
+-04-26.flac\ph91-04-26d3t01.wav
+   151:14.45     1600760452 B                            1.0000  (23 files)
+

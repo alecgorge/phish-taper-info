@@ -1,0 +1,44 @@
+Phish
+04.24.1992
+Roseland Ballroom
+Portland, OR
+
+Source: SBD > Analog > CDR (as far as i know)
+Transfer: Analog > Soundforge 5.0 > CDWave > CDR
+	by zgruman-squirrel3@hehe.com
+Conversion:  CD > EAC (secure, offset set, log files included) > .flac
+	by Jesse Bloom (jebloom@kiva.net)
+
+Disc 1:					[78:39]
+01.  Runaway Jim			[07:11]
+02.  Colonel Forbin's Ascent->		[08:32]
+03.  Icculus->				[03:17]
+04.  Famous Mockingbird			[06:49]
+05.  Uncle Pen				[04:08]
+06.  The Sloth				[03:41]
+07.  The Landlady			[03:23]
+08.  Fluffhead				[15:13]
+09.  Sparkle				[04:06]
+10.  Stash				[10:55]
+11.  The Squirming Coil			[06:38]
+12.  Golgi Apparatus			[04:38]
+
+Disc 2:					[53:14]
+01.  David Bowie			[14:19]
+02.  Cavern				[04:23]
+03.  Ya Mar				[06:18]
+04.  Foam				[08:19]
+05.  Mike's Song->			[09:05]
+06.  I Am Hydrogen->			[03:11]
+07.  Weekapaug Groove			[07:35]
+
+Disc 3:					[41:15]
+01.  The Mango Song			[07:22]
+02.  Horn				[03:49]
+03.  Cold as Ice->			[01:48]
+04.  Love You->	Cold as Ice		[07:27]
+05.  Glide				[04:00]
+06.  Llama				[07:25]
+Encore
+07.  Contact				[06:30]
+08.  Big Black Furry Creature From Mars	[02:52]

@@ -1,0 +1,75 @@
+Phish - 5-22-94
+The Vogue, Vancouver British Columbia
+
+
+Set I:
+
+Welcome to my masterclone copy of this show.
+*There is a very split second slight digi noise
+on Disc 1 Track 4(Glide).It is so slight and so
+quick,and this is such a hot show,I will go
+ahead and seed it.
+
+This show was taped by my friend,
+Robert Ward from San Jose CA
+*While taping this show,Robert adjusted his
+levels during the Acoustic Songs so they are
+a little "up and down",but it pays off!!
+Here's his setup:
+NAK 300 Omnis>D-7>DAT.
+
+I have no clue how he mastercloned it for me.
+
+Their journey to SHN:
+Technics SV 260A>COAX>WAV>CDWAV>SHN
+I have used the MKW audio compression tool.
+These SHN files are seekable in your SHNamp.
+Also, I have included the md5 for the wav files.
+Please use it to verify yours.
+Please se the audio file provided
+when trading in the audio format.
+
+----------------------------
+Set II:
+Source: SBD > Cass(0) > DAT
+
+Transfer: Sony PCM-R500 > Delta Di0 2496 > Soundforge 8 (48>44.1 resampling on highest accuracy setting w/anti alias filter)> CDwav > FLAC v1.7.1 
+Transferred, Encoded, and Seeded by Matt Edlhuber 
+__________________________________________________
+
+PEACE  LOVE  AND  PHISH!!!
+Linda Webster
+http://db.etree.org/linda95
+My "Dat Only List" aka My "SHN Only List".
+
+Disc 1 Set 1
+{1}Demand >(1:53:14),
+{2}Sloth(3:43:49),
+{3}Divided Sky(13:43:43),
+{4}Glide(6:19:36),
+{5}Peaches en Regallia(3:10:68),
+{6}Split Open and Melt(11:19:29),
+{7}Fluffhead(15:25:62),
+{8}My Sweet One(2:24:61),
+{9}Ginseng Sullivan(3:31:37),
+{10}Dog Faced Boy(4:07:11),
+{11}Axilla II(3:17:03).
+TOTAL:68:56:38.
+
+Set II:
+01: Down With Disease
+02: Bouncing Around the Room
+03: It's Ice
+04: McGrupp and the Watchful Hosemasters->
+05: Tweezer->
+06: Lifeboy
+07: //Rift
+08: Slave to the Traffic Light
+09: Tweezer Reprise
+Encore
+10: Sleeping Monkey
+
+Errors:
+Minor Digiburst in McGrupp
+Minor Digiburst in Lifeboy
+Crack in Monkey

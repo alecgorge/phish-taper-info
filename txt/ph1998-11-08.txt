@@ -1,0 +1,63 @@
+Phish
+11.8.98
+UIC Pavillion
+Chicago, IL
+
+Taped/Transferred/Seeded By;
+Greg Lance
+gotfob@hotmail.com
+
+
+Source: (Patched From Tom Kingston's Rig)
+B&K 4011's > Audio Magic Cables > *V2 > AD 1000 > Digi Splitter > M1
+*V2 @ 40db
+
+Transfer:
+Fostex D5 @ 48k > Vx Pocket 440 >Toshiba 3480ct > Wavelab 4.0 > 
+Fades/Resampled to 44.1 > Cd Wave > FLAC
+
+
+Disc I/Set I
+1. Taste
+2. Carinin With A Lumpy Head
+3. Love Me
+4. Ride Captain Ride
+5. Fee
+6. Paul & Silas *
+7. Roggae
+8. Water In The Sky
+9. Stash
+10. Cavern
+
+Disc II/Set II
+1. Chalkdust Torture
+2. Meat >
+3. Rock & Roll >
+4. Down With Disease **>
+5. Piper >
+6. Wading In A Velvet Sea
+7. Antelope
+-Encore-
+8. Been Caught Stealin'
+
+*1st since 2.28.97
+**With Baba O'Reilly Loop
+
+ph1998-11-08d1t01.flac:d92fe7a0489ecbcf16bdffc563a8e111
+ph1998-11-08d1t02.flac:4e46d6410fd58e182fdcc23557a318c9
+ph1998-11-08d1t03.flac:76b0e8fcae8e8f578deb70b6aca4a7dd
+ph1998-11-08d1t04.flac:b7a3736d8b7b8d97bc1df13da67d6e75
+ph1998-11-08d1t05.flac:c933129d0b183034282938ecf9e8f59a
+ph1998-11-08d1t06.flac:2830bd41d8ff3faf775f222557b4e2e9
+ph1998-11-08d1t07.flac:d692bd667849f0d0cdfc3dc8ecc07341
+ph1998-11-08d1t08.flac:782077342f34a90150055bcf6cb84590
+ph1998-11-08d1t09.flac:23df4407909dbb6e7a8b36fbda13ca6e
+ph1998-11-08d1t10.flac:7605a5597ec2adb9ed02ff493952ecd6
+ph1998-11-08d2t01.flac:655f8c648ecd7d46954946dae8aaa4ed
+ph1998-11-08d2t02.flac:e1768db48a80757bb3bace886780b6eb
+ph1998-11-08d2t03.flac:d6cb4f2de12cd5e1195d9aa81c2c133d
+ph1998-11-08d2t04.flac:278e50a9dda49c28f328a804ce4255b2
+ph1998-11-08d2t05.flac:19bc469392cfd9fae7f0a46caab7280e
+ph1998-11-08d2t06.flac:7e0387e6a3ec2215d47bccbd89f41e70
+ph1998-11-08d2t07.flac:46d9b4afa59a9bf46688407b89a90576
+ph1998-11-08d2t08.flac:821fc5fad78695ccbe0f8d024c31db14

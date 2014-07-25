@@ -1,0 +1,54 @@
+Phish
+05-12-94
+Buena Vista Theater, Tucson, AZ 
+--------------------------------------------------------------------------------------------
+This show is included in the 1994 Phish Project.
+http://94project.webhop.net
+----------------
+
+Source:         [DAUD]
+                Unknown DAUD Source (Probably AKG 460's)
+
+Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                Soundforge 7 (48KHz->44.1KHz at highest setting [4 of 4],
+                with anti-alias filter)-> CD Wave 1.91-> mkwACT v0.97
+                **No DAE**
+
+Minor Edits:	Fades (in/out at beginning/end of sets and encore)
+--------------------------------------------------------------------------------------------
+CD/Set 1:					1:08:43
+01. Catapult >					00:56
+02. Rift					05:58
+03. Down With Disease				06:34
+04. Fee						05:25
+05. Maze					11:06
+06. Axilla [Part II]				03:08
+07. Foam					10:31
+08. Bathtub Gin	>				09:52
+09. Lizards					10:14
+10. Sample in a Jar				04:59
+
+CD/Set 2:					1:17:42
+01. Also Sprach Zarathustra->			04:30
+02. Run Like an Antelope			10:56
+03. The Horse->					01:14
+04. Silent in the Morning			04:56
+05. Uncle Pen					03:53
+06. Fluffhead					13:56
+07. Lifeboy					08:08
+08. Possum					11:44
+09. HYHU-> Love You-> HYHU			06:20
+10. Contact >					06:00
+11. Big Black Furry Creature From Mars		06:05
+
+CD 3/Encore:					05:23
+12. Amazing Grace				02:48
+13. Rocky Top					02:35
+
+Total Running Time:				2:31:48
+--------------------------------------------------------------------------------------------
+NOTE: The encore will fit at the end of CD 1.
+----------------
+DAT provided by: Aldo Torre
+Transferred by: Dan Marquardt <danmarq@msn.com>
+--------------------------------------------------------------------------------------------

@@ -1,0 +1,71 @@
+Phish-
+The Front
+Burlington VT
+10/21/89
+
+Source: SBD > Cass/? > CDR > EAC > Audacity 1.2.4 > CDWAv > FLAC16
+
+Transfer: By Taperwayne (taperwayne@yahoo.com)
+
+Disc #1
+
+01. Fee 
+02. Ya Mar
+03. In A Hole
+04. McGrupp and The Watchful Hosemasters >
+05. Who Do? We Do! >
+06. Foam
+07. AC/DC Bag 
+08. The // Lizards
+09. Dog Log
+10. David Bowie
+
+Disc #2
+
+01. Mike's Song >
+02. I Am Hydrogen >
+03. Weekapaug Groove //
+04. //Oh Kee Pah Ceremony >
+05. Suzie Greenberg >
+06. Wilson
+07. Possum
+08. Reba >
+09. The Sloth
+10. //You Enjoy Myself >
+11. Highway To Hell
+
+Notes: This show came to me on CDR, tracked wrong, and very off pitch.
+I used Audacity to correct the pitch, and CDWAV to properly track it
+out, and it turned out much better than the original was.
+Due to multiple gens of analog transfers, there is a bit of a high
+pitched whine in the background, which I didn't mess with.
+This show does not circulate in a lossless format, and should be
+considered a "gap filler" until a better one shows up.
+Anyone wanting to do some additional mastering work, to clean it
+up further, feel free.
+Any questions, feel free to email me at taperwayne@yahoo.com
+Enjoy!
+
+***MD5 CHECKSUMS***
+
+a2c3289627a6eeedeff8978b21f7451b *ph1989-10-21d1t01.flac
+d733fa14f16b41e62fba1c7afae6b52f *ph1989-10-21d1t02.flac
+4bb36fdeb965006869a9245bfa95f725 *ph1989-10-21d1t03.flac
+e7d5dcb812222f0c9c487ed0d218bafb *ph1989-10-21d1t04.flac
+4febcc0dfd85627df768767d70b895a2 *ph1989-10-21d1t05.flac
+3b219270040f2d0bcdd9cf631c8d04c4 *ph1989-10-21d1t06.flac
+9dfe1af9c83a013e1d65432d5ef81a50 *ph1989-10-21d1t07.flac
+abf4f3a37ad445659e3788551f21d855 *ph1989-10-21d1t08.flac
+d68997d18bc5010d724e263f8429f3ef *ph1989-10-21d1t09.flac
+12aa3a2082d4d831f0f112276d337896 *ph1989-10-21d1t10.flac
+eef7a2d97a2d1402273ffacf82e76aa9 *ph1989-10-21d2t01.flac
+3ac9d765176a1bfa8b1d7ff689fe7a93 *ph1989-10-21d2t02.flac
+b845f82179eb34716af8ba941d96be9a *ph1989-10-21d2t03.flac
+7e377aef0bd5decc0f429a99240dad44 *ph1989-10-21d2t04.flac
+cc7461c08f6c2d83b852b51645cf3bd2 *ph1989-10-21d2t05.flac
+91ab0023649711cb1f573f7ccf564c08 *ph1989-10-21d2t06.flac
+655ba3a81762c250f1be3525a38501d2 *ph1989-10-21d2t07.flac
+bae47ebee40c113d6edff03040a43e22 *ph1989-10-21d2t08.flac
+66e7e229770b56a5d1f889cf456c4fbd *ph1989-10-21d2t09.flac
+be7d9cadff9889171127d17a2a421d86 *ph1989-10-21d2t10.flac
+74ed42bffa6108044ea488859bddb8de *ph1989-10-21d2t11.flac

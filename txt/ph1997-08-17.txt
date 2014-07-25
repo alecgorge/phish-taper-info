@@ -1,0 +1,56 @@
+Phish 
+8-17-97
+The Great Went, Loering AFB
+Limestone, ME
+
+Source: FM(SBD)>Sony WM-FX50>Sony D8
+Transfer: Tascam DA-20mII>SoundForge 4.5>cdQuadrat 3.6
+Taped and Transferred (from DAT master)by David Schall. THANKS DAVID!
+
+"Master" discs (ie. burned by David) extracted using EAC in secure mode with write caching 
+disabled, verified with SHNTool, then converted to SHN using MKW 0.97 with seek tables appended, 
+by Blane Harvey.
+
+Fixes: Replaced first 3:09 mins of Down With Disease (with 5 second crossfade) from a secondary 
+FM source because of some reception problems on David's masters.
+
+This is a killer source of a killer show. ENJOY!!!
+
+Disc 1
+-set1-
+1. Wedge
+2. Beauty of my Dreams
+3. Dogs Stole Things
+4. Vultures
+5. Water in the Sky
+6. Maze
+7. Bouncing >
+8. Tweezer >
+9. Taste
+10. Carolina
+
+Disc 2
+-set 2-
+1. Down w. Disease >
+2. Jam >
+3. Bathtub Gin >
+4. Uncle Pen
+
+Disc 3
+-set 2 cont.-
+1. 2001 >
+2. Art Jam >
+3. Harry Hood
+
+Disc 4
+-set 3-
+1. Buffalo Bill >
+2. NICU 
+3. Weigh
+4. Guyute
+5. Dirt
+6. Scent of a Mule
+7. Prince Caspian
+-encore-
+8. When the Circus Comes
+9. Tweeprise

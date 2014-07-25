@@ -1,0 +1,69 @@
+Phish
+7-21-03
+Deer Creek
+Noblesville, IN
+
+AKG CK61/480 >> DMIC-20@48k >> D-8
+
+DAP1 >> ODL-276 >> JB3 >> PC >> Wavelab 4.0c >> CD Wave >> FLAC Frontend
+
+*DIN/OTS*
+
+Taped, tracked and transferred by Bean (diskobean@taperssection.com)
+
+2 SETS
+
+~d1: set 1~
+
+01. crowd
+02. Cities >
+03. Runaway Jim
+04. Meat
+05. Water In The Sky
+06. Stash
+07. Old Home Place
+08. Vultures
+09. Birds Of A Feather >
+
+~d2: set 1(cont.)~
+
+01. Mike's Song >
+02. I Am Hydrogen >
+03. Weekapaug Groove
+set 2:
+04. crowd
+05. Suzy Greenberg
+06. Taste
+07. 46 Days >
+
+~d3: set 2(cont.)~
+
+01. Tweezer >
+02. 2001 >
+03. Limb By Limb
+04. Good Times Bad Times
+05. E: Loving Cup >
+06. Tweezer Reprise
+
+ph2003-07-21d1t01.flac:bef62ef0b4173a3a71de807aa480b35e
+ph2003-07-21d1t02.flac:e45655551771867938f40f435723bfb0
+ph2003-07-21d1t03.flac:f8212c7e6df174c949459563abdc53f3
+ph2003-07-21d1t04.flac:cae436f30fa0622768661c4f7829838b
+ph2003-07-21d1t05.flac:4e2416f666ca8ba906cb76cec9deff90
+ph2003-07-21d1t06.flac:52e8a5097ea7ad03f90b3a72a12d44f7
+ph2003-07-21d1t07.flac:60ef796019e5a9715e1875de5310058f
+ph2003-07-21d1t08.flac:4eb5392506969bcb649c0433ee95dc52
+ph2003-07-21d1t09.flac:cd04f344452ba1952cd2041922a4a421
+ph2003-07-21d2t01.flac:82fa4605a540bf65392aa5d100c09a84
+ph2003-07-21d2t02.flac:aba810f3beb306793551d962ef984117
+ph2003-07-21d2t03.flac:b77728088504448d39176e46d4db8677
+ph2003-07-21d2t04.flac:bc214e20e94105e0262d49c6bbfbde9d
+ph2003-07-21d2t05.flac:b9dfd06cc194d11a593ba2015a63f3a4
+ph2003-07-21d2t06.flac:fc72cd0fb34195047874835230dff1da
+ph2003-07-21d2t07.flac:c4f17741ae7b4dcde736c1a0508f8604
+ph2003-07-21d3t01.flac:2d9647e955ea829ba478923eb5d966cc
+ph2003-07-21d3t02.flac:0e0a265b285e0a549e861c76da8bdb03
+ph2003-07-21d3t03.flac:a245963ad9ec1fbd6e9f8210ffd8a1a1
+ph2003-07-21d3t04.flac:7ea7edae16aac2e2e8ff5f9d36bd588c
+ph2003-07-21d3t05.flac:232f96f4f98273f6c4fcaedc474c7f67
+ph2003-07-21d3t06.flac:33d08f11fd6ec3bd4d9956074e49be68

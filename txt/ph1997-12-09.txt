@@ -1,0 +1,35 @@
+PHiSH - 12/09/97
+Bryce Jordan Center, University Park, PA 
+
+source: Schoeps CMC6/mk41 > Apogee > DA-P1
+transfer: Casio DA-R100 > M-Audio 24/96 via Coax SPDIF > Wavelab (edits, fades, normalize, sample rate converstion) > CD-WAV > SHNv3
+
+transferred on 5/17/03 by shakedown@furthurnet.org
+
+DISC ONE
+Set I:
+01. Mike's Song  >
+02. Chalkdust Torture
+03. My Soul
+04. Stash >
+05. I Am Hydrogen >
+06. Weekapaug Groove
+07. Dogs Stole Things
+08. Beauty of My Dreams
+09. Horn
+10. Loving Cup
+
+DISC TWO
+Set II:
+01. Julius
+02. Simple >
+03. Timber Ho!
+04. Contact
+05. Axilla
+06. Harry Hood
+Encore:
+07. Fire
+
+Thanks to Westkoast & Whtpwdr for all the Fall 97 OE Dats and Bunker 8 for the deck.  Many of the Fall 97 OE source DATs were transferred to SHN with DAE generations, some have yet to appear in db.etree.org at all.  This travesty must end! Look for more fresh 97s soon...
+ 
+Seeded to FurthurNET on 5/17/03 by shakedown

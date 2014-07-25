@@ -1,0 +1,43 @@
+Phish
+The Wetlands
+New York City NY
+12/30/89
+partial - all that circulates
+
+Source: SBD > Cass/? > CDR > EAC > Audacity 1.2.4 > CDWav > FLAC16
+Transfer: Taperwayne (taperwayne@yahoo.com)
+
+01. Bathtub Gin
+02. Split Open And Melt
+03. Ya Mar
+04. Suzy Greenberg 
+05. Foam
+06. My Sweet One
+07. La Grange
+08. Lawn Boy
+09. Golgi Apparatus
+10. Auld Lang Syne >
+11. Mike's Song >
+12. I Am Hydrogen >
+13. Weekapaug Groove
+
+
+Notes: Taken from a cass of unknown analog generations.
+       This is a pretty tough tape to track down, and this
+       transfer will do until something better comes along.
+       Any questsions? Feel free to email me at taperwayne@yahoo.com
+
+
+b29066e039f583c1e4808faf1f275756 *ph1989-12-30t01.flac
+d61fcdf16d0de80c63032e5100eceb8d *ph1989-12-30t02.flac
+c508336e016f93603366081710f4a148 *ph1989-12-30t03.flac
+ce53ce06eca7d2734c5972ce5728eef4 *ph1989-12-30t04.flac
+07cf3a3f672cea4768b8d5a313412c07 *ph1989-12-30t05.flac
+349f2bf712eb6243b555e36ec0cbc358 *ph1989-12-30t06.flac
+b263f6f7803092a12ab501370f699b0e *ph1989-12-30t07.flac
+0e68ff81b282fb9144c6ad84de428c37 *ph1989-12-30t08.flac
+f5130aa7b0adda983474f1bb33863f54 *ph1989-12-30t09.flac
+5fcc269333ea0863f3cdc5611e2be7e2 *ph1989-12-30t10.flac
+b95a27afc6f8ee2588471714b9da55fc *ph1989-12-30t11.flac
+fa40633ac21b85692f64c1ef041f5661 *ph1989-12-30t12.flac
+fdb1802f5974502b2bd7fef31c142d74 *ph1989-12-30t13.flac

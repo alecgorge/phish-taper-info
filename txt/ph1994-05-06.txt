@@ -1,0 +1,43 @@
+Phish
+5-6-1994
+Tower Theatre, Houston, TX	
+--------------------------------------------------------------------------------------------
+This show is included in the 1994 Phish Project.
+http://94project.webhop.net
+----------------
+
+Source: Unknown DAUD > Cassette(X) > WAV > SHN
+Conversion: Onkyo TA-2055 > Teac RW CD22 standalone burner > HDD > MKW
+Normalized and EQ'd in Soundforge 7.0
+--------------------------------------------------------------------------------------------
+
+CD 1/Set 2 Only			73:17
+01 Maze				11:47
+02 Golgi Apparatus		04:42
+03 Uncle Pen			04:10
+04 Sample in a Jar		05:04
+05 Reba				14:09
+06 Axilla [Part II]		03:20
+07 //Julius			07:48
+08 HYHU-> Bike-> HYHU		08:21
+09 David Bowie			13:56
+
+--------------------------------------------------------------------------------------------
+flaws: splice at the tape flip, in the segue b/w axilla II and julius,
+which means we're missing a few seconds... tried to make the splice as
+seamless as possible, though.
+
+source: unknown gen Cassette played on an Onkyo TA-2055 into a Teac 
+RW CD22 standalone burner, then extracted to my HD using EAC, tracked, 
+and given the ol' mkw...
+
+notes: many thanks to Texas' own Andrew Schultz for the source tape of 
+my first phish show... it was 2003 before i finally tracked down an 
+analog copy, burned it, tracked it, and SHN'd it... it's all i can 
+find, so will do until something purely digital surfaces, i guess... 
+
+enjoy!
+
+bushpilot
+bushpilot11@juno.com
+--------------------------------------------------------------------------------------------

@@ -1,0 +1,79 @@
+Phish
+Pepsi Center - Denver, CO  
+2/18/03
+
+Source:  DPA 4022's > V3 > Benchmark 2402 > Nuendo Multiset (@24bit/96kHz) > C1VN > WaveLab 4.0 > CDWav > FLAC Frontend > .flac
+
+Recording and Seed by Marc Nutter (nutter@sonicsense.com) and Jason Brantley (jason@sonicsense.com)
+
+Set 1:  (81:45)
+Disc 1:				64:51
+
+01.  Runaway Jim		09:44
+02.  Water in the Sky		05:20
+03.  Twist 			09:24
+04.  Squirming Coil		07:20
+05.  Brain and Robert		03:44
+06.  Stash  			12:39
+07.  The Wedge			04:42
+08.  Birds of a Feather		08:48
+09.  Lawn Boy			03:08
+
+Disc 2:				63:41
+
+01.  Walls of the Cave 		16:52
+
+Set 2:  (92:57)
+
+02.  Moma Dance	>		12:00
+03.  Limb by Limb		13:36
+04.  Thunderhead		05:48
+05.  Divided Sky		15:24
+
+Disc 3:				46:08
+
+01.  Carini*			09:06
+02.  You Enjoy Myself**		25:08
+03.  Crowd			01:57
+
+Encore: 
+
+04.  NICU			05:18
+05.  Mexican Cousin 		04:41
+
+* with start/stop jamming
+** vocal jam ended with a vacuum solo which segued into a short rendition of "The Lion Sleeps Tonight"
+
+Notes:
+
+-Fades added at start and finish of sets.
+-I edited out a few Balloon pops and claps.
+-Dithered from 25bit > 16bit using Apogee's UV22HR Algorithm.
+-Resampled from 96kHz > 48kHz.
+
+
+For details and help on .flac check out the following links:
+http://mikewren.com/modules.php?name=News&file=article&sid=6
+http://flac.sourceforge.net/
+
+Flac Fingerprint
+*************************************************************************
+ph2003-02-18d1t01.flac:c7927ceeae04deee7ff0d7387d39f651
+ph2003-02-18d1t02.flac:bd31f0db4f68da3844281423f8828a2c
+ph2003-02-18d1t03.flac:3bdb125027b52236cc7a57a91253bd52
+ph2003-02-18d1t04.flac:13fea06ed46d977ed33318de6f8716a0
+ph2003-02-18d1t05.flac:117bccab8d2d6bcff334e590cb118db7
+ph2003-02-18d1t06.flac:8782325fa9038f529f4dcac84a08c43b
+ph2003-02-18d1t07.flac:940c6fa24e9416d0b7eadb179bc42ecb
+ph2003-02-18d1t08.flac:6175a3d19d3ae3e4738c250c96e3f192
+ph2003-02-18d1t09.flac:ec992bba9fd46799b6ea803994a2d60c
+ph2003-02-18d2t01.flac:5ca86174020725e021badcd535f5bdcc
+ph2003-02-18d2t02.flac:919c82b141c18100bc12a502cf7234cb
+ph2003-02-18d2t03.flac:92aac7de4cd0a03d29cdef312b8d81c4
+ph2003-02-18d2t04.flac:33ea43f6912bfbc5fdfedb80ad8b5dea
+ph2003-02-18d2t05.flac:ffcc6d12c2459e46a403a26b8a100243
+ph2003-02-18d3t01.flac:64fe9ed1536330051627d5f504518f2f
+ph2003-02-18d3t02.flac:1dbc3355ba0a1aff087a1356589797b1
+ph2003-02-18d3t03.flac:c19fd29f1241ee99dd0cb8ced7f75445
+ph2003-02-18d3t04.flac:cdc7e23adc028cdc920237ba615ab090
+ph2003-02-18d3t05.flac:dee66020b73fb0680155ac746e1774da

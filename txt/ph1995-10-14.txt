@@ -1,0 +1,109 @@
+Phish - 10-14-95
+Austin Music Hall, Austin TX
+
+Welcome to my master copies of these shows.
+I taped them myself,here's my setup:
+13 Ft. pole; Front Row; Center
+AKG 460 Cards>10ft XLR's>Power Supply>3ft XLR's>
+Technics SV 260A>DAT.
+
+Their journey to SHN:
+Technics SV 260A>COAX>WAV>CDWAV>SHN.
+I have used the MKW audio compression tool.
+These SHN files are seekable in your SHNamp.
+Also, I have included the md5 for the wav files.
+Please use it to verify yours.
+
+I hope you enjoy listening to this show as much as I
+enjoyed taping it.Please use the audio file provided
+when trading this show in audio format.
+I taped,transefered and compressed these as a set.
+I request you keep them as a set when trading or 
+sharing them in SHN or audio.
+
+PEACE  LOVE  AND  PHISH!!!
+Linda Webster
+http://db.etree.org/linda95
+My "Dat Only List" aka my "SHN Only List"
+
+Updated:
+SHN>FLAC by Matt Edlhuber (medlhuber@hotmail.com) 3/7/2004
+MKWACT>.wav>Flac v1.0.4c (compression level 8)
+I also fixed the Sector Boundry Errors on Disc 2 (see shntool output below).
+
+10-14-95
+Disc 1 Set 1
+{1}Ac/Dc Bag(9:07:62)
+{2}Cars Trucks and Buses(3:51:28),
+{3}Kung(5:03:09)
+{4}Free(8:54:25)
+{5}Sparkle(3:39:08),
+{6}Stash >(18:09:59)
+{7}Catapult(11:58:55),
+{8}Acoustc Army(4:17:23)
+{9}Ice(9:31:20)
+{10}Tela(6:42:38),
+TOTAL: 71:15:27
+
+Disc 2
+{1}Runaway Jim(9:12:21).
+Set 2
+{2}Chess Move>Reba(15:53:43)
+{3}Rift(5:45:54),
+{4}YEM w/MMW and Dominique Flaco{28:51:54)
+{5}Ragtime Gal(11:30:14)
+{6}Scent of a Mule(12:01:37),
+TOTAL: 73:14:73
+
+Disc 3
+{1}Cavern(6:31:12)
+{2}E:Day in the Life(4:46:73).
+TOTAL: 11:18:10
+
+*With MMW and Dominique Flaco on Trumpet.
+
+Notes: By overburning about 30 sec, all of Set 1 should fit on one 80 minute disc, allowing all of Set 2+e to stay together on disc 2.
+
+Origional Seed:
+    length     expanded size   cdr  WAVE  probs   filename
+     9:07.62      96636668     ---   --    -xx    ph1995-10-14d1t01.flac
+     3:51.28      40814300     ---   --    -xx    ph1995-10-14d1t02.flac
+     5:03.09      53470412     ---   --    -xx    ph1995-10-14d1t03.flac
+     8:54.25      94256444     ---   --    -xx    ph1995-10-14d1t04.flac
+     3:39.08      38650460     ---   --    -xx    ph1995-10-14d1t05.flac
+    18:09.59     192238412     ---   --    -xx    ph1995-10-14d1t06.flac
+     1:58.55      20944604     ---   --    -xx    ph1995-10-14d1t07.flac
+     4:17.23      45388940     ---   --    -xx    ph1995-10-14d1t08.flac
+     9:31.20     100771484     ---   --    -xx    ph1995-10-14d1t09.flac
+     6:42.38      71002220     ---   --    -xx    ph1995-10-14d1t10.flac
+     9:12.22      97424000     -b-   --    -xx    ph1995-10-14d2t01.flac
+    15:53.43     168210380     ---   --    -xx    ph1995-10-14d2t02.flac
+     5:45.54      60985052     ---   --    -xx    ph1995-10-14d2t03.flac
+    28:51.54     305475452     ---   --    -xx    ph1995-10-14d2t04.flac
+     1:30.14      15908972     ---   --    -xx    ph1995-10-14d2t05.flac
+    12:01.37     127271468     ---   --    -xx    ph1995-10-14d2t06.flac
+     6:31.12      69000668     ---   --    -xx    ph1995-10-14d3t01.flac
+     4:46.74      50624120     -b-   --    -xx    ph1995-10-14d3t02.flac
+   155:48.37    1649074056 B                      (totals for 18 files, 0.5644 overall compression ratio)
+
+Fixed copy:
+    length     expanded size   cdr  WAVE  probs   filename
+     9:07.62      96636668     ---   --    -xx    ph1995-10-14d1t01.flac
+     3:51.28      40814300     ---   --    -xx    ph1995-10-14d1t02.flac
+     5:03.09      53470412     ---   --    -xx    ph1995-10-14d1t03.flac
+     8:54.25      94256444     ---   --    -xx    ph1995-10-14d1t04.flac
+     3:39.08      38650460     ---   --    -xx    ph1995-10-14d1t05.flac
+    18:09.59     192238412     ---   --    -xx    ph1995-10-14d1t06.flac
+     1:58.55      20944604     ---   --    -xx    ph1995-10-14d1t07.flac
+     4:17.23      45388940     ---   --    -xx    ph1995-10-14d1t08.flac
+     9:31.20     100771484     ---   --    -xx    ph1995-10-14d1t09.flac
+     6:42.38      71002220     ---   --    -xx    ph1995-10-14d1t10.flac
+     9:12.21      97422236     ---   --    -xx    ph1995-10-14d2t01-fixed.flac
+    15:53.43     168210380     ---   --    -xx    ph1995-10-14d2t02-fixed.flac
+     5:45.54      60985052     ---   --    -xx    ph1995-10-14d2t03-fixed.flac
+    28:51.54     305475452     ---   --    -xx    ph1995-10-14d2t04-fixed.flac
+     1:30.14      15908972     ---   --    -xx    ph1995-10-14d2t05-fixed.flac
+    12:01.37     127271468     ---   --    -xx    ph1995-10-14d2t06-fixed.flac
+     6:31.12      69000668     ---   --    -xx    ph1995-10-14d3t01-fixed.flac
+     4:47.00      50626844     ---   --    -xx    ph1995-10-14d3t02-fixed.flac
+   155:48.37    1649075016 B                      (totals for 18 files, 0.5644 overall compression ratio)

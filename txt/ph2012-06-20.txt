@@ -1,0 +1,47 @@
+Phish
+06/20/2012
+Portsmouth, Virginia  nTelos Pavilion
+
+Source: Schoeps m934c> M221B> PS> Aeta PSP-3> SD 722 (@24bit/96kHz)
+Location: FOB, DFC, DIN, m934c/cardioid
+
+Transfer: SD 722> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (06/21/2012)
+
+
+Set I
+t01 [05:07] Sparkle
+t02 [02:09] Ha Ha Ha
+t03 [06:57] AC/DC Bag >
+t04 [17:44] The Divided Sky
+t05 [05:20] Dog Log
+t06 [05:21] Undermind >
+t07 [07:54] Mike's Song >
+t08 [02:43] I am Hydrogen >
+t09 [06:54] Weekapaug Groove
+t10 [05:44] Cities >
+t11 [06:36] Ya Mar
+t12 [05:43] Bold as Love >
+t13 [09:30] Julius
+
+Set II
+t14 [11:04] Rock and Roll >
+t15 [12:38] Tweezer >
+t16 [07:08] Free >
+t17 [11:20] Guyute
+t18 [07:43] Birds of a Feather
+t19 [10:11] Harry Hood >
+t20 [04:44] What's the Use >
+t21 [06:20] Wading in the Velvet Sea >
+t22 [08:29] Possum
+t23 [02:47] crowd
+
+Encore
+t24 [06:32] Sleeping Monkey >
+t25 [04:38] Tweezer Reprise
+
+
+Notes:
+Sparkle, last show opener 03/22/1992
+Dog Log, last played 08/02/2003 (172 shows)
+Set I [1:27:52] Set II [1:22:24] Encore [11:10]

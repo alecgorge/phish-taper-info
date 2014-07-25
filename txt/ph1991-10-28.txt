@@ -1,0 +1,121 @@
+Phish
+10/28/1991
+Elk Lodge - Telluride, CO
+
+Source: SBD > cass/? > DAT
+Conversion: CD-R > EAC (secure) > SHN by J.Barnes (heyitsmejess@aol.com)
+
+Seed provided by E. Tipton
+
+Pitch Correction of Set II by mw@mikewren.com on 7/20/2004
+Text File update and Converted to FLAC on 7/20/2004 by mw@mikewren.com
+(phish.net & Mockingbird incorrectly list Whipping Post before Harpua)
+
+
+Disc One / Set I
+01. Intro
+02. The Curtain >
+03. Runaway Jim
+04. Cavern
+05. Poor Hear
+06. Reba
+07. I Didn't Know
+08. Tube
+09. Oh Kee Pa Ceremony >
+10. Fo//am
+11. Fee >
+12. David Bowie
+
+Disc Two / Set II
+01. Intro
+02. Divided Sky
+03. Wilson >
+04. Dinner and a Movie >
+05. Stash
+06. Paul and Silas
+07. Bathtub Gin
+08. You Enjoy//Myself
+09. The Squirming Coil
+10. Harpua
+11. HYHU >
+12. Whipping Post* >
+13. HYHU
+14. Highway to Hell
+
+Encore
+15. Horn
+16. Rocky Top //
+
+* With Mimi Fishman (Fish's mom) on vacuum and Fish on slide guitar 
+
+
+
+Pitch Correction Notes:
+-First set was OK, no pitch-correction required
+-Second set was 70 cents sharp consistant, so this was compensated for in 
+Sound Forge 7,adding 3:30 to the length of the second set
+-Both sets were retracked in CD Wave
+
+
+
+FLAC Fingerprint:
+
+ph1991-10-28d1t01.flac:7f07373c86bba188603a6951004d4e16
+ph1991-10-28d1t02.flac:03f0576dc74357ab53c6bbb952e0dbef
+ph1991-10-28d1t03.flac:b690fc03661773711a1602defedffca3
+ph1991-10-28d1t04.flac:118c266a213329396f5df1e18c76b96b
+ph1991-10-28d1t05.flac:9b87b8e79d2f7131bf194f57968d27fc
+ph1991-10-28d1t06.flac:2349c0ce274ac5e1d66d0cf06a5ccd34
+ph1991-10-28d1t07.flac:41a2962e35915026236c64afc1b2e572
+ph1991-10-28d1t08.flac:1fa441fe1b4e12297aee6d963ebdc31b
+ph1991-10-28d1t09.flac:5fcad1aa297a4a9e6fdb23b83e51c50d
+ph1991-10-28d1t10.flac:fc158fbd5d64c0c16b76038bc9b11a71
+ph1991-10-28d1t11.flac:386e481c7844fa8ea6eff4efb0c59db2
+ph1991-10-28d1t12.flac:e1e4c58b1e378c893fae91bb52915af6
+ph1991-10-28d2t01.flac:96d362e627bf02da6c232bc6fa8a0499
+ph1991-10-28d2t02.flac:c8471c8b08842b5e1972c4b6a34f7c82
+ph1991-10-28d2t03.flac:5fbd67b939c40e728fb1dd23bbeb1d5b
+ph1991-10-28d2t04.flac:d75f2041b208738100cfb8036e48116a
+ph1991-10-28d2t05.flac:d8a640de251c22d8d437a806f345a401
+ph1991-10-28d2t06.flac:17639b2d0ebb7c5425efcc8a10b8526f
+ph1991-10-28d2t07.flac:1bfe6f894d28c50fc609c2f61470c17e
+ph1991-10-28d2t08.flac:7ad66b3e490e3a72fac1bf72d8e0ff72
+ph1991-10-28d2t09.flac:2f3cac175a81b74ad7c306a006ae06e7
+ph1991-10-28d2t10.flac:9fce0428eefa3d8b035989315dc3deab
+ph1991-10-28d2t11.flac:882ee9aa73185f014f12a354c3c3b43d
+ph1991-10-28d2t12.flac:730f41ceddb2f0794ce716cb11f2c71d
+ph1991-10-28d2t13.flac:072f518595f6a84f175a0de8c5927e48
+ph1991-10-28d2t14.flac:8d0adacd1cf559ec09b47a6575ca3101
+ph1991-10-28d2t15.flac:d252bc4f8f08a257ab6fc6e5f187c2a2
+ph1991-10-28d2t16.flac:e1ffd0c518f3c160449a7c11a04afce3
+
+
+
+Original SHN MD5:
+
+8ab45559b35784d58e608c2b0b5f5385 *Track11.shn
+173f600ff8aa3e2dd6635c0274d74251 *Track12.shn
+39c3b0dc7d3796de144aca9ed111782a *Track01.shn
+a11bd3c921fac04116686d137ffe49e3 *Track02.shn
+c7f42a5d7fb0db25f946c9c969340bd1 *Track03.shn
+c35dbd6ad73750766aea3682b083da25 *Track04.shn
+b2f075311b2beb56fdd1f1a48015c877 *Track05.shn
+7856d55d0b13cc6719c2ac78e53230fe *Track06.shn
+587b488742e70dd49f0d7c398e5ee538 *Track07.shn
+92d79b160a035c9b70309f149c5e4ca5 *Track08.shn
+6fe812f629c292b52b79062a7cc8c1d6 *Track09.shn
+54f16ba0615f7cfb1aeadc9c6e4bc1b9 *Track10.shn
+40a6a2908e4a5cb423b72f205419ca17 *ph 1991-10-28 d2t01.shn
+4c84c3d964c279c892e2518dc7964222 *ph 1991-10-28 d2t02.shn
+38934985dce44e2f62549f30eb6beade *ph 1991-10-28 d2t03.shn
+592a0e955c6369bd035d3a8c3486477e *ph 1991-10-28 d2t04.shn
+37613fea0e682ffa43ce78dc0fdd4566 *ph 1991-10-28 d2t05.shn
+8098e6b0da7faceff823eb98c4c9eb65 *ph 1991-10-28 d2t06.shn
+98b5a8252f0b65b2ed6c95e3f1b0d678 *ph 1991-10-28 d2t07.shn
+ad2abb4fffc0f87be5f9020d5218cf2d *ph 1991-10-28 d2t08.shn
+f890467d8e801dbb25e307613e52b723 *ph 1991-10-28 d2t09.shn
+70ddc0e56541861c570d8d6128eb92ea *ph 1991-10-28 d3t01.shn
+4e9450a3c5e058d16c40b391b8ac84e7 *ph 1991-10-28 d3t02.shn
+deaa9dccfc3c9b48b78c2915d125243a *ph 1991-10-28 d3t03.shn
+7db6562a442ed77c8cb0abfbc3d004b4 *ph 1991-10-28 d3t04.shn
+b981e550bbe09713d3c56966f33b6f96 *ph 1991-10-28 d3t05.shn

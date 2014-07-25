@@ -1,0 +1,50 @@
+Phish
+Spokane Arena, Spokane, WA;
+Friday, 11-22-1996
+
+Source:	AKG 414/AT 4031 > Soundcraft Mixpad > DA-P1
+Taper:	Don Wright
+Transfer:	Aiwa XD-001 DAT > Black&White DigiCoax > Z-Cyber Nightingale Pro 6 S/PDIF >
+	Cool Edit Pro@16/44.1 kHz > CD Wav > mkwACT 0.97 BETA 1 > SHN.
+	by Friedemann Rothfuchs, kushelphish@gmx.de; used DAT is 2nd Generation digital clone
+	and was provided by Aldo Torre (thanks!)
+	There also is a 48 kHz .shn of this transfer.
+
+Edits:
+Fade in and out and start and end of sets
+
+Flaws:
+Not quite sure if this is really a flaw, but there's a weird noise in d1t06 at 00:47 that's on the DAT as well. The noise is
+slight and I couldn't figure out how to edit it out with Cool Edit Pro without loss for the music, so I left it as it is.
+Maybe it's some recording error, maybe it's a girl near the mics that squeaks because someone steps on her feet :-)
+
+Disc 1/Set 1: [64:58, with Encore included 73:49]
+01: Crowd/Tuning			[00:31]
+02: It's Ice				[07:50]
+03: Runaway Jim			[09:39]
+04: Wolfman's Brother		[04:59]
+05: Taste				[08:27]
+06: Ginseng Sullivan			[03:21]
+07: Sample In A Jar			[04:46]
+08: Fast Enough For You		[07:41]
+09: Train Song			[02:49]
+10: Stash				[10:18]
+11: Cavern			[04:33]
+
+Disc 2/Set 2: [73:08]
+01: Down With Disease		[12:53]
+02: Prince Caspian			[09:15]
+03: Maze				[11:33]
+04: Billy Breathes			[05:20]
+05: Swept Away >			[01:10]
+06: Steep				[01:51]
+07: Character Zero			[08:00]
+08: Theme From The Bottom		[10:00]
+09: Slave To The Trafficlight		[11:26]
+10: Hello My Baby*			[01:37]
+
+Disc 3/Encore: [08:51] (to avoid a 3rd disc put this at the end of d1)
+01: Julius^				[08:51]
+
+* Part of the Encore break crowd noise is cut out on the DAT and doesn't have an extra track here
+^ Trey thanks the City of Spokane and a bar named "Gaby's"; w/ Cocaine (J.J.Cale) tease, sung as "Spokane"

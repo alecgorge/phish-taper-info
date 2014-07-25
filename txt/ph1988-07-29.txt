@@ -1,0 +1,42 @@
+Phish
+Roma
+Telluride, CO 
+7/29/88 
+Partial
+
+Thanks to Josh Porter for the source cassette.
+
+SBD Cass/x (Maxell XLII 90 min)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +~14dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)
+Transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 3/28/2004
+Mastering, tracking and FLAC16 by Marmar- imthemarmar@gmail.com
+
+Disc 1-
+-Set II-
+01. Col. Forbin > Mockingbird
+02. I Didn't Know
+03. Good Times, Bad Times
+-Set III-
+04. Rocky Top
+05. Light Up or Leave Me Alone
+06. Contact
+07. Whipping Post//
+08. Curtis Loew
+
+Disc 2-
+01. Take the A-Train
+02. McGrupp
+03. Talking/Last Call
+04. Bold as Love
+
+Notes
+Last Call is called before "Bold as Love"
+
+**Mastering**
+The show is plagued by distortion. Levels were left untouched from the original. The show was running slow/flat. This was corrected by time stretching the material to 97.003% its original size. The cut on Whipping Post misses much of the jam...this was crossfaded to the next track. Resampled and dithered, then tracked.
+
+While not a great recording by any means...it's a moment of Phishtory that was captured...enjoy it as such =)
+
+NO tracking/editing/alterations performed before archiving to 24-bit FLAC
+(except to trim silence from the ends).

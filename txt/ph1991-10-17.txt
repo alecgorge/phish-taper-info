@@ -1,0 +1,46 @@
+PHiSH 
+10-17-91
+Great American Music Hall
+San Francisco, CA
+
+Source: FOB Calrad 10-30 > Panasonic SV-255 
+Transfer: CTD8000 (SCSI) @ 48kHz (w/VDAT)> CD Wave (to split sets)
+The master DAT indicates that the tape ends after YEM.
+Transfer by: John Florek- vooopa@gmail.com
+
+Set 1: 
+Memories 
+The Landlady-> 
+Bouncing Around the Room
+The Divided Sky
+Cavern
+Poor Heart
+Stash
+Esther
+Chalk Dust Torture
+Golgi Apparatus
+
+Set 2: 
+The Curtain
+Oh Kee Pa Ceremony-> 
+Suzy Greenberg
+David Bowie
+Lawn Boy
+Fluffhead
+You Enjoy Myself
+
+-Missing-
+Love You
+Possum
+ENCORES: 
+Magilla
+Rocky Top 
+
+
+**Editing**
+The show was Time Stretched to 92.573% of the original size to correct the pitch and playing time using Wavelab 5.01a at 32bits then dithered back to 16 via the Waves L3 UltraMaximizer. The cut at the end of YEM was faded out.
+
+**NOTES**
+This is a dual channel mono recording. I decided to just leave it as is for now...anyone wanting a stereo mixdown of this show, please feel free to contact me at the addy below.
+
+Edited, tracked and FLAC'd by Marmar- imthemarmar@gmail.com

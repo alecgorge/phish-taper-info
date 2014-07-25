@@ -1,0 +1,46 @@
+Phish
+08/19/2012
+San Francisco, California  Bill Graham Civic Auditorium
+
+Source: Schoeps m934c> M221B> PS> Aeta PSP-3> SD 722 (@24bit/96kHz)
+Location: FOB, DFC, DIN, m934c/cardioid
+
+Transfer: SD 722> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (08/20/2012)
+
+
+Set I
+t01 [04:53] Crowd Control
+t02 [07:06] Party Time
+t03 [03:29] Axilla
+t04 [13:38] Reba
+t05 [06:54] Free>
+t06 [05:54] Mound>
+t07 [06:23] Walk Away
+t08 [05:18] NICU
+t09 [08:55] Back on the Train
+t10 [09:34] Gotta Jibboo>
+t11 [08:57] Roggae
+t12 [11:26] David Bowie
+
+Set II
+t13 [01:17] Intro
+t14 [16:29] Crosseyed and Painless>
+t15 [14:51] Light>
+t16 [10:46] Sneakin' Sally Through the Alley>
+t17 [02:44] Crosseyed and Painless>
+t18 [07:47] Theme from the Bottom>
+t19 [02:34] Rocky Top
+t20 [05:11] Boogie On Reggae Woman>
+t21 [07:00] Meatstick
+t22 [07:09] Bug
+t23 [19:26] You Enjoy Myself
+t24 [03:07] crowd
+
+Encore
+t25 [04:58] Ride Captain Ride>
+t26 [03:41] Tweezer Reprise
+
+
+Notes:
+Set I [1:32:31] Set II [1:38:21] Encore [8:39]

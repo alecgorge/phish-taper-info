@@ -1,0 +1,13 @@
+01 Jam - 12/25/83 (5:55)
+
+
+Track 1 - Aud > Cass/? > CDR
+          Fixes : CDR > EAC > Audacity > CDWAV > FLAC
+          Fixes: Amplified, Removed Hiss, Added fade in and
+          fade out, trimmed track marks. 
+          
+Notes: Due to the age of these, the rarity, and the uncertainty of the
+       source info, this is likely the best copy of these 5 tracks that
+       has circulated so far. I removed as much of the analog hiss that 
+       I could, however it's far from completely gone. It's far superior
+       to previous versions that have circulated. 

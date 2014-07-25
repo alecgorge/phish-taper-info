@@ -1,0 +1,77 @@
+Phish
+2013-07-03
+Darling's Waterfront Pavilion
+Bangor, ME
+
+mics were 50' from stage dfc 21cm/110 degrees
+
+Source:
+Schoeps MK22>KC5>CMC6>Sonosax SX-R4 (24bit/96khz)
+
+Lineage:
+WAV>USB>Macbook Pro>Wave Editor(tracking,fades,resample(izotope)/dither(mbit+)to 16 bit/44.1k)>XAct(FLAC 8,ffp,fix sbe)
+
+Taped by: Andy Murray
+Transferred by: Andy Murray
+
+Thanks to our team of blockers. 
+
+Set 1: 
+
+01. crowd
+02. Possum > 
+03. Runaway Jim
+04. Stash
+05. NICU > 
+06. Wolfman's Brother
+07. Rift
+08. Theme From the Bottom > 
+09. Chalk Dust Torture
+10. Mike's Song > 
+11. Silent in the Morning > 
+12. Weekapaug Groove
+
+Set 2: 
+
+01. crowd
+02. Golden Age [1] > 
+03. Twist > 
+04. Backwards Down the Number Line
+05. Ocelot
+06. Rock and Roll > 
+07. Also Sprach Zarathustra >
+08. Cavern > 
+09. Run Like an Antelope
+10. encore break
+
+Encore: 
+11. Harry Hood [2]
+
+[1] Manteca teases (Page).
+[2] Divided Sky tease.
+
+length expanded size cdr WAVE problems fmt ratio filename
+0:52.16 9210476 B --- -- ----- wav 1.0000 ph2013-07-03_mk22_1644_d1t01.wav
+8:19.26 88084796 B --- -- ----- wav 1.0000 ph2013-07-03_mk22_1644_d1t02.wav
+11:20.13 119982620 B --- -- ----- wav 1.0000 ph2013-07-03_mk22_1644_d1t03.wav
+12:06.14 128099372 B --- -- ----- wav 1.0000 ph2013-07-03_mk22_1644_d1t04.wav
+5:17.18 55961180 B --- -- ----- wav 1.0000 ph2013-07-03_mk22_1644_d1t05.wav
+10:03.60 106510364 B --- -- ----- wav 1.0000 ph2013-07-03_mk22_1644_d1t06.wav
+6:21.65 67361324 B --- -- ----- wav 1.0000 ph2013-07-03_mk22_1644_d1t07.wav
+9:39.15 102170924 B --- -- ----- wav 1.0000 ph2013-07-03_mk22_1644_d1t08.wav
+6:53.09 72874412 B --- -- ----- wav 1.0000 ph2013-07-03_mk22_1644_d1t09.wav
+9:10.37 97107068 B --- -- ----- wav 1.0000 ph2013-07-03_mk22_1644_d1t10.wav
+5:12.14 55069772 B --- -- ----- wav 1.0000 ph2013-07-03_mk22_1644_d1t11.wav
+9:24.04 99499052 B --- -- ----- wav 1.0000 ph2013-07-03_mk22_1644_d1t12.wav
+1:23.68 14801180 B --- -- ----- wav 1.0000 ph2013-07-03_mk22_1644_d2t01.wav
+13:55.28 147359900 B --- -- ----- wav 1.0000 ph2013-07-03_mk22_1644_d2t02.wav
+7:06.60 75287564 B --- -- ----- wav 1.0000 ph2013-07-03_mk22_1644_d2t03.wav
+8:51.74 93842492 B --- -- ----- wav 1.0000 ph2013-07-03_mk22_1644_d2t04.wav
+9:16.53 98203100 B --- -- ----- wav 1.0000 ph2013-07-03_mk22_1644_d2t05.wav
+9:45.25 103252844 B --- -- ----- wav 1.0000 ph2013-07-03_mk22_1644_d2t06.wav
+6:24.12 67765868 B --- -- ----- wav 1.0000 ph2013-07-03_mk22_1644_d2t07.wav
+4:18.51 45631196 B --- -- ----- wav 1.0000 ph2013-07-03_mk22_1644_d2t08.wav
+12:34.66 133160876 B --- -- ----- wav 1.0000 ph2013-07-03_mk22_1644_d2t09.wav
+2:59.09 31596812 B --- -- ----- wav 1.0000 ph2013-07-03_mk22_1644_d2t10.wav
+15:33.66 164736476 B --- -- ----- wav 1.0000 ph2013-07-03_mk22_1644_d2t11.wav
+186:50.53 1977569668 B 1.0000 (23 files)

@@ -1,0 +1,61 @@
+Phish
+Capitol Theater
+Port Chester, NY
+11/24/90 
+
+TAPER: John Redmond
+SOURCE SBD > D5 
+
+SBD MCass (Maxell XLII-S 90 min)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +~10dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)>
+Mastering (see notes)> SHNv3
+
+**Mastering**
+24bit/48kHz FLAC's > Wavelab 4.01b on REBA > Editing > BBE > L1 UltraMaximizer > L1+ Ultramaximizer > tc electronic Finalizer 96k (resample and dither to 16bit) > Tracking in Wavelab > SHNv3 appended
+
+-the level is adjusted at the SBD 10 seconds into Buried Alive (d1t01) which was not altered.
+
+This show was a dream to work on. Not only was it a super clean recording, the music is VERY hot. The only funky things I think I need to warn you of are the crossfades for the tape flips. This show reminded me the entire time I was working on it the reason why I love the music these four guys are capable of making....This show will blow ya away!
+
+transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 11/3/2003
+Mastering, editing and WAV > SHN were performed on REBA by Arty- imthemarmar@stny.rr.com (on 11/2003)
+
+Set 1:
+//Buried Alive->
+Possum (w/ Manteca teases)
+Foam >
+Mike's Song->
+I Am Hydrogen->
+Weekapaug Groove 
+The Squirming Coil//* >
+Lizards
+Oh Kee Pa Ceremony->
+Suzy Greenberg >
+David Bowie
+
+Set 2:
+//Llama
+Bouncing Around the Room
+Stash
+Eliza >
+The Landlady >
+Runaway Jim
+You Enjoy Myself// >
+HYHU->
+Love You->
+HYHU
+Good Times Bad Times **
+Big Black Furry Creature From Mars
+E: Lawn Boy
+The Divided Sky
+
+-Notes-
+*-dedicated to Conjunction Junction for being the only other band Trey knows that can play this song....he then also dedicates it to his parents who were in attendance this night.
+
+**-Trey stops Good Times Bad Times in the middle and says "That wasn't meant to be so we'll give you this instead", then they bust into BBFCFM.
+
+NO tracking/editing/alterations performed before archiving to 24-bit FLAC
+(except to trim silence from the ends).
+
+Seeded to FurthurNet (www.furthurnet.org) by Marmar

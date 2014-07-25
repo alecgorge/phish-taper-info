@@ -1,0 +1,47 @@
+Phish 
+8-16-93
+American Theatre
+St. Louis, MO
+
+Source: Nakamichi 300 Omnis > Sony D7 > Cass > Cass > Sony CDR-W33 > CDR > EAC > CDWAV > Soundforge 4.5 > Shntool > SHN
+
+Received From: Brandon Johnston
+
+
+Disc 1:
+Set I: 
+1.Axilla
+2.Possum >
+3.Horn
+4.Reba
+5.Sparkle
+<cass flip>
+6.Foam
+7.I Didn't Know
+8.Split Open and Melt
+
+Disc 2:
+1.The Squirming Coil
+Set II: 
+2.//Mike's Song ->
+3.Faht >
+4.Weekapaug Groove
+5.Mound
+6.It's //Ice <cass flip in the middle>
+7.My Friend My Friend
+8.Poor Heart
+9.Big Ball Jam
+10.Take the 'A' Train
+
+Disc 3:
+1.Good Times Bad Times
+2.crowd noise
+3.E: Amazing Grace
+4.Rocky Top
+
+Show Notes: Weekapaug included Gypsy Queen and I Wish teases. Mike's Song included a Who Knows jam.
+Show Notes: Weekapaug included Gypsy Queen and I Wish teases. Mike's Song included a Who Knows jam. 
+
+Tech Notes: I extracted the source cds as a range and resplit the tracks using CDWAV. The EAC logs for each disc are included. I left the cd splits where they were, the original transferer added fades between each disc and I left these alone. There is a cassette flip between sparkle and foam as well as in the middle of It's Ice which has been edited to make it smoother. The Mike's song is clipped as well. Also it seems as if the first cassette side sounds a little better than the second side. I'm not sure why this is but the vocals on Foam definitely sound a little high in pitch. 
+
+I didn't spend a lot of time trying to fix this source because I'm sure that something better will come along, but in the meantime this is all we have and it is an absolute must hear!! My #1 pick for a Live Phish release, this show contains exceptional versions of Possum, Mike's groove, and a Reba that goes where no Reba has gone before (or since).

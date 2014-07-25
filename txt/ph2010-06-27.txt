@@ -1,0 +1,46 @@
+Phish
+06/27/2010
+Columbia, Maryland  Merriweather Post Pavilion
+
+Source: Schoeps mk4v> KC5> M222> NT222> Aeta PSP-3> SD 722 (@24bit/96kHz)
+Location: OTS, Section CTR, Row DD, Seat 131, 7' Stand, NOS
+
+Transfer: SD 722> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (06/28/2010)
+
+
+Set I
+t01 [00:47] Intro
+t02 [07:04] Walfredo
+t03 [06:13] Mellow Mood
+t04 [06:00] Stealing Time from the Faulty Plan >
+t05 [15:23] The Divided Sky
+t06 [06:46] Tela
+t07 [06:15] My Soul
+t08 [03:19] Ginseng Sullivan
+t09 [05:14] Sample in a Jar
+t10 [11:58] Bathtub Gin
+t11 [03:29] Brian and Robert
+t12 [10:19] Run Like an Antelope
+
+Set II
+t13 [04:35] Wilson >
+t14 [10:16] Meatstick>
+t15 [07:52] Saw It Again>
+t16 [16:44] Piper>
+t17 [09:02] Ghost>
+t18 [06:25] Jumpin' Jack Flash > Saw It Again >
+t19 [06:24] Contact
+t20 [19:18] You Enjoy Myself
+t21 [02:23] crowd
+
+Encore
+t22 [04:37] Fire
+
+
+Notes:
+Walfredo, last played 09/30/2000 (131 shows)
+Mellow Mood, last played 08/03/2003 (89 shows)
+Jumpin' Jack Flash (The Rollings Stones), first time played
+Thanks to Jason Lonchar for the Schoeps tubes & Dennis Tyler for the PSP-3
+Set I [1:22:47] Set II [1:22:59] Encore [4:37]

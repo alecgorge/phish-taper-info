@@ -1,0 +1,45 @@
+Phish
+11/20/98
+Hampton Coliseum
+Hampton, VA
+
+Source: (F.O.B.) Schoeps mk4v @ORTF > active cables > CMC6 > Oade PS > Sony SBM-1 > DAP-20
+Transfer: DA-20 mkii> Philips CDR 870 > EAC > CDWAV > Soundforge 6.0 > Shntool > SHN
+Transfer by: Brandon Johnston -- http://db.etree.org/bisq
+
+Disc 1:
+-Set I-
+1.Rock and Roll Part Two
+2.Tube
+3.Quinn the Eskimo
+4.Funky Bitch
+5.Guelah Papyrus
+6.Rift
+7.Meat >
+8.Stash
+9.Train Song
+10.Possum
+11.Roggae
+12.Driver
+
+Disc 2:
+1.Split Open and Melt
+-Set II-
+2.Bathtub Gin >
+3.Piper
+4.Axilla >
+5.Roses Are Free
+6.Farmhouse
+7.HYHU > Gettin' Jiggy Wit' It > HYHU
+
+Disc 3:
+1.Harry Hood
+2.Character Zero
+3.crowd noise
+4.E: Cavern
+
+Show Notes: Quinn the Eskimo was played for the first time since August 10, 1987 (970 shows) and Rock and Roll Part Two was debuted, although Trey did play along with the song as it was piped through the speakers at the beginning of NYE 1995. Stash included a Fikus tease. Before the debut of Gettin' Jiggy Wit' It, stagehands brought out cue cards for Fishman to sing from. At the end of the song, he threw the cards into the crowd. He also replaced Will Smith's name in the lyrics with his own alias, "Bob Weaver." Cavern featured Carl Gerhard on trumpet. This show was released as part of the Hampton Comes Alive boxed set.
+
+Tech Notes: I extracted the cds as a range and resplit the tracks using CDWAV. The EAC logs for each disc are included.  I added fades at the beginning and end of the sets in soundforge. Some crowd noise was missing between the second set and encore. I used a crossfade to join the 2 segments of crowd noise together so the shift wasn't as abrubt. Shntool was also run to remove SBE's.
+
+Flaw Notes: There is some brief oversaturation during page's solo in bathtub that I left as is.

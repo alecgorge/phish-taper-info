@@ -1,0 +1,64 @@
+Phish
+November 18, 1995 
+North Charleston Coliseum - Charleston, SC
+
+Source: (FOB) Scheops MK4/CMC6 > DAT @ 48kHz
+Transfer: Sony PCM-R500 > Delta Dio 2496 > Samplitude 4.5 > CDWav > FLACv1.7.1
+Transfered & Encoded by Matt Edlhuber aka CrazyED <medlhuber@gmail.com>
+
+Disc 1
+Set 1
+01. Dinner and a Movie
+02. Bouncin' Around the Room
+03. Reba
+04. Lawn Boy
+05. Punch You in the Eye
+06. Slave to the Traffic Light
+07. I'm Blue, I'm Lonesome
+08. Sample in a Jar
+Set 2
+09. (audience chess move)
+10. AC/DC Bag
+
+Disc 2
+01. Sparkle
+02. Free
+03. I'm So Tired
+04. You Enjoy Myself
+05. Contact
+06. Big Black Furry Creature From Mars->
+07. Acoustic Army->
+08. Big Black Furry Creature From Mars
+09. Cavern
+Encore
+10. Bill Bailey Wont You Please Come Home
+
+Notes:
+I'm Blue I'm Lonesome was performed acoustic.  YEM
+included a Brick House Jam.  The encore featured accompaniment from 
+Page's father, Dr. Jack McConnell and returned for the first time since
+April 22, 1994 (163 shows).  I'm So Tired returned for the first time
+since its debut on October 31, 1994 (86 shows) and Dinner and a
+Movie was played for the first time since October 22, 1994 (93 shows).
+
+
+ph1995-11-18d1t01.flac:ad94d7d2474bb674dafcb1f35d50b47e
+ph1995-11-18d1t02.flac:e3ddb8a51b6db989095df53f6bb10380
+ph1995-11-18d1t03.flac:6db337d505ff06cbd0591b0de2744980
+ph1995-11-18d1t04.flac:671f2ad315876429959703206e3bbfbc
+ph1995-11-18d1t05.flac:75212807678e0ebfd2d0a4cc2c83337e
+ph1995-11-18d1t06.flac:2ccbdebc9b79e13f7c4f02e813a94192
+ph1995-11-18d1t07.flac:461b0dfb149ad03ed657d513a8759010
+ph1995-11-18d1t08.flac:617fab9fcd8bba172c641d5d02b6d8e5
+ph1995-11-18d1t09.flac:4f3cd3e70b6231ea363cbeb9c17bf25e
+ph1995-11-18d1t10.flac:018dda9245894fd477fb0045b624963a
+ph1995-11-18d2t01.flac:675054de62c139e0c7d2ee83ee2d93c3
+ph1995-11-18d2t02.flac:da645423bc5be220a57efa9b54c1369c
+ph1995-11-18d2t03.flac:3c3705f5423849a91ba61f140e6e9e6c
+ph1995-11-18d2t04.flac:121037afdd669fd359d522f919fe5f32
+ph1995-11-18d2t05.flac:32ea29d4839b1af69c79f409ed4018fa
+ph1995-11-18d2t06.flac:57217555ee8c8ec4d4d4daf9c889f396
+ph1995-11-18d2t07.flac:0150cd731f51e74421d28f2a40519aa4
+ph1995-11-18d2t08.flac:58e3f2fd90197a78666ca689b8970661
+ph1995-11-18d2t09.flac:753344b5e9e195899f3f94744a090808
+ph1995-11-18d2t10.flac:3ceefea94d3877080019d0e09df60170

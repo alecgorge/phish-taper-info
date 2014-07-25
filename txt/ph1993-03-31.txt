@@ -1,0 +1,77 @@
+PHISH
+03-31-93
+Roseland Theater, Portland, OR 
+
+TOA k1's Balcony > DTR-80P > CDR > SHN (Cool Edit 2000 on 3 tracks)
+Provided by Josh Cohen - josh@shakedown.techlib.org
+Fixed and seeded by Carl Johnson - carl_ivar@yahoo.com
+
+[Disc 1]
+1) Runaway Jim
+2) Foam
+3) Sparkle
+4) Split Open and Melt >
+5) Mound
+6) Punch You in the Eye 
+7) Sample in a Jar
+8) Reba 
+9) I Didn't Know
+
+[Disc 2] 
+1) David Bowie (end of Set 1)
+2) Lengthwise->
+3) Maze
+4) Bouncing Around the Room 
+5) Uncle Pen
+6) Harry Hood* 
+7) Big Ball Jam 
+8) It's Ice >
+9) Jam
+
+[Disc 3]
+1) You Enjoy Myself >
+2) Vocal Jam 
+3) Harpua 
+4) Chalk Dust Torture
+5) Trey speech
+6) E: AC/DC Bag
+7) Sweet Adeline 
+
+* - with Pink Panther teases at beginning.
+
+The original seed of this show did not include David Bowie.  I have
+since found it and added it to the correct spot, the 1st track on
+Disc 2.  This means that the rest of the tracks on Disc 2 had to be
+moved up one slot and YEM -> Vocal Jam was moved to the beginning
+of Disc 3 (which is probably where it belonged anyway).
+
+
+This is a great show.  I sought it out for a long time after reading an
+excellent review of the Hood.  Indeed you can definitely feel good about
+this Hood, as well as the rest of the show.  As of now (11/2000) it seems
+to me that it is rather underrated and not circulated much at all.  The
+sound quality is EXCELLENT.  It is about as good as audience recordings
+get.  If I didn't know better I might even think it was a SBD/AUD mix.
+
+Some of these tracks had flaws which I corrected in Cool Edit 2000.  I am
+pretty sure most circulating CDR copies of this show had these flaws
+because I obtained the show from a different trader to be sure and it was
+the same.  Here is a summary of what was done:
+
+-Track 5 on Disc 1 (Mound) had three gaps of approximately 0.5 seconds each.  
+These were at 4:58-9 and 5:08-9.  Removed.
+
+-Track 1 on Disc 2 (Lengthwise) had some clicks and pops at 0:10-11, 0:30, and 
+1:23-24.  These were removed or minimized to the best of my ability.
+
+-Track 4 on Disc 3 (AC/DC Bag) had static at 3:35.  Removed.
+
+Also the last track, Sweet Adeline, has quite a bit of hiss and is rather flaky 
+overall.  It's really too much to fix, especially for an acapella track, so I 
+decided to leave it as is.  Sounds like it is a different source and possibly 
+more than one source patched together.
+
+-Carl
+carl_ivar@yahoo.com
+
+

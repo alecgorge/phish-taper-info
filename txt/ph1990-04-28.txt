@@ -1,0 +1,87 @@
+PHISH - April 28th, 1990
+The Strand Theater
+Dorchester, Massachusetts
+
+Set 1 Only
+
+Recording:
+Aud -> Sony ECM-MS5 stereo mic -> Casio DA-1 DAT -> Nak BX-300E (Maxell XL-IIs 90)
+
+Transfer:
+Nak CR-3A -> Audigy 2 -> Cool Edit Pro 2 -> 44.1k -> TLH -> Flac16
+
+Taped, transfered and remastered by Tim Leavy
+footbear@msn.com
+July 19th, 2008
+
+Notes:
+-- Both John Redmond & I took a line out from the Casio, which ceased to function
+   after the first set so none of us taped the second set. My deck was first out of the DAT.
+-- Sweet Adeline is complete
+-- There are no significant level fluctuations
+-- Tape flip in YEM @ 12:06 nicely crossfaded
+-- Approx. 10 seconds of Antelope was removed @ 13:24 due to a mangled segment of taped.
+   The splice is seamless and virtually unnoticable.
+-- All things considered, this recording sounds surprisingly good!
+
+DISC ONE
+Set 1:
+d1t01 - Sweet Adeline
+d1t02 - Oh Kee Pa Ceremony>
+d1t03 - Suzy Greenberg
+d1t04 - Uncle Pen
+d1t05 - Dinner and a Movie>
+d1t06 - Bouncing Around the Room
+d1t07 - Possum
+d1t08 - You Enjoy Myself
+d1t09 - Rift
+d1t10 - Foam
+d1t11 - Run Like an Antelope
+d1t12 - Lawn Boy
+
+
+SHNTOOL OUTPUT:
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     2:35.66       27497276 B   ---   --   -----    wav  1.0000  ph1990-04-28d1t01.wav
+     1:49.27       19291148 B   ---   --   -----    wav  1.0000  ph1990-04-28d1t02.wav
+     5:38.23       59677340 B   ---   --   -----    wav  1.0000  ph1990-04-28d1t03.wav
+     4:35.21       48559436 B   ---   --   -----    wav  1.0000  ph1990-04-28d1t04.wav
+     3:44.72       39682988 B   ---   --   -----    wav  1.0000  ph1990-04-28d1t05.wav
+     3:57.06       41820956 B   ---   --   -----    wav  1.0000  ph1990-04-28d1t06.wav
+     9:08.28       96733100 B   ---   --   -----    wav  1.0000  ph1990-04-28d1t07.wav
+    18:26.06      195112556 B   ---   --   -----    wav  1.0000  ph1990-04-28d1t08.wav
+     5:27.23       57736940 B   ---   --   -----    wav  1.0000  ph1990-04-28d1t09.wav
+     8:17.58       87807260 B   ---   --   -----    wav  1.0000  ph1990-04-28d1t10.wav
+    15:04.67      159623228 B   ---   --   -----    wav  1.0000  ph1990-04-28d1t11.wav
+     2:44.30       29000204 B   ---   --   -----    wav  1.0000  ph1990-04-28d1t12.wav
+    81:29.52      862542432 B                            1.0000  (12 files)
+
+
+ffp:
+ph1990-04-28d1t01.flac:ed6e8cdf4dda4bf4de5f38e2469de978
+ph1990-04-28d1t02.flac:f737965e8ef29778899f25c159ce5621
+ph1990-04-28d1t03.flac:102ce13953502753e027aabf945865f4
+ph1990-04-28d1t04.flac:fc6e3576241384136a8dd36841611228
+ph1990-04-28d1t05.flac:95ff32e7083841d42be0d69ce027ad46
+ph1990-04-28d1t06.flac:bbc25162620e23616df7d982bd09c460
+ph1990-04-28d1t07.flac:d569e800376a9129d6842e1cdb85ac9f
+ph1990-04-28d1t08.flac:5175950c979335a53d117034de33dca3
+ph1990-04-28d1t09.flac:04e1a80464717de6b7c7dbd21cc5f2f6
+ph1990-04-28d1t10.flac:37225c2f3ffad5adbcb90151a734011d
+ph1990-04-28d1t11.flac:3ebdb0d9d6884a2148766f209e260d0d
+ph1990-04-28d1t12.flac:b450ac943f9cbbfdcb476dab276ab2f3
+
+MD5 Checksums:
+3a0b7eefaf8f1e0192028899e6ef1a5d *ph1990-04-28d1t01.flac
+ade4bc7f6eec5029ed656734e0721842 *ph1990-04-28d1t02.flac
+d52151663b0adc20e44fae8d98546f69 *ph1990-04-28d1t03.flac
+2730522d5c02bd85355d5378909eec52 *ph1990-04-28d1t04.flac
+fa00a566e96d02c61e4d6e8944bd67d4 *ph1990-04-28d1t05.flac
+7a4b59c9be8f9713c7760f3f8b22b1c4 *ph1990-04-28d1t06.flac
+b1aacdd3d0c933702d71048b382bd28c *ph1990-04-28d1t07.flac
+b19da53b133e5b8554d1666a95ce316c *ph1990-04-28d1t08.flac
+0c3e4aad8ee894472fb5ade1a0eb7cc2 *ph1990-04-28d1t09.flac
+aac6337c13d66c50b6ff4b8af3e6972b *ph1990-04-28d1t10.flac
+dc3de8b0b9da772115612d63d9716a66 *ph1990-04-28d1t11.flac
+0300ab1186233d218f4abbce25bbe333 *ph1990-04-28d1t12.flac
+

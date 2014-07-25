@@ -1,0 +1,76 @@
+Phish
+July 30, 1997
+Ventura County Fairgrounds
+Ventura, CA
+
+Source:	(FOB) Neumann km140 -> Oade -> SBM-1 -> DA-P1 [@ 48khz]
+
+transfer:	
+SET 1: 	Tascam DA302 -> digi coax cable -> MAudio Dio 24/48 -> CD Wave ->
+	SoundForge (48>44.1, fades) -> mkwACT
+SET 2:	Fostex D5 -> optical cable -> HOSA ODL-276 -> digi coax cable -> 
+	EgoSys Waveterminal 2496 -> CoolEdit 2000 (48->44.1, fades) -> 
+	CD Wave v1.71 -> mkwACT 0.97b1
+
+
+Transfer by: Blane Harvey & Jason Sobel
+
+NOTE: These SHNs were made from the same source dats (my clones), I simply redid the first 
+set because there were some glitches in Jason's transfer. The second set was fine, so I left 
+it as-is.
+
+KNOWN ANOMALIES:  
+-Some phasing throughout the show due to high winds, though far less evident on
+this seed than on any others I've heard, including the FOB Schoeps source.  
+-A few small pop-like sounds in Wolfman's, Piper and CT&B, present on dat, that I believe are 
+claps by people beside the taper.
+
+___________________________________________________________________________
+
+*Dankseed Certification received 2002-11-05*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph1997-07-30/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________
+
+
+
+==Disc 1==	(72:24.17)
+Set 1
+1) NICU				(05:44.13)
+2) Wolfman's Brother -> 	(11:57.10)
+3) Chalk Dust Torture		(11:17.50)
+4) Water in the Sky		(04:05.21)
+5) Stash			(15:20.35)
+6) Weigh			(05:11.21)
+7) Piper			(05:04.59)
+8) Cars Trucks Buses		(04:48.18)
+9) Character Zero 		(08:55.17)
+
+==Disc 2==	(53:06.10)
+Set 2
+1) Punch You in the Eye	>	(08:37.93)
+2) Free ->			(11:14.89)
+3) spacey jam    		(02:33.13)
+4) David Bowie*-> 		(19:15.35)
+5) Cities-> 			(05:12.29)
+6) David Bowie			(06:12.49)
+
+==Disc 3==	(30:08.45)
+1) Bouncing Around the Room	(03:43.20)
+2) Uncle Pen			(04:13.61)
+3) Prince Caspian		(08:56.76)
+4) Fire 			(07:42.20)
+5) E: My Soul 			(05:32.68)
+
+*With "Simpsons" language in the high-hat intro. 
+

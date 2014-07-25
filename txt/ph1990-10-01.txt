@@ -1,0 +1,65 @@
+Phish
+The Haunt
+Ithaca NY
+10/1/90 Set I
+
+Set I Source: Unknown Aud > cass/? > WAV > Audacity 1.2.4 > CDWAV > FLAC16
+Transfered by: Taperwayne (taperwayne@gmail.com)
+
+Thanks To Greg Peeler for rescuing this one!
+
+Set II Source: Schoeps CMC4/MK4->ORTF->Oade Cap Coupled Supply->Panasonic SV255 Source Dat->Cass/3
+Transfer: Cass/3>Sony TC-KA3ES>DSP24(24/48)>Wavelab>FLAC16
+
+Taped by: Dan O'Neill
+Transfer and mastered by: Marmar
+Tape provided by: Todd Ahrens
+
+Set 1
+
+01. Possum
+02. The Squirming Coil >
+03. The Lizards
+04. The Landlady
+05. Magilla
+06. Dinner And A Movie >
+07.//Bouncing Around The Room
+08. Tweezer
+09. Oh Kee Pah Ceremony >
+10. Suzy Greenberg
+
+Set II:
+Mike's Song > 
+I Am Hydrogen > 
+Weekapaug Groove
+The Asse Festival
+Stash
+Runaway Jim
+Fee/ 
+/Gumbo
+Golgi Apparatus
+Zero Man Intro
+Love You > HYHU -> 
+Run Like an Antelope
+
+
+Notes: Taken from an analog tape with unknown generations. There are a few instances of 
+dropouts and tape warble from age, and a little hiss. Overall not bad, and a missing set
+that hasn't circulated before. The beginning of Bouncing is clipped due to the tape flip.
+I'm not 100% certain if the Lawn Boy and the AC/DC Bag are really the first two songs of
+set II or not, or filler, but I left them just in case. Neither song is on the list for Set II which
+has been in circulation from some time.
+Enjoy! 
+
+9ae6182431f6bb30347ec5f37200ab90 *ph1990-10-01set1T01.flac
+4bd897357a77a348959c3012b7230261 *ph1990-10-01set1T02.flac
+872eb30168413236643c2222bc493225 *ph1990-10-01set1T03.flac
+361afacda54e032c3cacac93d00bbd79 *ph1990-10-01set1T04.flac
+46384863edfdd06d7ead4bfea89d9dda *ph1990-10-01set1T05.flac
+864de56ba78d97fb50baad51950e988d *ph1990-10-01set1T06.flac
+5c2257400675758b875fae5d001fc726 *ph1990-10-01set1T07.flac
+ba8cf927310911d533298ba664302fed *ph1990-10-01set1T08.flac
+7ccfe3babf9d4848757d76f09223cb5d *ph1990-10-01set1T09.flac
+31d25a8500e2f67e07bf39011a1c91c9 *ph1990-10-01set1T10.flac
+51ba3c99581483d0b6938a18c39ef5bc *ph1990-10-01set1T11.flac
+2e0d064830b6b961c748c88cb7053de2 *ph1990-10-01set1T12.flac

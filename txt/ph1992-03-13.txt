@@ -1,0 +1,79 @@
+
+Phish
+Campus Club
+Providence, RI
+3/13/92
+
+Lineage: S:MCass>(DAT ?)>PCM>CD>EAC>SHN
+**update**
+S:MCass>(DAT ?)>PCM>CD>EAC>SHN>ReMastering>SHN
+
+Disc 1 / Set 1:
+
+1. The Curtain >
+2. Split Open and Melt *
+3. Poor Heart
+4. Guelah Papyrus
+5. Maze
+6. Dinner and a Movie >
+7. Divided Sky
+
+Disc 2:
+
+1. Mound 
+2. Fluffhead
+3. Run Like an Antelope >
+4. BBFCFM^ >
+5. Run Like an Anteope
+
+   Set 2
+
+6. Wilson^^ >
+7. Brother 
+8. The Horse >
+9. Silent in the Morning
+
+Disc 3:
+
+1. The Landlady >
+2. Lizards
+3. My Mind's Got a Mind of its Own
+4. The Sloth 
+5. Rift
+6. Cold As Ice >
+7. Love You >
+8. Cold As Ice
+9. Possum^^^
+
+   Encore
+
+10. Contact
+11. Fire
+
+
+Notes: The "?" in the lineage is not an extra analog generation.  I'm just not
+sure if the PCM came from a DAT or not, thus I put the question mark in.  I
+transferred the PCM, removed the DC offset, converted from 44.056Khz to 
+44.1Khz at the highest quality setting, tracked, and burned this show on
+July 30, 2003.  I wonder if perhaps the master was recorded with Dolby on and
+played back with it off.  It seems a bit too bright to me.  However, I did
+not mess with the recording in any way.  Enjoy!
+
+* - There is a very small dropout at 2:10.  I tried several times to get a
+clean read off the PCM tape at that spot, but could not.  It's hardly
+noticable, though.
+
+^ - Has a vocal jam based on "Hawaii" and a "Lullabye" tease in it.
+
+^^ - "Somewhere Over the Rainbow" tease to start
+
+^^^ - Trey explains secret language
+
+David Hollister
+
+***RE-MASTERING NOTES 8/2003***
+This show almost certainly has the pre-emphisis enabled if this a *true* PCM recording. That is the most likely cause for the overly harsh sound of the show. Upon getting these SHN's, they were loaded into REBA and passed through a 20band Parametric EQ with the J17 de-emphisis setting. Next in store for this show was a pass through the BBE Sonic Maximizer. This was used to really bring the mix together....it really brought out the low end very well. You can actually hear Mike's bass now ;-) The reason this was done is because if you listen real closely, you may notice you hear a lot of room dynamics....the recording had a slight time smear problem because of the 2 sources used to record this. The BBE unit was used to correct for this. Yes, you heard me right...I think this is a matrix, SBD+AUD. The SOAM has some nasty feedback. I crossfaded the feedback to "lessen" the damage to our ears. The pops in Fluffhead were toned down somewhat, but I had to leave BBFCFM alone....most of the distortion you hear is not dropouts but rather mic overload.
+
+The show was re-mastered, re-tracked, then shn'd in August 2003.
+
+Remastering by Mr. Marmar

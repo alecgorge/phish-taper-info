@@ -1,0 +1,68 @@
+Phish
+December 14, 1995
+Broome County Arena
+Binghamton, NY
+
+source:
+AKG 460B/ck61 > custom pre-amp > Sony D7 (@ 48 kHz)
+
+transfer:
+Sony PCM-R500 > Tascam HD-P2 > CF Card > usb > pc > WaveLab 5.01b (fades, resample to 44.1kHz, patch edits) > CD Wave v1.94.7 > FLAC v1.1.2 (Level 8)
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded May 23, 2006
+
+note:
+The master DAT was used in this transfer, thanks Dave!
+The original 48kHz files from the DAT transfer have been archived, and are available upon request.
+
+Disc 1 - [70:46]
+Set I
+01 - [07:15] - Suzy Greenberg
+02 - [05:54] - Llama
+03 - [03:30] - Horn
+04 - [10:55] - Foam
+05 - [06:45] - Makisupa Policeman
+06 - [14:36] - Split Open and Melt
+07 - [06:37] - Tela
+08 - [08:01] - Taste That Surrounds
+09 - [02:24] - My Sweet One
+10 - [04:50] - Frankenstein
+
+Disc 2 - [74:44]
+Set II
+01 - [06:32] - The Curtain >
+02 - [09:17] - Tweezer ->
+03 - [04:58] - Timber Ho ->
+04 - [09:42] - Tweezer ->
+05 - [03:57] - Keyboard Cavalry
+06 - [11:48] - Halley's Comet ->
+07 - [09:16] - NICU ->
+08 - [10:46] - Slave to the Traffic Light
+09 - [03:05] - encore break
+10 - [05:23] - Bold as Love
+
+
+PATCH EDIT NOTES:
+
+Dave's master DAT of the AKG source had several spots of digi-noise in the first couple of minutes of the tape.
+I used the widely circulated NAK 300 for patches at the following locations in Suzy Greenberg:
+
+ START  -  END
+00:10.6 - 00:29.8
+00:40.3 - 00:42.6
+01:05.1 - 01:10.4
+01:20.2 - 01:25.3
+01:36.7 - 01:42.2
+01:51.0 - 01:56.2
+02:10.6 - 02:15.5
+05:46.0 - 05:51.2
+
+Please note that the first two sections of digi-noise were in the intro crowd noise, before Suzy really even started.
+All of these locations included a few seconds of cross-fade for a smooth and easy transition.
+The start time listed above is the moment when it's fully the NAK source, and 
+the end time is the moment when it's fully back to the AKG source.
+
+Other than the few spots of digi-noise which have been fixed, this AKG source sounds fantastic, in my opinion.
+I hope you enjoy it as much as I do.  One last big thanks to Dave for letting me borrow his master DAT.

@@ -1,0 +1,39 @@
+Phish
+9/30/95
+Shoreline Amphitheater
+Mountain View, CA
+
+Source: (F.O.B.) Schoeps CMC64 (no other info given)
+Transfer: DA-20 mkii> Philips CDR 870 > EAC > CDWAV > Soundforge 4.5 > Shntool > SHN
+Transfer by: Brandon Johnston -- http://db.etree.org/bisq
+
+Disc 1:
+-Set I-
+1.My Friend My Friend
+2.Cars Trucks & Buses
+3.Chess Move (White Rabbit Jam)
+4.Reba
+5.Uncle Pen
+6.Horn
+7.Run Like an Antelope
+8.I'm Blue, I'm Lonesome
+9.Sample in a Jar
+
+-Set II- 
+Disc 2:
+1.Runaway Jim
+2.The Fog that Surrounds
+3.If I Could
+4.Scent of a Mule
+5.Mike's Song ->
+6.Keyboard Army
+7.Weekapaug Groove ->
+8.Suspicious Minds -> HYHU
+9.Cavern
+10.crowd noise
+11.E:Amazing Grace
+12.Good Times Bad Times
+
+Show Notes: This show was the beginning of the Band/Audience Chess Match that continued throughout the fall tour. Page and a tourhead named Pooh played a few moves to set up the board during the White Rabbit jam in the first set. Suspicious Minds made its debut. Listen for an Antelope tease before Horn. I'm Blue I'm Lonesome was dedicated to Jerry Garcia. 
+
+Tech Notes: I extracted the cds as a range and resplit the tracks using CDWAV. The EAC logs for each disc are included. Some static/pops were present in the right channel during suspicious minds. These were on my original dat, although it read no errors at that point. I removed these as best I could in soundforge although you can still hear them a little if you listen close. These pops were located between 2:07.9 and 2:13.2 and at 3:05 of suspicious minds.

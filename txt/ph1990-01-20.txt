@@ -1,0 +1,139 @@
+PHISH - January 20th, 1990
+Webster Hall - Dartmouth College
+Hanover, NH
+
+Recording Info:
+AUD -> Tascam PE-120 mics -> Sony WMD-6C (Maxell XL-IIs 90 min) cassette master 
+
+Transfer Info:
+Nak CR-3A -> Audigy 2 -> Audition 3.0 -> 16/44.1k -> TLH -> Flac16
+
+Taped, transfered and remastered by Tim Leavy
+footbear@msn.com
+August 13th, 2008
+
+Notes:
+-- This is a clean re-transfer/re-edit of shnid:92801 and sounds MUCH better
+-- Pure source; No EQ processing or noise reduction filters were applied
+-- Some feedback problems during Carolina
+-- Weird subsonic modulation from Mike's Bass during Sloth
+-- Bathtub Gin 1:36 - 2:02 mono (Left channel taken/crossfaded in from Right channel)
+-- This is a complete recording and contains no dropouts or missing parts from songs
+
+
+
+DISC ONE
+Set 1:
+d1t01 - Carolina
+d1t02 - Sloth
+d1t03 - PA Adjustments
+d1t04 - Bathtub Gin
+d1t05 - You Enjoy Myself
+d1t06 - The Squirming Coil
+d1t07 - Caravan
+d1t08 - CD Announcement
+d1t09 - Lizards
+d1t10 - Run Like an Antelope
+
+Set 2:
+d1t11 - Oh Kee Pa Ceremony ->
+d1t12 - Suzy Greenberg
+d1t13 - Bouncing Around the Room*
+
+DISC TWO
+d2t01 - Reba
+d2t02 - Tela
+d2t03 - La Grange
+d2t04 - Lawn Boy
+d2t05 - Esther
+d2t06 - Mike's Song ->
+d2t07 - I Am Hydrogen ->
+d2t08 - Weekapaug Groove
+
+Encore:
+d2t09 - Crowd
+d2t10 - Harry Hood
+
+*First time played
+
+
+SHNTOOL OUTPUT:
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     2:06.46       22334636 B   ---   --   -----    wav  1.0000  ph90-01-20d1t01-fixed.wav
+     3:50.26       40633196 B   ---   --   -----    wav  1.0000  ph90-01-20d1t02-fixed.wav
+     1:06.42       11741228 B   ---   --   -----    wav  1.0000  ph90-01-20d1t03-fixed.wav
+     6:23.30       67631804 B   ---   --   -----    wav  1.0000  ph90-01-20d1t04-fixed.wav
+    16:01.12      169548668 B   ---   --   -----    wav  1.0000  ph90-01-20d1t05-fixed.wav
+     5:42.57       60462908 B   ---   --   -----    wav  1.0000  ph90-01-20d1t06-fixed.wav
+     7:06.12       75174668 B   ---   --   -----    wav  1.0000  ph90-01-20d1t07-fixed.wav
+     0:55.14        9734972 B   ---   --   -----    wav  1.0000  ph90-01-20d1t08-fixed.wav
+     9:57.23      105364940 B   ---   --   -----    wav  1.0000  ph90-01-20d1t09-fixed.wav
+    10:49.27      114547148 B   ---   --   -----    wav  1.0000  ph90-01-20d1t10-fixed.wav
+     1:43.72       18338588 B   ---   --   -----    wav  1.0000  ph90-01-20d1t11-fixed.wav
+     5:15.14       55598972 B   ---   --   -----    wav  1.0000  ph90-01-20d1t12-fixed.wav
+     4:14.47       44916188 B   ---   --   -----    wav  1.0000  ph90-01-20d1t13-fixed.wav
+    11:55.50      126243644 B   ---   --   -----    wav  1.0000  ph90-01-20d2t01-fixed.wav
+     6:35.37       69765068 B   ---   --   -----    wav  1.0000  ph90-01-20d2t02-fixed.wav
+     5:35.38       59183420 B   ---   --   -----    wav  1.0000  ph90-01-20d2t03-fixed.wav
+     2:42.00       28576844 B   ---   --   -----    wav  1.0000  ph90-01-20d2t04-fixed.wav
+     8:56.15       94585724 B   ---   --   -----    wav  1.0000  ph90-01-20d2t05-fixed.wav
+     6:02.05       63868604 B   ---   --   -----    wav  1.0000  ph90-01-20d2t06-fixed.wav
+     2:27.64       26081372 B   ---   --   -----    wav  1.0000  ph90-01-20d2t07-fixed.wav
+     5:57.49       63090092 B   ---   --   -----    wav  1.0000  ph90-01-20d2t08-fixed.wav
+     1:53.61       20076716 B   ---   --   -----    wav  1.0000  ph90-01-20d2t09-fixed.wav
+    11:29.27      121603148 B   ---   --   -----    wav  1.0000  ph90-01-20d2t10-fixed.wav
+   138:48.18     1469102548 B                            1.0000  (23 files)
+
+
+ffp:
+ph90-01-20d1t01-fixed.flac:b34750c17dc1bc6bf7a2d81e396a37f4
+ph90-01-20d1t02-fixed.flac:6f8ec526d8b409ad0217b21ccf6cd5e7
+ph90-01-20d1t03-fixed.flac:821f14e1671373ae88a9a9ba72b59e2e
+ph90-01-20d1t04-fixed.flac:fb6d12cd673280608f5160cb84b43371
+ph90-01-20d1t05-fixed.flac:11afd900558f8e8035889ac0e3f68fae
+ph90-01-20d1t06-fixed.flac:803760be410048a77509342d0b105a50
+ph90-01-20d1t07-fixed.flac:197f61bc406d26175e26f95a6fffcbc3
+ph90-01-20d1t08-fixed.flac:d345d0803dbfae8d217e986436845bcf
+ph90-01-20d1t09-fixed.flac:311ee84bb20c13142ab8b8b68d101ae5
+ph90-01-20d1t10-fixed.flac:720982794cc426a2c82b47fe277c2bc6
+ph90-01-20d1t11-fixed.flac:39afc817c252f5830822279b914564df
+ph90-01-20d1t12-fixed.flac:60cd12e610cfbe55053e5fe8562acc74
+ph90-01-20d1t13-fixed.flac:fcea7c76bb32b4960d596eb088fa1c5b
+ph90-01-20d2t01-fixed.flac:cc7f68aacd02fb7f8e79ffce55691ee9
+ph90-01-20d2t02-fixed.flac:1326c8ef506697ed64033ee165697483
+ph90-01-20d2t03-fixed.flac:b814b7e9a9eb824090bdb0298b4446da
+ph90-01-20d2t04-fixed.flac:5a49a68aa44fe100172a5cbf09dc7d5c
+ph90-01-20d2t05-fixed.flac:f494495f191e0ae69d7ef7f8636c4617
+ph90-01-20d2t06-fixed.flac:c4d72f0b7ce82c4dc127770f18de2221
+ph90-01-20d2t07-fixed.flac:8dfe44b2ac274b06b31eebea3bc1889c
+ph90-01-20d2t08-fixed.flac:836264da296b0e20d110d272a5f1764c
+ph90-01-20d2t09-fixed.flac:ff911e88981514c8b321f2332e7b1c0b
+ph90-01-20d2t10-fixed.flac:ed5451d52a4a3370c0d5a4f0eeeb2139
+
+
+md5 Checksums:
+7f5ae6316baae9f9f22bb2bb0472b2f6 *ph90-01-20d1t01-fixed.flac
+a224f91ff66b68fcc95a507c733122df *ph90-01-20d1t02-fixed.flac
+084f8b38b1c46871e47312d476ff4325 *ph90-01-20d1t03-fixed.flac
+5376e59476abe4a7151e18f425730a91 *ph90-01-20d1t04-fixed.flac
+fedafb50aff2759094a5c73c9f250ca3 *ph90-01-20d1t05-fixed.flac
+f9c3ba79ae5dbba46b82e2a6cedee28f *ph90-01-20d1t06-fixed.flac
+3c51469af27b65bd8cddbee74050ac28 *ph90-01-20d1t07-fixed.flac
+f46dfc4aff9884ccd587de438a1de42b *ph90-01-20d1t08-fixed.flac
+d9eed66031dacf492d9dc4186417b80a *ph90-01-20d1t09-fixed.flac
+e4d8c8e2ae76f3036e3a5905d0d05476 *ph90-01-20d1t10-fixed.flac
+a57395985e10860d5bfdd011fe32c403 *ph90-01-20d1t11-fixed.flac
+4fe89e6453452d9b59687b4268f383cd *ph90-01-20d1t12-fixed.flac
+d453a4177b04bd3fcac58008adf5dc66 *ph90-01-20d1t13-fixed.flac
+f791a373abb35e0c4dc802907e8f9d08 *ph90-01-20d2t01-fixed.flac
+4bb7dbba30fe813958b72c9f49c545a7 *ph90-01-20d2t02-fixed.flac
+fbeac1e41fa34efb900682c0ee770bd6 *ph90-01-20d2t03-fixed.flac
+c0c010de2d0b8b6150588e72737ead0b *ph90-01-20d2t04-fixed.flac
+f4c4d96cea6670ab418d75e749be4b75 *ph90-01-20d2t05-fixed.flac
+5de854783a497a6f7b6aaf231ece4dba *ph90-01-20d2t06-fixed.flac
+40cc33d8ead519021336b27e8caed4fb *ph90-01-20d2t07-fixed.flac
+72245021267ba90f1b10afd5a5dfed25 *ph90-01-20d2t08-fixed.flac
+3009c6298fa8e059d814835f1aaa8174 *ph90-01-20d2t09-fixed.flac
+63cd12d3c27353653a9c1d0e7847e147 *ph90-01-20d2t10-fixed.flac
+
+

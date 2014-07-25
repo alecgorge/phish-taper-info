@@ -1,0 +1,99 @@
+Phish
+November 14, 1995
+University of Central Florida Arena - Orlando, FL
+
+Source: Schoeps MK4V/CMC6>DAT@48kHz
+Taper: Unknown
+
+Transfer: Sony PCM-R500>Delta Di0 2496>Soundforge 8.0(resampled 48>44.1 on 
+	  highest accuracy setting w/anti alias filter)>CDwav>FLACv.1.7.1
+
+48khz FLACs are available for archival purposes.
+
+Transferred, Encoded, and Seeded by Matt Edlhuber a.k.a. CrazyED <medlhuber@gmail.com>
+
+Set I
+01: Intro
+02: Chalk Dust Torture
+03: Foam
+04: Billy Breathes
+05: Divided Sky
+06: Esther
+07: Free
+08: Julius
+09: I'm Blue I'm Lonesome
+10: Cavern
+
+Set II
+01: Intro
+02: Maze
+03: Gumbo
+04: Stash->
+05: Manteca->
+06: Stash->
+07: Dog Faced Boy->
+08: Stash
+09: Strange Design
+
+01: You Enjoy Myself-> Immigrant Song Jam-> You Enjoy Myself
+Encore
+02: The Wedge
+03: Rocky Top
+
+Dog Faced Boy was performed over different instrumentation
+than ususal.  This fantastic Stash included Esther, Ya Mar 
+and 25 or 6 to 4 teases and quotes.  YEM included Low Rider teases.
+Manteca was played for the first time since October 28, 1994 
+(85 shows).
+
+Thanks to Ucusty for the DATs!
+
+Shntool Output:
+    length     expanded size   cdr  WAVE problems filename
+     0:56.65       10031324    ---   --   ---xx   ph1995-11-14d1t01.flac
+     7:02.55       74570204    ---   --   ---xx   ph1995-11-14d1t02.flac
+    10:38.71      112710236    ---   --   ---xx   ph1995-11-14d1t03.flac
+     5:31.45       58494284    ---   --   ---xx   ph1995-11-14d1t04.flac
+    14:56.27      158117948    ---   --   ---xx   ph1995-11-14d1t05.flac
+     9:14.61       97869116    ---   --   ---xx   ph1995-11-14d1t06.flac
+     8:52.26       93905996    ---   --   ---xx   ph1995-11-14d1t07.flac
+     9:24.50       99607244    ---   --   ---xx   ph1995-11-14d1t08.flac
+     3:38.07       38471708    ---   --   ---xx   ph1995-11-14d1t09.flac
+     4:35.44       48613532    ---   --   ---xx   ph1995-11-14d1t10.flac
+     0:38.34        6783212    ---   --   ---xx   ph1995-11-14d2t01.flac
+    12:47.74      135472892    ---   --   ---xx   ph1995-11-14d2t02.flac
+     5:18.23       56149340    ---   --   ---xx   ph1995-11-14d2t03.flac
+    15:31.11      164254316    ---   --   ---xx   ph1995-11-14d2t04.flac
+     2:34.50       27283244    ---   --   ---xx   ph1995-11-14d2t05.flac
+    10:07.37      107161868    ---   --   ---xx   ph1995-11-14d2t06.flac
+     8:06.62       85876268    ---   --   ---xx   ph1995-11-14d2t07.flac
+     2:52.47       30451388    ---   --   ---xx   ph1995-11-14d2t08.flac
+     3:03.53       32405900    ---   --   ---xx   ph1995-11-14d2t09.flac
+    22:46.22      241014188    ---   --   ---xx   ph1995-11-14d3t01.flac
+     4:15.53       45106700    ---   --   ---xx   ph1995-11-14d3t02.flac
+     2:36.02       27523148    ---   --   ---xx   ph1995-11-14d3t03.flac
+   165:31.19     1751874056 B                     (totals for 22 files, 0.5722 overall compression ratio)
+
+FLAC Fingerprint:
+ph1995-11-14d1t01.flac:417471c711ad602c35d8bcf676ee0757
+ph1995-11-14d1t02.flac:56d81907afa47b932b3db03ed78b87a6
+ph1995-11-14d1t03.flac:5156127821d31884dcfec13a9f8e3124
+ph1995-11-14d1t04.flac:160e7c794549be05bb1596d8447c9ab6
+ph1995-11-14d1t05.flac:6b0f567da87e75bdcffa8eec76000675
+ph1995-11-14d1t06.flac:3260de8cb0782e8a436476ab7fdcf0af
+ph1995-11-14d1t07.flac:04a2ea10c54daa5903ab153302877280
+ph1995-11-14d1t08.flac:d895c39588b4c871091bd2fc371b8ec4
+ph1995-11-14d1t09.flac:d6b7bd93ee668bc67b29eb3d9f56f714
+ph1995-11-14d1t10.flac:38efd38865c38060b599da90ca4f1482
+ph1995-11-14d2t01.flac:b4f322d54f1e3fe2dc7b531509de7bf9
+ph1995-11-14d2t02.flac:ca42407e723ed8ce203f5b230134cb9c
+ph1995-11-14d2t03.flac:e3671691e568097ad583c99cae649af4
+ph1995-11-14d2t04.flac:71f9c66f0b8a55b63b3c9e9e7f848f20
+ph1995-11-14d2t05.flac:f522f7878789e047bb5d1e578a8d6dd1
+ph1995-11-14d2t06.flac:2bf2f5f1142df22a61a0fb3dfa025710
+ph1995-11-14d2t07.flac:92d1e14f538441bcb310ac8e5a1d95ee
+ph1995-11-14d2t08.flac:ea3b1755192cdeec0b36d4f991b732c7
+ph1995-11-14d2t09.flac:1f50951d3aab649794d0747b7e8d02a0
+ph1995-11-14d3t01.flac:b979efc8500912a839320a304cf13e7f
+ph1995-11-14d3t02.flac:10d559aa7a11f3078af870ebe16f10c0
+ph1995-11-14d3t03.flac:8e6ae6b212080925a1b40d86645962c7

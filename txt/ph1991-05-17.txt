@@ -1,0 +1,94 @@
+Phish
+Campus Club
+Providence, RI
+05/17/91 (Page's Birthday)
+
+TAPER: John Redmond
+SOURCE Nak 300s > D5 
+
+AUD(FOB) MCass (TDK MA 90 min)> Sony TC-WE805S >
+Art DI/O (48Khz, Input gain +~10dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0)>
+Mastering (see notes)> SHN v3
+
+transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 12/21/2003
+Mastering , editing and WAV > SHN were performed at Bunker 8 Digital Labs 
+by shakedown@furthurnet.org (01/26/2004)
+**24/48 Masters do exist at the unedited/pre-processed level** 
+
+Mastering info:
+24bit/48kHz FLAC's > Wavelab 4.01a  on the Bunker 8 Digital Labs Mix2 (patch/edits/crossfades) > 
+Waves EQ (secret settings) > BBE > Waves C1 comp-sc > Waves L2 > 
+48kHz>44.1 via 192kHz Stereo Resampler and 24bit > 16bit dither UV22HR > 
+Tracking in CD-WAV > SHNv3 appended 
+
+DISC ONE
+set I:
+01. Chalkdust Torture* >
+02. Jam$ 
+03. Reba
+04. Poor Heart
+05. Oh Kee Pa >
+06. Suzie Greeneberg
+07. stage banter
+08. TMWSIY >
+09. Avenu Malkenu > TMWSIY
+10. Sta/sh
+11. I Didn't Know
+12. Mike's Song >
+13. I Am Hydrogen >
+14. Weekapaug Groove
+15. Take the A-Train$ 
+
+DISC TWO
+set II:
+01. Possum
+02. Guelah Papyrus
+03. Rocky Top
+04. Landlady >
+05. Fluffhead > Happy Birthday
+06. banter/crowd
+07. Magilla$**
+08. Cavern$ 
+09. banter/crowd
+10. Harry Hood
+
+DISC THREE
+01. HYHU > Bike > HYHU >
+02. BBFCFM > 
+03. crowd/banter/Happy Birthday to You > BBFCFM
+encore:
+04. Lawn Boy$
+05. Golgi Apparatus
+
+Show Notes: A blackout occurred during Chalk Dust. The drum solo and jam that ensued featured 
+Carl Gerhard, who also guested on 'A' Train, Magilla, Cavern, and Lawn Boy. The Man Who 
+Stepped Into Yesterday was introduced as "The Old Man Who Stepped Into Yesterday." Happy 
+Birthday was sung to Page. Bike was played for the first time since November 10, 1990 (64 shows).
+
+Show Notes:
+
+$ w/ Carl "Gears" Gearhard
+
+* Power Outage during Chalkdust Torture. John turned the deck off briefly. 
+When the tape deck comes back on, Page, Fishman and Carl Gearhard jam... 
+Jam includes portions of the Spiderman TV theme song (killer!).  When the 
+power comes back, Trey and Mike join in and finish the Jam.
+
+notes from Weave:
+I remember the tapers using their pen lights to light the guys on the 
+stage during this jam. John was taping from just in front of the soundboard.
+Unfortunately, the air conditioning did not come back on the rest of the 
+night. It was litterally the hottest show I was at. It was an unusually warm 
+spring day, so it was miserably hot and sticky inside the Campus Club. By 
+the end of the show we were all drenched in sweat! (That's why Trey makes
+mention of the A/C problem at the end of A-Train).
+
+TMWSIY is introduced as "the old man who stepped into yesterday" for Page, on his birthday.
+
+** Magilla features a Flinstone's Theme jam
+
+NO tracking/editing/alterations performed before archiving to 24-bit FLAC
+(except to trim silence from the ends).
+
+Seeded to FurthurNet (www.furthurnet.org)

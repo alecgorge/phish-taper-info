@@ -1,0 +1,48 @@
+Phish
+6/17/2010
+Meadows Music Theatre
+Hartford, CT
+
+**16 bit**
+
+Source: DPA 4023>Sonosax SX-M2>Sound Devices 722 (24/96)
+Config/Location: DIN/OTS/DFC 10' stand 
+Transfer: 722>Firewire>Macbook>
+Sound Studio 3(fades, normalize peak, track, bit depth conversion, resample)>xACT(align on sector boundaries, encode, tag, fingerprint)>flac16
+Taped & transferred by: Lenny Stubbe
+
+Set I: (1:33:25)
+01. intro
+02. Punch You In The Eye
+03. Ocelot
+04. Dinner and a Movie
+05. Stash
+06. Esther
+07. Walk Away
+08. Divided Sky
+09. When The Circus Comes To Town
+10. Sugar Shack
+11. Alaska>
+12. Golgi Apparatus
+
+Set II: (1:28:07)
+01. intro
+02. Party Time>
+03. Down With Disease>
+04. Sand>
+05. The Horse>
+06. Silent In The Morning
+07. Guyute
+08. Farmhouse
+09. Mike's Song>
+10. I Am Hydrogen>
+11. Weekapaug Groove
+12. encore break
+13. Shine A Light 
+
+Notes:
+- Thanks to Andy Murray for the clamp space
+
+Seeded to etree on: 
+
+6/18/2010

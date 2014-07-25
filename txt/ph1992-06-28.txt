@@ -1,0 +1,58 @@
+Phish
+June 28, 1992
+Roskilde Festival
+Roskilde, Denmark
+
+source:
+Sony ECM-155 > Denon DTR-80P (@ 48 kHz)
+
+transfer:
+Tascam DA-20mkII > Marantz PMD-661 > SDHC card > usb 2.0 > pc > Samplitude SE v9.1.1 (fades, volume adjustments, track splits, resample to 44.1 kHz) > FLAC v1.2.1 (Level 8)
+
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded July 18, 2009
+
+notes:
+FLAC tags added with metaflac v1.2.1
+Each channel was normalized independently to balance the levels.
+There was a short cut during the encore break audience noise.  I cross-faded the audience noise to make it appear seamless.
+The original 48 kHz files from the DAT transfer have been archived and are available upon request.
+This show often circulates with the (incorrect) date of June 27, 1992.
+
+total time - [76:33]
+01 - [00:23] - intro
+02 - [07:01] - Runaway Jim
+03 - [07:21] - Foam
+04 - [04:03] - Sparkle
+05 - [10:40] - Reba
+06 - [08:08] - Maze
+07 - [03:07] - All Things Reconsidered
+08 - [05:57] - Chalk Dust Torture
+09 - [03:54] - Bouncing Around the Room
+10 - [04:09] - Uncle Pen
+11 - [12:34] - David Bowie
+12 - [04:05] - I Didn't Know
+13 - [05:13] - Good Times Bad Times
+
+Show Notes: This four-day festival featured over 100 bands, including Nirvana, 
+Faith No More, and David Byrne.
+
+------------------------------------------------------------------------------------------
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:22.39           3.79 MB  ---   --   ---xx   flac  0.5056  ph1992-06-28t01.flac
+     7:00.67          70.81 MB  ---   --   ---xx   flac  0.6146  ph1992-06-28t02.flac
+     7:20.62          74.16 MB  ---   --   ---xx   flac  0.5798  ph1992-06-28t03.flac
+     4:02.38          40.80 MB  ---   --   ---xx   flac  0.6103  ph1992-06-28t04.flac
+    10:39.71         107.66 MB  ---   --   ---xx   flac  0.5870  ph1992-06-28t05.flac
+     8:08.20          82.14 MB  ---   --   ---xx   flac  0.6359  ph1992-06-28t06.flac
+     3:06.60          31.43 MB  ---   --   ---xx   flac  0.5685  ph1992-06-28t07.flac
+     5:56.67          60.04 MB  ---   --   ---xx   flac  0.6579  ph1992-06-28t08.flac
+     3:53.43          39.29 MB  ---   --   ---xx   flac  0.5876  ph1992-06-28t09.flac
+     4:08.66          41.87 MB  ---   --   ---xx   flac  0.5752  ph1992-06-28t10.flac
+    12:34.06         126.86 MB  ---   --   ---xx   flac  0.6090  ph1992-06-28t11.flac
+     4:05.08          41.23 MB  ---   --   ---xx   flac  0.5356  ph1992-06-28t12.flac
+     5:13.02          52.66 MB  ---   --   ---xx   flac  0.6543  ph1992-06-28t13.flac
+    76:33.24         772.73 MB                           0.6045  (13 files)

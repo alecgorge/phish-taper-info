@@ -1,0 +1,20 @@
+Phish
+04/13/94
+WNEW Studios
+Newyork, Newyork
+
+this was a daytime radio interview/gig that they played tunes on a
+setup in the studio.
+
+source: FM->DAT->echo mia->SF7.0->CDwave->flac
+
+1. intro - interviews
+2. Sample in a Jar
+3. interviews
+4. Down with Disease
+5. interviews
+6. Julius (Hoist version)
+7. commercial break cuttin
+8. interviews
+9. Rift
+10. station ID

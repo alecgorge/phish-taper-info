@@ -1,0 +1,83 @@
+3/13/1991
+Boulder Theater
+Boulder, CO
+
+Source: SBD->16-track mixer->DAT@44.1khz->PC via Event Gina
+Transferred by James Treworgy jamie@treworgy.com on 2/20/05
+
+Info From Kevin Shapiro: "11/3/90 and the other tapes of the era (10/30-11/4) 
+were all done by Mike Grace through a separate 16 track mixer and ran direct to 2 
+track DAT.  He basically used the same setup in Spring 1991 too."
+
+Setlist:
+
+Set I [80:20:45]
+
+1.  Fluffhead
+2.  The Landlady
+3.  YEM
+4.  Cavern
+5.  The Divided Sky
+6.  Esther
+7.  Llama
+8.  Squirming Coil
+9.  David Bowie
+
+Set II [79:28:01]
+
+1.  House Announcement
+2.  Suzie Greenberg
+3.  Split Open and Melt
+4.  Bouncing Around the Room
+5.  My Sweet One
+6.  Guelah Papyrus
+7.  Runaway Jim
+8.  The Sloth
+9.  Reba >
+10. Tweezer
+11. HYHU > Terrapin > HYHU
+12. Oh Kee Pa Ceremony
+13. Golgi Apparatus
+
+Encore:
+
+14. Crowd Chant
+15. Take The A Train
+16. Big Fat Furry Creature From Mars
+
+Well, the other sources in circulation sound great, but if they can be even better,
+why not? What you have here is the gold standard version of this show. This is a
+100% digital transfer from a master DAT clone with no flaws and no cuts. While the
+other sources in circulation are almost certainly based on this original source, 
+they have unknown lineage and at least minor flaws. The most recent one is 
+circulating as "unknown soundboard". More importantly, it's almost certain that 
+this other source has gone through analog or other processing. 
+
+The differences between this and the currently circulating source are as follows:
+
+1. Source is of known lineage with no DAE. The technical quality is substantially
+different. Peak levels are almost 100% higher than the other source, and use most
+the full dynamic range. Since they are both obviously from the same original
+recording I suspect that the other version was transferred from the master through
+analog rather than digital, or some other processing got introduced along the way.
+This source is a 100% unprocessed digital transfer from a master DAT clone.
+
+2. Nothing has been cut between songs. The other version had been clipped for
+space in Set I so it will fit on an 80 minute CD. This version will not fit on a
+standard 80 minute CD, so you'll either need to overburn or use a longer CD. 
+The pre-encore crowd chanting from the master DAT has also been included in Set II
+and tracked separately so you can leave it off the CD if you want, though Set II
+is still under 80 minutes.
+
+3. There are no known flaws in this version. The other version has at least one 
+digital flaw that I found, a split-second dropout in the beginning of Divided Sky.
+
+4. This version is distributed as FLAC rather than SHN ;-) C'mon people isn't it
+time to stop clinging to that ancient religion... FLAC compresses better, 
+has integrated integrity checking so you don't need MD5 checksums, and you can
+encode tag details into the files so you get CD-TEXT and all sorts of other
+good stuff automatically. The FLACs in this distribution have been tagged. Long life 
+FLAC! Death to SHN!
+
+
+

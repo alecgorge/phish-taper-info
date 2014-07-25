@@ -1,0 +1,54 @@
+phish
+radio city music hall
+nyc
+2000-05-22
+
+set 1 (~69 min.)
+
+disc 1
+01-My Soul, 
+02-Chalkdust Torture, 
+03-Billy Breathes, 
+04-Heavy Things, 
+05-Get Back On the Train, 
+06-Split Open & Melt, 
+07-Sparkle, 
+08-Horn, 
+09-Bathtub Gin
+
+set 2 (~99 min.)
+
+disc 2
+01-Bouncing Around the Room >
+02-David Bowie, 
+03-Sand, 
+04-The Mango Song, 
+05-Ghost >
+
+disc 3
+01-Rock and Roll, 
+E: 
+02-Bug >
+03-Golgi Apparatus
+
+source: akg460b/ck61>V2>SBM1>D8>D7; by JK, john m patch
+transfer: DATmaster>cd(1)>eac>cdwave>flac, by john m 2007-09-28
+
+fingerprint:
+phish2000-05-22d1t01.flac:9f40d8f33c4c8418d4e921d27d82ef88
+phish2000-05-22d1t02.flac:67a4c42becf06bb66755c3859253b96a
+phish2000-05-22d1t03.flac:0ec4baae2026fb9e608f4f69b69978fa
+phish2000-05-22d1t04.flac:c713279c368d18cb0f4000f74d04a492
+phish2000-05-22d1t05.flac:321c91374ebc686a70e2b8e1af17dadc
+phish2000-05-22d1t06.flac:e1ed40c815c0d5500ff02a745861ada7
+phish2000-05-22d1t07.flac:b9e2749bd27053cc97e01ba845452884
+phish2000-05-22d1t08.flac:7ec3e4521b9f76a0c07e2e0881d7ff12
+phish2000-05-22d1t09.flac:c74472920ee5240eab22424363e6fee9
+phish2000-05-22d2t01.flac:4ee9d8e35aedf72a43f81cb144101849
+phish2000-05-22d2t02.flac:c3faf64ccad4f9deb0786afa86bfba0a
+phish2000-05-22d2t03.flac:02ebed881b93368276dc2efeab990cfc
+phish2000-05-22d2t04.flac:e21ff9e140f1ec83f0349e629c62f365
+phish2000-05-22d2t05.flac:22a2bc4ae950e9e3d816ecb9db25ba85
+phish2000-05-22d3t01.flac:bf17660bedde98c9d42ad1218b57190b
+phish2000-05-22d3t02.flac:9de6002bede870d9cbd73b0d76b906ff
+phish2000-05-22d3t03.flac:a26fecddacede49ce877b3deb0bdcd2a

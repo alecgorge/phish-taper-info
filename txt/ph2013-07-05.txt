@@ -1,0 +1,57 @@
+Phish
+2013-07-05
+Saratoga Performing Arts Center
+Saratoga Springs, NY
+
+mics were in the tapers section dfc 
+mk22s were NOS/mk41s were DIN
+
+Source:
+Schoeps MK41>KC5>CMC6>Sonosax SX-R4 
+Schoeps mk22>Nbob actives>Naiant PFAs>Sonosax SX-R4 (24bit/96khz)
+
+Lineage:
+WAV>USB>Macbook Pro>Audacity(mixing)Wave Editor(tracking,fades,resample(izotope)/dither(mbit+)to 16 bit/44.1k)>XAct(FLAC 8,ffp,fix sbe)
+
+Taped by: Andy Murray
+Transferred by: Andy Murray
+
+Set 1: 
+
+01. crowd
+02. Kill Devil Falls
+03. The Moma Dance > 
+04. Sample in a Jar
+05. Roses Are Free
+06. Birds of a Feather
+07. Yarmouth Road [1]
+08. Bathtub Gin
+09. Nellie Kane
+10. Army of One > 
+11. My Friend, My Friend [2] >
+12. Cities >
+13. David Bowie
+
+Set 2: 
+
+01. crowd
+02. Energy [3] > 
+03. Light > 
+04. The Mango Song [4] > 
+05. 46 Days > 
+06. Steam > 
+07. Drowned [5] > 
+08. Slave to the Traffic Light
+
+Encore: 
+09. encore break
+10. Character Zero [6]
+
+[1] Debut.
+[2] No "Myfe" ending.
+[3] Phish debut.
+[4] Light teases from Trey.
+[5] Divided Sky tease from Trey.
+[6] Jean Pierre tease from Trey.
+
+Notes: After Birds of a Feather, Page pointed out Ian in the crowd from "Ian's Farm" fame and waxed nostalgic about playing there while also noting that SPAC was one of the band's favorite venues. Yarmouth Road made its debut at this show. Energy made its Phish debut. Trey teased Light in Mango Song, Divided Sky in Drowned, and Jean Pierre in Character Zero.

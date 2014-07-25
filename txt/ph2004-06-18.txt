@@ -1,0 +1,38 @@
+PHiSH
+06.18.2004
+Keyspan Park 
+Brooklyn, NY
+
+source: (FOB/DFC) Schoeps M-S config 
+	MK8/MK4v > KCY actives > VMS_5u > modSBM1 > JB3 
+transfer: JB3 > Wavelab4 w/ M-S matrix plugin > CDwave (tracks) > FLAC
+
+taped and transferred by krunchy 
+much props to EB for the assistance 
+
+DISC1:
+   Set 1
+1. AC/DC Bag 
+2. Camel Walk 
+3. Crowd Control 
+4. Stash 
+5. Cars Trucks Buses 
+6. Carini -> 
+7. My Sweet One -> 
+8. Character Zero > 
+9. Tweezer
+
+DISC 2:
+   Set 2
+1. Wilson -> 
+2. Down With Disease 
+3. 99 Problems* 
+4. Big Pimpin'* 
+5. Chalk Dust Torture 
+6. Harry Hood  
+7. Taste
+
+DISC 3:
+   Encore
+1. Bug > 
+2. Tweezer Reprise

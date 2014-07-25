@@ -1,0 +1,66 @@
+Phish 11/04/94 Onondaga War Memorial Auditorium - Syracuse, NY 
+
+Source: 	DAUD/OTS Schoeps CMC3/mk41(XY 90 deg) >
+		Oade Deluxe 12v PS > Denon dtr80p(mic input)@48k
+		Master(on dtr-80p listed above) > clone used in below transfer
+		
+Conversion: 	Fostex D5 > Monster Optical > Sek'd Prodif Plus > 
+		Samplitude v5.5 > Soundforge 4.0 (48>44.1@highest setting[4of4],
+		with anti-alias filter) > CD Wave > mkwACT v0.97
+		(shn files have seek tables appended)
+		**No DAE at all** 						
+
+Minor Edits:	None
+
+Mastered by Mikey Perrott, who supplied the DATs for this transfer.  Thanks Mikey!!
+Transferred and uploaded by Jim Raras <jraras@yahoo.com> via Dankseeds
+Please contact me with questions etc.  There are also 48k shn's of this seed for archival.
+
+____________________________________________________________________________
+
+*Dankseed Certification received 01-02-22*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph94-11-04/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________
+
+
+Disc 1 / Set I 			                        	     01:12:57
+01.  Intro/Crowd			                   		00:47
+02.  Sample in a Jar >			                   		05:13
+03.  It's Ice >                         		   		08:53 
+04.  Bouncing Around the Room	         		   		03:35 
+05.  David Bowie			 		   		15:33
+06.  Colonel Forbin's Ascent > VoL > Col. Forbin >	   		10:28
+07.  The Famous Mockingbird                 		   		06:22
+08.  Scent of a Mule                   	 		   		08:23
+09.  Suzy Greenberg >                  	 		   		06:06
+10.  Chalkdust Torture             	 		   		07:37
+
+
+Disc 2 / Set II & Encore					     01:08:30
+01.  Intro/Crowd       		         		   		00:27
+02.  The Curtain		        		   		06:32
+03.  Mike's Song ->		         		   		05:46
+04.  Simple ->			         		   		05:26
+05.  Mike's Song >	                 		   		01:16
+06.  Tela >	                          		   		06:32
+07.  Weekapaug Groove	                 		   		07:32
+08.  Ya Mar >                     	 		   		10:35
+09.  Golgi Apparatus			 		   		04:23
+10.  Slave to the Traffic Light		 		   		09:57
+11.  Encore Break/Crowd			 		   		01:46
+12.  Loving Cup				 		   		05:14
+13.  Rocky Top				 		   		03:04
+
+
+Setlist from "The Phish Companion" http://www.phish.net/mockingbird/		

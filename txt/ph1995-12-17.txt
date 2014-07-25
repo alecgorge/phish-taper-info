@@ -1,0 +1,93 @@
+Phish
+December 17, 1995
+Olympic Center
+Lake Placid, NY
+
+source:
+AKG 460B/ck61 > custom pre-amp > Teac DAP-20 (@48kHz)
+
+transfer:
+Sony D8 > M-Audio MicroTrack > CF Card > Samplitude SE v9.1.1 (de-emphasis, fades) > r8brain v1.9 (resample to 44.1 kHz) > CD Wave v1.97 > FLAC v1.2.1 (Level 8)
+
+FLAC tags added with metaflac v1.2.1
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded May 1, 2008
+
+notes:
+The original DAT recording was made with pre-emphasis.  The pre-emphasis has been removed with Samplitude.
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+Big thanks to Dave for letting me borrow the master DAT!
+
+Disc 1 - [67:34]
+Set I
+01 - [06:35] - My Friend My Friend >
+02 - [02:16] - Poor Heart >
+03 - [04:27] - A Day in the Life
+04 - [12:38] - Run Like an Antelope
+05 - [07:14] - The Mango Song >
+06 - [03:31] - Tube >
+07 - [11:55] - Stash
+08 - [10:03] - Lizards
+09 - [08:57] - Chalk Dust Torture *
+
+Disc 2 - [48:54]
+Set II
+01 - [04:01] - Bouncing Around the Room >
+02 - [12:41] - Maze
+03 - [09:06] - Free >
+04 - [06:00] - 2001 ->
+05 - [17:06] - Harry Hood
+
+Disc 3 - [39:27]
+Set II continued
+01 - [03:38] - Sparkle
+02 - [19:52] - Tweezer ** ->
+03 - [02:50] - Tweezer Reprise
+04 - [04:07] - encore break
+05 - [01:21] - Hello My Baby
+06 - [07:39] - Runaway Jim
+
+* Trey thanks band and audience for the tour
+** Page solo between "Tweezer" and "Tweezer Reprise"
+
+Show Notes: Page took a nice solo between Tweezer and Tweezer Reprise. 
+
+Note:
+The primary difference between this seed and the original seed of Dave's source is the pre-emphasis.
+For reference, I originally seeded Dave's source of this show on 12/8/05.
+Detailed information regarding that seed is available here: http://db.etree.org/shn/32526
+At the time that I originally seeded Dave's source, I was just learning about pre-emphasis.
+As such, there were a few of my seeds from around that time that have not been de-emphasized.
+For this seed, I went back to the 48 kHz files from the original DAT transfer to remove the pre-emphasis.
+This new seed sounds less harsh, more natural, and is a better representation of the sound at the venue.
+Other (minor) differences include:
+A different program for resampling to 44.1kHz, a newer version of FLAC compression, and FLAC tags on this new seed.
+
+----------------------------------------------------------------------------------------------------
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     6:34.48          66.39 MB  ---   --   ---xx   flac  0.4783  ph1995-12-17d1t01.flac
+     2:15.58          22.84 MB  ---   --   ---xx   flac  0.4928  ph1995-12-17d1t02.flac
+     4:27.24          44.97 MB  ---   --   ---xx   flac  0.4857  ph1995-12-17d1t03.flac
+    12:37.55         127.47 MB  ---   --   ---xx   flac  0.4978  ph1995-12-17d1t04.flac
+     7:13.47          72.95 MB  ---   --   ---xx   flac  0.4770  ph1995-12-17d1t05.flac
+     3:30.43          35.42 MB  ---   --   ---xx   flac  0.5138  ph1995-12-17d1t06.flac
+    11:54.44         120.21 MB  ---   --   ---xx   flac  0.5013  ph1995-12-17d1t07.flac
+    10:02.60         101.41 MB  ---   --   ---xx   flac  0.4706  ph1995-12-17d1t08.flac
+     8:56.71          90.33 MB  ---   --   ---xx   flac  0.5142  ph1995-12-17d1t09.flac
+     4:00.39          40.46 MB  ---   --   ---xx   flac  0.4733  ph1995-12-17d2t01.flac
+    12:41.19         128.06 MB  ---   --   ---xx   flac  0.5182  ph1995-12-17d2t02.flac
+     9:06.25          91.91 MB  ---   --   ---xx   flac  0.5227  ph1995-12-17d2t03.flac
+     5:59.45          60.49 MB  ---   --   ---xx   flac  0.5034  ph1995-12-17d2t04.flac
+    17:06.00         172.60 MB  ---   --   ---xx   flac  0.4829  ph1995-12-17d2t05.flac
+     3:38.00          36.67 MB  ---   --   ---xx   flac  0.5068  ph1995-12-17d3t01.flac
+    19:51.55         200.48 MB  ---   --   ---xx   flac  0.4774  ph1995-12-17d3t02.flac
+     2:49.50          28.54 MB  ---   --   ---xx   flac  0.5312  ph1995-12-17d3t03.flac
+     4:07.35          41.63 MB  ---   --   ---xx   flac  0.4222  ph1995-12-17d3t04.flac
+     1:21.25          13.68 MB  ---   --   ---xx   flac  0.3980  ph1995-12-17d3t05.flac
+     7:39.07          77.23 MB  ---   --   ---xx   flac  0.5125  ph1995-12-17d3t06.flac
+   155:55.00        1573.78 MB                           0.4926  (20 files)

@@ -1,0 +1,78 @@
+Phish
+July 8, 1994
+Great Woods Amphitheater
+Mansfield, MA
+
+Set I Source:
+AKG 460B/ck61 > custom pre-amp > Teac DA-P20 (@ 48kHz)
+
+transfer:
+Sony PCM-R500 > Tascam HD-P2 > CF Card > usb > pc > WaveLab 5.01b (de-emphasis, fades, resample to 44.1kHz) > CD Wave v1.95 > FLAC v1.1.2 (Level 8)
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded August 12, 2006
+
+notes:
+The master DAT was used in this transfer, thanks Dave!
+The original DAT recording was made with pre-emphasis. The Waves 5.0 Paragraphic EQ plug-in was used to de-emphasize the recording.
+The 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+
+------------------------------------------
+Set II
+Source: 	SBD/mix > DAT@44.1k (see source notes below)		Set 2: clone no more than 3-4 clones from the master used in below transfer		Source Notes:	More than likely preFM that never aired, as WBCN usually		aired one night of the Great Woods or NYE shows every year and it seems as if		the mix (SBD/aud) matrix was done at the show--check the last track for instance		of the aud feed still going while the SBD feed is played back over it 		(Nellie Kane).	I personally think this assumption makes much more sense than 		the previous assumption that it's the ALO mix as it doesn't sound like it 		(compare for yourself).		Conversion: 	Fostex D5 > Monster Optical > Sek'd Prodif Plus > 		Samplitude v5.5 > Soundforge 4.0 (fades, no resample) > 		CD Wave > mkwACT v0.97		(shn files have seek tables appended)		**No DAE at all** 						Minor Edits:	Fades (in/out at beg/end of set, 3&5 sec respectively)		Removed/smoothed diginoise*** in Sample at 2.58/4.24, clean clones don't circ,		***I tried to do this, but couldn't make it much better, try if you like***DAT for this transfer supplied by Mark Lynn.  Thanks Mark!!Transferred and uploaded by Jim Raras <jraras@yahoo.com> via DankseedsPlease contact me with questions etc.  There are also uncut/unedited shn's of this seed for archival.
+
+Disc 1 - [70:57]
+Set I
+01 - [03:49] - Llama >
+02 - [02:12] - NO2
+03 - [02:12] - narration
+04 - [09:54] - The Lizards
+05 - [02:38] - narration
+06 - [06:41] - Tela
+07 - [01:47] - narration
+08 - [04:03] - Wilson
+09 - [01:35] - narration
+10 - [06:51] - AC/DC Bag
+11 - [01:00] - narration
+12 - [07:00] - Colonel Forbin's Ascent >
+13 - [06:07] - The Famous Mockingbird
+14 - [01:10] - narration
+15 - [03:47] - The Sloth
+16 - [00:54] - narration
+17 - [09:19] - McGrupp and the Watchful Hosemasters
+
+Disc 2 - [61:01]
+Set I continued
+01 - [14:58] - The Divided Sky
+
+Set II
+Disc 1 / Set II (part a)					     01:10:59
+01.  Intro/Crowd/Tuning		         		   		00:21
+02.  Rift			        		   		05:50
+03.  Sample in a Jar		         		   		04:49
+04.  Reba			         		   		12:30
+05.  Yerushalayim Shel Zahav                 		   		01:17
+06.  It's Ice		                   		   		08:59
+07.  Stash		                 		   		12:18
+08.  You Enjoy Myself ->		 		   		12:29
+09.  Frankenstein ->			 		   		05:09
+10.  You Enjoy Myself	   		 		   		07:17
+
+Disc 2 / Set II (part b) and Encore   				     00:23:34
+01.  Julius				 		   		07:34
+02.  Golgi Apparatus			 		   		04:51
+03.  Encore Break/Crowd			 		   		01:54
+04.  Nellie Kane >			 		   		03:01
+05.  Cavern				 		   		04:45
+06.  Post Show Music							01:00
+
+show notes:
+The first set included the complete Gamehendge saga, including narration between songs.
+This version of Stash appears on the Elektra release, A Live One.
+
+recording notes:
+The quick fade at the start of Set II was on the DAT.  Dave ran one 3-hour tape for this show, 
+and it was getting pretty close at the end.  Dave stopped the deck during the encore break, which is why 
+there really is no "encore break" to speak of.  There was some very slight digi-noise where Dave 
+stopped/started the deck, and I removed that small portion in WaveLab.

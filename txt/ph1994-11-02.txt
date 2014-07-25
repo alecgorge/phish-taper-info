@@ -1,0 +1,58 @@
+Phish 11/02/94 Bangor Auditorium - Bangor, ME 
+
+Set I Source: 	DAUD/OTS Schoeps CMC3/mk41 > Oade Deluxe 12v PS >
+		Denon dtr80p(mic input)@48k
+		Master(on dtr-80p listed above) > clone used in below transfer
+		
+Conversion: 	Fostex D5 > Monster Optical > Sek'd Prodif Plus > 
+		Samplitude v5.5 > Soundforge 4.0 (48>44.1@highest setting[4of4],
+		with anti-alias filter and Fade in/outs) > CD Wave > mkwACT v0.97
+		(shn files have seek tables appended)
+		**No DAE at all** 						
+
+Minor Edits:	None (other than fades--5 sec in all cases)
+
+Mastered by Mikey Perrott, who supplied the DATs for this transfer.  Thanks Mikey!!
+Transferred and uploaded by Jim Raras <jraras@yahoo.com> via Dankseeds
+Please contact me with questions etc.  There are also 48k shn's of this seed for archival.
+-------------------------------------
+Set II Source: SBD>Cass/0>DAT. 
+Transfer: Tascam DA302>Coax>Maudio 24/48>CDWav>Cool Edit>SHN
+
+The original dat contained several short dropouts. Where possible, I have removed these without
+harming the overall quality of the recording.
+
+Only the second set of this amazing show is known to circulate in SBD form.
+---------------------------------
+
+
+Disc 1 / Set I 			                        	     01:15:51
+01.  Intro/Crowd			                   		01:15
+02.  Suzy Greenberg			                   		05:31
+03.  Foam                         		   			10:45 
+04.  If I Could	         		   				06:55 
+05.  Maze			 		   			12:14
+06.  Guyute                 		   				10:49
+07.  Stash                 		   				11:44
+08.  Scent of a Mule                   	 		   		10:13
+09.  While My Guitar Gently Weeps                  	 		06:25
+
+
+Disc 2 / Set II & Encore					     01:12:18
+1.Halley's Comet>	(5:09)
+2.Tweezer>		(30:34)
+3.Mango Song		(6:48)
+4.Axilla II		(4:01)
+5.Possum		(12:43)
+6.Lizards		(10:45)
+7.Sample		(5:06)
+
+
+Disc 3 (ENCORES)
+1.Old Home Place	(5:41)
+2.Foreplay>		(2:50)
+3.Longtime		(3:37)
+4.Tweeprise		(2:56)
+
+
+Setlist from "The Phish Companion" http://www.phish.net/mockingbird/		

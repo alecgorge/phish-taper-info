@@ -1,0 +1,54 @@
+Phish
+March 25, 1992
+TRAX 
+Charlottesville, VA 
+
+Source: SBD > Cass0 > DAT
+Transfer: Archive Python > vDAT > Wavelab > FLAC
+Thanks to Rusty Grey for the DAT!
+
+patch source: AKG451->b18's->D5 (X-Y)
+transfer: mcass0-> Apogee AD1000-> Echo Mia-> SF7.0-> CDwave-> flac
+taped/transferred by: krunchy (aka crunchy)
+
+SBD transfer, editing, mastering, and FLAC16 by: Marmar- imthemarmar@gmail.com
+
+Disc 1:
+set1:
+01. Wilson*-> 
+02. Sparkle 
+03. Split Open and Melt 
+04. Rift 
+05. Fee-> 
+06. Maze 
+07. Glide->
+08. Runaway Jim*
+09. It's Ice
+10. Run Like an Antelope* 
+
+DISC 2:
+set2:
+01. Tweezer-> 
+02. Mound*
+03. Reba*
+04. All Things Reconsidered
+05. The Squirming Coil
+06. You Enjoy Myself* > Setting Sail
+07. Horn
+08. My Sweet One->
+09. Chalk Dust Torture*
+
+DISC 3:
+set2 con't:
+01. Cold as Ice*->
+02. Cracklin' Rosie* >
+03. Cold as Ice
+04. Golgi Apparatus
+Encores:
+05. Sleeping Monkey*->
+06. Tweezer Reprise 
+
+NOTES:
+- Songs marked with an * contain patches from the AUD source.
+- Small blip in YEM before tramps section.
+- Follow the Yellow Brick Road tease in YEM.

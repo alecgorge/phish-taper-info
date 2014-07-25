@@ -1,0 +1,102 @@
+---------------------------------------------------------------------------
+info file for version circulated on 12/01/07 (more remastering and 44.1 kHz seed)
+---------------------------------------------------------------------------
+
+Phish - 12/1/84 (w/ full 10/17/85 filler on disc two)
+Nectar's, Burlington, VT
+
+The First Circulated Phish Show
+
+Source: SBD > Cass1 > DAT > CD-R > EAC > WAV >
+Cool Edit for Re-mastering (see notes at bottom) > SHN>WAV>Final Cut Pro for pitch correction>SHN
+
+Re-mastering, Shortened, md5sums & uploaded by Mike Wren - mikew@etree.org
+
+Released to commemorate the one year anniversary of etree.org
+
+
+Pitch correction by Hunter Seamons using Final Cut Pro (12/31/06; remastered 12/1/07)
+
+
+-----
+
+12/1/84
+
+Disc 1:
+
+1) Scarlet Begonias >
+2) Fire >
+3) Fire on the Mountain
+4) Makisupa Policeman
+5) Slave to the Traffic Light
+6) Spanish Flea
+7) Don't Want You No More >
+8) Cities >
+9) Drums >
+10) Skippy the Wondermouse >
+
+
+Disc 2:
+
+1) Fluffhead
+
+Encore:
+2) Eyes of the World
+
+-----
+
+Filler:
+
+10/17/85
+
+3) Star Trek Jam >
+4) Alumni Blues >
+5) Mike's Song
+6) Dave's Energy Guide
+7) Revolution >
+8) Anarchy
+9) Camel Walk
+10) Run Like an Antelope
+11) McGrupp and the Watchful Hosemasters
+
+
+-----
+
+PREVIOUS NOTES by Mike Wren:
+
+* Thanks to Lee Farber for the original seed!
+
+* There was some re-mastering done to clean up the original
+tape hiss from this classic show. The processes I took are
+as follows:
+
+1) Amplified both discs 175% across the board.
+2) Sampled a section of silence to obtain a decent noise floor
+sample (25,000 sample points used).
+3) Applied this sample against both discs at 64 percent.
+4) Applied a graphic equalizer to boost the high and low spectrums
+(specifically between 600 - 800 Hz and 8k & 10 kHz).
+***Note: I cut everything above 11 kHz 18dB because nothing
+existed above that freq. range on the original recording.
+
+
+NEW NOTES by Hunter Seamons (12/31/06):
+
+I noticed the pitch was too high in both shows listed in this seed. I decreased the pitch in 12.01.84 by 7%, and I decreased the pitch in 10.17.85 by 9%.
+
+
+REMASTERED (12/01/07):
+
+As this was my first seed, I naturally made some mistakes the first time around. I made all changes by going back to the original file set by Mike Wren and redoing the process, so this is as fresh as it gets. The new changes from my previous seed are as follows:
+
+1) SBE fix
+
+2) Encoded at 44.1 kHz (The last source I did was accidently encoded at a "false" 48 kHz. Whether this makes any difference sonically has not been determined.)
+
+3) Different speed reductions at 6% and 8%, respectively. (I believe I was a hair off the first time around, so I wanted to use this opportunity to make the changes.)
+
+4) NO CUTS! (I made some unorthodox, millisecond cuts before between songs, due to my inexperience of pitch correcting at the time. These went largely unnoticed, as far as I can tell.)
+
+These changes should make this source better for the long haul.
+
+Enjoy this historic show on its 23rd anniversary!

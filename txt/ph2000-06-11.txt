@@ -1,0 +1,61 @@
+Phish
+06-11-2000 
+Hibiya Outdoor Theatre 
+Chiyoda-ku, Tokyo, Japan 
+
+Source: FOB Scheops CMC64>KC5 Active Cables> Sonosax SXM2> Sony D100 (23rd row-Set 1/35th row-Set 2) 
+Transfer: Fostex D5 > m-audio DiO 2496 > CD Wave > Adobe Audition (edits*)>CDWave (tracking)> FLAC 
+
+Taped by Dave F.
+Transfer from DAT by Kevin Davis
+Edited and tracked by Blane Harvey
+
+
+Edits and Notes*:  Parts of the show were recorded too loud (stealth FOB), and levels were adjusted at the 
+beginning First Tube, Horn and Birds.  I've tried to smooth this out as much as possible without making any editing 
+noticeable.  Still there is clipping and distortion noticeable at the beginning of First Tube, before the levels are 
+dropped and during the crowd screams in Char. Zero. 
+
+The taper ran into some security issues between sets and had to relocate, therefore there are some sound differences 
+between sets even though it's from the same rig. The first set was extremely bassy, so I performed a small bass reduction 
+using the eq tool in Audition, but it is still quite bassy. Personally, I like it like that.  There is also some sonic 
+wierdness during the beginning of Horn. I'm not sure if this was from the PA or the recording, but it's quite short and 
+not really something that could be edited.  
+
+Hope you enjoy it!
+
+
+
+DISC ONE
+Set 1: 
+1.First Tube 
+2.Punch You in the Eye 
+3.Horn 
+4.Ginseng Sullivan 
+5.Stash 
+6.Dirt 
+7.Possum >* 
+8.It's Ice 
+9.Farmhouse 
+
+DISC TWO
+Set 2: 
+1.Birds of a Feather 
+2.Free 
+3.Beauty of My Dreams 
+4.Bug > 
+5.David Bowie 
+6.When the Circus Comes 
+7.Back on the Train > 
+8.Harry Hood 
+
+DISC THREE (ALSO FITS AT THE END OF D1)
+Encore: 
+1.Character Zero** 
+
+Japanese band Big Frog opened. 
+*With "Stash" teases. 
+**Enormous rainbow appears in sky and fades to end of show. 
+
+Show Notes: Possum included Stash teases. A large rainbow formed over the theatre and 
+cleared during the encore, creating an unforgettable visual.

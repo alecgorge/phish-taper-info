@@ -1,0 +1,46 @@
+PHISH
+10-11-95 Compton Terrace, Phoenix, AZ 
+
+Disk 1 (74:03)
+set 1
+1. Stash
+2. The Old Home Place
+3. Cavern
+4. The Divided Sky
+5. If I Could
+6. Fog That Surrounds
+7. Acoustic Army
+8. Julius*, 
+9. Sample in a Jar 
+
+set 2 (72:13)
+Disk 2
+1. Possum >
+2. Bathtub Gin
+3. Mound
+4. Mike's Song->
+5. McGrupp and the Watchful Hosemasters->
+6. Weekapaug Groove->
+7. Llama
+8. Suzy Greenberg**->
+9. Crossroads
+
+disk 3 (14:49)
+Set 2 cont.
+1. Hello Ma Baby
+2. A Day in the Life
+Encore:
+3. Chalk Dust Torture 
+
+*With "Buried Alive" tease. 
+**"Sunshine of Your Love" (Cream) tease.
+d1 - 3 seconds of overtime 
+d2t6 -6:26 -a Phase shift of some sort- on dat copy
+
+source: unknown (possibly Tascam PE125>DAP1) fob?
+great sounding source! 
+             
+transfer: by Matt Vallo  mvallo@snet.net
+Tascam DA-302>Turtle Beach Fiji (S/PDIF)>Sound forge 4.5>CDWAVE>SHN
+
+

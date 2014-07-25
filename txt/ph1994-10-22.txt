@@ -1,0 +1,49 @@
+Phish
+10-22-94
+The Edge Concert Field, Orlando, FL 
+--------------------------------------------------------------------------------------------
+Source:         [DFOB; Master DAT>clone used for transfer]
+                Schoeps MK4's [CMC341 -> Sony D-10(?)] @ 48KHz
+		(Detailed source info, in brackets, speculated.)
+
+Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                Soundforge 5.0d (48KHz->44.1KHz at highest setting [4 of 4],
+                with anti-alias filter)-> CD Wave 1.62-> mkwACT v0.97
+                **No DAE at all**
+
+Minor Edits:	Fades in/out at begginning/end of sets.
+----------------
+Transferred by Dan Marquardt <danmarq@msn.com>, please contact me with questions/comments.
+There are also 48KHz shn's of this seed for archival.
+--------------------------------------------------------------------------------------------
+
+CD/Set 1:			67:14
+01. Suzy Greenberg		06:43
+02. The Divided Sky		14:42
+03. Gumbo			04:42
+04. Axilla [Part II]		03:11
+05. Rift			05:44
+06. Split Open and Melt		11:26
+07. Fluffhead			13:28
+08. Julius			07:18
+
+CD/Set 2:			75:27
+01. Peaches en Regalia		03:38
+02. David Bowie			13:31
+03. The Horse->			01:27
+04. Silent in the Morning	04:53
+05. Dinner and a Movie		03:24
+06. Tweezer->			11:02
+07. Wilson			05:30
+08. Reba*			12:58
+09. Amazing Grace		01:42
+10. AC/DC Bag			06:12
+11. Highway to Hell		03:27
+
+Encore:
+12. Uncle Pen			04:15
+13. Tweezer Reprise		03:28
+
+--------------------------------------------------------------------------------------------
+
+*Unfinished.

@@ -1,0 +1,30 @@
+Phish2/20/91
+Kahootz - Richmond, VA
+
+Taper: Matt HilesSource: FOB Nakamichi 300 + CP-1 > Casio DA7 > VHS Hi-Fi > DAT
+**see notes about lineage**Transfer: unknownSeeded by Brad Sall (walleye420@yahoo.com)Fixes and notes by Ben Mohr (bmohr@udel.edu)Special thanks to Mark Lynn for his great help!
+------------------------------------ 
+Disc 1:                    (73:36)
+-------------------------------------
+Set 1- 
+1. Intro                    (00:51)
+2. Buried Alive >           (02:37)
+3. Cavern ->                (04:32)
+4. Possum                   (09:47)
+5. Squirming Coil >         (06:20)
+6. Tweezer                  (11:49)
+7. My Sweet One             (02:24)
+8. Bouncin' Around the Room (03:52)
+9. Llama                    (04:31)
+10. You Enjoy Myself        (17:01)
+11. Magilla                 (05:14)
+12. Golgi Apparatus         (04:38)
+------------------------------------ 
+Disc 2:                    (19:54)
+-------------------------------------
+Set 2 partial-
+1. /Foam                    (03:52)
+2. Divided Sky              (12:08)
+3. Guelah Papyrus/          (03:54)
+
+Fixes:-Removed break (0.554 sec) at end of d1t09 to splice tracks together-Tracked out set 2 using SF4.5 and shntool utility to correct sector boundaries-Normalized show to 98% (not sets since partial 2 is not representative)Notes:-Date definitely correct (Trey comments about it being the day after Fish's birthday)-Incomplete show; rest of set 2 is unknown-No stereo separation between mics (identical waveforms)-Below is some correspondence I received while I was in search of a more complete   source lineage.  Originally I was given AUD > DAT but became suspiious of an   AUD > DAT > Cass/0 > DAT source due to breaks approximately every 46 minutes.  However, the below seems to be the most logical explanation."Ben, This was the first show that my buddy recorded on our first DAT deck which was a Casio DA7. The battery died into the second set and I'm not sure if that part circulates at all. I only traded it on DAT a few times. I sent a copy to Kevin Shapiro and also to Marc Nutter in a trade. I think that is all as far as DAT is concerned. There is a CD version that made it's way around that contains the entire first set. It was made w/NAK 300's front of board. After the show it was dubbed down to HIFI. DAT tapes were expensive at the time and we did not think it was worth keeping on DAT. Boy was that a mistake. My friend then misplaced the HIFI and we only rediscovered it a year or so ago. I know that it is really lame that we dubbed it down to HIFI but that was a long time ago and my how things change.Mark LynnRichmond, VA""Ben, I can't remember if we had anybody patched out of us at that show. If someone was running a D6 I think it would be weird that their tape would cut where ours did when the batteries died unless they were patched out of ours. At the time we thought that the batteries that came with the deck were awesome and would last longer than they did. This was like when having a DAT deck was a huge deal. I seem to remember someone getting a board feed at one of the shows in that venue. Their were two. The first was on 5/23/90 when it was called The Library and then of course on 2/20/91 when they changed the name to Kahootz. I'm surprised this tape has spread so far in so little time. It was a big find when we found the HIFI. I would love to find the whole thing. Let me know if you do. I hope all this helps.Mark LynnRichmond,VA"

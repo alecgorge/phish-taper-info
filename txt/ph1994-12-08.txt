@@ -1,0 +1,128 @@
+Phish
+12-08-94 MIX
+Spreckels Theatre
+San Diego, CA
+
+As the 'm' indicates, this is a MIX of two sources:
+
+-- THE DSBD --
+Source:
+DSBD > Master DAT > My first-generation DAT clone (Taped by
+Mr. Anonymous)
+
+Transfer:
+
+My DAT (First Gen Clone) > Fostex D5 > optical cable > HOSA
+ODL-276 >
+coax cable > Waveterminal 2496, hardware downsampling to
+44.1KHz on
+Set I only (Set II was apparently recorded at 44.1) >
+CoolEdit 2000 Static removal & other fixes > CDWave 1.6 > WAV
+>
+mkwACT 0.97b1 > SHN v3  (By Jeff Ishaq )
+
+Scarcity:
+Mr. Anonymous's DSBD DATs are widely circulated, though
+because they are
+unauthorized, they don't show up on etree and some traders don't
+indicate
+the show on their list.  Some copies have noise reduction
+performed on
+them, I'm sure.
+
+
+Notes:
+* The master DAT is plagued by constant, light static throughout
+the entire
+show -- IMHO, it's unlistenable.  Also, it is missing the  first song.
+I
+used Cool Edit 2000 to remove 99.9% of the static clicks, and I
+also
+integrated Makisupa, Nellie Cane, and Sweet Adeline from the
+FOB AUD.  The
+sound quality of the original DSBD DAT is identical to the click-
+removed
+version, it's not like it was compressed or lost high end or has
+phase
+shifting or anything nastly like that!
+
+* I produced this mix to liberate the DSBD source into a
+continuous,
+listenable source for my own collection.  I don't intend this to be
+the
+de facto "best source" for this show.  In fact, the FOB AUD in wide
+circulation sounds just as good as the DSBD, and it's unadultered.
+I only
+recommend this show for the sake of archival purposes.
+-- END OF DSBD NOTES --
+
+-- THE AUD --
+Source:
+FOB AKG460 (13 Ft. pole, front row, center-right {12-7}, center-left
+{12-8})
+> 10' XLR > PS > 3' XLRs > Technics SV260A > DAT (Taped by
+Linda Webster)
+
+Transfer:
+Technics SV260A > COAX > Cool Edit WAV (editing done here) >
+CDWAV >
+mkwACT v3 > SHN (By Linda Webster)
+
+Scarcity:
+Linda's AUD source is widly available via etree.
+
+Notes:
+* This FOB AUD sounds as good as the DSBD, so if you're a purist
+looking
+for an unadultered show, seek these out!
+* Linda used Cool Edit to make the acoustic/a capella songs
+louder, and to
+stifle audience noise.
+-- END OF AUD NOTES --
+
+
+Flaws / Mixing Notes:
+* There are still some very infrequent and quiet static pops the
+linger (I was
+only able to remove 99.9% of them!).  Also, some mild saturation
+occurs in
+loud passages that sounds like static.
+
+d1t02 00:06   This is where the AUD morphs into the the start of
+the SBD DAT.
+d2t05 00:00   SBD becomes AUD again for these a capella songs
+(inaudble on SBD)
+d2t07 00:56   This is where the AUD morphs back into the SBD for the remainder
+d1t08 05:43.112 -> 05:43.146 Left-channel dn zap, crosspasted away with rt chn
+      10:52.150 -> 10:52.184 "
+
+Tracking:
+Disc One: [71:38]
+01.  [06:03] Makisupa Policeman ->
+02.  [10:43] Maze
+03.  [07:53] AC/DC Bag
+04.  [09:55] Scent of a Mule
+05.  [07:18] Punch You in the Eye
+06.  [09:23] Simple ->
+07.  [02:58] Catapult -> Simple ->
+08.  [11:48] Lizards
+09.  [05:57] While My Guitar Gently Weeps
+
+
+Disc Two:  [75:40] <-- NEEDS AN 80-MINUTE CDR!
+01.  [16:00] Possum
+02.  [02:32] My Mind's Got a Mind of its Own
+03.  [04:22] Axilla [Part II]
+04.  [19:31] Reba
+05.  [03:59] Nellie Cane,
+06.  [02:00] Sweet Adeline,
+07.  [13:28] David Bowie
+08.  [04:31] Golgi Apparatus
+Encore:
+09.  [01:23] The Horse ->
+10.  [05:19] Silent in the Morning
+11.  [02:35] Rocky Top
+
+Jeff Ishaq
+07/15/01
+Burlington, VT

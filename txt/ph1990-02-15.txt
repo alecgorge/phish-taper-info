@@ -1,0 +1,49 @@
+Phish
+The Living Room
+Providence, RI
+02/15/90 
+
+Taper: John Redmond
+SOURCE SBD > D5 (deck was possibly a Nak CR-3A)
+
+SBD MCass (Cass 1- Maxell XLII-S 90 min, Cass 2- TDK SA-90)>
+Sony TC-WE805S > Art DI/O (48Khz, Input gain +~10dB, No "Tube Warmth")>
+Delta DIO 2496> WaveLab v4.0c> WAV (@24/48)> FLAC (24-bit, v1.1.0) > Mastering (see notes) > SHNv3
+
+transfer>24bit FLAC files by Weave - Weave@furthurnet.org on 09/28/2003
+Mastering , editing and WAV > SHN were performed on REBA by Arty-imthemarmar@stny.rr.com (on 11/2003)
+
+
+*Disc 1* 
+Set 1:
+01.Carolina 
+02.Oh Kee Pa Ceremony*-> 
+03.Suzy Greenberg 
+04.The Divided Sky 
+05.Dinner and a Movie 
+06.Caravan 
+07.Bathtub Gin 
+08.Mike's Song-> 
+09.I Am//Hydrogen->
+10.Weekapaug Groove 
+
+*Disc 2* 
+Set 2: 
+01.Split Open and Melt 
+02.Bouncing Around the Room 
+03.Possum 
+04.Foam 
+05.Highway to Hell 
+06.YE//M
+
+**Mastering**
+24bit/48kHz FLAC's > Wavelab 4.01b on REBA > Editing in Wavelab > 192kHz Stereo Resampler 48>44.1kHz > L1+ (dither to 16bit/Level 1/normal) > Tracking in Wavelab > SHNv3 appended
+
+*Notes*
+This seems to be a monitor patch. There's barely any Trey or Vocals in the mix and there are volume adjustments are all over the place. I decided to just leave it be, just as raw as it was laid down on the tape. *I patched a few drop outs by applying the opposite channel over them when available. All tape flips were crossfaded as smoothly as possible.
+
+Note:
+Widespread Panic opened
+
+NO tracking/editing/alterations performed before archiving to 24-bit FLAC
+(except to trim silence from the ends).

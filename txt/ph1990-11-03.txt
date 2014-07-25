@@ -1,0 +1,93 @@
+Phish 11/03/90 Boulder Theater - Boulder, CO  
+
+Source: 	Separate from Soundboard 16 track Mix (see notes below) > DAT@44.1
+		
+Conversion: 	Fostex D5 > Monster Optical > Sek'd Prodif Plus > 
+		Samplitude v5.5 > CD Wave > mkwACT v0.97
+		(shn files have seek tables appended)
+		**No DAE or resampling at all** 						
+
+Minor Edits:	None
+
+"Sbd/Aud mixes: The following shows were recorded to DAT from a separate
+recording board at the shows. They are some of the highest quality 
+Phish tapes in existence: 4/22/90, 10/30/90, 10/31/90, 11/2/90, 
+11/3/90, 11/4/90, 3/13/91, 3/15/91, 3/16/91, 3/17/91, 3/22/91, 
+3/23/91, 4/5/92. 
+
+Except for the 4/5/92 tape, they have all been fairly widely circulated.
+They were done on a large recording console (not EQ) and mixed completely
+separately from the board mix, rumoredly done in a truck outside the venue. 
+The engineer used 2 audience mics to mix in crowd/hall ambience (on most of them). 
+See also, PA info."
+
+Quoted from: http://www.phish.net/PhishFAQ/tquality.html
+
+Info From Kevin Shapiro: "11/3/90 and the other tapes of the era (10/30-11/4) 
+were all done by Mike Grace through a separate 16 track mixer and ran direct to 2 
+track DAT.  He basically used the same setup in Spring 1991 too."
+
+Mastered by Mike Grace, DATs for this transfer provided by Mikey Perrott.  Thanks Mikey!
+Transferred and uploaded by Jim Raras <jraras@yahoo.com> via Dankseeds
+Please contact me with questions etc.
+
+____________________________________________________________________________
+
+*Dankseed Certification received 01-03-23*
+and posted at http://groups.yahoo.com/group/dankseeds/files/ph90-11-03/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________
+
+
+Disc 1 / Set I                        01:07:02
+01.  Intro/Crowd	                 00:22
+02.  Dinner and a Movie ->               03:39 
+03.  Bouncing Around the Room         	 03:51 
+04.  Llama				 04:35
+05.  The Squirming Coil			 06:03
+06.  The Oh Kee Pa Ceremony >		 01:45
+07.  Suzy Greenberg                   	 05:08
+08.  Magilla ->                      	 05:39
+09.  Foam	                 	 08:24
+10.  Runaway Jim       		         06:08
+11.  You Enjoy Myself		         16:30
+12.  Good Times Bad Times		 04:58
+
+
+Disc 2 / Set II                       01:13:40
+01.  Crowd/Tuning		         00:38
+02.  The Landlady		         03:47
+03.  Mike's Song >			 06:09
+04.  I Am Hydrogen >                     02:31
+05.  Weekapaug Groove	                 05:40
+06.  Paul and Silas                    	 03:13
+07.  Stash				 08:00
+08.  Fee		   		 05:20
+09.  Uncle Pen		  		 04:24
+10.  Reba		  		 10:52
+11.  Possum				 07:58
+12.  HYHU >				 01:33
+13.  Love You >				 03:53
+14.  HYHU 				 00:36
+15.  Run Like an Antelope		 09:06
+
+
+Disc 3 / Encore			      00:21:50
+01.  Encore Break/Crowd                  01:10
+02.  Fluffhead		                 14:20
+03.  Crowd		                 01:37
+04.  Fire		                 04:43
+
+Setlist from "The Phish Companion" http://www.phish.net/mockingbird/
+	
+

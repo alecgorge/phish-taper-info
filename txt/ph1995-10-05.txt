@@ -1,0 +1,41 @@
+Phish
+Memorial Coliseum
+Portland, Oregon
+October 5, 1995
+
+Source: Neumann KA100
+Transfer: Tascam DA-302 > Digipro 002 > Protools LE > CD Wave > MKW ACT > SHN
+(Transfered by LiverLobes@hotmail.com (John P. Tambroni) and The Mad Hermit)
+
+Disc 1 (79:11)
+01. Chalkdust Torture (7:38)
+02. Ha Ha Ha (2:00)
+03. Taste/Fog That Surrounds (6:06)
+04. The Horse >   (1:21)
+05. Silent in the Morning (5:19)
+06. Cars Trucks Buses (3:53)
+07. Strange Design (3:03)
+08. The Divided Sky (16:55)
+09. Acoustic Army (4:05)
+10. Julius > (7:13)
+11. Suzy Greenberg (8:07)
+Set II
+12.  2001 > (4:43)
+13. Runaway Jim (8:41)
+
+Disc 2 (70:13)
+01. Col. Forbin's Ascent > (11:03)
+02. Fly Famous Mockingbird > (6:06)
+03. Scent of a Mule > (13:13)
+04. Cavern > (4:38)
+05. David Bowie (16:06)
+06. Lifeboy (9:02)
+07. Amazing Grace (1:39)
+08. Pre-encore Cheering (1:58)
+Encore:
+09. While My Guitar Gently Weeps (6:24)
+
+quick dropout at 2:08 in Forbins (from the DAT)
+This passed shntool len (there are no SBEs)
+
+Thanks to Brandon Johnston for the DATs.

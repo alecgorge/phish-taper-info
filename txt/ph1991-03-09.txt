@@ -1,0 +1,79 @@
+PHISH
+
+March 9, 1991
+Tipitina's, New Orleans, LA
+
+Source:  Sennheiser mics (?) > Sony D5 
+
+Transfer:  Cass1 > HHB > CDR > Flac
+
+Disc One
+Set One 
+01. Intro
+02. Carolina
+03. Landlady >
+04. You Enjoy Myself >
+05. My Sweet One >
+06. Foam >
+07. Divided Sky
+08. Cavern >
+09. Reba >
+10. Possum
+
+Set Two
+11. Oh Kee Pah >
+12. Suzy Greenberg
+
+Disc Two
+01. Squirming Coil >
+02. Buried Alive > 
+03. Runaway Jim >
+04. Guelah Papyrus 
+05. David Bowie
+06. Lizards
+07. HYHU > Love You >
+08. HYHU
+09. Fire
+
+Encore 
+10. Lawn Boy
+11. Golgi Apparatus
+
+Second Encore
+12. Good Times Bad Times
+
+
+This show apparently has not circulated before.  I presume the online "Spreadsheet" will use this version soon.  
+
+GREAT THANKS ARE DUE TO JASON LAZAR, who sent me his analog cassette first gens for transfering and for sharing with you all -- and just in time for the Superbowl, featuring the NEW ORLEANS SAINTS no less.  Hopefully the Saints will not be destroyed by the Colts as most have predicted, and we'll get a good game.  
+
+This show, which was Phish's second show in New Orleans, was taped by Rick Supan from Chattanooga, TN, and if anyone knows where he is, please let me know (cdirksen at earthlink.net), as apparently he also taped at least one other show that doesn't circulate.
+
+Although there's very little hiss given the low gen source, there are (alas) some traditional analog cassette flaws in this recording, and at inopportune times.  Unsurprisingly there are cuts at the tape flips and the start of the second set, namely cuts into Cavern, Oh Kee Pah and Lizards.  But unfortunately there is some ugly tape warbling and dropouts at the CLIMAX of Reba's jam, and also at one point during the serene Divided Sky. In addition, Sennheiser mics have (had?) a tendency to be bass-heavy and create boomy (aka muddy) recordings in small rooms, and this recording bears these characteristics to a certain extent.  There are also a few level issues here and there, but nothing terrifying.
+
+The Phish.Net (and Phish Companion) setlists file used to have a partial setlist for this show, but thanks to this recording it has been corrected.  The shownotes at Phish.Net for this show now read the following, and if you have any additions or suggested revisions to them, I hope you let us know about it via the "Submit a correction!" button beneath the setlist on Phish.Net: "Possum contained an Oom Pa Pa signal and a Dave's Energy Guide tease. Bowie featured Charlie Chan and Random Note signals."
+
+ph19910309d01t01.flac:01ee6612289007f891976483c570212c
+ph19910309d01t02.flac:6879db1440c668d5d50d9e224cdfb0f1
+ph19910309d01t03.flac:89a9d322a60ccd53f94b681a1fbb8f6a
+ph19910309d01t04.flac:94bd906ff5f37d9dd58db65a863608c2
+ph19910309d01t05.flac:d620171559a84b3b77579ed88115d467
+ph19910309d01t06.flac:73f60af1a2a25649b73f25d785dde14c
+ph19910309d01t07.flac:bd4a7b37ee6235040e77d4ac47f5f805
+ph19910309d01t08.flac:0c1b4db9e71264f855a3eab3d972ebd1
+ph19910309d01t09.flac:7e58211003673af2cb1c3f35d5f4bd33
+ph19910309d01t10.flac:d409eeab6686a0a32385af460f158c60
+ph19910309d01t11.flac:7e65b85782c575898cc8493d49e5fe35
+ph19910309d01t12.flac:a738e386fbb8d59d2f176479dea3349a
+ph19910309d02t01.flac:562a6d1d8a9e1090f9f2cb3c62142f93
+ph19910309d02t02.flac:8e9f940c8f1fd3bc0df185e7d165826f
+ph19910309d02t03.flac:7266a775ece99c2ebee82e9f69de6800
+ph19910309d02t04.flac:95eef0e69fa8ed6814950924ceaa0b45
+ph19910309d02t05.flac:064cf2a5ff58fc18125cd42157685942
+ph19910309d02t06.flac:47b5f5c0a1ac8ed14fca26cda70c5438
+ph19910309d02t07.flac:ef29a058dfdf43b41c1184a51f4b3b78
+ph19910309d02t08.flac:959e6d1c48a324341df5143684e1c311
+ph19910309d02t09.flac:023fae79b3113a07b38dbd0373652b88
+ph19910309d02t10.flac:254ae8bcc1f36fbf2f5de7769960974c
+ph19910309d02t11.flac:80df46f39e27c05c1b9c9020789633c0
+ 

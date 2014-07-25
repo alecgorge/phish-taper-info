@@ -1,0 +1,44 @@
+Phish
+October 18, 1998
+Bridge School Benefit
+Shoreline Amphitheatre
+Mountain View, CA
+
+source:
+(FOB) Schoeps cmc6/mk41
+
+transfer:
+Tascam DA-20 MKII > M-Audiophile USB > WaveLab 5.01b (fades, resample to 44.1 kHz) > CD Wave v1.94.7 > FLAC v1.1.2 (Level 8)
+
+DATs provided by Peter Arcoma 
+transferred by Peter Grow (growpe1@hotmail.com)
+tracked & FLAC'ed by Jason Sobel (jasonsobel@gmail.com)
+
+note:
+the original 48 kHz files from the DAT transfer have been archived and are available upon request
+
+Total time - [66:17]
+01 - [01:55] - Hello My Baby *
+02 - [06:17] - Billy Breathes
+03 - [07:01] - Piper
+04 - [06:10] - Roggae
+05 - [06:25] - Loving Cup
+06 - [05:12] - Albuquerque
+07 - [04:20] - The Old Home Place **
+08 - [09:43] - Guyute
+09 - [04:25] - Brian and Robert
+10 - [04:18] - Sad Lisa #
+11 - [04:27] - Four Strong Winds ##
+12 - [06:04] - I Shall be Released ^
+
+
+This set was part of the Bridge School Benefit Concerts (put on by Neil Young)
+* a capella, backs to the audience, facing the children of the Bridge School who were seated on risers behind the stage
+** Page on bass; Mike on banjo
+# first time played (Cat Stevens cover, from the album "Tea for the Tillerman"); Trey and Sarah McLachlan on vocals
+## first time played (Ian Tyson song which appears on the Neil Young album "Comes a Time"); Sarah McLachlan and Neil Young on vocals ^ first time played (Bob Dylan cover); Page, Neil, and Trey each took a verse; Sarah McLachlan on guitar. 
+
+
+
+
+

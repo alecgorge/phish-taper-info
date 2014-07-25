@@ -1,0 +1,45 @@
+PHISH
+
+March 24, 1989
+The Paradise, Boston, MA
+
+Source:  Unknown Audience Recording
+
+Transfer:  Cass, ~4th gen > HHB > CDR > Flac
+
+  
+01. Possum
+02. Mike's Song > (first note is cut)
+03. Weekapaug Groove
+04. Golgi Apparatus >
+05. Divided Sky
+06. AC/DC Bag
+07. Brain
+08. A-Train
+09. David Bowie (spliced a bunch)
+
+The "source" of this material is a 90 minute XL2S tape that I made in January 1991 from a college friend's tape. Phish tapes of live shows were generally hard to find back then (even in Boston), and this was my first tape of live Phish. It features a mix of songs PURPORTEDLY from both March 24, 1989, and January 26, 1989, at the Paradise.  The January 26, 1989, songs are not included here, because they are fairly dreadful recording quality.  Things you should know about this material:
+
+1. The tape I made had numerous songs misnamed.  Possum was "Opossum," Weekapaug was "Weekapague," and DivSky was "Divided Skies." Also, Possum contains a Rudolph the Red Nosed Reindeer tease, which raises the question – were these songs really performed in MARCH 1989? I wouldn't put it past Trey to tease a Christmas song in March, but still. These songs do sound like they were performed in the late 1980s, though.  (Are you aware of a version of Possum containing a RTRNReindeer tease from the 1980s? If so, please email cdirksen@earthlink.net.)
+
+2. The tracks/songs are in the order they appear on this mixed tape, but this is not the order in which they were played during the show. Bowie appears to have closed the first set, since Mike says "Thank you, we're gonna take a quick break" right after it ends.  Also, someone introduces either "Phish" or "Fish" before Brain as being from "Bogota, Columbia," which suggests strongly that Brain may have opened this show -- or perhaps the second set.  If it opened the show, though, this would be the first known time that BRAIN opened a show -- and it could also be the only known time that a Fish vacuum tune opened a show (I haven't done this research).  
+
+3. The person who originally created this mixed tape must not have liked Hydrogen very much because while it was clearly played after Mike's, it is cut-out of this recording.
+
+4. I had to "splice" together the Bowie, because my tape kept cutting out when I was trying to transfer it to the HHB. This sometimes happens with old cassettes as the tape nears the end of a side.  They just decide for no apparent reason to quit playing, and there is seemingly nothing you can do about it but keep hitting play and praying it doesn't cut out and quit playing again.  I did the best I could, but I'm an antitrust lawyer, not a sound engineer.
+
+5. Until now, as far as I know, this material did not circulate, which is somewhat of a shame because the overall playing is quite good.  Brain is HYSTERICAL, too, featuring one of the most ridiculous vacuum solos ever (which is saying a lot).  I hope you manage to enjoy this stuff, despite the overall sound quality being what it is.  It isn't that bad for a late 1980s aud tape.
+
+Show Notes from the current (2009-08-30)  Mockingbird Foundation setlists file:  This setlist is incomplete and is out of order. The only recording in circulation is a mix of songs from the show, which features Hydrogen brutally cut out of the Mike’s Groove. This setlist is in the order in which those songs appear on the mix. (The mix also includes several songs from the Paradise show on January 26, 1989.) Possum contained a Rudolph the Red Nosed Reindeer tease, which raises the question – were these songs really performed in March 1989? David Bowie closed the first set. Before Brain, someone introduced Fish – or is it Phish – as being “from Bogota, Columbia.”  It is therefore possible that Brain opened this show, which would be the only (known) time that Brain opened a show.
+
+
+ph1989-03-24d1t1.flac:b414516920763c704281135c05772326
+ph1989-03-24d1t2.flac:17941ba5103562743b797c7ef44a4271
+ph1989-03-24d1t3.flac:755ba66936a9952e37c347cd9432644c
+ph1989-03-24d1t4.flac:f7687167ce24d62812bca5306493137a
+ph1989-03-24d1t5.flac:7ea202cebad811b8c3aa428033d026de
+ph1989-03-24d1t6.flac:d8236dd56520425620bdfd1f71587a3f
+ph1989-03-24d1t7.flac:0e600b82fb649e295268c3494b217335
+ph1989-03-24d1t8.flac:c526b3a899bacb60ccd9581b4c850257
+ph1989-03-24d1t9.flac:b4aa780171f23b9f3fed881bb51b4cdc
+

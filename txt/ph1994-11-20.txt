@@ -1,0 +1,48 @@
+Phish 
+11-20-94
+Dane County Exposition Center
+Madison, WI
+
+Source: NAK CM300 (no other source info given)
+Transfer: DA-20 mkii> Philips CDR 870 > EAC > CDWAV > Soundforge 4.5 > Shntool > SHN
+Transfer by: Brandon Johnston
+
+
+Disc 1:
+Set I: 
+1.Chalk Dust Torture
+2.Fee >
+3.Scent of a Mule
+4.Stash
+5.If I Could
+6.Little Tiny Butter Biscuits
+7.My Long Journey Home
+8.Dooley
+9.Divided Sky
+10.Sample in a Jar
+
+Disc 2:
+Set II: 
+1.Also Sprach Zarathustra >
+2.David Bowie
+3.Glide
+4.Axilla (Part II)
+5.Reba
+
+Disc 3:
+Set II Continued:
+1.Simple
+2.Rift
+3.HYHU > Terrapin > HYHU
+4.Julius >
+5.Cavern
+6.crowd noise
+7.E1: Icculus 
+8.crowd noise
+9.E2: Fire
+
+Show Notes: If I Could through Dooley featured the Reverend Jeff Mosier. Little Tiny Butter Biscuits through Dooley were performed acoustic. Reba was unfinished. This show marked the end of Reverend Jeff Mosier's travels with the band. The Icculus encore recalled the last time the band was in Wisconsin, which was the infamous "O.J. Show" from June of that same year.
+
+Known Flaws: 2 second dropout in fee, removed in soundforge
+
+Tech Notes: I extracted the master cds as a range and resplit the tracks using CDWAV. The EAC logs for each disc are included. I added fades in the first set and the end of set two. I didn't add a fade at the start of set II due to the music cutting in immediately on the dat, and I didn't want to lose anything. I removed a 2 second drop at 3:06.256 of Fee. The lyrics jump forward there but I liked it better than 2 seconds of silence. I also removed a pop on the left channel @ 9:41.635-9:31.664 of divided sky by pasting the right channel over the left channel.

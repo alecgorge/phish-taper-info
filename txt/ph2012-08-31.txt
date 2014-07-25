@@ -1,0 +1,42 @@
+Phish
+8/31/12
+Dick's Sporting Goods Park 
+Commerce City, Colorado
+
+
+Field: AKG C414xls Hypercardioid > Edirol R4Pro ( Oade preamp mod ) @ 24/88.2
+config: pointed at PA array, behind SBD, dead center, 10 feet high
+
+Path: R4Pro > WaveBurner ( track on sector boundaries, fades, SRC, BDC ) > xACT ( to flac, and for tagging and checksums )
+
+Recorded, processed and let loose by Mike Kutik ( padelimike at mac d0t c0m )
+At bt.etree.org 2012-09-01
+
+
+Set the First:
+01 crowd in
+02 First Tube 
+03 Uncle Pen 
+04 Carini
+05 Kill Devil Falls 
+06 You Enjoy Myself
+07 Ocelot 
+08 Undermind 
+
+
+
+Set the Second:
+01 stage banter
+02 Runaway Jim
+03 Farmhouse
+04 Alaska 
+05 Chalk Dust Torture 
+06 Emotional Rescue 
+07 F*ck Your Face
+08 encore break
+09 Grind
+10 Meatstick
+
+
+
+

@@ -1,0 +1,33 @@
+PHiSH
+
+July 11, 1997 
+Doctor Music Festival 
+Pyrenees, SPAIN
+
+<last stop on Europe 97 summer tour>
+
+-- set: (disc 1)
+
+01. Chalkdust Torture    (9:03)
+02. Bouncin'             (3:35)
+03. Stash               (16:52)
+04. Beauty of my Dreams  (3:02)
+05. Wolfman's Brother   (15:09)
+06. Johnny B. Goode      (5:28)
+07. You Enjoy Myself    (22:06)
+
+-- encore (disc 2)
+
+08. Character Zero       (8:02)
+
+Source - FOB Schoeps/DAT, rig details unknown. 
+Transfer - DAT clone-> optical-> HHb CDR830 Standalone burner-> EAC/WAV-> FLAC
+
+Notes: 
+- On the transfer from DAT to CDR I boosted the levels of the right channel ~4db... 
+- There are tiny glitches, or skips (?) in both Bouncin' and Stash (once each per song). 
+  I don't know what the deal is with those but they are present on the DAT. 
+  It sounds kind of like the deck was paused then started again a split second later, 
+  making it sound "spliced."   
+- from phish.net hfb entry for this show: The band that was to follow Phish on an adjacent 
+  stage was soundchecking during Phish's set; this interfered significantly at times.

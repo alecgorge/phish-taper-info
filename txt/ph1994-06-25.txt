@@ -1,0 +1,98 @@
+Phish
+June 25, 1994
+Nautica Stage
+Cleveland, OH
+
+source:
+AKG 460b/ck61 > custom pre-amp > Teac DA-P20 (@ 48 kHz)
+(recorded from the section, mics ORTF)
+
+transfer:
+Tascam DA-20MKII > Tascam HD-P2 > CF card > usb 2.0 > pc > Samplitude SE v9.1.1 (de-emphasis, fades, tracking, patches) > r8brain v1.9 (resample to 44.1 kHz) > FLAC v1.2.1 (Level 8)
+
+FLAC tags added with metaflac v1.2.1
+
+recorded by Tom McMinn
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded April 4, 2008
+
+notes:
+The original DAT recording was made with pre-emphasis. Samplitude was used to de-emphasize the recording.
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request.
+Big thanks to Eliot Byron for letting me borrow his DAT tape!
+
+Disc 1 - [68:45]
+Set I
+01 - [07:19] - NO2 *
+02 - [05:57] - Rift
+03 - [06:53] - Julius
+04 - [05:05] - NICU
+05 - [10:52] - Stash
+06 - [07:06] - The Mango Song
+07 - [04:44] - Sample in a Jar
+08 - [07:21] - Scent of a Mule
+09 - [06:41] - Tela
+10 - [06:48] - Chalk Dust Torture
+
+Disc 2 - [59:34]
+Set II
+01 - [06:17] - Suzy Greenberg
+02 - [11:49] - Maze
+03 - [03:49] - Sparkle
+04 - [09:30] - Bathtub Gin
+05 - [03:15] - Axilla (Part II)
+06 - [24:53] - You Enjoy Myself
+
+Disc 3 - [28:21]
+Set II continued
+01 - [01:13] - HYHU >
+02 - [02:55] - Cracklin' Rosie >
+03 - [01:03] - HYHU
+04 - [13:28] - Harry Hood
+05 - [04:31] - Golgi Apparatus
+06 - [01:35] - encore break
+07 - [03:36] - Highway to Hell
+
+* first time played
+
+patch notes:
+There were a few drop-outs on Eliot's DAT.  These spots were patched with the following source:
+
+Schoeps cmc34 > Oade PS > sv255 (48kHz)
+http://db.etree.org/shn/91172
+
+The Schoeps source was used at the following spots:
+Julius: [02:29] to [02:35]
+You Enjoy Myself: [12:30] to [12:40]
+Harry Hood: [11:46] to [11:52]
+Golgi Apparatus: [02:05] to [02:10]
+
+--------------------------------------------------------------------------------------------------
+
+shntool 3.0.4 len mode output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     7:19.28          73.92 MB  ---   --   ---xx   flac  0.4444  ph1994-06-25d1t01.flac
+     5:57.05          60.07 MB  ---   --   ---xx   flac  0.4797  ph1994-06-25d1t02.flac
+     6:53.34          69.55 MB  ---   --   ---xx   flac  0.5168  ph1994-06-25d1t03.flac
+     5:04.74          51.31 MB  ---   --   ---xx   flac  0.4526  ph1994-06-25d1t04.flac
+    10:51.60         109.65 MB  ---   --   ---xx   flac  0.4666  ph1994-06-25d1t05.flac
+     7:05.44          71.60 MB  ---   --   ---xx   flac  0.4397  ph1994-06-25d1t06.flac
+     4:43.67          47.76 MB  ---   --   ---xx   flac  0.5163  ph1994-06-25d1t07.flac
+     7:20.56          74.15 MB  ---   --   ---xx   flac  0.4053  ph1994-06-25d1t08.flac
+     6:40.40          67.38 MB  ---   --   ---xx   flac  0.3930  ph1994-06-25d1t09.flac
+     6:47.70          68.63 MB  ---   --   ---xx   flac  0.5089  ph1994-06-25d1t10.flac
+     6:17.25          63.48 MB  ---   --   ---xx   flac  0.4795  ph1994-06-25d2t01.flac
+    11:49.22         119.32 MB  ---   --   ---xx   flac  0.4745  ph1994-06-25d2t02.flac
+     3:49.16          38.56 MB  ---   --   ---xx   flac  0.4585  ph1994-06-25d2t03.flac
+     9:30.18          95.93 MB  ---   --   ---xx   flac  0.4236  ph1994-06-25d2t04.flac
+     3:14.72          32.80 MB  ---   --   ---xx   flac  0.5352  ph1994-06-25d2t05.flac
+    24:53.32         251.24 MB  ---   --   ---xx   flac  0.3876  ph1994-06-25d2t06.flac
+     1:13.08          12.30 MB  ---   --   ---xx   flac  0.3510  ph1994-06-25d3t01.flac
+     2:55.13          29.47 MB  ---   --   ---xx   flac  0.4323  ph1994-06-25d3t02.flac
+     1:03.21          10.65 MB  ---   --   ---xx   flac  0.4031  ph1994-06-25d3t03.flac
+    13:27.68         135.91 MB  ---   --   ---xx   flac  0.3966  ph1994-06-25d3t04.flac
+     4:30.70          45.58 MB  ---   --   ---xx   flac  0.4728  ph1994-06-25d3t05.flac
+     1:34.44          15.91 MB  ---   --   ---xx   flac  0.3829  ph1994-06-25d3t06.flac
+     3:35.39          36.26 MB  ---   --   ---xx   flac  0.5124  ph1994-06-25d3t07.flac
+   156:40.26        1581.40 MB                           0.4435  (23 files)

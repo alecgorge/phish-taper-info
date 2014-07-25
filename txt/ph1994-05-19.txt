@@ -1,0 +1,43 @@
+PHISH
+1994-05-19    
+Silva Hall, Hult Center, Eugene, OR
+
+Set 1:
+01 Hailey's Comet > Llama
+02 My Friend, My Friend
+03 Poor Heart >
+04 Stash
+05 The Horse > Silent in the Morning
+06 Down With Disease
+07 Mango Song
+08 Cavern
+
+Set 2:
+09 Sample In A Jar
+01 Sparkle
+02 Mike's Song >
+03 I Am Hydrogen >
+04 Weekapaug Groove
+05 Lizards
+06 Julius > big ball jam
+07 Harry Hood
+08 Golgi Apparatus
+Encore:
+09 Ginsing Sullivan*
+10 Nellie Cane*
+11 Sweet Adeline*
+12 Fire
+
+*Acoustic and without mics
+
+B&K 4010 (omnis, with semi-directional attachments) >
+Stewart 48V phantom power > Sony D3 DAT @ 48kHz
+From the taper section
+Recorded by Mikey Perrot
+
+Remastered 2009-01-26:
+All processing in 24-bit with Sound Forge 9.0e
+Sample rate converted to 44.1kHz
+Fixed some problems in 1st few minutes of d1t01 on right channel by replacing it with left channel.
+Levels adjusted including severe adjustment for un-mic'd tracks
+Waves L2 Ultramaximizer (limiting, quantize to 16-bit, "Type 1" dither, "Ultra" noise shaping) 

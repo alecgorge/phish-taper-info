@@ -1,0 +1,38 @@
+Phish
+Shoreline Amphitheater
+Mountain View, CA
+August 29, 1992
+
+
+Info:
+I have been going through all of my old tapes and CDs of shows that I collected back in the early to mid 90's when I can across this and 3 other CDs that an old taper friend had given to me.  I was mostly an XLII (black gold) trader so I gave the CDs a listen but for the most part stuck with the tapes.  I moved earlier this year and came across these CDs.  This was the only one that came with an insert and checking the Phish.net and MockingbirdFoundation.org setlists confirms this show to be the correct date as it was labeled.  I have no solid info on the Source of the recording, but the insert states that is was originally a "SBD Cass 1st Gen".  I cannot confirm that, so I will leave it at that.  The quality IS there, but there is some audience sound between tracks and in the background, but not as you would get from a Mic'd recording, so I will let you decide for yourself.
+
+I have not seen this show making the rounds, so I decided to seed it.  Apologies if it is already out there, but I haven't seen it as of yet.  
+
+
+
+Source:
+?? (Labeled as SBD>Cass 1st Gen.) > CDR
+
+
+
+Conversion:
+EAC > WAV > FF (highest quality) > FLAC
+
+
+
+Track Listing:
+01. Chalk Dust Torture
+02. Rift
+03. Bouncing Around the Room
+04. Maze
+05. You Enjoy Myself 
+
+
+
+Notes:
+This is Phish's opening set for Santana (flyer included).  
+As best I can tell, this is all there is to this show and every setliet I can find states the same.
+
+
+Seeded to bt.etree.org on 9/29/04 by cmiper (cmiper@gmail.com)

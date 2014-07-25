@@ -1,0 +1,78 @@
+Phish 
+Rupp Arena
+Lexington, KY
+November 7th, 1996
+ 
+ Taper: Greg Holtz
+
+ Source: Nakamichi CM300 & PZM 30D mix-> Niles Audiomixer-> D3 @ 48kHz 
+
+ Transfer: (By JAZ) DAT Master-> PCM-R300-> Coax-> M-Audio Delta 1010Lt-> Wave Lab 5.0-> r8brain PRO, sample rate converted to 44.1kHz-> Wave Lab 5.0, BBE, Fades, L2Dither-> Traders Little Helper flac8
+
+ Set I (Disk I)
+1.Chalk Dust Torture
+2.Weigh-> 
+3.Rift-> 
+4.Guelah Papyrus
+5.Stash
+6.Waste
+7.Guyute
+8.Free-> 
+9.Tela
+10.Character Zero
+
+ Set II (Disk II)
+11.Suzie Greenberg-> 
+12.Bathtub Gin >
+13.HYHU-> 
+14.Bike-> 
+15.HYHU
+16.You Enjoy Myself
+
+ Encore: 
+17.Frankenstein
+
+ Note: This show is all about Gordon! 
+
+ FLACFINGER PRINT:
+Phish1996-11-07trk01.flac:354637d2cd6d054f0ed69a4793a7686b
+Phish1996-11-07trk02.flac:a4ddce26306dfa24c63d0d93977e1084
+Phish1996-11-07trk03.flac:442ec86b97a8169396e1311f14c97574
+Phish1996-11-07trk04.flac:3eb42e19a8a54db94c9b84a27e9febfb
+Phish1996-11-07trk05.flac:fe6492aa908cceb0d099d29765553a93
+Phish1996-11-07trk06.flac:048dd336a44054fd4512c9c556b343dd
+Phish1996-11-07trk07.flac:f8a6e305e4b9c32fedf0b785fce2e7b2
+Phish1996-11-07trk08.flac:b0cca49893152007a78cab5e42c664f4
+Phish1996-11-07trk09.flac:d19f5d2f7b4af328d799e46a92622fc1
+Phish1996-11-07trk10.flac:82a7b8092b6a51781d8daf02ffedcfce
+Phish1996-11-07trk11.flac:274c3a96aa3bbacf88545779b6eddca4
+Phish1996-11-07trk12.flac:c6c890a7b15f92732d5f306b57f93490
+Phish1996-11-07trk13.flac:5c8de65b0f49153a6fa61170c930ac4d
+Phish1996-11-07trk14.flac:81e3cc75e405e4320a8c2a5415e6e9a7
+Phish1996-11-07trk15.flac:572c7bdf0eef240284476e27df34776d
+Phish1996-11-07trk16.flac:df373210c512675f3ad6d6af968f34d6
+Phish1996-11-07trk17.flac:da8aa720a86730a76c4b98639ebf5902
+
+
+ SHNTOOL:
+    length     expanded size   cdr  WAVE problems filename
+     6:38.14       70240172    ---   --   ---xx   Phish1996-11-07trk01.flac
+     5:12.05       55048604    ---   --   ---xx   Phish1996-11-07trk02.flac
+     6:00.11       63529916    ---   --   ---xx   Phish1996-11-07trk03.flac
+     6:12.52       65743148    ---   --   ---xx   Phish1996-11-07trk04.flac
+    12:02.02      127365548    ---   --   ---xx   Phish1996-11-07trk05.flac
+     5:31.28       58454300    ---   --   ---xx   Phish1996-11-07trk06.flac
+    10:29.34      111035612    ---   --   ---xx   Phish1996-11-07trk07.flac
+     8:09.00       86259644    ---   --   ---xx   Phish1996-11-07trk08.flac
+     6:41.27       70799948    ---   --   ---xx   Phish1996-11-07trk09.flac
+     6:32.28       69214700    ---   --   ---xx   Phish1996-11-07trk10.flac
+     8:19.72       88192988    ---   --   ---xx   Phish1996-11-07trk11.flac
+    27:03.55      286426604    ---   --   ---xx   Phish1996-11-07trk12.flac
+     1:32.28       16294700    ---   --   ---xx   Phish1996-11-07trk13.flac
+     6:11.18       65486780    ---   --   ---xx   Phish1996-11-07trk14.flac
+     1:51.16       19618076    ---   --   ---xx   Phish1996-11-07trk15.flac
+    30:49.26      326224796    ---   --   ---xx   Phish1996-11-07trk16.flac
+     5:06.69       54140732    ---   --   ---xx   Phish1996-11-07trk17.flac
+   154:23.35     1634076268 B                     (totals for 17 files, 0.5369 overall compression ratio)
+
+    

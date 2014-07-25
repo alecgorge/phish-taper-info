@@ -1,0 +1,49 @@
+Phish
+Arena, Vienna, Austria;
+Thursday, 06-19-1997
+
+Source:	Schoeps CMC 64 > DAT @ 48 kHz (all Info I have)
+Taper:	Unknown
+Transfer:	Aiwa XD-001 DAT > Black&White DigiCoax > Z-Cyber Nightingale Pro 6 S/PDIF >
+	Cool Edit Pro@16/44.1 kHz > CD Wav > mkwACT 0.97 BETA 1 > SHN.
+	by Friedemann Rothfuchs, kushelphish@gmx.de; used DAT is at least 2nd Generation digital clone
+
+Edits:	- d1t02, d1t05, d1t07, d2t08 and d3t03 each had one 1/100 sec click (on DAT); removed with Cool Edit Pro 2.0
+	- SBE in d1t10 and d3t01 fixed with shntool (files renamed after that)
+	- 5 sec Fade out after encores
+
+There also is a 48 kHz .shn of this transfer.
+
+Disc 1/Set I:
+01: Crowd/Tuning		[00:47]
+02: Limb By Limb		[08:22]
+03: Dogs Stole Things	[04:14]
+04: Theme From The Bottom >	[10:16]
+05: Punch You In The Eye	[08:31]
+06: Water In The Sky	[02:54]
+07: Maze			[13:38]
+08: Waste			[06:46]
+09: Vultures		[05:39]
+10: Runaway Jim		[08:10]
+			[69:23]
+
+Disc 2/Set II:
+01: Crowd/Tuning		[01:28]
+02: Stash >		[21:34]
+03: Ghost >		[09:21]
+04: I Saw It Again >		[04:51]
+05: Wading In The Velvet Sea	[08:06]
+06: Piper		[04:24]
+07: Jesus Left Chicago >	[10:36]
+08: Prince Caspian		[12:32]
+			[72:55]
+
+Disc 3/Encores:
+01: Crowd/Tuning*		[02:39]
+02: Beauty Of My Dreams >	[02:43]
+03: Character Zero		[07:50]
+04: Hello My Baby**	[01:39]
+			[14:52]
+
+* Part of Break Crowd Noise is cut out (on the DAT too); Trey thanks audience
+** without mics

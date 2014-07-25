@@ -1,0 +1,45 @@
+Phish
+11/21/98
+Hampton Coliseum
+Hampton, VA
+
+Source: (F.O.B.) Schoeps mk4v @ORTF > active cables > CMC6 > Oade PS > HHB PDR1000
+Transfer: DA-20 mkii> Philips CDR 870 > EAC > CDWAV > Soundforge 6.0 > Shntool > SHN
+Transfer by: Brandon Johnston -- http://db.etree.org/bisq
+
+Disc 1:
+-Set I-
+1.Wilson -> 
+2.Big Black Furry Creature from Mars
+3.Lawn Boy
+4.Divided Sky
+5.Cry Baby Cry
+6.Boogie On Reggae Woman ->
+7.NICU
+
+Disc 2:
+1.Dogs Stole Things
+2.Nellie Kane
+3.Foam
+4.Wading in the Velvet Sea
+5.Guyute
+6.Bold as Love
+
+Disc 3:
+-Set II-
+1.Sabotage
+2.Mike's Song ->
+3.Simple ->
+4.The Wedge
+5.The Mango Song >
+6.Free ->
+7.Ha Ha Ha ->
+8.Free
+9.Weekapaug Groove
+10.crowd noise
+11.E: Tubthumping
+
+Show Notes: Listen as Fishman chimed in with a cheer of "Getting' Jiggy Wit' It" during Wilson and Tubthumping! Three more breakouts were played: BBFCFM (first since December 11, 1997, or 63 shows) Cry Baby Cry (first since June 16, 1995, or 277 shows) and Nellie Kane (first since December 8, 1994, or 292 shows). The encore, a concert debut, featured Tom Marshall on lead vocals and Carl Gerhard on trumpet. This show was released as part of the Hampton Comes Alive boxed set.
+
+Tech Notes: I extracted the cds as a range and resplit the tracks using CDWAV. The EAC logs for each disc are included.  I added fades at the beginning and end of the sets in soundforge. Shntool was also run to remove SBE's.
+

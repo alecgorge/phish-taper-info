@@ -1,0 +1,45 @@
+PHiSH 8-8-93 Nautica Stage, Cleveland, OH    
+source: (F.O.B.) AKG 460/ck63>D7
+transfered: da-20mkii>montego II plus s/pdif>soundforge>cdwav>shn
+Received From : Brandon Johnston
+
+disc 1
+1.Big Black Furry Creature From Mars
+2.Foam
+3.Loving Cup
+4.Runaway Jim
+5.The Horse->
+6.Silent in the Morning
+7.Punch You in the Eye
+8.Fast Enough for You
+9.Paul and Silas
+10.I Didn't Know
+11.David Bowie 
+
+disc 2
+1.Also Sprach Zarathustra->
+2.Rift >
+3.Harry Hood
+4.Wilson >
+5.It's Ice >
+6.Fluffhead
+7.Possum >
+8.Big Ball Jam
+
+disc 3
+1.HYHU-> Love You-> HYHU
+2.Daniel
+3.Good Times Bad Times 
+4.crowd noise
+5.E: My Sweet One
+6.Freebird 
+
+Show Notes: BBFCFM included a Divided Sky tease and Possum included a Tequila tease. 
+Bowie included Random Note and Simpsons Signals. I Didn't Know featured Fishman on 
+washboard. After the introductory HYHU, while Fish tried to figure out which song he 
+would sing, Trey congratulated a fan who sunk two "baskets" during the BBJ. The band 
+responded with a brief tease of Rock and Roll Part Two before Fish cued up Love You.
+
+Notes: There was diginoise in Foam @ ~ 2:17  and Runaway Jim @ ~ 2:44 that were smoothed over with Soundforge
+       There was a very, very minor static blip in Bowie @ ~ (?2:00) that was eliminated with Soundforge
+

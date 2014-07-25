@@ -1,0 +1,50 @@
+04-05-90 J.J. McCabes, Boulder, CO
+
+SBD > Cass/0 > DAT > CDR > EAC > SHN
+Mocking Tree #1
+
+Seeded by Ben Mohr (bmohr@udel.edu)
+carini.etree.org
+
+--------------
+Disc 1 (73:08)
+--------------
+Set 1:
+1. Possum (6:47)
+2. Ya Mar (7:06)
+3. David Bowie (11:22)
+4. Carolina (2:00)
+5. Oh Kee Pa Ceremony > (1:45)
+6. Suzy Greenberg (5:19)
+7. You Enjoy Myself (12:39)
+8. Lizards (10:12)
+9. Fire (4:19)
+Set 2:
+10. Reba (11:39)
+
+--------------
+Disc 2 (73:42)
+--------------
+Set 2 cont:
+1. Uncle Pen (5:13)
+2. Jesus Just Left Chicago (8:09)
+3. AC/DC Bag (6:22)
+4. Donna Lee (3:23)
+5. Tweezer (9:59)
+6. Fee (5:13)
+7. Cavern (4:58)
+8. Mike's Song -> (6:22)
+9. I Am Hydrogen -> (2:19)
+10. Weekapaug Groove (7:34)
+11. If I Only Had a Brain (3:09)
+12. Contact (6:20)
+Encore:
+13. Golgi Apparatus (4:41)
+
+Notes:
+--tape flip in YEM at 11:51 (missing couple second transition into vocal jam)
+--tape flip between AC/DC Bag and Donna Lee
+--tape flip in Weekapaug Groove at 6:27 (no music missing)
+Fixes:
+--fixed click at track boundary of YEM and Lizards
+--smoothed out static at 0:08 in I Am Hydrogen

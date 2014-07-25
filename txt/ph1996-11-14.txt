@@ -1,0 +1,38 @@
+PHiSH - 11/14/96
+Hilton Coliseum - Ames, IA
+
+source: Schoeps CMC6/MK41 > Beyer MV-100 preamp; from Chris Tweedy
+transfer: Casio DA-R100 > M-Audio 24/96 via Coax SPDIF > Wavelab (fades, normalize, sample rate conversion) > CD-WAV > SHNv3
+
+transfer by shakedown@furthurnet.org on 10/16/03
+
+DISC ONE
+set I:
+01. AC/DC Bag > 
+02. Uncle Pen
+03. Wolfman's Brother
+04. Cars Trucks & Buses
+05. Free
+06. All Things Reconsidered
+07. Bathtub Gin
+08. Talk
+09. Julius
+set II:
+10. Llama >
+11. Sample in a Jar
+12. Taste
+
+DISC TWO
+set II(cont):
+01. Swept Away > Steep
+02. Scent of a Mule
+03. Life on Mars
+04. Demand > 
+05. Run Like an Antelope, 
+06. A Day in the Life
+encore:
+07. Stash
+08. Hello My Baby 
+
+Thanks to Lenny Stubbe for all the sick DATs, please contact me if you have Fall 96 Phish DATs!
+-Matt aka shakedown@furthurnet.org

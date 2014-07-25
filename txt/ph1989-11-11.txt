@@ -1,0 +1,49 @@
+Phish
+The Patrick Gymnasium
+University Of Vermont
+Burlington VT
+11/11/89
+
+Opening Set for Max Creek And The Third World
+
+Source: SBD > Cass/4 > CDR > EAC > CDWAV (for retracking) > FLAC16
+
+Transfer: By Taperwayne (taperwayne@yahoo.com)
+
+One Set
+
+01. Oh Kee Pah Ceremony >
+02. Golgi Apparatus
+03. Bathtub Gin
+04. AC/DC Bag
+05. My Sweet One
+06. You Enjoy Myself
+07. If I Only Had A Brain
+08. Frankenstein ^
+
+
+^ earlist known version, possibly a debut. With horns.
+
+Notes: The horns on Frankenstein are likely Dave Grippo and Russ
+Remmington, who had jammed with Phish recently, on 10/20/89 at
+The Front, however the horn players are not announced, and this is a
+best guess.
+I did a mail trade for this a long time ago. The only problems with
+the original CDR is that it was tracked wrong.
+I used CDWAV to retrack it, and Audacity 1.2.0 to add fades to the start 
+and end of the set.
+Since this does not circulate in a lossless format at all, I figured I'd
+get it out there.
+Enjoy!
+
+
+***MD5 Checksums***
+
+2280e0d76b012621c65a47e61b702c0a *ph1989-11-11t01.flac
+962b4d6e02e29a9a3d1c207105bcdbad *ph1989-11-11t02.flac
+8565ff5a4b9fa8a7b59fe6a73a0c4bcf *ph1989-11-11t03.flac
+9170694ab99ace2f3e7103fee3625b1d *ph1989-11-11t04.flac
+0fe048005f05c0b9d0721384bcaeaefc *ph1989-11-11t05.flac
+70bdaa370aba6aea450a283753aad7d9 *ph1989-11-11t06.flac
+09bcbd05e8d38cf2277abdc1a5200a31 *ph1989-11-11t07.flac
+d3ca3d7060715cf6902ffddba4b5e504 *ph1989-11-11t08.flac

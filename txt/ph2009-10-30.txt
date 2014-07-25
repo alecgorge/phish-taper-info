@@ -1,0 +1,44 @@
+Phish
+10/30/2009
+Indio, California  Empire Polo Club, Festival 8
+
+Source: Schoeps mk6(omni)> KCY> Schoeps VMS02IB> Apogee Mini-Me> SD 744t (@24bit/96kHz)
+Location: FOB, Split 8', 75' from stage, 6' Stands, 0 Degrees
+
+Transfer: SD 744t> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44)
+Taped, Transferred & Seeded by: taylorc (11/05/2009)
+
+
+Set I
+t01 [07:12] Party Time
+t02 [09:18] Chalk Dust Torture
+t03 [07:33] The Moma Dance
+t04 [05:54] NICU
+t05 [07:47] Stealing Time from the Faulty Plan
+t06 [13:15] Stash
+t07 [03:46] I Didn't Know
+t08 [02:19] Poor Heart
+t09 [04:49] Cavern
+t10 [06:43] Beauty of a Broken Heart
+t11 [10:20] Ocelot
+t12 [16:52] Time Turns Elastic
+
+Set II
+t13 [08:41] Punch You in the Eye>
+t14 [13:38] Down with Disease>
+t15 [07:12] Prince Caspian>
+t16 [11:37] Wolfman's Brother>
+t17 [10:58] Piper>
+t18 [05:53] Joy
+t19 [12:37] David Bowie
+t20 [15:36] Harry Hood>
+t21 [04:37] Golgi Apparatus
+t22 [02:18] crowd
+
+Encore
+t23 [08:14] Character Zero
+
+
+Notes:
+Thanks to Ian Stone for the mk6 caps & SD 744t
+Set I [1:35:48] Set II [1:33:07] Encore [8:14]

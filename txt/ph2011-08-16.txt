@@ -1,0 +1,47 @@
+Phish
+UIC Pavilion
+Chicago, IL
+2011-08-16
+
+
+Taper:  Jeff Abbs
+Source:  Busman BSC2-K1 > Naiant Littlebox > Edirol R-09HR (24-Bit/96kHz)
+Transfer:  SDHC Card > Audacity > .wav (16-Bit/44.1kHz) > CD Wave Editor > .flac (Level 8)
+
+
+Set I:
+
+01. Dinner And A Movie
+02. Ha Ha Ha >
+03. Chalk Dust Torture
+04. Mexican Cousin
+05. Walls Of The Cave >
+06. Runaway Jim >
+07. Foam
+08. I Didn't Know
+09. Ocelot
+10. Ginseng Sullivan >
+11. The Wedge
+12. Limb By Limb
+13. Let It Loose
+
+Set II:
+
+14. Down With Disease >
+15. Twist >
+16. Backwards Down The Number Line >
+17. Theme From The Bottom >
+18. Golden Age >
+19. A Day In The Life >
+20. You Enjoy Myself
+
+Encore I:
+
+21. Heavy Things >
+22. Slave To The Traffic Light >
+23. Rocky Top
+
+
+Notes:
+
+DIN Configuration, OTS/DFC, 10' High.

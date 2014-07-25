@@ -1,0 +1,61 @@
+Phish
+05-14-94
+Montezuma Hall, San Diego State University, San Diego, CA 
+--------------------------------------------------------------------------------------------
+This show is included in the 1994 Phish Project.
+http://94project.webhop.net
+----------------
+
+Set I
+Source:         [DAUD]
+                AKG461>DAT (most of Cavern > end of show is Technics SV-260A)
+
+Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                Soundforge 7 (48KHz->44.1KHz at highest setting [4 of 4],
+                with anti-alias filter)-> CD Wave 1.93-> mkwACT v0.97
+                **No DAE**
+
+Minor Edits:	Fades (in/out at beginning/end of sets and encore)
+
+Set II
+Source:	SBD > C? > DAT
+Xfer:	ARCHIVE Python>vDAT>WaveLab>CDWave>Flac
+
+--------------------------------------------------------------------------------------------
+
+CD/Set 1:			61:35
+01. Llama			04:07
+02. Wilson			06:51
+03. Down With Disease->		07:00
+04. Fee				05:51
+05. Reba			14:21
+06. Sample in a Jar		04:47
+07. My Sweet One		03:29
+08. Ginseng Sullivan*		03:45
+09. David Bowie			11:20
+
+CD/Set 2:			67:50
+01	The Curtain > %
+02	Mike's Song ->
+03	I Am Hydrogen ->
+04	Weekapaug Groove -> &
+05	The Man Who Stepped Into Yesterday >
+06	Avenu Malkenu >
+07	The Man Who Stepped Into Yesterday
+08	Punch You in the Eye
+09	Fast Enough For You
+10	The // Lizards
+11	Cavern
+Encore
+12	Bold As Love
+--------------------------------------------------------------------------------------------
+*Acoustic
+**Spliced the Technics SV-260A source at about 1:20 thru Cavern to the end of the show,
+since the AKG 461 source was not complete.
+% has a couple splotches of diginoise
+& w/ Divided Sky jam
+// Tape flip
+----------------
+DAT provided by: Aldo Torre
+Transferred by: Dan Marquardt <danmarq@msn.com>
+--------------------------------------------------------------------------------------------

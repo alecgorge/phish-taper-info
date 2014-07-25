@@ -1,0 +1,55 @@
+Phish 04/23/94 The Fox Theatre - Atlanta, GA 
+
+Source: 	DAUD/OTS: ORCH Row BB, Seat 106 
+		Neumann TLM170i(90deg/hypercard) > Oade M118 Deluxe Pre/PS >
+		Panasonic SV-250(modified by Doug to bypass deck's mic pre-amp)@48k
+		Master(on SV-250 listed above) > clone > clone used in below transfer
+		
+Conversion: 	Fostex D5 > Monster Optical > Sek'd Prodif Plus > 
+		Samplitude v5.5 > Soundforge 4.0 (48>44.1@highest setting[4of4],
+		with anti-alias filter and Fade in/outs) > CD Wave > mkwACT v0.97
+		(shn files have seek tables appended)
+		**No DAE at all** 						
+
+Minor Edits:	None (other than fades--5 sec in all cases)
+
+Mastered by Doug Oade, who via myself and Dan Seideman supplied the DATs for this transfer.
+Transferred and uploaded by Jim Raras <jraras@yahoo.com> via Dankseeds
+Please contact me with questions etc.  There are also 48k shn's of this seed for archival.
+
+
+Disc 1 / Set I 			                        	     01:03:34
+01.  Intro/Crowd			                   		00:29
+02.  Funky Bitch			                   		04:44
+03.  Rift	                  		   			06:02 
+04.  Fee >	         		   				05:39 
+05.  Peaches en Regalia		 		   			03:07
+06.  Poor Heart		     		   				02:53
+07.  Stash		   		   				12:02
+08.  Esther		               	 		   		09:12
+09.  Down with Disease		                  	 		07:57
+10.  Caravan			                  	 		05:42
+11.  High-Heel Sneakers	                  	 			05:47
+
+Disc 2 / Set IIa						     00:52:18
+01.  Intro/Crowd       		         		   		00:19
+02.  Wilson >		 		       		   		06:06
+03.  Run Like an Antelope	         		   		12:00
+04.  Mound			         		   		05:45
+05.  Sample in a Jar	                 		   		04:58
+06.  Sparkle	                          		   		03:57
+07.  Harry Hood		                 		   		14:07
+08.  Ginseng Sullivan	                 		   		05:06
+
+
+Disc 3 / Set II (con't) & Encore				     00:34:03
+01.  You Enjoy Myself  		         		   		18:55
+02.  Who By Fire			 		   		03:34
+03.  Golgi Apparatus		         		   		04:35
+04.  Encore Break/Crowd		         		   		02:17
+05.  Freebird		                 		   		04:42
+
+
+Caravan and Sneakers featured Merl Saunders on keys
+YEM and ensuing madness featured Col. Bruce Hampton on keys
+Setlist from "The Phish Companion" http://www.phish.net/mockingbird/		

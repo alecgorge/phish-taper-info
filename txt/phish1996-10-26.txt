@@ -1,0 +1,53 @@
+phish
+charlotte coliseum
+charlotte, nc
+1996-10-26
+
+set 1 (~65 min.)
+
+disc 1
+Julius, 
+Cars Trucks and Buses, 
+Wolfman's Brother, 
+Reba, 
+Train Song, 
+Character Zero, 
+It's Ice, 
+Theme From the Bottom, 
+Sample in a Jar
+
+set 2 (~87 min.)
+
+disc 2
+Down with Disease, 
+You Enjoy Myself, 
+Sparkle, 
+Simple, 
+McGrupp and the Watchful Hosemasters, 
+Waste, 
+Run Like an Antelope*, 
+E: Fire (encore tracked at the end of disc 1)
+
+*Dedicated to Fishman's cousin, Jason Roberts for winning a guitar competition and with 
+"Star Spangled Banner" and "Spooky" teases.
+
+source: akg460b/ck61>b18>SBM1>D7, by JK
+transfer: DAT(1)>cd(1)>eac>cdwave>flac, by john m 2007-08-07
+
+phish1996-10-26d1t01.flac:e9d376a3ad5d229ad89735d8ef8c56f8
+phish1996-10-26d1t02.flac:49121dff735c53d49b27e3cac4bcffaa
+phish1996-10-26d1t03.flac:0c1a219ce91f079c2a14a1040b3cb74d
+phish1996-10-26d1t04.flac:e22e7684ad2a305067f736bbf830856b
+phish1996-10-26d1t05.flac:db4bc15dbc56005b95a53d69ecf2b96f
+phish1996-10-26d1t06.flac:73361107309f10312202f252f7567328
+phish1996-10-26d1t07.flac:4ec41acfd92b394cd288428abf5ee023
+phish1996-10-26d1t08.flac:95daaa23a7f7b64e8c6459ac77179c55
+phish1996-10-26d1t09.flac:66313d0b0a8a6e38667d691a546659f9
+phish1996-10-26d1t10encore.flac:9ee6d5db022ed82c13bb153a37b0b985
+phish1996-10-26d2t01.flac:5e3b93a38bde3a2cdbf049f4c95d998c
+phish1996-10-26d2t02.flac:9ea0d74ab7146309e6e79f6aa205fb45
+phish1996-10-26d2t03.flac:b205ae6b023eea0697e922c7368b7a45
+phish1996-10-26d2t04.flac:5632caf29fe7ed9482a4cdd8ab792c46
+phish1996-10-26d2t05.flac:7581c3b70296e7d5dee4ed3323fa4555
+phish1996-10-26d2t06.flac:1a6b0d995d4ba0f36a71ea6477e4341e
+phish1996-10-26d2t07.flac:2ee09ff0164dd3dfa6767b6151f34ef4

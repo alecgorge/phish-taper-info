@@ -1,0 +1,62 @@
+Phish
+3-17-93
+The Palace, Hollywood, CA
+
+Source: Unknown AUD (possibly Schoeps)
+
+Transfer: Sony Tascam DA-20-> Coax-> Waveterminal 2496->
+          Cool Edit Pro 2.0-> CDWav-> mkwACT-> .shn
+
+Recorded by:
+Unknown
+
+Transferred by:
+Alec Swensen
+
+Disc One: (Set I)
+
+01. The Landlady >
+02. Runaway Jim
+03. Foam
+04. Bouncing Around the Room
+05. Stash
+06. Amazing Grace
+07. Paul and Silas
+08. It's Ice
+09. The Oh Kee Pa Ceremony > 
+10. Suzy Greenberg
+11. Run Like an Antelope
+
+Disc Two: (Set II)
+
+01. Axilla
+02. Glide >
+03. Reba
+04. Jesus Just Left Chicago,
+05. Mound
+06. Mike's Song >
+07. I Am Hydrogen >
+08. Weekapaug Groove
+
+Disc Three: (Set II Con't)
+
+01. The Horse >
+02. Silent in the Morning
+03. HYHU >
+04. The Great Gig in the Sky > HYHU
+05. Golgi Apparatus
+Encore: 
+06. Sweet Adeline
+07. Rocky Top
+
+
+Show Notes:
+
+In set I there is some kind of clapping noise during the end of 
+Runaway Jim and Stash, After Stash Trey metions they are having 
+"Technical Difficulties" and that they are going to fix it during 
+Amazing Grace. In set two there was a droupout in the beggining 
+of Glide which I edited out.
+
+whm: Etree md5 verified.
+shn-2. on finished spindle.

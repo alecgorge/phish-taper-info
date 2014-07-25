@@ -1,0 +1,39 @@
+Phish
+September 22, 1999
+Pan American Center - Las Cruces, NM
+
+Source: 		DAUD/FOB Schoeps MK4V (ORTF) > KC-5 Actives > CMC6 >
+		Sonosax SX-M2 > Apogee AD-1000 > Sony TCD-D8 @ 44.1 kHz
+		
+Conversion: 	Tascam DAP1 > Audio Magic Presto II >  
+		Zefiro ZA2 > Soundforge > CDwav > SHN 
+
+Transfer and shortening done by Eric McRoberts
+
+Set I: 
+Disc 1 
+01: 2001->
+02: Chalkdust Torture
+03: Guelah Papyrus	  
+04: Axilla	   
+05: My Mind's Got a Mind of Its Own	  
+06: Beauty of My Dreams
+07: Bathtub Gin
+08: Mazimbique
+09: Sand
+ 
+Disc 2 
+01: Waste
+Set II:  
+02: Gotta Jibboo
+03: Ghost->
+04: Taste
+05: Brian & Robert
+ 
+Disc 3  
+01: Mike's Song->
+02: Simple->
+03: Train Song
+04: Weekapaug Groove
+Encore:
+05: La Grange

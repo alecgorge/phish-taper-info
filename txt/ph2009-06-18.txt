@@ -1,0 +1,119 @@
+Phish
+Post Gazette Pavillion
+Burgettstown, Pennsylvania
+6/18/2009
+
+Source: Schoeps CCM4V'S(din)>Lunatec V2>Sound Devices 722 (24/48)
+Location: FOB/DFC/KFC/ZFC/AARP Section 6, Row K, Seat 32, 7' High
+DSP: Sound Devices 722>Sound Forge 9.0>CD Wave>flac(16)
+Recorded By: Z-Man
+Seeded By: Z-Man
+  
+Disc I 1st Set
+
+01 Tuning
+02 Golgi Apparatus
+03 Chalkdust Torture
+04 Bouncin' Around The Room
+05 Wolfman's Brother
+06 Divided Sky
+07 Heavy Things
+08 Walk Away 
+09 Wilson
+10 Tube
+
+Disc II 1st Set Con't
+
+01 Alaska
+02 David Bowie
+2nd Set:
+03 Down With Disease >
+04 Free
+05 Guyute
+06 Piper >
+07 When The Circus Comes To Town
+
+Disc III 2nd Set Con't
+
+01 Harry Hood >
+02 Squirming Coil
+03 You Enjoy Myself >
+04 Bass And Drums >
+05 You Enjoy Myself
+Encore:
+06 *Grind 
+07 Banter
+08 *Hello My Baby (Cut Short By The Boys)
+09 #Hold Your Head Up >#Bike >#Hold Your Head Up
+10 Loving Cup
+
+* Acapella
+# Fishman On Henrietta and Vocals
+
+Flac fingerprint 
+
+phish2009-06-18d01t01.flac:95befcf17da694c004cedebe30f4ffbc
+phish2009-06-18d01t02.flac:01e9c65ca0cc9468c10508a2af89174a
+phish2009-06-18d01t03.flac:373363ca332dd30f6a08812055c6a718
+phish2009-06-18d01t04.flac:24edae77b7c4464d78f282045873262c
+phish2009-06-18d01t05.flac:38103fd5373782d5daffa72d536309f7
+phish2009-06-18d01t06.flac:efbe4375e352c1f46259ad7b03a6bd6b
+phish2009-06-18d01t07.flac:bd8e58ffa8cfd675f5c45f3d3b8cf225
+phish2009-06-18d01t08.flac:bce83955ec301c8e04b9099801e9909f
+phish2009-06-18d01t09.flac:f785795464591c579d3c839a99715f0e
+phish2009-06-18d01t10.flac:19ca391ab7c6c140f860b30f7e39fc9b
+phish2009-06-18d02t01.flac:0cd0950678a5a43c57fdea53527a5800
+phish2009-06-18d02t02.flac:e549e411bf806139286a9007c5037dde
+phish2009-06-18d02t03.flac:4d5a90df607395b0690bd88bea3a7e2f
+phish2009-06-18d02t04.flac:03ba9122236d7ac6cf4f8796db20d05b
+phish2009-06-18d02t05.flac:d40d94268ac988a175c20cfed389f2aa
+phish2009-06-18d02t06.flac:28013d3eaffdcec5c80bf1b1caf40f8f
+phish2009-06-18d02t07.flac:e90329c41c1315ffd3f56ee4a552f965
+phish2009-06-18d03t01.flac:17d8ba4ecc75445e3dd23e6dca1e0859
+phish2009-06-18d03t02.flac:e6126708cd0ecd2eba5aec53bfd688d8
+phish2009-06-18d03t03.flac:2c33acb2712b698238b461d05ff05a1d
+phish2009-06-18d03t04.flac:9ada6100615074bde55b037d6f391449
+phish2009-06-18d03t05.flac:20440fce2ac10711f012efabcabcfd43
+phish2009-06-18d03t06.flac:cea3140da9b92d6dfb58b2a4546b15f0
+phish2009-06-18d03t07.flac:2d4932d7f8b626636ec6669d29c8d7a3
+phish2009-06-18d03t08.flac:01b1d061242e76ec0a2ad379ac59841b
+phish2009-06-18d03t09.flac:01c298cb96c99e9f4d1d04e034da87fb
+phish2009-06-18d03t10.flac:4746bd02d0d8a411b29d522faa05bdca
+
+shntool 3.0.4
+Copyright (C) 2000-2007 Jason Jordan <shnutils@freeshell.org>
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:22.37        3967868 B   ---   --   ---xx   flac  0.4296  phish2009-06-18d01t01.flac
+     4:48.62       50949068 B   ---   --   ---xx   flac  0.5813  phish2009-06-18d01t02.flac
+     8:37.71       91365836 B   ---   --   ---xx   flac  0.5699  phish2009-06-18d01t03.flac
+     4:09.15       43958924 B   ---   --   ---xx   flac  0.5073  phish2009-06-18d01t04.flac
+    10:56.38      115807820 B   ---   --   ---xx   flac  0.5484  phish2009-06-18d01t05.flac
+    14:57.30      158301404 B   ---   --   ---xx   flac  0.5288  phish2009-06-18d01t06.flac
+     7:23.70       78309884 B   ---   --   ---xx   flac  0.5267  phish2009-06-18d01t07.flac
+     4:12.64       44603372 B   ---   --   ---xx   flac  0.5896  phish2009-06-18d01t08.flac
+     4:36.45       48792284 B   ---   --   ---xx   flac  0.5676  phish2009-06-18d01t09.flac
+     7:18.37       77350268 B   ---   --   ---xx   flac  0.5568  phish2009-06-18d01t10.flac
+     9:17.00       98254844 B   ---   --   ---xx   flac  0.5472  phish2009-06-18d02t01.flac
+    11:12.10      118564364 B   ---   --   ---xx   flac  0.5498  phish2009-06-18d02t02.flac
+    14:28.21      153164636 B   ---   --   ---xx   flac  0.5729  phish2009-06-18d02t03.flac
+     8:38.21       91424636 B   ---   --   ---xx   flac  0.5771  phish2009-06-18d02t04.flac
+    10:37.31      112439756 B   ---   --   ---xx   flac  0.5376  phish2009-06-18d02t05.flac
+    11:09.27      118075148 B   ---   --   ---xx   flac  0.5852  phish2009-06-18d02t06.flac
+     4:16.43       45259580 B   ---   --   ---xx   flac  0.5010  phish2009-06-18d02t07.flac
+    14:03.18      148747580 B   ---   --   ---xx   flac  0.5397  phish2009-06-18d03t01.flac
+     7:27.04       78860252 B   ---   --   ---xx   flac  0.5122  phish2009-06-18d03t02.flac
+    14:42.50      155702444 B   ---   --   ---xx   flac  0.5660  phish2009-06-18d03t03.flac
+     1:08.37       12082268 B   ---   --   ---xx   flac  0.6435  phish2009-06-18d03t04.flac
+     3:33.11       37599116 B   ---   --   ---xx   flac  0.4545  phish2009-06-18d03t05.flac
+     1:33.05       16417004 B   ---   --   ---xx   flac  0.4297  phish2009-06-18d03t06.flac
+     1:43.43       18270380 B   ---   --   ---xx   flac  0.3825  phish2009-06-18d03t07.flac
+     0:27.55        4892204 B   ---   --   ---xx   flac  0.4402  phish2009-06-18d03t08.flac
+     6:49.56       72279356 B   ---   --   ---xx   flac  0.5086  phish2009-06-18d03t09.flac
+     7:49.60       82872764 B   ---   --   ---xx   flac  0.5805  phish2009-06-18d03t10.flac
+   196:21.61     2078313060 B                            0.5474  (27 files)
+
+
+ 
+
+

@@ -1,0 +1,50 @@
+PHiSH
+05-24-88 
+Nectar's - Burlington, VT 
+
+Source: SBD > Cass/x > DATTransfer: Tascam da20 mkII > ZA2 > SF4.5 > CDWav > SHN > SF4.5 pitch shift > SHN
+Transferred by Jimmy Sellers (pjimmy@delanet.com)
+Remastering by Ben Mohr (bmohr@udel.edu)
+
+-------------------------------------------- 
+Disc 1:			    (56:32)      
+---------------------------------------------
+Set 1-
+1. The Curtain With		    (14:39)
+2. Rocky Top			    (02:47)
+3. Funky Bitch			    (05:20)
+4. Alumni Blues	(LtJP)		    (06:12)
+5. Peaches en Regalia		    (03:25)
+6. Golgi Apparatus		    (05:07)
+7. Sneaking Sally Through the Alley (07:09)
+8. Suzy Greenberg		    (05:12)
+9. Fire 			    (06:41)
+
+-------------------------------------------- 
+Disc 2:			    (56:43)
+---------------------------------------------
+Set 2-
+1. Jesus Just Left Chicago 	    (15:28)
+2. Fluffhead		   	    (15:06)
+3. Whipping Post 	  	    (26:09)
+
+--------------------------------------------- 
+Disc 3: (80-min cd)		    (77:36)
+----------------------------------------------
+Set 3-
+1. Ya Mar -> Jam* >		    (18:48)
+2. Halley's Comet 		    (04:49)
+3. The Sloth			    (02:38)
+4. I Didn't Know		    (04:47)
+5. La Grange			    (03:59)
+6. Fee				    (05:45)
+7. I Know a Little		    (03:14)
+8. BBFCFM			    (03:15)
+9. Corrina			    (04:53)
+10. Harpua			    (10:32)
+11. Run Like an Antelope 	    (14:56)
+	
+
+* with Jah Roy 
+
+Fixes:-Corrected high pitch problem using SF4.5 pitch shift of -40 cents.-Normalized each set to 98%.Notes:-Tape Flips:  1) d1t08 very beginning (missing first few seconds) (44:39)  2) d2t03 4:32 (some distortion after flip) (46:59)  3) d3t04 very end (not noticeable) (47:00)  4) d3t11 cuts out at very end (46:34)-Distortion in d2t03 10:10-10:12-Small milli-second skip in d2t03 14:22-Light static in d3t01 9:35-9:36

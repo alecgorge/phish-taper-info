@@ -1,0 +1,45 @@
+Phish
+06/16/2012
+Atlantic City, New Jersey  Bader Field
+
+Source: Schoeps m934c> M221B> PS> Aeta PSP-3> SD 722 (@24bit/96kHz)
+Location: FOB, DFC, DIN, 6' Stand, m934c/cardioid
+
+Transfer: SD 722> Samplitude SE 9.1.1(dither/resample)> CDWave> flac(16/44.1)
+Taped, Transferred & Seeded by: taylorc (06/16/2012)
+
+
+Set I
+t01 [07:47] Mike's Song >
+t02 [02:56] I am Hydrogen >
+t03 [07:44] Weekapaug Groove
+t04 [04:33] Gumbo
+t05 [06:13] Halley's Comet >
+t06 [06:33] My Friend, My Friend
+t07 [12:25] Wolfman's Brother
+t08 [01:04] The Horse banter
+t09 [03:16] Lawn Boy
+t10 [10:20] Possum >
+t11 [09:12] Punch You in the Eye >
+t12 [11:09] Ocelot
+t13 [07:00] Suzy Greenberg
+
+Set II
+t14 [11:19] Crosseyed and Painless >
+t15 [09:55] Slave to the Traffic Light >
+t16 [05:01] Light >
+t17 [00:30] Manteca >
+t18 [08:37] Light >
+t19 [07:29] Theme from the Bottom >
+t20 [04:47] Golgi Apparatus >
+t21 [10:10] Sand >
+t22 [06:26] Backwards Down the Number Line >
+t23 [09:44] Run Like an Antelope
+t24 [03:12] crowd
+
+Encore
+t25 [06:49] Good Times Bad Times
+
+
+Notes:
+Set I [1:30:39] Set II [1:17:10] Encore [6:49]

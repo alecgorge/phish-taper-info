@@ -1,0 +1,52 @@
+PHiSH
+12-4-91
+Glitz Auditorium, Hawkins Hall
+SUNY Plattsburgh
+Plattsburgh, New York
+
+Source:
+Unknown AUD Rig> DAT> Cass/?> DAT> REBA> SHNv3
+Transfer:
+Cass/? Sony TC-KA3ES> Tascam DA-40 DAT@48kHz> REBA> Wavelab 4.0g (editing, processing, tracking)> SHN
+
+Set 1:
+Llama
+Reba
+The Landlady
+Runaway Jim
+Cavern
+Poor Heart
+Brother
+The Squirming Coil//
+\\Dinner and a Movie >
+BATR>
+David Bowie
+
+Set 2:
+My Sweet One
+Stash
+The Mango Song
+Mike's Song>
+Hydrogen>
+Weekapaug Groove//
+\\Sparkle
+Lizards
+Chalkdust Torture
+HYHU>Love You>HYHU
+Golgi Apparatus
+-Encore-
+Sweet Adeline
+Suzie Greenberg
+
+***NOTES***
+-Tape flips indicated by // \\....minimal music loss. These are on the tapes as I got them....
+-There is a small glitch in Stash that could not be fixed...very minimal, and not annoying....
+-This seed comes from an analog cassette...while it is a fair recording there are some "cassette factors" with this seed which I tried to correct to the best of my abilities....while not perfect, it's all we have till someone with the master DAT steps forward.
+-Golgi Fades out fast at the end...Sweet Adeline has a volume fade in the middle of it....
+
+%%Processing%%
+The Cassettes were transfered to DAT's which were then transfered to my DAW. Once in the DAW, the bass was raised and the treble was lowered to enhance the overall sound of the recording. All editing was done at 32bits/96kHz....If I had reduced the treble ammounts any farther than what I did the ambiance of the room would have been lost in the mud. These tapes had TONS of treble and NO bass...I tried my best to correct this issue by running the MaxxBass module over the files followed by a 10band EQ with J17 CD de-emphisis switched on (-9db @ 2396Hz @ a Q of 7.00) with the input levels at -2db, and the output stage at +3db. This is by no means a "stellar" recording, but it is a "stellar" show that people need to hear....I still advise to turn the treble down when listening for best enjoyment.
+
+Thanks to Dave White for the tapes.
+Seeded by Mr. Marmar 02/2003
+imthemarmar@stny.rr.com

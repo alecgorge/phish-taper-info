@@ -1,0 +1,57 @@
+Phish
+April 30, 1992
+Barrymore Theatre 
+Madison, WI
+
+Set I Source: SBD > (possible DAT stage) > Cass/2
+
+Transfer: Sony TC-KA3ES > Lucid AD 9624 A/D > REBA @ 24/48kHz
+
+Mastering: REBA > Wavelab Stereo Montage > Crossfaded Tape flip > Editing > Rendered 24/48 No alterations. 
+24/48kHz waves > Waves Linear Braodband EQ > Waves RBass +2 @ 32Hz > Waves L1+ > 24/48kHz processed wave.
+24/48Khz processed wave > 192kHz Resampler- 48/44.1 > L1 > reduced to 16bit w/TPDF via tc electronics Finalizer 96k > SHN V3
+
+
+Set II Source: Unknown mics > D5 > Cass/0
+Transfer: Sony TC-KA3ES > DSP24 > Wavelab 24/48wavs (mastering) > FLAC16
+Transfer, editing, and mastering by: Marmar
+Thanks to Matt L. for the tapes!
+
+-Set 1-
+
+01. The Curtain
+02. Split Open and Melt
+03. Fee
+04. Maze
+05. Reba
+06. /Uncle Pen
+07. //Stash
+08. Rift
+09. Esther
+10. Run Like an Antelope
+
+Set 2:
+02- Quick Announcement 
+03- Glide
+04- Tweezer
+05- The Squirming Coil
+06- My Mind's Got a Mind of its Own
+07- You Enjoy Myself/
+08- /The Horse > Silent in the Morning
+09- Chalk Dust Torture
+
+Disc 3:
+01- Cold as Ice > Cracklin' Rosie > Cold as Ice
+02- Harry Hood
+03- Tweezer Reprise
+Encore: 
+{Carolina}
+04- Cavern
+
+Show Notes: 
+- Glide was preceded by an All Fall Down Signal. 
+- Tweezer featured Colonel Bruce Hampton on trombone. 
+- YEM included a Me and My Arrow Signal, a Dave's Energy Guide tease, and a Welcome Christmas tease in the vocal jam.
+- Tape flips between Reba/Uncle Pen and YEM/The Horse. Vocal Jam is cut short, and beginning of The Horse is cut. These are crossfaded as best as possible.
+- Cut in Antelope at the Marco Esquandolis section.
+- Carolina is missing from this source.

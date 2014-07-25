@@ -1,0 +1,58 @@
+Phish
+July 15, 1994
+Jones Beach Music Theater
+Wantagh, Long Island, NY
+
+source:
+AKG 460B/ck61 > custom pre-amp > Sony D7 (@ 48kHz)
+
+transfer:
+Sony PCM-R500 > M-Audio MicroTrack > CF Card > usb > pc > WaveLab 5.01b (fades, resample to 44.1kHz) > CD Wave v1.94.7 > FLAC v1.1.2 (Level 8)
+
+recorded by Dave Flaschner
+transferred by Jason Sobel (jasonsobel@gmail.com)
+seeded February 27, 2006
+
+The original 48 kHz .wav files from the DAT transfer have been archived, and are available upon request
+
+Disc 1 - [62:29]
+Set I
+01 - [06:15] - Rift >
+02 - [05:20] - Sample in a Jar
+03 - [14:49] - The Divided Sky
+04 - [05:16] - Gumbo >
+05 - [08:30] - Foam
+06 - [05:23] - Fee >
+07 - [12:16] - Split Open and Melt >
+08 - [04:39] - Golgi Apparatus
+
+Disc 2 - [49:24]
+Set II
+01 - [00:40] - intro
+02 - [01:04] - Letter to Jimmy Page ->
+03 - [18:29] - David Bowie *
+04 - [03:41] - Bouncing Around the Room >
+05 - [12:51] - Reba **
+06 - [09:01] - It's Ice ->
+07 - [01:27] - Y-Rushalayim Schel Zahav
+08 - [02:11] - Dog Faced Boy >
+
+Disc 3 - [35:46]
+Set II continued
+01 - [08:12] - Julius
+02 - [02:46] - HYHU >
+03 - [00:59] - Setting Sail ^ >
+04 - [04:38] - HYHU
+05 - [07:53] - Runaway Jim
+06 - [03:07] - encore break
+07 - [05:28] - Sleeping Monkey
+08 - [02:42] - Rocky Top
+
+* with "Jessica" jam
+** "Reba" unfinished, no whistling
+^ Fish announces this as a new singalong written by Tom Marshall
+
+NOTE: This show was the first solar-powered Phish concert, with power collection, storage, and distribution provided by Greenpeace.
+
+recording notes:
+level changes towards the beginning of "Rift" and close to the start of "Letter to Jimmy Page"
